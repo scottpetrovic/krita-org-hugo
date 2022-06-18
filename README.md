@@ -52,6 +52,10 @@ The files will be generated to the Public folder. You should be able to copy tha
 4. Think about design updates a bit
 ---- query some artists on Krita artist about using their artwork
 
+5. Whenever the project gets a bit farther, get a plan on moving images/assets to an external location/server to reduce GIT repo size
+--- Ben (KDE sys admin) says we can put heavier files all on cdn.kde.org. It has heavy caching, so be aware of that
+--- if we have custom videos (not on YouTube), we can put those on cdn.kde.org too
+
 # Questions before we go live
 1. Not sure how we are going to get Mollie payments to the fund site if we shut down the WordPress site
 
