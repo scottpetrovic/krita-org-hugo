@@ -5,14 +5,18 @@ Marketing website for the open source art application krita. Built with the Hugo
 ## Dependencies
 
 - Hugo: Command line tool used to build project (https://gohugo.io/getting-started/installing/)
-Rrun command to verify that hugo is installed when done
+
+There is no installer for Hugo when you download it. The executable you download is a command line application. You will need to add executable location to your PATH environment variables. This will allow the computer to understand and use the hugo command line tool.
+
+Run command to verify that hugo is installed when done
     hugo version
+
 
 ## Building and launching
 
 Open the root location in something like Visual Studio Code, or just navigate via command line/terminal window. Type the following:
 
-    hugo server -D
+    hugo server
 
 This will build and run the project under a localhost. The command line output will tell you the URL that is being used. Hugo also has a watch process, so changes that are done will be updated. The -D flag includes posts that are marked as drafts
 
