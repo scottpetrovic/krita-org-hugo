@@ -1,0 +1,19 @@
+{{ partial "header.html" . }}
+
+!default SINGLE template!
+
+<div class="post">
+    <h1>{{ .Title }}</h1>
+
+    <div class="tertiary-data">
+        <span>{{ .Date | time.Format ":date_long" }}</span>
+        <span style="font-style:italic">Length: {{ .ReadingTime }} min</em></span>
+        <span><a href="/">Back to Posts</a></span>
+    </div>
+
+    {{ .Content }}
+</div>
+
+
+
+{{ partial "footer.html" . }}

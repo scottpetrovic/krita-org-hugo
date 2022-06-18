@@ -1,0 +1,19 @@
+# Note: Main menu translations are done in the root config.toml file
+
+[navigation]
+recent_posts = 'Recent Posts'
+donate = 'Donate'
+
+[home]
+home = 'Home'
+news = 'News'
+no-news = 'No news'
+
+[features]
+features = 'Features'
+
+[download]
+download = 'download'
+
+[history]
+history = 'History'

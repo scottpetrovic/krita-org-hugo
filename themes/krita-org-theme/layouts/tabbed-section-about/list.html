@@ -1,0 +1,9 @@
+{{ partial "header.html" . }}
+
+{{ range where .Site.Pages "Params.Group" "about" }}
+  <a href="{{ .Permalink }}">{{ .Title }}</a> &nbsp; &nbsp; &nbsp;
+{{ end }}
+
+{{ .Content }}
+
+{{ partial "footer.html" . }}

@@ -1,0 +1,64 @@
+# TOML language quick introduction
+# (Tom's Obvious, Minimal Language)
+# If you see a [stuff], that means there is going to be nesting
+# If you see [[stuff]], that means it is an array item. See menu items for reference
+# weight for menus are 1 based, with 1 being the highest(first) priority
+
+
+baseURL = 'https://krita.org'
+# languageCode = 'en-us'
+title = 'Digital Painting. Creative Freedom'
+theme = 'krita-org-theme' 
+
+defaultContentLanguage = 'en-us'
+
+[languages]
+    [languages.en-us]
+    contentDir = 'content/en-us'
+    languageName = 'English'
+    languageDirection =  'ltr'
+    title = 'Krita Site'
+    weight = 1
+    [languages.en-us.menu]
+        [[languages.en-us.menu.main]]
+            name = 'Home'
+            url = '/'
+            weight = 1
+        [[languages.en-us.menu.main]]
+            name = 'Features'
+            url = '/features'
+            weight = 2
+        [[languages.en-us.menu.main]]
+            name = 'Download'
+            url = '/download'
+            weight = 3
+        [[languages.en-us.menu.main]]
+            name = 'About'
+            url = '/about'
+            weight = 4
+
+
+    [languages.fr-fr]
+    contentDir = 'content/fr-fr'
+    languageName = 'French'
+    languageDirection = 'ltr'
+    title = 'Krita Site (FR Version)'
+    weight = 2
+    [languages.fr-fr.menu]
+        [[languages.fr-fr.menu.main]]
+            name = 'Home(FR)'
+            url = '/'
+            weight = 1
+        [[languages.fr-fr.menu.main]]
+            name = 'Fonctionnalités'
+            url = '/features'
+            weight = 2
+        [[languages.fr-fr.menu.main]]
+            name = 'Téléchargement'
+            url = '/download'
+            weight = 3
+        [[languages.fr-fr.menu.main]]
+            name = 'A propos'
+            url = '/about'
+            weight = 4
+

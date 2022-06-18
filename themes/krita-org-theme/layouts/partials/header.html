@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{ .Language }}">
+<head>
+
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<title>Krita | {{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
+
+	<link href="{{ .Site.BaseURL }}/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
+	<link rel="stylesheet" href="{{ .Site.BaseURL }}/css/style.css" type="text/css" media="all" />
+
+	{{ with .OutputFormats.Get "rss" -}}
+		{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+	{{ end -}}
+
+	<script src="{{ .Site.BaseURL }}/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+		
+	<!--TODO: PIWIK Code goes here -->
+</head>
+
+<body>
+
+{{ partial "nav.html" . }}
+
+<main class="content">

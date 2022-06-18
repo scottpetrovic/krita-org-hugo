@@ -1,0 +1,22 @@
+<header class="site-header">
+
+  {{- $currentPage := . -}}
+  <nav class="site-nav">
+   <a class="logo" href="{{ .Site.BaseURL }}/{{.Site.Language.Lang}}">
+      <img src="{{ .Site.BaseURL }}/images/krita-logo.png" style="width: 7.5rem" />
+    </a>
+
+    <ul class="main-menu">
+      {{ range .Site.Menus.main -}}
+      <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+          <a href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+      </li>
+      {{- end }}
+
+      <li>
+        <a href="https://fund.krita.org" class="btn btn-info">{{ i18n "navigation.donate" }}</a>
+      </li>
+
+  </ul>
+  </nav>
+</header>

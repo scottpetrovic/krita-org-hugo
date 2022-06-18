@@ -1,0 +1,11 @@
+</main>
+	
+<footer>
+	<p>&copy;{{ .Site.Title }}</p>
+	{{ range $.Site.Home.AllTranslations }}
+	<a href="{{ .Permalink }}/" style="margin-right: 1rem">{{ .Language.LanguageName }}</option>
+	{{ end }}
+</footer>
+
+</body>
+</html>

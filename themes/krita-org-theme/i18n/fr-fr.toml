@@ -1,0 +1,17 @@
+[navigation]
+recent_posts = 'Recent Posts(FR)'
+donate = 'Donate(FR)'
+
+[home]
+home = 'Home(FR)'
+news = 'Nouvelles'
+no-news = 'No news(FR)'
+
+[features]
+features = 'Fonctionnalités'
+
+[download]
+download = 'Téléchargement'
+
+[history]
+history = 'History(FR)'
