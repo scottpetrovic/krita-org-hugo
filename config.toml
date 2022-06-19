@@ -6,62 +6,63 @@
 
 
 baseURL = 'https://krita.org'
-# languageCode = 'en-us'
 title = 'Digital Painting. Creative Freedom'
 theme = 'krita-org-theme' 
 
-defaultContentLanguage = 'en-us'
+defaultContentLanguage = 'en'
 
 [languages]
-    [languages.en-us]
-    contentDir = 'content/en-us'
+    [languages.en]
+    contentDir = 'content/en'
     languageName = 'English'
     languageDirection =  'ltr'
     title = 'Krita Site'
+    flagIconLocation = 'images/language-icons/usa.svg'
     weight = 1
-    [languages.en-us.menu]
-        [[languages.en-us.menu.main]]
+    [languages.en.menu]
+        [[languages.en.menu.main]]
             name = 'Features'
             url = '/features'
             weight = 1
-        [[languages.en-us.menu.main]]
+        [[languages.en.menu.main]]
             name = 'Download'
             url = '/download'
             weight = 2
-        [[languages.en-us.menu.main]]
+        [[languages.en.menu.main]]
             name = 'About'
             url = '/about'
             weight = 3
-        [[languages.en-us.menu.main]]
+        [[languages.en.menu.main]]
             name = 'Learn'
             url = 'https://docs.krita.org'
             weight = 4
-        [[languages.en-us.menu.main]]
+        [[languages.en.menu.main]]
             name = 'Get Involved'
             url = '/get-involved'
             weight = 5
-        [[languages.en-us.menu.main]]
+        [[languages.en.menu.main]]
             name = 'Shop'
             url = '/shop'
             weight = 6
 
 
-    [languages.fr-fr]
-    contentDir = 'content/fr-fr'
+    [languages.fr]
+    contentDir = 'content/fr'
     languageName = 'French'
     languageDirection = 'ltr'
     title = 'Krita Site (FR Version)'
+    flagIconLocation = 'images/language-icons/france.svg'
     weight = 2
-    [languages.fr-fr.menu]
-        [[languages.fr-fr.menu.main]]
+    [languages.fr.menu]
+        [[languages.fr.menu.main]]
             name = 'Fonctionnalités'
             url = '/features'
             weight = 1
-        [[languages.fr-fr.menu.main]]
+        [[languages.fr.menu.main]]
             name = 'Téléchargement'
             url = '/download'
             weight = 2
-        [[languages.fr-fr.menu.main]]
+        [[languages.fr.menu.main]]
             name = 'A propos'
             url = '/about'
             weight = 3

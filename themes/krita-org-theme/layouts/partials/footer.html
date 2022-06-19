@@ -1,27 +1,33 @@
 </main>
 
 
-{{ if eq .Site.Language.Lang "en-us" }}
-<a href="https://userbase.kde.org/What_is_KDE">What is KDE</a>
-<a href="{{ .Site.BaseURL }}about/website/">Website Licenses</a>
-<a href="https://docs.krita.org/KritaFAQ.html/">FAQ</a>
-{{ end }}
-
-<!-- ne is not equal. Happens for everything that isn't the default langauge-->
-<!-- we need to make sure the language codes we use for krita.org is the same as docs.krita.org so they can transfer -->
-{{ if ne .Site.Language.Lang "en-us" }}
-<a href="https://userbase.kde.org/What_is_KDE/{{.Site.Language.Lang}}">What is KDE</a>
-<a href="{{ .Site.BaseURL }}{{.Site.Language.Lang}}/about/website/">Website Licenses</a>
-<a href="https://docs.krita.org/{{.Site.Language.Lang}}/KritaFAQ.html">FAQ</a>
-{{ end }}
-
-
 
 	
 <footer>
-	<p>&copy;{{ .Site.Title }}</p>
+
+	<!-- KDE site translations should work by appending language code to URL -->
+	<a href="https://userbase.kde.org/What_is_KDE/{{.Site.Language.Lang}}">What is KDE</a>
+
+	{{ if eq .Site.Language.Lang "en" }}
+	<a href="{{ .Site.BaseURL }}website">Website Licenses</a>
+	<a href="https://docs.krita.org/KritaFAQ.html">FAQ</a>
+	{{ end }}
+	
+	<!-- ne is not equal. Happens for everything that isn't the default langauge-->
+	<!-- we need to make sure the language codes we use for krita.org is the same as docs.krita.org so they can transfer -->
+	{{ if ne .Site.Language.Lang "en" }}
+	<a href="{{ .Site.BaseURL }}{{.Site.Language.Lang}}/website">Website Licenses</a>
+	<a href="https://docs.krita.org/{{.Site.Language.Lang}}/KritaFAQ.html">FAQ</a>
+	{{ end }}
+
+	<!-- list all available translated languages here for now-->
+	<br/>
+
 	{{ range $.Site.Home.AllTranslations }}
-	<a href="{{ .Permalink }}/" style="margin-right: 1rem">{{ .Language.LanguageName }}</option>
+		<a href="{{ .Permalink }}/" style="margin-right: 1rem">
+			<img src="{{ .Site.BaseURL }}{{ .Language.Params.flagIconLocation }}" width="15" />
+			{{ .Language.LanguageName }}		
+		</a>
 	{{ end }}
 </footer>
 
