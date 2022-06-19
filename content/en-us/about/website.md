@@ -1,11 +1,9 @@
 ---
-title: "Website"
+title: "Website Information"
 date: "2014-07-16"
-type: 'tabbed-section-about'
-group: 'about'
----
+type: 'simple-page'
 
-# Website Information
+---
 
 ## Marketing Site (krita.org)
 This is the central hub where people learn about Krita and download the latest version.

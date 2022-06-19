@@ -49,17 +49,17 @@ The files will be generated to the Public folder. You should be able to copy tha
 
 
 # TODO items
-1. Start filling out homepage with relevant information and translations
-2. Start filling out features page with relevant information and translations
-3. Start filling out download page with relevant information and translations
+0. Make sure language codes mirror docs.krita.org. This makes it easier to bounce to the docs site while retaining the same language
 
-4. Think about design updates a bit
----- query some artists on Krita artist about using their artwork
+1. Whenever the project gets a bit farther, get a plan on moving images/assets to an external location/server to reduce GIT repo size
+- Ben (KDE sys admin) says we can put heavier files all on cdn.kde.org. It has heavy caching, so be aware of that
+- if we have custom videos (not on YouTube), we can put those on cdn.kde.org too
 
-5. Whenever the project gets a bit farther, get a plan on moving images/assets to an external location/server to reduce GIT repo size
---- Ben (KDE sys admin) says we can put heavier files all on cdn.kde.org. It has heavy caching, so be aware of that
---- if we have custom videos (not on YouTube), we can put those on cdn.kde.org too
+2. Since this is a static site, it has no logic with when to display a 404 page. That will have to be configured on the server whenever we start testing it out
+- For testing locally, you should be able to go to your /404.html (mine is http://localhost:1313/404.html)
+
 
 # Questions before we go live
 1. Not sure how we are going to get Mollie payments to the fund site if we shut down the WordPress site
+
 
