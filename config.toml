@@ -21,21 +21,29 @@ defaultContentLanguage = 'en-us'
     weight = 1
     [languages.en-us.menu]
         [[languages.en-us.menu.main]]
-            name = 'Home'
-            url = '/'
-            weight = 1
-        [[languages.en-us.menu.main]]
             name = 'Features'
             url = '/features'
-            weight = 2
+            weight = 1
         [[languages.en-us.menu.main]]
             name = 'Download'
             url = '/download'
-            weight = 3
+            weight = 2
         [[languages.en-us.menu.main]]
             name = 'About'
             url = '/about'
+            weight = 3
+        [[languages.en-us.menu.main]]
+            name = 'Learn'
+            url = 'https://docs.krita.org'
             weight = 4
+        [[languages.en-us.menu.main]]
+            name = 'Get Involved'
+            url = '/get-involved'
+            weight = 5
+        [[languages.en-us.menu.main]]
+            name = 'Shop'
+            url = '/shop'
+            weight = 6
 
 
     [languages.fr-fr]
@@ -46,19 +54,15 @@ defaultContentLanguage = 'en-us'
     weight = 2
     [languages.fr-fr.menu]
         [[languages.fr-fr.menu.main]]
-            name = 'Home(FR)'
-            url = '/'
-            weight = 1
-        [[languages.fr-fr.menu.main]]
             name = 'Fonctionnalités'
             url = '/features'
-            weight = 2
+            weight = 1
         [[languages.fr-fr.menu.main]]
             name = 'Téléchargement'
             url = '/download'
-            weight = 3
+            weight = 2
         [[languages.fr-fr.menu.main]]
             name = 'A propos'
             url = '/about'
-            weight = 4
+            weight = 3
 

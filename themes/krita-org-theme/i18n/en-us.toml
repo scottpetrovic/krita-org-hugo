@@ -13,7 +13,7 @@ no-news = 'No news'
 features = 'Features'
 
 [download]
-download = 'download'
+download = 'Download'
 
 [history]
 history = 'History'
