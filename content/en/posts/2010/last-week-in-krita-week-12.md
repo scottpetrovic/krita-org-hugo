@@ -1,0 +1,58 @@
+---
+title: "Last Week in Krita -- Week 12"
+date: "2010-03-30"
+---
+
+This week, we dived under sixty bugs! Well, that's a fib, it was actually yesterday, Monday that we reached that milestone, and this report runs from Monday to Sunday, but I don't want to wait until next week to gloat! We had about sixty commits (though about half a dozen were Timothy Pearson fixing stuff for his [trinity branch](http://trinity.pearsoncomputing.net/), a resurrection of KDE 3).
+
+Lukáš spent most of last week working on [canvas mirroring](http://lukast.mediablog.sk/log/?p=244) -- but also on improving [his brush engines](http://lukast.mediablog.sk/log/?p=248). In fact, when he was improving his brush engines in his spare time, he actually _should_ have been writing text for his university thesis on Krita Brush Engines. The lure of the code is too strong and the brush engines are too much fun to play with! However, this meant we had to do some shuffling to make it possible for Lukáš to finish his thesis on time. Instead of working on Krita during the last three weeks of April, Lukáš will write on his thesis, after doing a yum remove gcc to avoid any and all temptation. After Lukáš' last exams in June, he will start working on Krita again, first putting in his three April weeks and then going on with the second period, the run up to the 2.3 release. This will also give me a chance to refine the [Action Plan](http://wiki.koffice.org/index.php?title=Krita/ActionPlan), since the rapid pace of Krita development has obsoleted large parts of it!
+
+With the growth of the Krita community, some of our resources are getting a bit strained -- like the set of Intuos graphics tablets we have to loan to developers. So we've not only [opened shop](http://www.zazzle.com/kritashop), but if you look closely, there's also a neat little donation button replacing the pledgie campaign near the top of this page. Don't hesitate to click on it!
+
+### Release
+
+Last week, the Krita source repository was frozen for the impending 2.2 release. This means only bugfixes are allowed. Lukáš is continuing his work in the koffice-ko work branch, where he implemented the first version of canvas mirroring. The first beta for Krita 2.2 will be released this week.
+
+It's quite a big improvement over 2.1, but it still isn't the release we're working towards, but an interim thing. There are big performance improvements, but we still have those sixty bugs, we still have a big issue with memory leaks, and we still need to do a lot of gui polishing.
+
+So 2.2 is going to be a great release for people who want to help the Krita team make 2.3 really polished and user-ready: we need your feedback! Don't hesitate to report bugs -- feel free to ask questions on the [forums](http://forum.kde.org/viewforum.php?f=136), on the [mailing list](http://mail.kde.org/mailman/listinfo/kimageshop), on #krita on irc.freenode.net or to report your bugs directly. Don't worry too much about duplicates -- we can do the filtering for you. Get testing!
+
+### Code
+
+**Boudewijn** fixed a crash when switching tools — actually just a quick hack for a regression. That was all he had time for that week, unfortunately -- on Saturday, the moment Boudewijn sat down to start fixing some bugs, his washing machine made ominous sounds and then failed. So he had to go out and get a new one, in order to retain for Krita the distinction of "Least Niffy Free Graphics Application". (A difficult feat in the face of failing shower cabins and now failing washing machines!)
+
+**Cyrille** fixed the display of selections, tool overlays, grids and assistants on the OpenGL canvas. There is still an issue with Qt 4.6 and the OpenGL canvas for some people: this is a combination of a bug in Qt and issues with graphics drivers. Cyrille also refactored the way PigmentCMS stores the information about color channels for colorspaces. The metadata editor in Krita uses a Qt library (QtUiTools) that is only available as a static library, and if you try to run Krita compiled against one build of Qt, and then run Krita against another build, you'd get a crash -- Cyrille added a check for that and now doesn't load the metadata plugin anymore under those circumstances.
+
+We had a very nasty crash happening when you'd try to undo painting after converting your image to another color space: fixed! An issue with starting to pan while painting got fixed: this fix was actually the cause of the crash Boudewijn fixed — such is life on the edge. A very subtle issue was present where the first footprint of a brush could be painted twice, and Cyrille solved that as well, as well as an issue where the drawing angle sensor was initialized incorrectly.
+
+The new, faster smudge op wasn't quite perfect yet: there were ways to get a corrupted stroke, this got fixed as well. Finally, Cyrille fixed a [bug 232441](https://bugs.kde.org/show_bug.cgi?id=232441) -- krita freezes when using the crop tool on new images.
+
+**Dmitry** fixed an issue where a mask updated areas outside its selection. Dmitry also added a test for convolution, showing some problems. Edward Apap was working on convolution when he got a job -- and starting on a new job always takes a lot of energy and effort, so he hasn't been around for a while, but I'm sure that we'll see him return soon. In the meantime, Dmitry fixed a bug when applying a convolution filter to a transparent layer. Finally, Dmitry fixed the order masks are applied to a layer.
+
+There's still plenty to do in our projection code, as well as in the display code, but there is a good chance that Dmitry will either be doing that during the Google Summer of Code, or, if he doesn't get a slot, sponsored by **Silvio Grosso**, working two months on finishing this code in time for the 2.3 release.
+
+**Lukáš** cleaned up the curve brush brush engine -- this is a fun brush engine that lets you paint wavy lines. The Sumi-E brush was renamed to "hairy brush", since it is much more versatile than a chinese brush imitation, but at the same time, we wanted to honour [Strassman's seminal work](http://portal.acm.org/citation.cfm?id=15911&dl=GUIDE&coll=GUIDE&CFID=84060571&CFTOKEN=61652648). Lukáš applied a patch by Pentalis, one of the Krita Google Summer of Code hopefuls, which cleaned up the gui for the hairy brush. On the brush engine front, Lukáš added some checks and limits to the settings of the hairy brush: it is possible to tweak the settings so the hairy brush becomes a [rainy brush](http://forum.kde.org/viewtopic.php?f=138&t=82755) -- and it was possible to scatter the rain so widely your computer would drown the X11 server.  
+
+![](http://www.krita.org/images/stories/temp-krita-pix/pluie.jpg)  
+
+On the sponsored work front, Lukáš worked on the canvas mirroring feature. This work was done in the [koffice-ko feature branch](http://websvn.kde.org/branches/work/koffice-ko/) since Krita 2.2 is now frozen except for bug fixes. There are still complications here: mirroring works, except when you zoom, but we'll be looking into this issue before merging after the freeze lifts. This weeks topic, by the way, is implementing a "default settings" button for the brush engines.
+
+Following attempts to make a Krita 2.2 beta 1 package for Fedora, Rex Dieter cleaned up a lot of our .desktop files.
+
+**Sven** was on a roll fixing bugs: he fixed a crash in the filter dialog, the animation of pipe brushes, wrote a test for an issue when using a "fixed-size" paint device as a mask, fixed the fill method for that type of paint device, fixed using a crash when using predefined brushes in the duplicate brush engine, fixed [bug 228983](https://bugs.kde.org/show_bug.cgi?id=228983) (inverting a selection hangs Krita) (and wrote a unittest so we can check whether there will be regressions), fixed the default extension of the preset files (.kpp, they are in ~/.kde4/share/config/krita/paintoppresets, if you want to share them with friends or on deviant-art), made sure we use the name of the preset (and if necessary, make it unique) instead of a number when saving presets.
+
+Sven also fixed a crash on inserting a selection, replaced an ordinary slider with the new super slider in the text brush, fixed the text brush itself, made sure the super slider updates while dragging again, replaced ordinary sliders with super sliders in the predifined brush settings page, made sure you see at least something when using brush outline cursor while painting with brush engines that don't have an outline, like the curve or particle brush. The cursor outline for the hairy brush was broken: Sven fixed that as well. He cleaned up the layout of the autbrush widget, and finally fixed a really annoying bug: at one point, we'd broken the bounds check in the super slider, which meant that you could enter any number, and as I said above, that could make it rain all over Europe, drown your computer and make X11 abort.
+
+### Extensions
+
+One of the things we promised when we [first unfolded our vision](http://www.valdyas.org/fading/index.cgi/hacking/lastweekend.html) was an extensions project where all the cool stuff that isn't ready for inclusion in Krita or doesn't fit in the vision can go. Enter [Krita Extensions](http://gitorious.org/krita-extensions)! The code in this repository [is recompiled against Krita trunk regularly so it doesn't bitrot](http://extensions.krita.org/buildreport). Currently, it contains all the code from the old krita-plugins and krita2-plugins projects. If anyone wants to do something totally experiment or something that won't fit the vision, like clearly photo-oriented stuff, feel free to ask [me](mailto:boud@valdyas.org) or Cyrille Berger to create a repository for you. Of course, everyone is always free to work on their stuff outside krita or the krita extensions project. It's just that it's more fun to be involved with us! Anyone with questions is, of course, free to join us on #krita on irc.freenode.org, on the [mailing list](http://mail.kde.org/mailman/listinfo/kimageshop) or the [krita forums](http://forum.kde.org/viewforum.php?f=136) -- or through a gitorious.org merge request!
+
+Four Krita plugins have been lost: the panorama plugin, which, despite having been a blast to develop for Cyrille is completely obsoleted by the advances in [Hugin](http://hugin.sourceforge.net/) and the expand, contract and binarize filters which are being ported to [OpenShiva](http://www.opengtl.org/Shiva.html). We might move other plugins that are currently in Krita there as well.
+
+As you can [see](http://extensions.krita.org/buildreport/), there are plenty of build failures at the moment: some of these plugins were never even ported to Krita2.
+
+### Summer of Code
+
+Currently, five people have approached the Krita team about the Google Summer of Code: Dmitry Kazakov, long-lost Krita hacker Emanuele Tamponi, of painterly colorspaces fame, Adam Celarek, Marc Pegon and Pentalis. We're all enthusiastic about the possiblities this summer. Now is the time for entering applications. If you think of also having a pop, remember this: you simply haven't got any chance at all to be selected if you don't communicate with the Krita team beforehand on irc.freenode.net, #krita. Given the strong field, we won't back any unknown horses -- and even if the field weren't so strong, we wouldn't do that anyway.
+
+I guess it's the same for other projects; you need to establish contact with the project members beforehand. The way Pentalis has done this is quite exemplary, he even managed to show us his first Krita brush engine already! That sort of thing inspires confidence! Of course, Dmitry, Marc, Adam and Emanuele have already shown their involvement.
