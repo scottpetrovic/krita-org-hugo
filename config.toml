@@ -71,7 +71,7 @@ defaultContentLanguage = 'en'
     contentDir = 'content/zh'
     languageName = 'Chinese'
     languageDirection =  'ltr'
-    title = 'Krita Site(ZH)'
+    title = 'Krita Site(PRC)'
     flagIconLocation = 'images/language-icons/china.svg'
     weight = 3
 
@@ -98,3 +98,19 @@ defaultContentLanguage = 'en'
     title = 'Krita Site(JP)'
     flagIconLocation = 'images/language-icons/japan.svg'
     weight = 6
+
+    [languages.ko]
+    contentDir = 'content/ko'
+    languageName = 'Korean'
+    languageDirection =  'ltr'
+    title = 'Krita Site(KO)'
+    flagIconLocation = 'images/language-icons/korea.svg'
+    weight = 7
+
+    [languages.es]
+    contentDir = 'content/es'
+    languageName = 'Spanish'
+    languageDirection =  'ltr'
+    title = 'Krita Site(ES)'
+    flagIconLocation = 'images/language-icons/mexico.svg'
+    weight = 7
