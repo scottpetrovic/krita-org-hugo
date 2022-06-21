@@ -5,11 +5,9 @@ date: "2021-11-04"
 
 Check out Ramon's latest video, showing off Krita 5's awesome new brush capabilities.
 
-https://youtu.be/cGaVQaFI64k
+{{< youtube cGaVQaFI64k >}}
 
- 
-
-Ramon has created another bundle of impasto brush presets to go with this video. To use the brushes, [download the latest version of Krita](/download/krita-desktop/): Krita Plus. Take care, this is still beta software!
+Ramon has created another bundle of impasto brush presets to go with this video. To use the brushes, [download the latest version of Krita](/download): Krita Plus. Take care, this is still beta software!
 
 Download the bundle:
 
