@@ -5,7 +5,7 @@ date: "2018-06-21"
 
 Three months after the release of Krita 4.0, we're releasing the first (and probably only) beta of Krita 4.1, a new feature release! This release includes the following major new features:
 
-https://www.youtube.com/watch?v=LWpjlyUlBiA
+{{< youtube LWpjlyUlBiA >}}
 
 - A new reference images tool that replaces the old reference images docker.
 - You can now save and load sessions: the set of images and views on images you were working on

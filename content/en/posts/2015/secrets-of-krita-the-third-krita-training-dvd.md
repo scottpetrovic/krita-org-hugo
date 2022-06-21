@@ -5,7 +5,7 @@ date: "2015-10-01"
 
 Comics with Krita author Timothée Giet is back with his second training DVD: Secrets of Krita, a collection of videos containing 100 lessons about the most important things to know when using Krita. In 10 chapters, you will discover with clear examples all the essential and hidden features that make Krita so powerful and awesome! The data DVD is English spoken with English subtitles.
 
-https://www.youtube.com/watch?v=D2pTWGc2-GU
+{{< youtube D2pTWGc2-GU >}}
 
 ![](../images/secrets-of-krita-box-art.png)
 

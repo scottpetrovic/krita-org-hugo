@@ -7,7 +7,7 @@ Remember [Playkot's Supercity](http://krita.org/item/218-playkot-uses-krita-blen
 
 Here's a video of their development process:
 
-\[embed\]https://www.youtube.com/watch?v=3VvDwrp8214\[/embed\]
+{{< youtube 3VvDwrp8214 >}}
 
 The artwork is already coming along nicely, despite the campaign having only started just now:
 

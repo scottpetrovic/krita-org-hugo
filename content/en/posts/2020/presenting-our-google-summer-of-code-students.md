@@ -9,7 +9,7 @@ It's that time of the year again! Google has published the names of the students
 
 **Sharaf Zaman** is a veteran from last year, when he ported Krita to Android. In fact, over the past couple of weeks he's been busy putting Krita in the Google Play Store, in the beta track. Apart from some administrative worries, we're ready to publish that! This year, he will implement a new kind of gradients: mesh gradients. [Here is his project proposal](https://docs.google.com/document/d/1EjMczWN4Cbxd1fG4_1E7llYrU5AbrsdA9_MhyrrkZE8/edit). Mesh gradients were first implemented in Inkscape, and now we're going for a second, independent implementation. Here's a video of Inkscape's Mesh Gradients:
 
-https://www.youtube.com/watch?v=u4HoF39cVZA
+{{< youtube u4HoF39cVZA >}}
 
 **Leonardo Segovia** will be adding dynamic fill layers, using SeExpr. [Here is his project proposal](https://docs.google.com/document/d/1k9BRliqB59iR5ypPDL7cN1GdBCZE7wjN). SeExpr is a language developed by Disney: _an embeddable, arithmetic expression language that enables flexible artistic control and customization in creating computer graphics images. Example uses include procedural geometry synthesis, image synthesis, simulation control, crowd animation, and geometry deformation."_ After integrating this language in Krita, it will become possible to script fill layers, meaning everyone can create new types of fill layers without having to know C++.
 

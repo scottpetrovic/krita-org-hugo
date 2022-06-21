@@ -21,7 +21,7 @@ Amongst the notable changes and develops we can cite the efforts of Boudewijn to
 
 In other news. Somsubhra, developer of Krita Animation spin, has added, aside many bug fixes and tweaks, a first rough animation player. I wanted to make a short video for you, but still the build is very fragile and on my system it crashed after creating the document. You can see the player in action in a video made by Sohsumbra
 
-\[embed\]https://www.youtube.com/watch?v=VEHJ-JIunII\[/embed\]
+{{< youtube VEHJ-JIunII >}}
 
 ### This week’s new features:
 

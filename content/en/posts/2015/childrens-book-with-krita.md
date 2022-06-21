@@ -12,7 +12,7 @@ Hi! I'm John Gholson Jr -- and I am creating [a children's book](http://www.book
 
 Here's a complete overview of my workflow:
 
-\[embed\]https://www.youtube.com/watch?v=oZZQDMuYBLE\[/embed\]
+{{< youtube oZZQDMuYBLE >}}
 
 I love drawing in the traditional way first with ink washes or pencil to get some actual texture. Then I scan the image at 600dpi and go to town with Krita! There are several benefits to this combined method. It's still very hard to replicate with a tablet some things that happen with physical drawing, like the subtle incremental details that a pencil gives. Working with layers is amazing, though. It's something the early Disney animators did for their backgrounds, too.
 

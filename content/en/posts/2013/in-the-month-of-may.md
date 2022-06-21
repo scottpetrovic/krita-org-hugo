@@ -13,11 +13,11 @@ Sahil Nagpal has added the ability to apply curves to the alpha channel to the c
 
 Check out Mifth's video on Vimeo (click [here if the embedded video doesn't show for you)](http://vimeo.com/65009373)
 
-\[embed\]http://vimeo.com/65009373\[/embed\]
+{{< vimeo 65009373 >}}
 
 Lukas Tvrdy has added support for creating seamless textures to Krita. Check out his [blog to read all about it](http://lukast.mediablog.sk/log/?p=466), if the embedded video doesn't work for you:
 
-\[embed\]https://www.youtube.com/watch?v=6DeyjO4JIEw\[/embed\]
+{{< youtube 6DeyjO4JIEw >}}
 
 In the meantime, Lukas Tvrdy is working on integrating [g'mic](http://gmic.sourceforge.net/) into Krita -- in one fell swoop expanding Krita's filter capabilities enormously. Check out David Revoy's [tutorial on moving from paper sketches to digital illustration](http://www.davidrevoy.com/article129/pencil-to-digital-painting) for an example!
 

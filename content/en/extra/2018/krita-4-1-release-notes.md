@@ -25,7 +25,7 @@ Reference images are back in Krita... Now more powerful and useful than ever! No
 
 Take a look at the video Wolthera made to see the new [reference images tool](https://docs.krita.org/en/reference_manual/tools/reference_images_tool.html) in action:
 
-\[embed width="700" \]https://www.youtube.com/watch?v=LWpjlyUlBiA\[/embed\]
+{{< youtube LWpjlyUlBiA >}}
 
 ## Animation Improvements
 
@@ -61,7 +61,7 @@ Handle larger animations better by offloading the data to your drive instead of 
 
 Inspired by how color mixing works in real life, you can now pick a [small amount of color to mix](https://docs.krita.org/en/reference_manual/tools/color_selector.html) with your existing color. Thanks to Emmet and Eoin O'Neill for contributing this patch.
 
-\[embed width="700" \]https://www.youtube.com/watch?v=D6\_scO-rVgE\[/embed\]
+{{< youtube D6_scO-rVgE >}}
 
 ## Improved vanishing point assistants and custom colors
 

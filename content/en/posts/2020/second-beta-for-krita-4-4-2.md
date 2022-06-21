@@ -7,7 +7,7 @@ categories:
 
 The Krita team is releasing the second beta of Krita 4.4.2. Ramon Miranda has just released a video of one of the star features of this release: mesh transforms:
 
-https://www.youtube.com/watch?v=DLXWynZT\_8s&feature=youtu.be
+{{< youtube DLXWynZT_8s >}}
 
 Compared to the [first beta](/item/first-beta-of-krita-4-4-2/), the following issues have been fixed:
 

@@ -9,7 +9,7 @@ Today, we're releasing the sixth bug fix release of Krita 4.2. As discussed in o
 
 And to celebrate the release, we have a new video by Ramon Miranda which comes with a very nice present: a [free new bundle of six sketching brush presets](https://files.kde.org/krita/extras/RM_Sketch_V1.bundle)!
 
-https://www.youtube.com/watch?v=HtBzzXulIr0
+{{< youtube HtBzzXulIr0 >}}
 
 ### Bugs Fixed in 4.2.7
 

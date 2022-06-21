@@ -17,7 +17,8 @@ With lots of bug fixes. This is still based on the stable 2.9 version of Krita, 
 
 Nathan Lovato has made a nice introduction video:
 
-https://www.youtube.com/watch?v=9uvju6sUNJA
+
+{{< youtube 9uvju6sUNJA >}}
 
 (And don't forget to support his [kickstarter!](https://www.kickstarter.com/projects/gdquest/game-art-quest-make-professional-2d-art-with-krita), now close to reaching the first stretch goal.)
 

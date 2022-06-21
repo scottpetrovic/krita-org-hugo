@@ -11,7 +11,7 @@ Well, I made packages for Windows available already on Sunday, but here's scoop 
 
 And we mean _big_. This is the first release with the layer styles feature sponsored by [last year's kickstarter](https://www.kickstarter.com/projects/krita/krita-open-source-digital-painting-accelerate-deve)!
 
-https://www.youtube.com/watch?v=BHP7HklGUuo
+{{< youtube BHP7HklGUuo >}}
 
 - Implement Photoshop layer styles. Note: this is the first version. Some features are not implemented and we load and save only to Krita's native file format and ASL style library files (not PSD files yet). There is also still a bug with masks and layer styles
 - make start up faster by not waiting for the presets to be loaded (startup times are now 30-50% faster )

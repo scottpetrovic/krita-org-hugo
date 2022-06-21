@@ -13,4 +13,4 @@ With the right hardware, the switch is fully automatic and truly seamless. Krita
 
 Check out how TImothee Giet uses Krita Gemini:
 
-\[embed\]https://www.youtube.com/watch?v=qiSGuCzRZFk\[/embed\]
+{{< youtube qiSGuCzRZFk >}}

@@ -93,7 +93,7 @@ While most of the animation work is happening in master and will be in the next 
 
 An exporter for batch exporting the layers and positions from Krita. Made by the folks over at Game Design Quest:
 
-https://www.youtube.com/watch?v=jJE5iqE8Q7c
+{{< youtube jJE5iqE8Q7c >}}
 
 ### Python plugin Channels to Layers
 

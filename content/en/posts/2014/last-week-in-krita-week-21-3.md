@@ -29,7 +29,7 @@ This filter allows you to reduce the number of colors displayed using a color ra
 
 Some uses for the filter include HD index painting as in the video below.
 
-\[embed\]https://www.youtube.com/watch?v=v1Z\_\_mSfo8s\[/embed\]
+{{< youtube v1Z__mSfo8s >}}
 
 #### Lock docker state
 
@@ -95,4 +95,4 @@ This week in sketch an Gemini. Dan Leinir Turthra Jensen added support for templ
 
 Sohsumbra’s work preview can be seen in the following video, working animation with layers.
 
-\[embed\]https://www.youtube.com/watch?v=3VKcvJT8rQ8\[/embed\]
+{{< youtube 3VKcvJT8rQ8 >}}

@@ -21,7 +21,7 @@ David Revoy also quickly produced a [very painterly sketch](https://twitter.com/
 
 The compositions docker allows you to save sets of layer configurations. So, if you have a complex layer structure, you might want to hide or show sets layers and switch between those configurations, say your sketch structure and your paint structure. Sven's [blog has all the details](http://slangkamp.wordpress.com/2012/05/09/krita-compositions-docker/)! And David Revoy made a video showing why it's a really handy feature:
 
-\[embed\]https://www.youtube.com/watch?v=Ngov6Xh8Zew\[/embed\]
+{{< youtube Ngov6Xh8Zew >}}
 
 ###  Paper sizes
 

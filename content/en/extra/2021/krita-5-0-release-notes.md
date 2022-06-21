@@ -98,7 +98,7 @@ Work by artists using Krita:
 
 ## Faster Smudge Brushes & New MyPaint Brush Engine
 
-\[embed\]http://www.youtube.com/watch?v=D0Lv5gWvu94\[/embed\]
+{{< youtube D0Lv5gWvu94 >}}
 
 #### Rewritten Color Smudge engine ([MR 765](https://invent.kde.org/graphics/krita/-/merge_requests/756))
 
@@ -266,7 +266,7 @@ Work by artists using Krita:
 
 ## New Tools & Improvements
 
-\[embed\]https://www.youtube.com/watch?v=a0uxM\_bQOnU\[/embed\]
+{{< youtube a0uxM_bQOnU >}}
 
 #### Record your next painting session ([MR 522](https://invent.kde.org/graphics/krita/-/merge_requests/522), [MR 180](https://invent.kde.org/graphics/krita/-/merge_requests/180)).
 
@@ -348,13 +348,13 @@ A perhaps little-known feature, "soloing" a layer by shift-clicking on its eye i
 
 ## Python Plugins Added/Improvements
 
-\[embed\]https://www.youtube.com/watch?v=jJE5iqE8Q7c\[/embed\]
+{{< youtube jJE5iqE8Q7c >}}
 
 #### GDQuest Batch Exporter Add-On ([MR 116](https://invent.kde.org/graphics/krita/-/merge_requests/116))
 
 Contributed by the **GDQuest Team**, this plugin is designed for the game asset pipeline, allow you to plan and batch export files with the click of a button.
 
-\[embed\]https://www.youtube.com/watch?v=QX9jwhfpB\_8\[/embed\]
+{{< youtube QX9jwhfpB_8 >}}
 
 #### Photobash python plugin ([MR 402](https://invent.kde.org/graphics/krita/-/merge_requests/402))
 

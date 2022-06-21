@@ -34,11 +34,11 @@ Additionally, Dmitry has added a way to split the alpha channel out and edit it 
 
 Check [http://docs.unity3d.com/Manual/HOWTO-alphamaps.html](http://docs.unity3d.com/Manual/HOWTO-alphamaps.html) on why it's useful, and here's a video by Paul Geraskin showing off the feature:
 
-https://www.youtube.com/watch?v=ZeUStIHWVg0
+{{< youtube ZeUStIHWVg0 >}}
 
 And check out the transformation mask video as well:
 
-http://www.youtube.com/embed/7m92IHTrL2w
+{{< youtube 7m92IHTrL2w >}}
 
 ### Features
 

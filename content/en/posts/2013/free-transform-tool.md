@@ -3,7 +3,7 @@ title: "Free Transform Tool"
 date: "2013-02-14"
 ---
 
-\[embed\]https://www.youtube.com/watch?v=kgTkfebleCE\[/embed\]
+{{< youtube kgTkfebleCE >}}
 
 Thanks to your donations this month Dmitry Kazakov could spent a part of his sponsored time to deep some fix mathematics problems in the Transformation tool algorithm.
 

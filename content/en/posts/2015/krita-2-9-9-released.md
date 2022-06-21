@@ -30,4 +30,4 @@ The next version of Krita will be 3.0 and we're definitely getting there! There 
 
 Here's a demo by Wolthera:
 
-https://www.youtube.com/watch?v=kWHK68iCRHk
+{{< youtube kWHK68iCRHk >}}

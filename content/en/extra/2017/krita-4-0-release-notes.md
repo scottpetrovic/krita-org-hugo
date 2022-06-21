@@ -106,7 +106,7 @@ Simplify coloring intricate line art such as comic art. With the new colorize ma
 
 Press the Update button in the layers toolbox. The layer should update and fill everything in. You can either convert this later to a paint layer, or break it apart into color groups. See how it works in more detail from the manual: [Colorize Mask documentation](https://docs.krita.org/Colorize_Mask).
 
-\[embed width="500" \]http://www.youtube.com/watch?v=fIOhd3xXv-A&\[/embed\]
+{{< youtube fIOhd3xXv-A >}}
 
 ## Background Saving
 

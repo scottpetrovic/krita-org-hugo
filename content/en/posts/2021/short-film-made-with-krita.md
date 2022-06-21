@@ -17,4 +17,4 @@ Krita was very intuitive, without any brush lag, which is very important for the
 
 Like many other students, I had no budget for buying licences, but Krita is free and it became my number one choice, still is, and will remain.
 
-https://www.youtube.com/watch?v=CIL3UOb11Us
+{{< youtube CIL3UOb11Us >}}

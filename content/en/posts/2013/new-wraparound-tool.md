@@ -7,7 +7,7 @@ Krita 2.8 will have some really awesome features! Today we are going to show you
 
 This cool feature is for creating infinitely tilable textures, just press the "W" key and start to enjoy:
 
-\[embed\]https://www.youtube.com/watch?v=9ICGks0-InQ\[/embed\]
+{{< youtube 9ICGks0-InQ >}}
 
 Thanks to Paul Geraskin (Mifth) for this video!
 

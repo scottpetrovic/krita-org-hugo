@@ -73,7 +73,7 @@ Import brush and texture packs from other artists to expand your tool set. If yo
 
 ## Simple and Powerful 2D Animation
 
-\[embed\]http://www.youtube.com/watch?v=9diKUhxImqo#t=1m52s\[/embed\]
+{{< youtube 9diKUhxImqo >}}
 
 Changing your workspace to Animation transforms Krita into an animation studio. Bring your drawings to life by layering your animations and export them to share with your friends.
 

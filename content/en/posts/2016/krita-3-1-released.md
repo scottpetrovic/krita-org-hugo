@@ -23,7 +23,7 @@ There are many more new features as well!
 
 A quick video overview of all of the major features and fixes that are being shipped with Krita 3.1.
 
-https://www.youtube.com/watch?v=0eHNll7lPKk
+{{< youtube 0eHNll7lPKk >}}
 
 This release contains work funded by the 2015 Kickstarter, work done during the Google Summer of Code, and work done by volunteer hackers just for the fun of it. Not everyone might be aware of this, but Krita is open source and everyone is welcome to work on features, hack on bugs, or help out in many other ways. [Join our community!](/get-involved/overview/).
 

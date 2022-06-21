@@ -56,7 +56,7 @@ Things that could be improved: when I overwrite a brush preset I cannot keep the
 
 Sure. I actually prepared a short video that shows how I work. It's a sketch for Terry Pratchett's "Wyrd Sisters". I used the older version of Krita back then but the workflow remains the same.
 
-\[embed\]https://www.youtube.com/watch?v=pZzfQf\_I7ws\[/embed\]
+{{< youtube pZzfQf_I7ws >}}
 
 ### Do you work closely with the publisher for a book cover, or do you only deliver a painting so you don't see the result until it's published?
 

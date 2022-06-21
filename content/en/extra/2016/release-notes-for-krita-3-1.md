@@ -7,7 +7,7 @@ date: "2016-10-03"
 
 A quick video overview of all of the major features and fixes that are being shaipped with Krita 3.1.
 
-https://www.youtube.com/watch?v=0eHNll7lPKk
+{{< youtube 0eHNll7lPKk >}}
 
 ### Full Support for OSX
 

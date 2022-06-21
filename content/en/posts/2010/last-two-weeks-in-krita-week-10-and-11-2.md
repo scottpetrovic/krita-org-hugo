@@ -17,9 +17,7 @@ Apart from being busy with the preparation of the 2.2 beta, Cyrille made sure th
 
 Lukáš was busy in week 10 with the smudge brush engine. This is now much faster, though we now have a problem with artefacts appearing. In Week 11, Lukáš first investigated the possibilities for speeding up Krita using processor vectorization. This turned out to be a red herring, so after that, Lukáš continued working on canvas mirroring. Here we have two different features: drawing an image on one side, with the other side automatically being filled in by the mirroring code, which is [a time-saving feature when designing characters](http://www.youtube.com/watch?v=kGOtGDQ-K-g), and mirroring the canvas view so the artist can see his complete work mirrored -- essential to check whether there are any errors in perspective or anatomy in the drawing. As part of his thesis work, Lukáš committed a lot of fixed to his various brush engines.
 
-httpv://www.youtube.com/watch?v=kGOtGDQ-K-g
-
- 
+{{< youtube kGOtGDQ-K-g >}} 
 
 Sven improved the looks of the spinbox slider widget, fixed a crash in the QPainter based canvas, cleaned up the options widget for the shape tools and fixed the outline and resizing for the sumi-e (or bristle-based) brush engine.
 

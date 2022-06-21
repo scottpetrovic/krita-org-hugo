@@ -9,7 +9,7 @@ HDR images are rendered on your decidedly non-HDR monitor by picking an exposure
 
 Check out this video by Timothee Giet showing off painting with exposure and gamma in Krita:
 
-\[embed\]https://www.youtube.com/watch?v=esSzKzXVWQE\[/embed\]
+{{< youtube esSzKzXVWQE >}}
 
 Here's how it works, technically:
 

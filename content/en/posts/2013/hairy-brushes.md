@@ -9,7 +9,7 @@ Hi!
 
 Ramon Miranda here! Let's talk about Krita brush sets. The default set is big, not huge... But certainly big enough so you can get lost easily if you don't spend a lot of time investigating. But if you dig deep enough, and explore the huge number of options, you'll find some real gems. So lets see what i have discovered about one type of brushes: the hairy brushes.
 
-\[embed\]https://www.youtube.com/watch?v=ZevAzJK\_IU4\[/embed\]
+{{< youtube ZevAzJK_IU4 >}}
 
 ## **The Default Hairy Brush Set:**
 

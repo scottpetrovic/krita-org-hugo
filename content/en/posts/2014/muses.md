@@ -15,7 +15,7 @@ Get a digital version of the DVD instantly through Gumroad:
 
 Watch the trailer:
 
-\[embed\]https://www.youtube.com/watch?v=BAnfnpMQ4jU\[/embed\]
+{{< youtube BAnfnpMQ4jU >}}
 
 Or checkout the contents, nearly five hours of video:
 

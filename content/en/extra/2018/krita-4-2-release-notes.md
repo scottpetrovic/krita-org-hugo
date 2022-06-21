@@ -96,7 +96,7 @@ You can also rotate the gamut mask by using the slider. Create new masks and edi
 
 ## Move and transform selections
 
-\[embed width="550" \]https://www.youtube.com/watch?v=gWv--Do9L0E\[/embed\]
+{{< youtube gWv--Do9L0E >}}
 
 Easily move, rotate, or transform the selection by itself. You can even edit the anchor points with how the selection is made to do things like rounding corners.
 

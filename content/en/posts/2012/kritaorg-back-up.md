@@ -11,4 +11,4 @@ See you tomorrow on Krita 2.4 release day!
 
 In the meantime enjoy this little bit of playfulness with Krita's brush engine:
 
-\[embed\]https://www.youtube.com/watch?v=OJRgi6CF6A8\[/embed\]
+{{< youtube OJRgi6CF6A8 >}}

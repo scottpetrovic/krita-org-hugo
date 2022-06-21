@@ -9,9 +9,9 @@ This is a new feature developed by dmitryK and it will be available in Krita 2.8
 
 Watch the video to see how it will work:
 
-\[embed\]https://www.youtube.com/watch?v=frvLTWnOts4\[/embed\]
+{{< youtube frvLTWnOts4 >}}
 
-\[embed\]https://www.youtube.com/watch?v=IFKgqhTmM3w\[/embed\]
+{{< youtube IFKgqhTmM3w >}}
 
 ![](../images/Cn3VcEM.png)
 

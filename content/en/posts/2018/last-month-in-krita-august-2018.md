@@ -28,7 +28,7 @@ Dmitry, one of our core developers, whose work is funded by your donations, has 
 - Conversions between vector and pixel selections
 - Making it possible to modify selections
 
-https://www.youtube.com/watch?v=gWv--Do9L0E
+{{< youtube gWv--Do9L0E >}}
 
 ### Rewriting Resource Management
 

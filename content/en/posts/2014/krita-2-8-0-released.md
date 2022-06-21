@@ -53,9 +53,9 @@ _Development: Dmitry Kazakov, Boudewijn Rempt._
 
 On Linux, the Krita Sketch user interface is now bundled with Krita 2.8, and users can switch from one interface to another. Krita Sketch and Krita Gemini were developed by KO GmbH together with Intel. On Windows, Krita Gemini will be available through [Valve's Steam platform](http://steamcommunity.com/sharedfiles/filedetails/?id=225403385).
 
-\[embed\]https://www.youtube.com/watch?v=qiSGuCzRZFk\[/embed\]
+{{< youtube qiSGuCzRZFk >}}
 
-\[embed\]https://www.youtube.com/watch?v=lLwFJ0jF37s\[/embed\]
+{{< youtube lLwFJ0jF37s >}}
 
 _Development: Arjen Hiemstra, Dan Leinir Turthra Jensen, Timothée Giet , Boudewijn Rempt_
 
@@ -140,7 +140,7 @@ _Development: Dmitry Kazakov, icons: David Revoy_
 
 Color balance changes the overall colors of an artwork via sliders and is used for color correction. It’s an ideal filter to give an extra mood to your artwork (warmer, cooler) or enhance black and white studies. You can find the filter here: Filter > Adjust > Color balance (Ctrl+B)
 
-\[embed\]https://www.youtube.com/watch?v=Jos-2j4bgIE\[/embed\]
+{{< youtube Jos-2j4bgIE >}}
 
 _Development: Sahil Nagpal, Dmitry Kazakov_
 
@@ -162,7 +162,7 @@ You can find the feature in Layer > Clone Array
 
 Note that, ‘Clone layers’ child can be moved independently from the parent layer with the move tool. You can clone any base layer, and position them to your liking ; they keep the dynamic properties to the live clone.
 
-\[embed\]https://www.youtube.com/watch?v=IFKgqhTmM3w\[/embed\]
+{{< youtube IFKgqhTmM3w >}}
 
 _Images, test and videos by Paul Geraskin._
 

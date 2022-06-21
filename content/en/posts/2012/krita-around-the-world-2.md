@@ -9,11 +9,11 @@ Since the 2.4 release of Krita, there's lots going on in our community. There's 
 
 Oscar Baechler has released the video of his presentation of Krita at LinuxFest NorthWest -- with impressive results and reception, considering he used an old beta of the Windows version of Krita! Fortunately, now there are 2.4 packages available for [download](http://krita.org/download) for almost all distributions. Watch his awesome introduction:
 
-\[embed\]https://www.youtube.com/watch?v=ZDOowpNfjEw\[/embed\]
+{{< youtube ZDOowpNfjEw >}}
 
 In his [blog](http://ogbog.net/2012/04/04/krita-painting/), he also presents a screencapture of painting a Bob Ross landscape in Krita:
 
-\[embed\]https://www.youtube.com/watch?v=NBpubX-ZSOg\[/embed\]
+{{< youtube NBpubX-ZSOg >}}
 
 It's always great to see that Krita is capable of many different styles! Just take a look at Fernando's [impasto work on our forum](http://forum.kde.org/viewtopic.php?f=138&t=102087) -- in a beautiful style, reminds me of Daumier.
 
@@ -29,7 +29,7 @@ Also read Scott Dawdle's review of [LinuxFest NorthWest](http://www.montanalinux
 
 Ramon Miranda, the author of most of the brush tips, patterns and other resources in Krita has just released a tutorial on creating brush presets. It's long and very much worth it:
 
-\[embed\]https://www.youtube.com/watch?v=\_yoNCVkkSR0\[/embed\]
+{{< youtube _yoNCVkkSR0 >}}
 
 ### Libre Graphics Meeting
 

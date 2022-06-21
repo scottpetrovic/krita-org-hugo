@@ -37,7 +37,8 @@ The biggest item on the list was lag. Lag can have many meanings, and there will
 
 Here's a video of Wolthera using the multithreaded brushes:
 
-https://www.youtube.com/watch?v=wnPUtYo2Y9Y
+
+{{< youtube wnPUtYo2Y9Y >}}
 
 ### Performance Benchmarking
 

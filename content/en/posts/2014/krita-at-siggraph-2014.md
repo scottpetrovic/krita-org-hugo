@@ -9,7 +9,8 @@ For the first time, Krita has been present at [Siggraph](http://s2014.siggraph.o
 
 On Monday, we started building our booth -- as you can see, we had a beautiful backdrop made with the splashscreen graphic [Tyson Tan](http://tysontan.deviantart.com/)'s made for our upcoming, amazing 2.9 release! We also had a big screen with a running demo that drew a lot of attention. Plus, there was a demo workstation, a huge [Z1 sponsored by Hewlet Packard](http://www8.hp.com/us/en/campaigns/workstations/z1-g2.html), a Dell XPS12 showing off Krita Gemini and two more laptops for giving in-depth demos.
 
-https://www.youtube.com/watch?v=MAZ1PfVHMm0
+
+{{< youtube MAZ1PfVHMm0 >}}
 
 There were four of us: Boudewijn Rempt, [Timothee Giet](http://timotheegiet.com/blog/anim/krita-booth-at-siggraph-2014.html), [Oscar Baechler](http://ogbog.net/) and [Vera Lukman](http://shicmap.deviantart.com/), and sometimes the booth was so busy that people had to wait for a demo.
 

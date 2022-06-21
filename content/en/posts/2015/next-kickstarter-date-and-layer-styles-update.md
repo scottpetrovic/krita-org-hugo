@@ -21,4 +21,4 @@ We will let you know when the Kickstarter is launched to get all of the details.
 
 Adding layer styles to Krita is a really BIG task. It turned out to be much more work than we planned for. This is why it hasn't made it into the Krita 2.9 release yet. There is still work to be done, but we really want to get this into your hands for you to start playing around with. Starting with the next release (2.9.3), we will be including layer styles into Krita. While there are some features that we are still working on, we want you to play around with what we have. We will be continuing to work on it, so rest assured that the bugs and kinks will be ironed out in the future. Until then, check out this teaser video Wolthera made:
 
-https://www.youtube.com/watch?v=BHP7HklGUuo
+{{< youtube BHP7HklGUuo >}}

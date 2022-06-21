@@ -35,7 +35,7 @@ The only real change is that Resource Management now has dropped below Color Man
 
 In case you missed it, Wolthera made a cool video showing off gamut masks and the new palette docker, create by two new Krita contributors:
 
-https://www.youtube.com/watch?v=d3\_HL9OoHs4
+{{< youtube d3_HL9OoHs4 >}}
 
 ### And...
 

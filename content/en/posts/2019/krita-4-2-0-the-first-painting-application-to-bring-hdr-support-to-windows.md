@@ -37,7 +37,7 @@ You've got a wider range of colors to work with. You've got a wider range of dar
 
 If you'd have a HDR compatible set-up, and a browser that would support HDR, well, this video could be in HDR:
 
-https://www.youtube.com/watch?v=4O1kxEL9naw&feature=youtu.be
+{{< youtube 4O1kxEL9naw >}}
 
 (Image by Wolthera van Hövell tot Westerflier)
 

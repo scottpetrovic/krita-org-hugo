@@ -8,4 +8,4 @@ categories:
 
 We've released a new video! Ramon talks about the new perspective assistant in Krita 5:
 
-https://www.youtube.com/watch?v=2VhwSFMmFNs&feature=emb
+{{< youtube 2VhwSFMmFNs >}}

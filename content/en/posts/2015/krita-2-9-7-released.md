@@ -17,7 +17,7 @@ As is traditional, in September, we release the first Google Summer of Code resu
 
 It's a specialized feature, for drawing normal maps, as used in 3d engines and games. Check out the introduction video:
 
-https://www.youtube.com/watch?v=qiX60EWyMF8
+{{< youtube qiX60EWyMF8 >}}
 
 There were four parts to the project:
 

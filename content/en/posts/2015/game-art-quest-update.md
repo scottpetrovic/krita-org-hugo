@@ -23,11 +23,11 @@ The tangent normal brush engine overview is out!
 
 The feature was implemented by [Wolthera](http://wolthera.info) as part of the latest Google Summer of Code. It is one that few seem to know about, despite it being both pretty unique and useful. It allows you to draw tangent space normal map data, as well as flow maps. Sounds like Chinese to you? Just check out the 3 videos below to learn a bit more about that.
 
-https://www.youtube.com/watch?v=tzS\_k2z2UwU
+{{< youtube tzS_k2z2UwU >}}
 
-https://www.youtube.com/watch?v=X0YM7a0Ri2M
+{{< youtube X0YM7a0Ri2M >}}
 
-https://www.youtube.com/watch?v=193e1uzzGAk
+{{< youtube 193e1uzzGAk >}}
 
 It's now time to get back to work. Thank you kindly for your time! I’m going to communicate on the Kickstarter again on social networks this week, so please help me spread the word! We have to secure that stretch goal, right?
 

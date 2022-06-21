@@ -5,7 +5,7 @@ date: "2016-09-06"
 
 Krita 3.0.1 is the first release after Krita 3.0. With the new release schedule we're trying to release every six weeks, with a combination of new features and bug fixes. This release already contains the first results of the 2016 Google Summer of Code projects, as well as kickstarter-funded features, the work of new contributors Eugene Ingerman, Nishant Rodrigues, Miroslav Talasek and Laurent Jospin and the work from students mentored by Dmitry: Grigory Tantsev and Alexey Kapustin.
 
-https://www.youtube.com/watch?v=9S\_x6koOVBo
+{{< youtube 9S_x6koOVBo >}}
 
 [Video by Nathan Lovato.](http://gdquest.com/)
 

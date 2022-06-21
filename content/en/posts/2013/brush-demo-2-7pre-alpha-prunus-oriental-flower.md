@@ -9,7 +9,7 @@ tags:
   - "texture"
 ---
 
-\[embed\]https://www.youtube.com/watch?v=nnAoqVzXjVQ\[/embed\]
+{{< youtube nnAoqVzXjVQ >}}
 
 _( if the video doesn't display, you can watch it [here](http://youtu.be/nnAoqVzXjVQ) )_
 

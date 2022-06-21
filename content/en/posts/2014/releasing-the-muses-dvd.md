@@ -13,7 +13,7 @@ And, of course, there are plenty of DVD's left to order, so if you didn't pre-or
 
 Watch the trailer:
 
-\[embed\]https://www.youtube.com/watch?v=BAnfnpMQ4jU\[/embed\]
+{{< youtube BAnfnpMQ4jU >}}
 
 Or checkout the contents, nearly five hours of video:
 

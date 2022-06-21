@@ -7,7 +7,7 @@ Today an exciting [new crowdfunding campaign](https://www.kickstarter.com/projec
 
 "There are few learning resources dedicated to 2d game art. With Krita? Close to none. That is why I started working on Game Art Quest. This training will show you the techniques and concepts game artists use in their daily work. If you want to become a better artist, this one is for you."
 
-https://www.youtube.com/watch?v=vcKJibQckz4
+{{< youtube vcKJibQckz4 >}}
 
 "We are developing this project together with the Krita Foundation. This is an opportunity for Krita to reach new users and to sparkle the interest of the press. However, for this project to come to life, we need your help. A high quality training series requires months of full-time work to create. That is why we are [crowdfunding it on Kickstarter](https://www.kickstarter.com/projects/gdquest/game-art-quest-make-professional-2d-art-with-krita)."
 

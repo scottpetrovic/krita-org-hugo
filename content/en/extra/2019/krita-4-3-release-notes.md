@@ -101,7 +101,7 @@ The [high pass filter](https://docs.krita.org/en/reference_manual/filters/edge_d
 
 - RGBA brushes:  Krita now allows setting the opacity and lightness on [colored brush tips](https://docs.krita.org/en/reference_manual/brushes/brush_settings/brush_tips.html#brush-mode) separately. This allows for a number of new posibilities, amongst which the ability to get a texture remniscent of oil or acrylic impasto.
 
-https://www.youtube.com/watch?v=BMQzJ5n6LPE
+{{< youtube BMQzJ5n6LPE >}}
 
 - The pixel brush engine is about 20% faster
 
