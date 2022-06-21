@@ -9,9 +9,9 @@ Today we're releasing Krita 4.2.0. This is a big release, with over a thousand b
 
 \[embed width="800" height="550"\]https://youtu.be/ZbnQn6h5q0g\[/embed\]
 
-Compared to the last [beta,](https://krita.org/en/item/krita-4-2-0-beta-released/) there have been over 30 bug fixes. New in Krita 4.2.0 is updated support for drawing tablets, support for HDR monitors on Windows, an improved color palette docker, scripting API for animation, color gamut masking, improved selection handling, much nicer handling of the interaction between opacity and flow and much, much, much more.
+Compared to the last [beta,](/item/krita-4-2-0-beta-released/) there have been over 30 bug fixes. New in Krita 4.2.0 is updated support for drawing tablets, support for HDR monitors on Windows, an improved color palette docker, scripting API for animation, color gamut masking, improved selection handling, much nicer handling of the interaction between opacity and flow and much, much, much more.
 
-Dive into [the release notes](https://krita.org/en/krita-4-2-release-notes/) for a full overview!
+Dive into [the release notes](/krita-4-2-release-notes/) for a full overview!
 
 And there's also the lovely new splash image by Tyson Tan!
 
@@ -65,4 +65,4 @@ Currently, .sig files aren't available for this release because the maintainer i
 
 ## Support Krita
 
-Krita is a free and open source project. Please consider supporting the project with [donations](https://krita.org/en/support-us/donations/) or by [buying training videos or the artbook!](https://krita.org/en/support-us/shop) With your support, we can keep the core team working on Krita full-time.
+Krita is a free and open source project. Please consider supporting the project with [donations](/support-us/donations/) or by [buying training videos or the artbook!](/support-us/shop) With your support, we can keep the core team working on Krita full-time.

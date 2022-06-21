@@ -9,7 +9,7 @@ Today, we're releasing Krita 4.4.0!
 
 Only a little later than we had planned, this is the next feature release of Krita! With a whole slew of new fill layer types, including the really versatile SeExpr based scriptable fill layer type, exciting new options for Krita's brushes like the gradient map mode for brushes, lightness and gradient modes for brush textures, support for dynamic use of colors in gradients, webm export for animations, new scripting features -- and of course, hundreds of bug fixes that make this version of Krita better than ever. Especially exciting are all the fixes we made for Krita on ChromeOS and Android!
 
-Here's an extract from the [full release notes](https://krita.org/en/krita-4-4-0-release-notes/):
+Here's an extract from the [full release notes](/krita-4-4-0-release-notes/):
 
 ## Fill Layers
 
@@ -120,4 +120,4 @@ For all downloads:
 
 ## Support Krita
 
-Krita is a free and open source project. Please consider supporting the project with [donations](https://krita.org/en/support-us/donations/) or by [buying training videos!](https://krita.org/en/shop/) With your support, we can keep the core team working on Krita full-time.
+Krita is a free and open source project. Please consider supporting the project with [donations](/support-us/donations/) or by [buying training videos!](/shop/) With your support, we can keep the core team working on Krita full-time.

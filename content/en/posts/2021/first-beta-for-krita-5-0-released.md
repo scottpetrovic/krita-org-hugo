@@ -17,10 +17,10 @@ First some **warnings**:
 - The way Krita 5 keeps a version history for resources that are edited by the user is not compatible with Krita 4. After using Krita 5, going back to Krita 4 might cause Krita 4 to show duplicate resources.
 - Krita 5 can no longer load vector layers created in Krita 3 and older.
 - Krita files (.kra) and krita brush preset files (.kpp) created with Krita 5.0 are **not** guaranteed to be compatible with Krita 4!
-- Krita 5.0 fixed [an issue with text size in documents](https://krita.org/en/krita-5-0-release-notes/#text_size_dpi_issue_fix). However, opening files created with earlier versions of Krita may require [changing a setting](https://docs.krita.org/en/reference_manual/preferences/general_settings.html#miscellaneous) to get the originally expected text size.
+- Krita 5.0 fixed [an issue with text size in documents](/krita-5-0-release-notes/#text_size_dpi_issue_fix). However, opening files created with earlier versions of Krita may require [changing a setting](https://docs.krita.org/en/reference_manual/preferences/general_settings.html#miscellaneous) to get the originally expected text size.
 - Known issue with this beta: If you run a G'Mic filter, Krita's settings are temporary reset to default: the settings will be the customized once again after restarting Krita.
 
-Now, what's in it? [The answer is a lot](https://krita.org/en/krita-5-0-release-notes/)! Check out the full [release notes](https://krita.org/en/krita-5-0-release-notes/) for all the detail, but here's short list of highlights:
+Now, what's in it? [The answer is a lot](/krita-5-0-release-notes/)! Check out the full [release notes](/krita-5-0-release-notes/) for all the detail, but here's short list of highlights:
 
 - The new resource system that we have worked on for five years
 - Gradient dithering and wide-gamut gradients
@@ -101,4 +101,4 @@ The Linux appimage and the source .tar.gz and .tar.xz tarballs are signed. You c
 
 ## Support Krita
 
-Krita is a free and open source project. Please consider supporting the project with [donations](https://fund.krita.org) or by [buying training videos!](https://krita.org/en/shop/) With your support, we can keep the core team working on Krita full-time.
+Krita is a free and open source project. Please consider supporting the project with [donations](https://fund.krita.org) or by [buying training videos!](/shop/) With your support, we can keep the core team working on Krita full-time.

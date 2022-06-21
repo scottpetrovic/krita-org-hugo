@@ -9,7 +9,7 @@ The last day of the year... So, let's look back a bit. First off: none of the Kr
 
 ### Releases
 
-So, what did we do? In the first place, we made four releases: [Krita 4.2.9](https://krita.org/en/item/krita-4-2-9-released/), [4.3.0](https://krita.org/en/item/krita-4-3-0-released/), [4.4.0](https://krita.org/en/item/krita-4-4-0-released/) and [4.4.1](https://krita.org/en/item/krita-4-4-1-released/), and now we're working on [4.4.2](https://krita.org/en/item/second-beta-for-krita-4-4-2/). Krita came to ChromeOS and Android, too!
+So, what did we do? In the first place, we made four releases: [Krita 4.2.9](/item/krita-4-2-9-released/), [4.3.0](/item/krita-4-3-0-released/), [4.4.0](/item/krita-4-4-0-released/) and [4.4.1](/item/krita-4-4-1-released/), and now we're working on [4.4.2](/item/second-beta-for-krita-4-4-2/). Krita came to ChromeOS and Android, too!
 
 https://youtu.be/VTlh2KhkOM4
 
@@ -29,7 +29,7 @@ You can test all of that in the nightly builds for Windows, Linux and macOS: [KD
 
 [![https://invent.kde.org](../images/invent-1024x361.png)](https://invent.kde.org/graphics/krita/)
 
-The resource rewrite project still isn't done, though pretty much everything is in place. It is taking a lot of work to convert all the places where resources (like brushes, gradients, presets) are used to the new system. And as a project, it turns out it's simply too _large_. We decided to change too many things in one big refactoring and, frankly, it's motivation-sapping especially in a year that's already hard on everyone. And yes, we also mentioned that [already last year](https://krita.org/en/item/krita-in-2019-and-2020/). The 2020 February sprint was intended to be a kick-off for a concerted attack on the resource system with four people working on until it was done, but then came March...
+The resource rewrite project still isn't done, though pretty much everything is in place. It is taking a lot of work to convert all the places where resources (like brushes, gradients, presets) are used to the new system. And as a project, it turns out it's simply too _large_. We decided to change too many things in one big refactoring and, frankly, it's motivation-sapping especially in a year that's already hard on everyone. And yes, we also mentioned that [already last year](/item/krita-in-2019-and-2020/). The 2020 February sprint was intended to be a kick-off for a concerted attack on the resource system with four people working on until it was done, but then came March...
 
 We will have to finish this next year, so we can release Krita 5.0 and can start spending time on fun things like the text tool, machine learning based image scaling, dithered and HDR gradients and other fun and fancy features.
 

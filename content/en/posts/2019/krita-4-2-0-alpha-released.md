@@ -13,7 +13,7 @@ We're on track to release Krita 4.2.0  this month, and today we're releasing th
 
 But of course there's much more. We've been working on this release for a long time now, since June last year when Krita 4.1 was released. We have fixed about 1500 bugs in that period, and implemented a host of new features, workflow improvements and little bits of spit and polish.
 
-You can read all about the new features in the [release notes](https://krita.org/en/krita-4-2-release-notes/). Highlights are much improved tablet support on all platforms, HDR painting on Windows, improved painting performance, improved color palette docker, animation API for scripting, gamut masks, improved artistic color selector, an improved start screen that can now show you the latest news about Krita, changes to the way flow and opacity work when painting... And much more.
+You can read all about the new features in the [release notes](/krita-4-2-release-notes/). Highlights are much improved tablet support on all platforms, HDR painting on Windows, improved painting performance, improved color palette docker, animation API for scripting, gamut masks, improved artistic color selector, an improved start screen that can now show you the latest news about Krita, changes to the way flow and opacity work when painting... And much more.
 
 In the meantime, we've also worked [hard on the manual](https://docs.krita.org), to bring it up to date with this release. The manual for Krita 4.1.7 can still be [downloaded in epub format](https://download.kde.org/stable/krita/manual/4.1/).
 
@@ -62,4 +62,4 @@ The Linux appimage and the source tarball are signed. You can retrieve the publi
 
 ## Support Krita
 
-Krita is a free and open source project. Please consider supporting the project with [donations](https://krita.org/en/support-us/donations/) or by [buying training videos or the artbook!](https://krita.org/en/support-us/shop) With your support, we can keep the core team working on Krita full-time.
+Krita is a free and open source project. Please consider supporting the project with [donations](/support-us/donations/) or by [buying training videos or the artbook!](/support-us/shop) With your support, we can keep the core team working on Krita full-time.

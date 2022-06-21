@@ -11,7 +11,7 @@ date: "2021-01-26"
 
 Leon and Kiki are exploring their artistic path. By coincidence, Leon and Kiki met and traveled the art world together. From Spring to Winter, from valley to mountain. It's a path mixed with sweetness and bitterness, and they are enjoying it. Maybe in the end, they will heading in different directions, so Leon and Kiki decided to draw this journey. Please pick one of your favorite seasons and draw Leon and Kiki's journey.
 
-[Kiki was created by Tyson Tan: check out our Kiki reference page](https://krita.org/en/about/kiki/)!
+[Kiki was created by Tyson Tan: check out our Kiki reference page](/about/kiki/)!
 
 ## Judges
 

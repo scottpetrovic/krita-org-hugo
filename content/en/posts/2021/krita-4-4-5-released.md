@@ -140,4 +140,4 @@ The Linux appimage and the source .tar.gz and .tar.xz tarballs are signed. You c
 
 ## Support Krita
 
-Krita is a free and open source project. Please consider supporting the project with [donations](https://fund.krita.org) or by [buying training videos!](https://krita.org/en/shop/) With your support, we can keep the core team working on Krita full-time.
+Krita is a free and open source project. Please consider supporting the project with [donations](https://fund.krita.org) or by [buying training videos!](/shop/) With your support, we can keep the core team working on Krita full-time.

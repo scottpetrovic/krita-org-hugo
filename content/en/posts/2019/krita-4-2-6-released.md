@@ -5,7 +5,7 @@ categories:
   - "officialrelease"
 ---
 
-A bit later than expected, because of a regression found during [beta testing](https://krita.org/en/item/help-beta-test-krita-4-2-6/), we're releasing Krita 4.2.6. Over 120 people have participated in the beta test survey, so this is something we'll repeat for the next release.
+A bit later than expected, because of a regression found during [beta testing](/item/help-beta-test-krita-4-2-6/), we're releasing Krita 4.2.6. Over 120 people have participated in the beta test survey, so this is something we'll repeat for the next release.
 
 This release also contains an important workaround for users with an AMD Ryzen 5 3500 CPU. This CPU has a bug in its hardware random generator that caused crashes.
 
@@ -91,4 +91,4 @@ The Linux appimage and the source .tar.gz and .tar.xz tarballs are signed. You c
 
 ## Support Krita
 
-Krita is a free and open source project. Please consider supporting the project with [donations](https://krita.org/en/support-us/donations/) or by [buying training videos or the artbook!](https://krita.org/en/support-us/shop) With your support, we can keep the core team working on Krita full-time.
+Krita is a free and open source project. Please consider supporting the project with [donations](/support-us/donations/) or by [buying training videos or the artbook!](/support-us/shop) With your support, we can keep the core team working on Krita full-time.

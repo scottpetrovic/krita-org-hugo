@@ -5,7 +5,7 @@ date: "2016-12-13"
 
 Today the Krita team releases Krita 3.1.1 ! Krita 3.1 is the first release that is fully supported on OSX (10.9 and later)! Krita 3.1 is the result of half a year of intense work and contains many new features, performance improvement and bug fixes. It's now possible to use render animations (using ffmpeg) to gif or various video formats. You can use a curve editor to animate properties. Soft-proofing was added for seeing how your artwork will look in print. A new color picker that allows selecting wide-gamut colors. There is also a new brush engine that paints fast on large canvases, a stop-based gradient editor.
 
-There are a lot of fixes, improvements, and speedups. Visit the [Krita 3.1 release notes](https://krita.org/en/release-notes-for-krita-3-1/) for a list of everything that was changed.
+There are a lot of fixes, improvements, and speedups. Visit the [Krita 3.1 release notes](/release-notes-for-krita-3-1/) for a list of everything that was changed.
 
 [![krita_animation_3_0_2](../images/krita_animation_3_0_2-1024x826.gif)](https://krita.org/wp-content/uploads/2016/09/krita_animation_3_0_2.gif)
 
@@ -25,7 +25,7 @@ A quick video overview of all of the major features and fixes that are being shi
 
 https://www.youtube.com/watch?v=0eHNll7lPKk
 
-This release contains work funded by the 2015 Kickstarter, work done during the Google Summer of Code, and work done by volunteer hackers just for the fun of it. Not everyone might be aware of this, but Krita is open source and everyone is welcome to work on features, hack on bugs, or help out in many other ways. [Join our community!](https://krita.org/en/get-involved/overview/).
+This release contains work funded by the 2015 Kickstarter, work done during the Google Summer of Code, and work done by volunteer hackers just for the fun of it. Not everyone might be aware of this, but Krita is open source and everyone is welcome to work on features, hack on bugs, or help out in many other ways. [Join our community!](/get-involved/overview/).
 
 ### Windows
 
@@ -65,6 +65,6 @@ The Linux appimage and the source tarbal are signed. You can load the public key
 
 ### Get the Book!
 
-If you want to see what others can do with Krita, get [**Made with Krita 2016**](https://krita.org/en/item/made-with-krita-2016-the-krita-artbook/), the first Krita artbook, now available for pre-order!
+If you want to see what others can do with Krita, get [**Made with Krita 2016**](/item/made-with-krita-2016-the-krita-artbook/), the first Krita artbook, now available for pre-order!
 
 \[caption id="attachment\_4645" align="alignleft" width="217"\][![Made with Krita 2016](../images/cover_small-217x300.png)](https://krita.org/wp-content/uploads/2016/12/cover_small.png) Made with Krita 2016\[/caption\]

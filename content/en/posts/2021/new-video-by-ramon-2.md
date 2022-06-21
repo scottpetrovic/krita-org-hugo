@@ -9,7 +9,7 @@ https://youtu.be/cGaVQaFI64k
 
  
 
-Ramon has created another bundle of impasto brush presets to go with this video. To use the brushes, [download the latest version of Krita](https://krita.org/en/download/krita-desktop/): Krita Plus. Take care, this is still beta software!
+Ramon has created another bundle of impasto brush presets to go with this video. To use the brushes, [download the latest version of Krita](/download/krita-desktop/): Krita Plus. Take care, this is still beta software!
 
 Download the bundle:
 

@@ -7,7 +7,7 @@ Krita is the full-featured free digital painting studio for artists who want to 
 
 Krita has several features that are unique or a first among free software painting applications: support for colorspaces other than RGB, like CMYK, support for HDR painting, painting assistants, a perspective grid. The Krita developers are keen to support the artistic community that has grown around Krita.
 
-The name "Krita" comes from Swedish, and means "to draw" or "chalk" and was taken after the names "KImageShop" and "Krayon" gave problems. Krita's mascot is [Kiki](https://krita.org/en/about/kiki/), a cybersquirrel designed by Tyson Tan.
+The name "Krita" comes from Swedish, and means "to draw" or "chalk" and was taken after the names "KImageShop" and "Krayon" gave problems. Krita's mascot is [Kiki](/about/kiki/), a cybersquirrel designed by Tyson Tan.
 
 Krita is free software, licensed under the [GNU Public License](http://www.gnu.org/licenses/gpl.html), version 3 or later
 

@@ -44,7 +44,7 @@ I still do a bit of both when I can! Rough thumbnails and ideas can't be produce
 
 ### How did you find out about Krita?
 
-I think it was Amelia Hamrick's fault, haha! (Who [you have also interviewed in the past on here](https://krita.org/en/item/interview-with-amelia-hamrick/)) It was only 4 or so years ago when we started chatting and she unplugged Krita. The number of doodles shared in our conversations since then can't be counted. Thank her for her A+ marketing.
+I think it was Amelia Hamrick's fault, haha! (Who [you have also interviewed in the past on here](/item/interview-with-amelia-hamrick/)) It was only 4 or so years ago when we started chatting and she unplugged Krita. The number of doodles shared in our conversations since then can't be counted. Thank her for her A+ marketing.
 
 ### What was your first impression?
 

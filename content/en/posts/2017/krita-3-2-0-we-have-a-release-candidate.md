@@ -3,7 +3,7 @@ title: "Krita 3.2.0: We Have a Release Candidate!"
 date: "2017-08-07"
 ---
 
-After last week's rollercoaster ride (if you haven't seen it, check the [news,](https://krita.org/en/item/krita-foundation-in-trouble/) then the [update](https://krita.org/en/item/krita-foundation-update/)!), it was hard to get back into making releases and writing code. Yet, here is the release candidate for Krita 3.2.0. Fixes since the second beta include:
+After last week's rollercoaster ride (if you haven't seen it, check the [news,](/item/krita-foundation-in-trouble/) then the [update](/item/krita-foundation-update/)!), it was hard to get back into making releases and writing code. Yet, here is the release candidate for Krita 3.2.0. Fixes since the second beta include:
 
 - Some cleanups when handling OpenGL
 - Show a clearer error when loading the wintab32.dll file fails on Windows
@@ -63,4 +63,4 @@ The Linux appimage and the source tarball are signed. You can retrieve the publi
 
 #### Support Krita
 
-Krita is a free and open source project. Please consider supporting the project with [donations](https://krita.org/en/support-us/donations/) or by [buying training videos or the artbook!](https://krita.org/en/support-us/shop) With your support, we can keep the core team working on Krita full-time.
+Krita is a free and open source project. Please consider supporting the project with [donations](/support-us/donations/) or by [buying training videos or the artbook!](/support-us/shop) With your support, we can keep the core team working on Krita full-time.

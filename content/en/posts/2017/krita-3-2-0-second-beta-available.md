@@ -3,7 +3,7 @@ title: "Krita 3.2.0: Second Beta Available"
 date: "2017-07-22"
 ---
 
-We're releasing the second beta for Krita 3.2.0 today! These beta builds contain the following fixes, compared to [the first 3.2.0 beta release](https://krita.org/en/item/krita-3-2-beta-1-released/). Keep in mind that this is a beta: you're supposed to help the development team out by testing it, and reporting issues on [bugs.kde.org](https://bugs.kde.org).
+We're releasing the second beta for Krita 3.2.0 today! These beta builds contain the following fixes, compared to [the first 3.2.0 beta release](/item/krita-3-2-beta-1-released/). Keep in mind that this is a beta: you're supposed to help the development team out by testing it, and reporting issues on [bugs.kde.org](https://bugs.kde.org).
 
 - There are still problems on Windows with the integration with the gmic-qt plugin, but several lockups have been fixed.
 - The smart patch tool merge was botched: this is fixed now.
@@ -57,4 +57,4 @@ The Linux appimage and the source tarball are signed. You can retrieve the publi
 
 #### Support Krita
 
-Krita is a free and open source project. Please consider supporting the project with [donations](https://krita.org/en/support-us/donations/) or by [buying training videos or the artbook!](https://krita.org/en/support-us/shop) With your support, we can keep the core team working on Krita full-time.
+Krita is a free and open source project. Please consider supporting the project with [donations](/support-us/donations/) or by [buying training videos or the artbook!](/support-us/shop) With your support, we can keep the core team working on Krita full-time.

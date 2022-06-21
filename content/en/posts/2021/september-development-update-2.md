@@ -12,7 +12,7 @@ The Krita development fund now has over 150 subscription members -- and about 25
 
 [![](../images/landing-page-banner.png)](https://fund.krita.org)
 
-We have just now released [Krita 5.0 beta 1](https://krita.org/en/item/first-beta-for-krita-5-0-released/), and now we're working on the second beta. At the same time, there are some exciting developments for Krita 5.1, _and_ we're looking into what we want to focus on after the Krita 5.0 release.
+We have just now released [Krita 5.0 beta 1](/item/first-beta-for-krita-5-0-released/), and now we're working on the second beta. At the same time, there are some exciting developments for Krita 5.1, _and_ we're looking into what we want to focus on after the Krita 5.0 release.
 
 **Halla** and **Wolthera** had the first real life meeting since February 2020, and spent their time triaging and fixing bugs. That resulted in the bug count dropping by about sixty, because in the same week, over forty new bugs were reported. That means that people are really taking testing the first Krita 5.0 beta seriously, which is awesome!
 

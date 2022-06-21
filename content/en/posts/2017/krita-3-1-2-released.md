@@ -24,11 +24,11 @@ Audio is not yet available in the Linux appimages. It is an experimental feature
 - Added a checkbox for enabling HiDPI to the settings dialog.
 - remove the export to PDF functionality. It is having too many issues right now. ([BUG:372439](https://bugs.kde.org/show_bug.cgi?id=372439))
 
-There are also a lot of bug fixes. Check the [full release notes](https://krita.org/en/release-notes-for-3-1-2/)!
+There are also a lot of bug fixes. Check the [full release notes](/release-notes-for-3-1-2/)!
 
 ### Get the Book!
 
-If you want to see what others can do with Krita, get [**Made with Krita 2016**](https://krita.org/en/item/made-with-krita-2016-the-krita-artbook/), the first Krita artbook, now available for pre-order!
+If you want to see what others can do with Krita, get [**Made with Krita 2016**](/item/made-with-krita-2016-the-krita-artbook/), the first Krita artbook, now available for pre-order!
 
 \[caption id="attachment\_4645" align="alignleft" width="217"\][![Made with Krita 2016](../images/cover_small-217x300.png)](https://krita.org/wp-content/uploads/2016/12/cover_small.png) Made with Krita 2016\[/caption\]
 

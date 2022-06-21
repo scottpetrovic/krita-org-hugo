@@ -11,7 +11,7 @@ categories:
 
 En comparación con la versión beta, se han añadido otras 30 entradas a la lista de errores resueltos. Krita 4.2.0 viene con nueva compatibilidad con tabletas de dibujo digital, con monitores HDR en Windows, con una paleta de colores mejorada, un API para la animación, mascara de gama de color, control de selección mejorada, y muchas mas novedades.
 
-¡Puedes ver los detalles (en ingles) [en las notas de lanzamiento](https://krita.org/en/krita-4-2-release-notes/)!
+¡Puedes ver los detalles (en ingles) [en las notas de lanzamiento](/krita-4-2-release-notes/)!
 
 Nuestra imagen del comienzo de Krita ha sido actualizada, ¡Gracias a Tyson Tan por el nuevo diseño!
 
@@ -67,4 +67,4 @@ Por lo pronto los archivos .sig no están disponibles dado que los desarrollador
 
 ### También puedes apoyarnos
 
-Krita es un programa no solo de código libre si no ademas está a disposición de manera gratuita, éste proyecto solo es posible gracias a las donaciones hechas por nuestros usuarios, por favor considera la posibilidad de ayudarnos con una [donación](https://krita.org/en/support-us/donations/) o comprando [videos instructivos o nuestro libro de arte Made With Krita](https://krita.org/es/item/krita-3-2-0/%22https://krita.org/en/support-us/shop), solo con tu ayuda podremos mantener a nuestro pequeño grupo desarrollando Krita en tiempo completo, ¡Gracias!
+Krita es un programa no solo de código libre si no ademas está a disposición de manera gratuita, éste proyecto solo es posible gracias a las donaciones hechas por nuestros usuarios, por favor considera la posibilidad de ayudarnos con una [donación](/support-us/donations/) o comprando [videos instructivos o nuestro libro de arte Made With Krita](https://krita.org/es/item/krita-3-2-0/%22/support-us/shop), solo con tu ayuda podremos mantener a nuestro pequeño grupo desarrollando Krita en tiempo completo, ¡Gracias!

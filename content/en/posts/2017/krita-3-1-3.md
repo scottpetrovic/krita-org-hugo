@@ -15,7 +15,7 @@ We also have a new version of the Windows explorer integration plugin, that make
 - implement context menu actions for default tool (cut, copy, paste, object ordering)
 - added option to allow multiple instances of krita (BUG 377199)
 
-The full list of changes with 50+ bug fixes can be found  [in the full release notes](https://krita.org/en/release-notes-for-3-1-3/).
+The full list of changes with 50+ bug fixes can be found  [in the full release notes](/release-notes-for-3-1-3/).
 
 #### Download
 

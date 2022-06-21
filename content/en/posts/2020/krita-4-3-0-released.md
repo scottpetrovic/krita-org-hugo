@@ -9,7 +9,7 @@ Three months after the release of Krita 4.2.9, we've got a major new feature rel
 
 There's a whole new set of brush presets that evoke watercolor painting. There's a color mode in the gradient map filter and a brand new palettize filter and a high pass filter. The scripting API has been extended. It's now possible to adjust the opacity and lightness on colored brush tips separately. You can now create animated brush tips that select brush along multiple dimensions. We've made it possible to put the canvas area in a window of its own, so on a multi monitor setup, you can have all the controls on one monitor, and your images on the other. The color selector has had a big update. There's a new snapshot docker that stores states of your image, and you can switch between those. There's a brand new magnetic selection tool. Gradients can now be painting as spirals.
 
-Watch Ramon Miranda's introduction to Krita 4.3 and [check out the release notes for all the details](https://krita.org/en/krita-4-3-release-notes/)!
+Watch Ramon Miranda's introduction to Krita 4.3 and [check out the release notes for all the details](/krita-4-3-release-notes/)!
 
 https://youtu.be/VTlh2KhkOM4
 
@@ -64,4 +64,4 @@ For all downloads:
 
 ## Support Krita
 
-Krita is a free and open source project. Please consider supporting the project with [donations](https://krita.org/en/support-us/donations/) or by [buying training videos!](https://krita.org/en/support-us/shop) With your support, we can keep the core team working on Krita full-time.
+Krita is a free and open source project. Please consider supporting the project with [donations](/support-us/donations/) or by [buying training videos!](/support-us/shop) With your support, we can keep the core team working on Krita full-time.

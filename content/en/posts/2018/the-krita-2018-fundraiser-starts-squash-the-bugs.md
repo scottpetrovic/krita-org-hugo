@@ -5,7 +5,7 @@ date: "2018-09-15"
 
 [![](../images/2018-fundraiser-hero2.png)](https://krita.org)
 
-It’s time for a new [Krita fundraiser!](https://krita.org/en/fundraising-2018-campaign/) Our goal this year is to make it possible for the team to focus on one thing only: stability. Our previous fundraisers were all about features: adding new features, extending existing features. Thanks to your help, Krita has grown at breakneck speed!
+It’s time for a new [Krita fundraiser!](/fundraising-2018-campaign/) Our goal this year is to make it possible for the team to focus on one thing only: stability. Our previous fundraisers were all about features: adding new features, extending existing features. Thanks to your help, Krita has grown at breakneck speed!
 
 **Squash the bugs!**
 
@@ -31,4 +31,4 @@ And everyone who donates 50 euros or more will get a free download of Ramon Mira
 
  
 
-[**Go to the campaign page!**](https://krita.org/en/fundraising-2018-campaign/)
+[**Go to the campaign page!**](/fundraising-2018-campaign/)

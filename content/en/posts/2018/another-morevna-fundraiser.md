@@ -5,7 +5,7 @@ categories:
   - "news"
 ---
 
-Nikolai Mamashev, of [Pepper & Carrot animation fame](https://krita.org/en/item/pepper-carrot-comic-goes-animated/), and his team are working on a new episode of the Morevna open-source animation series. As in the previous project, they’re using Krita for creating and processing the artwork and Blender and other open-source tools for animation. Everything will be published under the **Creative Commons Attribution-ShareAlike** license.
+Nikolai Mamashev, of [Pepper & Carrot animation fame](/item/pepper-carrot-comic-goes-animated/), and his team are working on a new episode of the Morevna open-source animation series. As in the previous project, they’re using Krita for creating and processing the artwork and Blender and other open-source tools for animation. Everything will be published under the **Creative Commons Attribution-ShareAlike** license.
 
 <iframe src="https://www.youtube.com/embed/9_3NZ6j04Ug?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 

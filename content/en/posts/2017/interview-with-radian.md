@@ -58,7 +58,7 @@ The best balance between comfort and functionality. There are a few cool Photosh
 
 ![](../images/34-4.jpg)
 
-I tend to hate any of my artwork if it is more than 1-3 months old but there are a couple of exceptions. The Kiki painting I made for the artbook "[Made with Krita](https://krita.org/en/item/made-with-krita-2016-the-krita-artbook/)" is one of them. I used a bunch of new tricks in here and probably made a few good choices by accident.
+I tend to hate any of my artwork if it is more than 1-3 months old but there are a couple of exceptions. The Kiki painting I made for the artbook "[Made with Krita](/item/made-with-krita-2016-the-krita-artbook/)" is one of them. I used a bunch of new tricks in here and probably made a few good choices by accident.
 
 ### What techniques and brushes did you use in it?
 

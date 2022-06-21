@@ -11,7 +11,7 @@ This beta has Android builds too, since we fixed many issues with accessing file
 
 **NOTE for Windows Users: Microsoft has changed the way applications signed with certificates are handled. Only Digicert certificates are automatically trusted, other certificates will only be trusted if enough people bypass smartscreen to run the signed application. Our builds are absolutely safe, so you can safely do that.** **If you see the "Windows protected your PC" screen, press "More Info", then select "Run anyway".**
 
-[The full release notes bring you all the details](https://krita.org/en/krita-4-4-0-release-notes/)!
+[The full release notes bring you all the details](/krita-4-4-0-release-notes/)!
 
 <iframe src="https://diode.zone/videos/embed/b441f360-0b94-470a-8365-5a5f44b3a617" width="560" height="315" frameborder="0" sandbox="allow-same-origin allow-scripts allow-popups" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
 
@@ -86,4 +86,4 @@ For all downloads:
 
 ## Support Krita
 
-Krita is a free and open source project. Please consider supporting the project with [donations](https://krita.org/en/support-us/donations/) or by [buying training videos!](https://krita.org/en/shop/) With your support, we can keep the core team working on Krita full-time.
+Krita is a free and open source project. Please consider supporting the project with [donations](/support-us/donations/) or by [buying training videos!](/shop/) With your support, we can keep the core team working on Krita full-time.

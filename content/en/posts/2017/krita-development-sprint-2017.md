@@ -5,7 +5,7 @@ date: "2017-11-27"
 
 With all the turmoil the project experienced in 2017 it looked for a while as if we wouldn't have a face to face meeting this year. But that's not good for a project working on its fourth major release! We knew we really had to sit together, and finally managed to have a smaller than usual, but very productive, sprint in Deventer, the Netherlands from Thursday 23th to Sunday 26th.
 
-Not having been together since [August 2016](https://krita.org/en/item/2016-krita-sprint-day-1/), we had an agenda stuffed with a enormous backlog of items. And since we've been working on new code for a long time ago, our [bug tracker](https://bugs.kde.org/buglist.cgi?bug_status=UNCONFIRMED&bug_status=CONFIRMED&bug_status=ASSIGNED&bug_status=REOPENED&list_id=1478186&product=krita&query_format=advanced) was also slowly dying from elephantiasis of the database.
+Not having been together since [August 2016](/item/2016-krita-sprint-day-1/), we had an agenda stuffed with a enormous backlog of items. And since we've been working on new code for a long time ago, our [bug tracker](https://bugs.kde.org/buglist.cgi?bug_status=UNCONFIRMED&bug_status=CONFIRMED&bug_status=ASSIGNED&bug_status=REOPENED&list_id=1478186&product=krita&query_format=advanced) was also slowly dying from elephantiasis of the database.
 
 Let's do the bug tracker first: we managed to close over 120 bugs! Not every bug that gets closed gets closed with a fix: the problem is that most bug reports are actually help requests from users, and many of the rest are duplicates, or requests for features that are irrelevant for Krita. Still, while triaging the list of open and unconfirmed bug reports, we managed to fix more than a dozen real bugs.
 

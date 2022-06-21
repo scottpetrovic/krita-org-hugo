@@ -7,7 +7,7 @@ categories:
 
 Durante los primeros meses del 2017, una serie de problemas de impuestos y financieros nos dejaron sin la capacidad de planear una reunión entre los desarrolladores. Sin embargo con el plan de lanzar una versión nueva en unas cuantas semanas, nos es de suma importancia el poder colaborar y expresar el trabajo hecho y por realizar en persona, por lo que finalmente pudimos hacer una reunión, mucho mas pequeña que las anteriores, pero igualmente productiva, la cual tuvo lugar en Deventer, Holanda, del 23 al 26 de noviembre.
 
-La ultima asamblea fue en agosto del año pasado [2016](https://krita.org/en/item/2016-krita-sprint-day-1/), lo que a dado lugar a la acumulación de una gran cantidad ideas, planes y proyectos, ademas que la cantidad de errores de código a los que se tiene que atender se ha incrementado de manera significante.
+La ultima asamblea fue en agosto del año pasado [2016](/item/2016-krita-sprint-day-1/), lo que a dado lugar a la acumulación de una gran cantidad ideas, planes y proyectos, ademas que la cantidad de errores de código a los que se tiene que atender se ha incrementado de manera significante.
 
 Enseguida se muestra un resumen de la asamblea Krita 2017.
 

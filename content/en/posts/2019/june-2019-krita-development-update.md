@@ -5,7 +5,7 @@ categories:
   - "news"
 ---
 
-Time for another development update. [The last one was in April](https://krita.org/en/item/april-development-update/). We skipped reporting on May, because doing a [release](https://krita.org/en/item/krita-4-2-0-is-out/) takes a lot of time and effort and concentration! And then we had to do a [bugfix release](https://krita.org/en/item/krita-4-2-1-released/) in the first week of June; the next release, Krita 4.2.2, will be out by the end of this month.
+Time for another development update. [The last one was in April](/item/april-development-update/). We skipped reporting on May, because doing a [release](/item/krita-4-2-0-is-out/) takes a lot of time and effort and concentration! And then we had to do a [bugfix release](/item/krita-4-2-1-released/) in the first week of June; the next release, Krita 4.2.2, will be out by the end of this month.
 
 We're still fixing bugs like crazy, helped by long-standing community member Ivan Yossi, who started fixing bugs full-time in May, too.
 
@@ -31,7 +31,7 @@ Not for 4.2.2, but 4.3 (which should be out in September) are two new features a
 
 \[caption id="attachment\_9441" align="aligncenter" width="1016"\][![](../images/palettize.jpg)](https://krita.org/wp-content/uploads/2019/06/palettize.jpg) Allows interactively painting in truecolour while viewing matched to palette, with optional pattern-based dithering. Image by Carl Schwan\[/caption\]
 
-At the [Libre Graphics Meeting, which was attended by Boudewijn, Wolthera and Tiar](https://krita.org/en/item/krita-at-the-2019-libre-graphics-meeting/), several projects presented the history of their project with cool graphs. Well, since Krita officially turned twenty on June 8th (which we completely forgot to celebrate, because of all the release work), we thought it might be interesting to analyze the history of Krita's codebase a bit as well.
+At the [Libre Graphics Meeting, which was attended by Boudewijn, Wolthera and Tiar](/item/krita-at-the-2019-libre-graphics-meeting/), several projects presented the history of their project with cool graphs. Well, since Krita officially turned twenty on June 8th (which we completely forgot to celebrate, because of all the release work), we thought it might be interesting to analyze the history of Krita's codebase a bit as well.
 
 [![](../images/first_commit.png)](https://krita.org/wp-content/uploads/2019/06/first_commit.png)
 

@@ -9,7 +9,7 @@ The Krita team is releasing the second beta of Krita 4.4.2. Ramon Miranda has ju
 
 https://www.youtube.com/watch?v=DLXWynZT\_8s&feature=youtu.be
 
-Compared to the [first beta](https://krita.org/en/item/first-beta-of-krita-4-4-2/), the following issues have been fixed:
+Compared to the [first beta](/item/first-beta-of-krita-4-4-2/), the following issues have been fixed:
 
 - The projection of vector layers no longer gets corrupted when applying a mesh transformation
 - The isometric grid updates correctly and is drawn correctly ([BUG:427833](https://bugs.kde.org/show_bug.cgi?id=427833))
@@ -79,4 +79,4 @@ For all downloads:
 
 ## Support Krita
 
-Krita is a free and open source project. Please consider supporting the project with [donations](https://krita.org/en/support-us/donations/) or by [buying training videos!](https://krita.org/en/support-us/shop) With your support, we can keep the core team working on Krita full-time.
+Krita is a free and open source project. Please consider supporting the project with [donations](/support-us/donations/) or by [buying training videos!](/support-us/shop) With your support, we can keep the core team working on Krita full-time.

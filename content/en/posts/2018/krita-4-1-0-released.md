@@ -25,7 +25,7 @@ This release includes the following major new features:
 - Krita's scripting module can now be built with Python 2
 - The first part of Ivan Yossi's Google Summer of Code work on improving the performance of brush masks through vectorization is included as well!
 
-And there are a host of bug fixes, of course, and improvements to the rendering performance and more features. **Read the [full release notes](https://krita.org/en/krita-4-1-release-notes/) to discover what's new in Krita 4.1!**
+And there are a host of bug fixes, of course, and improvements to the rendering performance and more features. **Read the [full release notes](/krita-4-1-release-notes/) to discover what's new in Krita 4.1!**
 
 \[caption id="attachment\_7657" align="aligncenter" width="500"\][![](../images/krita_41-1024x1024.png)](https://krita.org/wp-content/uploads/2018/06/krita_41.png) Image by RJ Quiralta\[/caption\]
 
@@ -78,4 +78,4 @@ The Linux appimage and the source tarball are signed. You can retrieve the publi
 
 ## Support Krita
 
-Krita is a free and open source project. Please consider supporting the project with [donations](https://krita.org/en/support-us/donations/) or by [buying training videos or the artbook!](https://krita.org/en/support-us/shop) With your support, we can keep the core team working on Krita full-time.
+Krita is a free and open source project. Please consider supporting the project with [donations](/support-us/donations/) or by [buying training videos or the artbook!](/support-us/shop) With your support, we can keep the core team working on Krita full-time.

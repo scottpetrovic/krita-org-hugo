@@ -5,7 +5,7 @@ categories:
   - "news"
 ---
 
-We promised Digital Atelier would be available in the Krita Shop after the succesful finish of the Fundraiser. A bit later than expected, we've updated [the shop](https://krita.org/en/support-us/shop/) with the Digital Atelier brush preset bundle and tutorial download:
+We promised Digital Atelier would be available in the Krita Shop after the succesful finish of the Fundraiser. A bit later than expected, we've updated [the shop](/support-us/shop/) with the Digital Atelier brush preset bundle and tutorial download:
 
 [![](../images/promo-screen-02-1024x336.png)](https://gumroad.com/products/sFbEb)
 

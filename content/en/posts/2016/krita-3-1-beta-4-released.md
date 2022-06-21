@@ -16,7 +16,7 @@ Note: the beta still contains the colorize mask/lazy brush plugin. We will proba
 
 The fourth beta is also much more stable and usable than earlier builds, and we'd like to ask everyone to try to use this version in production and help us find bugs and issues!
 
-You can find out more about what is going to be new in Krita 3.1 in the [release notes](https://krita.org/en/release-notes-for-krita-3-1). The release notes aren't finished yet, but take a sneak peek all the same!
+You can find out more about what is going to be new in Krita 3.1 in the [release notes](/release-notes-for-krita-3-1). The release notes aren't finished yet, but take a sneak peek all the same!
 
 ### Windows
 

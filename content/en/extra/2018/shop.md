@@ -87,7 +87,7 @@ Training: Animate with Krita (Download)
 
 Now just **€14,95**
 
-Krita's exciting new animation feature explained by Timothee Giet! Krita 3.0 and up comes with tools to create traditional hand-drawn 2D animation. Create the next Looney Tunes with Krita! This is a preview release, containing two of three planned parts. Everyone who buys now will receive the third part when it is ready. The first part explains the user interface and tools, the second part explains the principles of animation. The third part will showcase creating an animation from start to finish. [Read more about this training course!](https://krita.org/en/animate-with-krita/)
+Krita's exciting new animation feature explained by Timothee Giet! Krita 3.0 and up comes with tools to create traditional hand-drawn 2D animation. Create the next Looney Tunes with Krita! This is a preview release, containing two of three planned parts. Everyone who buys now will receive the third part when it is ready. The first part explains the user interface and tools, the second part explains the principles of animation. The third part will showcase creating an animation from start to finish. [Read more about this training course!](/animate-with-krita/)
 
 [Get Animate with Krita](https://gum.co/TIso?wanted=true)
 

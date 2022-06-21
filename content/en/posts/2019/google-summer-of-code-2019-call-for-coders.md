@@ -19,7 +19,7 @@ The summer program involves focusing on one project. You will have a mentor assi
 
 If there is another project that you want to see, you can also propose your own. Use these guidelines to help formulate ideas: [Student Proposal Guidelines.](https://community.kde.org/GSoC#Student_proposal_guidelines)
 
-So, hang out with our community on [Krita's chat channel](https://krita.org/en/irc/), [build Krita](https://docs.krita.org/en/untranslatable_pages/building_krita.html), start hacking on some [bugs](https://bugs.kde.org/buglist.cgi?bug_severity=critical&bug_severity=grave&bug_severity=major&bug_severity=crash&bug_severity=normal&bug_severity=minor&bug_status=UNCONFIRMED&bug_status=CONFIRMED&bug_status=REOPENED&list_id=1592597&product=krita&query_format=advanced) or [feature requests](https://bugs.kde.org/buglist.cgi?bug_severity=wishlist&bug_status=UNCONFIRMED&bug_status=CONFIRMED&bug_status=REOPENED&list_id=1592599&product=krita&query_format=advanced) and discuss what you would like to do with us.
+So, hang out with our community on [Krita's chat channel](/irc/), [build Krita](https://docs.krita.org/en/untranslatable_pages/building_krita.html), start hacking on some [bugs](https://bugs.kde.org/buglist.cgi?bug_severity=critical&bug_severity=grave&bug_severity=major&bug_severity=crash&bug_severity=normal&bug_severity=minor&bug_status=UNCONFIRMED&bug_status=CONFIRMED&bug_status=REOPENED&list_id=1592597&product=krita&query_format=advanced) or [feature requests](https://bugs.kde.org/buglist.cgi?bug_severity=wishlist&bug_status=UNCONFIRMED&bug_status=CONFIRMED&bug_status=REOPENED&list_id=1592599&product=krita&query_format=advanced) and discuss what you would like to do with us.
 
 ### Knowledge required
 

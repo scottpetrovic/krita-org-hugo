@@ -8,7 +8,7 @@ categories:
 
 Following the botched macOS build yesterday, we're releasing Krita 5.0.0 beta 5. Beta 4 didn't happen: while it was building, Dmitry Kazakov fixed an issue which we really wanted tested right away.
 
-![](../images/2021-11-16_kiki-piggy-bank_krita5.png) Krita is a free and open source project. Please consider supporting the project with [donations](https://fund.krita.org) or by [buying training videos!](https://krita.org/en/shop/) With your support, we can keep the core team working on Krita full-time.
+![](../images/2021-11-16_kiki-piggy-bank_krita5.png) Krita is a free and open source project. Please consider supporting the project with [donations](https://fund.krita.org) or by [buying training videos!](/shop/) With your support, we can keep the core team working on Krita full-time.
 
 This release has the following fixes since beta 3
 

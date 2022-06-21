@@ -5,7 +5,7 @@ categories:
   - "development-builds"
 ---
 
-The summer has come and gone since the 4.3 release, but we have not been sitting still. We had four Summer of Code Students this year, each of which completed their project. One of these projects has already made it into 4.4: The SeExpr fill layers! And that's not the only new fill layer type... And fill layers now have on-canvas preview when you created them. And there's a new plugin that helps when using Krita together with Godot. And there are new options for the brush engines and, of course, a ton of bugfixes! [The full release notes bring you all the details](https://krita.org/en/krita-4-4-0-release-notes/)!
+The summer has come and gone since the 4.3 release, but we have not been sitting still. We had four Summer of Code Students this year, each of which completed their project. One of these projects has already made it into 4.4: The SeExpr fill layers! And that's not the only new fill layer type... And fill layers now have on-canvas preview when you created them. And there's a new plugin that helps when using Krita together with Godot. And there are new options for the brush engines and, of course, a ton of bugfixes! [The full release notes bring you all the details](/krita-4-4-0-release-notes/)!
 
 So, today, we're releasing Krita 4.4.0 beta 1: in two weeks we will release the final version. Please help improve Krita by testing this beta!
 
@@ -57,4 +57,4 @@ For all downloads:
 
 ## Support Krita
 
-Krita is a free and open source project. Please consider supporting the project with [donations](https://krita.org/en/support-us/donations/) or by [buying training videos!](https://krita.org/en/support-us/shop) With your support, we can keep the core team working on Krita full-time.
+Krita is a free and open source project. Please consider supporting the project with [donations](/support-us/donations/) or by [buying training videos!](/support-us/shop) With your support, we can keep the core team working on Krita full-time.

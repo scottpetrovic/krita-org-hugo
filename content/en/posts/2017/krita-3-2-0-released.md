@@ -5,7 +5,7 @@ date: "2017-08-17"
 
 Later than planned, here's Krita 3.2.0! With the new G'Mic-qt plugin integration, the smart patch tool, finger painting on touch screens, new brush presets and a lot of bug fixes.
 
-[Read the full release notes for more information!](https://krita.org/en/release-notes-for-krita-3-2/). Here's [GDQuest's](http://gdquest.com/) video introducing 3.2.0:
+[Read the full release notes for more information!](/release-notes-for-krita-3-2/). Here's [GDQuest's](http://gdquest.com/) video introducing 3.2.0:
 
 https://youtu.be/f9K48jXml4s
 
@@ -71,4 +71,4 @@ Note: the gmic-qt plugin is not available on OSX. Krita now ships with a pre-bui
     
     #### Support Krita
     
-    Krita is a free and open source project. Please consider supporting the project with [donations](https://krita.org/en/support-us/donations/) or by [buying training videos or the artbook!](https://krita.org/en/support-us/shop) With your support, we can keep the core team working on Krita full-time.
+    Krita is a free and open source project. Please consider supporting the project with [donations](/support-us/donations/) or by [buying training videos or the artbook!](/support-us/shop) With your support, we can keep the core team working on Krita full-time.

@@ -10,7 +10,7 @@ Today we're releasing Krita 4.0! A major release with major new features and imp
 
 https://youtu.be/a-CY4hmkg\_I
 
-The new splash screen for Krita 4.0, created by Tyson Tan, shows Kiki among the plum blossoms. We had wanted to release Krita 4 last year already, but [trials and tribulations](https://krita.org/en/item/krita-foundation-update/) caused considerable delays. But, like the plum blossoms that often bloom most vibrantly when it's coldest, we have overcome, and Krita 4 is now ready!
+The new splash screen for Krita 4.0, created by Tyson Tan, shows Kiki among the plum blossoms. We had wanted to release Krita 4 last year already, but [trials and tribulations](/item/krita-foundation-update/) caused considerable delays. But, like the plum blossoms that often bloom most vibrantly when it's coldest, we have overcome, and Krita 4 is now ready!
 
 [![](../images/kiki_4.0_sm-1-1024x463.png)](https://krita.org/wp-content/uploads/2018/03/kiki_4.0_sm-1.png)
 
@@ -18,7 +18,7 @@ The new splash screen for Krita 4.0, created by Tyson Tan, shows Kiki among the 
 
 We've again created a long, long page with all the details of everything that's new and improved in Krita 4.
 
-[See the full release notes with all changes!](https://krita.org/en/krita-4-0-release-notes/)
+[See the full release notes with all changes!](/krita-4-0-release-notes/)
 
 We already mentioned SVG support, a new text tool and Python scripting, so here are some other highlights:
 
@@ -90,6 +90,6 @@ The Linux appimage and the source tarball are signed. You can retrieve the publi
 
 ### Support Krita
 
-Krita is a free and open source project. Please consider supporting the project with [donations](https://krita.org/en/support-us/donations/) or by [buying training videos or the artbook!](https://krita.org/en/support-us/shop) With your support, we can keep the core team working on Krita full-time.
+Krita is a free and open source project. Please consider supporting the project with [donations](/support-us/donations/) or by [buying training videos or the artbook!](/support-us/shop) With your support, we can keep the core team working on Krita full-time.
 
 \[caption id="attachment\_6455" align="aligncenter" width="1024"\][![](../images/Krita4_Alegoric_final-1024x507.png)](https://krita.org/wp-content/uploads/2018/03/Krita4_Alegoric_final.png) Artwork by Ramon Miranda\[/caption\]

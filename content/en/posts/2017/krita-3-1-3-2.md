@@ -19,7 +19,7 @@ Se ha incluido ademas una nueva version del adaptador (plugin) para el explorado
 - Se ha implementado un menú contextual para la herramienta de selección de vectores (con cortar, copiar, pegar, ordenar objetos)
 - Se ha incluido la opción de abrir Krita mas de una ves al mismo tiempo. (BUG 377199)
 
-La lista completa de mas de 50 cambios (en inglés) [se puede ver aquí](https://krita.org/en/release-notes-for-3-1-3/).
+La lista completa de mas de 50 cambios (en inglés) [se puede ver aquí](/release-notes-for-3-1-3/).
 
 #### Descargas
 

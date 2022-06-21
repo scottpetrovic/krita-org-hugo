@@ -5,7 +5,7 @@ date: "2017-08-24"
 
 In 2010, during a developer sprint in Deventer, the Krita team sat down together with Peter Sikking to hammer out a vision statement for the project. Our old goal, be KDE's Gimp/Photoshop, didn't reflect what we really wanted to do. Here are some documents describing the creation of Krita's vision:
 
-- [Our announcement](https://krita.org/en/item/last-week-in-krita-week-8/)
+- [Our announcement](/item/last-week-in-krita-week-8/)
 - [Peter Sikking's blog](http://blog.mmiworks.net/2010/03/working-on-vision-with.html)
 - [Cyrille Berger's blog](http://blog.cberger.net/2010/02/27/krita-meeting-2010-%e2%80%93-day-1-2/)
 - [Boudewijn Rempt's blog](http://www.valdyas.org/fading/index.cgi/hacking/lastweekend.html)

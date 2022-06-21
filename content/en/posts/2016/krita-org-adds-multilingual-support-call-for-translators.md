@@ -13,4 +13,4 @@ This website update was sorely needed. The previous English and Japanese sites h
 
 ### Calling All Translators!
 
-If you would like your language to be available on krita.org, please [get in contact with us](https://krita.org/en/about/contact/). This will make a big impact in helping people learn about Krita and make downloading and sharing it easier. There are about 15 pages that need to be translated and we can work at your pace. The only requirement is that you need to be able to read and write English and your native language.
+If you would like your language to be available on krita.org, please [get in contact with us](/about/contact/). This will make a big impact in helping people learn about Krita and make downloading and sharing it easier. There are about 15 pages that need to be translated and we can work at your pace. The only requirement is that you need to be able to read and write English and your native language.

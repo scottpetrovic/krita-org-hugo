@@ -5,7 +5,7 @@ categories:
   - "development-builds"
 ---
 
-A bit later than planned -- after a year and a half of isolation meeting people spreads really bad colds -- we're releasing the second beta of Krita 5.0.0! [**The same warnings we gave with beta 1 still hold**](https://krita.org/en/item/first-beta-for-krita-5-0-released/)! There are still some [showstoppers](https://bugs.kde.org/buglist.cgi?bug_severity=critical&bug_severity=grave&bug_severity=major&bug_severity=crash&bug_severity=normal&bug_severity=minor&bug_status=UNCONFIRMED&bug_status=CONFIRMED&bug_status=ASSIGNED&bug_status=REOPENED&keywords=regression%2C%20release_blocker%2C%20&keywords_type=anywords&list_id=1918546&product=krita&query_format=advanced), but there we're also over 700 fixes closer to the final release.
+A bit later than planned -- after a year and a half of isolation meeting people spreads really bad colds -- we're releasing the second beta of Krita 5.0.0! [**The same warnings we gave with beta 1 still hold**](/item/first-beta-for-krita-5-0-released/)! There are still some [showstoppers](https://bugs.kde.org/buglist.cgi?bug_severity=critical&bug_severity=grave&bug_severity=major&bug_severity=crash&bug_severity=normal&bug_severity=minor&bug_status=UNCONFIRMED&bug_status=CONFIRMED&bug_status=ASSIGNED&bug_status=REOPENED&keywords=regression%2C%20release_blocker%2C%20&keywords_type=anywords&list_id=1918546&product=krita&query_format=advanced), but there we're also over 700 fixes closer to the final release.
 
 This release also includes a reworked GPU accelerated canvas: especially on HiDPI screens and on macOS Krita should perform much better.
 
@@ -135,4 +135,4 @@ The Linux appimage and the source .tar.gz and .tar.xz tarballs are signed. You c
 
 ## Support Krita
 
-Krita is a free and open source project. Please consider supporting the project with [donations](https://fund.krita.org) or by [buying training videos!](https://krita.org/en/shop/) With your support, we can keep the core team working on Krita full-time.
+Krita is a free and open source project. Please consider supporting the project with [donations](https://fund.krita.org) or by [buying training videos!](/shop/) With your support, we can keep the core team working on Krita full-time.

@@ -15,7 +15,7 @@ El mostrar Krita en éste medio nos permite el ser vistos por muchas mas persona
 
 ### Dinero
 
-Al igual que hemos hecho en Steam, el ponerle precio a Krita ayuda a proveer remuneración que tanto necesita el proyecto, nótese que inevitablemente parte de la ganancia hecha en el Windows Store va directamente a Microsoft, por lo que la mejor manera de aportar es mediante las [donaciones](https://krita.org/en/support-us/donations/).
+Al igual que hemos hecho en Steam, el ponerle precio a Krita ayuda a proveer remuneración que tanto necesita el proyecto, nótese que inevitablemente parte de la ganancia hecha en el Windows Store va directamente a Microsoft, por lo que la mejor manera de aportar es mediante las [donaciones](/support-us/donations/).
 
 Si decides obtener Krita por éste medio, tendrás la comodidad de las actualizaciones automáticas y una instalación sencilla, también hará que Krita opere dentro de un "sandbox" tal como el resto de las aplicaciones de Windows. Otra razon que se puede añadir al precio de Krita, es el que el programa viene directamente de nosotros, dándote mayor seguridad, sin intermediarios, lo cual beneficia a nuestro proyecto directamente.
 

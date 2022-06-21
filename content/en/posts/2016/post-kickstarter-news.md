@@ -7,7 +7,7 @@ The campaign season is over, and we're slowly recovering and getting back into a
 
 ### Kickstarter Surveys
 
-The survey replies have been streaming in! We've already contacted a dozen artists and commissioned artwork for the rewards. For Kickstarter rewards, we're paying for the work, as promised! The backers who wanted character sketches have been put in touch with the artists who wanted to do those! Only the art book will feature work for the exposure. Check out the [call for submissions](https://krita.org/en/item/call-for-submissions-for-the-2016-art-of-krita-book/)! (We're working on getting an icc proofing profile from the printer because... See below!)
+The survey replies have been streaming in! We've already contacted a dozen artists and commissioned artwork for the rewards. For Kickstarter rewards, we're paying for the work, as promised! The backers who wanted character sketches have been put in touch with the artists who wanted to do those! Only the art book will feature work for the exposure. Check out the [call for submissions](/item/call-for-submissions-for-the-2016-art-of-krita-book/)! (We're working on getting an icc proofing profile from the printer because... See below!)
 
 With the majority of surveys returned, we can be pretty sure of the final stretch goal ranking. Python is No. 1 and SVG import/export is No 2! And with those goals reached, the other stretch goals have to wait until next year (or be implemented by a fearless volunteer -- like [**16\. Numerical Input Widget**](https://phabricator.kde.org/D1875). That looks like it might get into 3.1 after all!
 

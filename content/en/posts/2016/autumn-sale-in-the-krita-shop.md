@@ -7,13 +7,13 @@ While Timothee Giet is working on the next Krita training video series -- and it
 
 **Digital downloads**
 
-_[Muses](https://krita.org/en/item/muses/)_, still one of the best introduction to digital painting in general, and to Krita in particular, is now available for only €14,95!
+_[Muses](/item/muses/)_, still one of the best introduction to digital painting in general, and to Krita in particular, is now available for only €14,95!
 
 ![](../images/muses.jpg)**Muses Download**
 
 Now just **€14,95**, from €24,95
 
-And _[Secrets of Krita](https://krita.org/en/item/secrets-of-krita-the-third-krita-training-dvd/)_, full of in-depth hints, tricks and tips on how to get the most out of Krita is now also... only €14,95!
+And _[Secrets of Krita](/item/secrets-of-krita-the-third-krita-training-dvd/)_, full of in-depth hints, tricks and tips on how to get the most out of Krita is now also... only €14,95!
 
 ![](../images/secrets-of-krita-box-art.png)**Secrets of Krita - Download ** Now just **€14,95**, from €29,95
 

@@ -21,7 +21,7 @@ There is something extremely exhausting and exhilarating about a real-live meeti
 
 \[caption id="attachment\_4233" align="alignnone" width="1024"\][![Pepper loves Kiki!](../images/PepperLovesKiki_001-1024x724.png)](https://krita.org/wp-content/uploads/2016/08/PepperLovesKiki_001.png) Pepper loves Kiki!\[/caption\]
 
-- We refined the release process and the process by which we take [feature requests](https://krita.org/en/item/ways-to-help-krita-work-on-feature-requests/) all the way to implemented and released features.
+- We refined the release process and the process by which we take [feature requests](/item/ways-to-help-krita-work-on-feature-requests/) all the way to implemented and released features.
 - Jouni sat together with Steven, the author of this post's sketches and who is also an accomplished animator to go through Krita's animation workflow
 - We discussed how badly we need a new architecture and UX design for resource management
 - We made plans for improving the website and the webshop
@@ -32,7 +32,7 @@ There is something extremely exhausting and exhilarating about a real-live meeti
 
 - And finally, we had a great time. Many dedicated contributors to Krita had never met in person before, and now we've got faces and voices mapped to chat channel nicknames and commit message email addresses!
 
-The 2016 Krita sprint was sponsored by [KDE e.V.](https://www.kde.org/community/donations/) (travel) and the [Krita Foundation](https://krita.org/en/support-us/donations/) (accomodation and food). Thanks! We also happened to have planned the sprint right for the week the Dutch summer decided to present us with a heatwave. Fortunately we could use [a nice and cool cellar](http://petrusenpaulus.eu/). Add some internet and power strips, and it was a great hack and dinner room!
+The 2016 Krita sprint was sponsored by [KDE e.V.](https://www.kde.org/community/donations/) (travel) and the [Krita Foundation](/support-us/donations/) (accomodation and food). Thanks! We also happened to have planned the sprint right for the week the Dutch summer decided to present us with a heatwave. Fortunately we could use [a nice and cool cellar](http://petrusenpaulus.eu/). Add some internet and power strips, and it was a great hack and dinner room!
 
 [![DSCF5836](../images/DSCF5836-1024x768.jpg)](https://krita.org/wp-content/uploads/2016/08/DSCF5836.jpg)
 

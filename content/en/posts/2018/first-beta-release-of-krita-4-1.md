@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=LWpjlyUlBiA
 - Krita's scripting module can now be built with Python 2
 - The first part of Ivan Yossi's Google Summer of Code work on improving the performance of brush masks through vectorization is included as well!
 
-And there's more. Read the [full release notes](https://krita.org/en/krita-4-1-release-notes/) to discover what's new in Krita 4.1! With this beta release, the release notes are still work in progress, though.
+And there's more. Read the [full release notes](/krita-4-1-release-notes/) to discover what's new in Krita 4.1! With this beta release, the release notes are still work in progress, though.
 
 ## Download
 
@@ -64,4 +64,4 @@ The Linux appimage and the source tarball are signed. You can retrieve the publi
 
 ## Support Krita
 
-Krita is a free and open source project. Please consider supporting the project with [donations](https://krita.org/en/support-us/donations/) or by [buying training videos or the artbook!](https://krita.org/en/support-us/shop) With your support, we can keep the core team working on Krita full-time.
+Krita is a free and open source project. Please consider supporting the project with [donations](/support-us/donations/) or by [buying training videos or the artbook!](/support-us/shop) With your support, we can keep the core team working on Krita full-time.

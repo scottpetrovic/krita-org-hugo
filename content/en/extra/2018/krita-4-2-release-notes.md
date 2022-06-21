@@ -5,7 +5,7 @@ date: "2018-08-22"
 
 # Krita 4.2 Release Notes
 
-Krita 4.2 has been [released on May 29th, 2019](https://krita.org/en/item/krita-4-2-0-is-out/). While the core team focused on stability and performance, this release also includes many new features and the performance work and the work on handling palettes done during the 2018 Google Summer of Code. Join us for the ride!
+Krita 4.2 has been [released on May 29th, 2019](/item/krita-4-2-0-is-out/). While the core team focused on stability and performance, this release also includes many new features and the performance work and the work on handling palettes done during the 2018 Google Summer of Code. Join us for the ride!
 
 \[embed width="800" height="550"\]https://youtu.be/ZbnQn6h5q0g\[/embed\]
 

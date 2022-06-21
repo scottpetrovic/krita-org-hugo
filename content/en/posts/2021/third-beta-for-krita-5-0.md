@@ -9,9 +9,9 @@ Today we're releasing the third beta for Krita 5. There are a lot of fixes compa
 
 Of course, the nightly stable builds already have a number of fixes compared to this beta release...
 
-\[caption id="attachment\_12343" align="aligncenter" width="1024"\][![](../images/electrichearts_20201224A_kiki_c1_1080P-1024x512.png)](https://krita.org/wp-content/uploads/2021/08/electrichearts_20201224A_kiki_c1_1080P.png) The new splash screen, by Tyson Tan\[/caption\]
+![](../images/electrichearts_20201224A_kiki_c1_1080P-1024x512.png)The new splash screen, by Tyson Tan
 
-![](../images/2021-11-16_kiki-piggy-bank_krita5.png) Krita is a free and open source project. Please consider supporting the project with [donations](https://fund.krita.org) or by [buying training videos!](https://krita.org/en/shop/) With your support, we can keep the core team working on Krita full-time.
+![](../images/2021-11-16_kiki-piggy-bank_krita5.png) Krita is a free and open source project. Please consider supporting the project with [donations](https://fund.krita.org) or by [buying training videos!](/shop/) With your support, we can keep the core team working on Krita full-time.
 
 These are the most important fixes since Beta 2:
 
@@ -180,4 +180,4 @@ The Linux appimage and the source .tar.gz and .tar.xz tarballs are signed. You c
 
 ## Support Krita
 
-Krita is a free and open source project. Please consider supporting the project with [donations](https://fund.krita.org) or by [buying training videos!](https://krita.org/en/shop/) With your support, we can keep the core team working on Krita full-time.
+Krita is a free and open source project. Please consider supporting the project with [donations](https://fund.krita.org) or by [buying training videos!](/shop/) With your support, we can keep the core team working on Krita full-time.

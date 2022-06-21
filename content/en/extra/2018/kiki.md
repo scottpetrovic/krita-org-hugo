@@ -92,7 +92,7 @@ Outside of the splashes, Tyson Tan also experimented some alternative designs fo
 
 \[caption id="attachment\_12921" align="aligncenter" width="619"\][![Figurine Kiki](../images/electrichearts_20170106_20160817_kiki_f-619x1024.png)](../images/electrichearts_20170106_20160817_kiki_f.png) **Kiki Plastic Model Design (2017)**\[/caption\]
 
-**Artist comment:** I designed this version of Kiki for the Japanese modeler Ito Ryou-Ichi to make into a [Kiki plastic model kit](https://krita.org/en/item/interview-with-ito-ryou-ichi/). More mech detail was added to give the model a proper level of visual density. Since Ryou needed more comprehensive reference when making the model, thus [the reference sheet](../images/electrichearts_20160903_kiki3D_03.png) in the beginning of this article was created.
+**Artist comment:** I designed this version of Kiki for the Japanese modeler Ito Ryou-Ichi to make into a [Kiki plastic model kit](/item/interview-with-ito-ryou-ichi/). More mech detail was added to give the model a proper level of visual density. Since Ryou needed more comprehensive reference when making the model, thus [the reference sheet](../images/electrichearts_20160903_kiki3D_03.png) in the beginning of this article was created.
 
 \[caption id="attachment\_12811" align="aligncenter" width="822"\][![Boy Kiki](../images/electrichearts_20171027_kiki_2-822x1024.png)](../images/electrichearts_20171027_kiki_2.png) **Boy Kiki (2017)**\[/caption\]
 
@@ -123,11 +123,11 @@ Outside of the splashes, Tyson Tan also experimented some alternative designs fo
 
 Please feel free to draw fan arts of Kiki and share with us on social media! Since there is no such thing as "a definitive version" of Kiki's design, you are welcomed to draw Kiki with your own interpretation.
 
-The [Four Seasons of Leon and Kiki](https://krita.org/en/item/huion-and-krita-competition-winners/) art contest sponsored by Huion also features many lovely Kiki artworks.
+The [Four Seasons of Leon and Kiki](/item/huion-and-krita-competition-winners/) art contest sponsored by Huion also features many lovely Kiki artworks.
 
 \[caption id="attachment\_2061" align="alignnone" width="768"\][![kiki-banajune](../images/kiki-banajune-768x1024.png)](https://krita.org/wp-content/uploads/2015/06/kiki-banajune.png) By Banajune\[/caption\]
 
-\[caption id="attachment\_5068" align="alignnone" width="1024"\][![](../images/photo_20170322_kiki_set01_angle01-1024x681.jpg)](https://krita.org/wp-content/uploads/2017/03/photo_20170322_kiki_set01_angle01.jpg) [Model by Ito Ryou-ichi](https://krita.org/en/item/interview-with-ito-ryou-ichi/)\[/caption\]
+\[caption id="attachment\_5068" align="alignnone" width="1024"\][![](../images/photo_20170322_kiki_set01_angle01-1024x681.jpg)](https://krita.org/wp-content/uploads/2017/03/photo_20170322_kiki_set01_angle01.jpg) [Model by Ito Ryou-ichi](/item/interview-with-ito-ryou-ichi/)\[/caption\]
 
  
 

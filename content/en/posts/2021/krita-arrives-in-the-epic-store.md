@@ -5,7 +5,7 @@ categories:
   - "news"
 ---
 
-Krita is in the Epic Store! Epic already had supported Krita with an [Epic MegaGrant](https://krita.org/en/item/krita-receives-epic-megagrant/), so when Epic expanded [their store to also offer applications](https://www.epicgames.com/store/en-US/discover/apps), they approached us, asking whether we wanted to be part of the launch, we said yes!
+Krita is in the Epic Store! Epic already had supported Krita with an [Epic MegaGrant](/item/krita-receives-epic-megagrant/), so when Epic expanded [their store to also offer applications](https://www.epicgames.com/store/en-US/discover/apps), they approached us, asking whether we wanted to be part of the launch, we said yes!
 
 It's the same deal as with Steam and the Windows Store: if you get Krita in one of them, you get automatic updates and you support Krita's development.
 

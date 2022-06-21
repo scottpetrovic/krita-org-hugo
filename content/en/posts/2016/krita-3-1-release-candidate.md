@@ -19,7 +19,7 @@ Due to illness, a week later than planned, we are still happy to release today t
 - Fix selecting the saving location for rendering animations (there are still several bugs in that plugin, though -- we're on it!)
 - Improve rendering speed of the popup color selector
 
-You can find out more about what is going to be new in Krita 3.1 in the [release notes](https://krita.org/en/release-notes-for-krita-3-1). The release notes aren't finished yet, but take a sneak peek all the same!
+You can find out more about what is going to be new in Krita 3.1 in the [release notes](/release-notes-for-krita-3-1). The release notes aren't finished yet, but take a sneak peek all the same!
 
 ### Windows
 

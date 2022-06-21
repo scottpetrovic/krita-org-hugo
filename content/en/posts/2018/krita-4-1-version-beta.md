@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=LWpjlyUlBiA
 - El modulo de programación de Krita ahora se puede construir con Python 2.
 - Se ha incluido la primera fase del trabajo de Ivan Yossi con el Google Summer of Code, que es la mejora del rendimiento de las mascaras de pinceles mediante la vectorización.
 
-Y mucho mas, se pueden leer los [detalles del lanzamiento](https://krita.org/en/krita-4-1-release-notes/) (en ingles) para enterarse de todas las novedades de la versión 4.1. Nótese que dado que esto solo es la version beta, las notas aun están bajo construcción.
+Y mucho mas, se pueden leer los [detalles del lanzamiento](/krita-4-1-release-notes/) (en ingles) para enterarse de todas las novedades de la versión 4.1. Nótese que dado que esto solo es la version beta, las notas aun están bajo construcción.
 
 ## Descargas
 
@@ -68,4 +68,4 @@ Las firmas están [aquí](http://download.kde.org/unstable/krita/3.1.3-beta.1).
 
 ### También puedes apoyarnos
 
-Krita es un programa no solo de código libre si no ademas está a disposición de manera gratuita, éste proyecto solo es posible gracias a las donaciones hechas por nuestros usuarios, por favor considera la posibilidad de ayudarnos con una [donación](https://krita.org/en/support-us/donations/) o comprando [videos instructivos o nuestro libro de arte Made With Krita](https://krita.org/es/item/krita-3-2-0/%22https://krita.org/en/support-us/shop), solo con tu ayuda podremos mantener a nuestro pequeño grupo desarrollando Krita en tiempo completo, ¡Gracias!
+Krita es un programa no solo de código libre si no ademas está a disposición de manera gratuita, éste proyecto solo es posible gracias a las donaciones hechas por nuestros usuarios, por favor considera la posibilidad de ayudarnos con una [donación](/support-us/donations/) o comprando [videos instructivos o nuestro libro de arte Made With Krita](https://krita.org/es/item/krita-3-2-0/%22/support-us/shop), solo con tu ayuda podremos mantener a nuestro pequeño grupo desarrollando Krita en tiempo completo, ¡Gracias!

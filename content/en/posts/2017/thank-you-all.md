@@ -5,7 +5,7 @@ categories:
   - "news"
 ---
 
-When we went [public with our troubles with the Dutch tax office](https://krita.org/en/item/krita-foundation-in-trouble/) two weeks ago, the response was [overwhelming](https://krita.org/en/item/krita-foundation-update/). The little progress bar on krita.org is still counting, and we're currently at 37,085 euros, and 857 donators. And that excludes the people who sent money to the bank directly. It does include [Private Internet Access](http://privateinternetaccess.com/)' sponsorship. Thanks to all you! So many people have supported us, we cannot even manage to send out enough postcards.
+When we went [public with our troubles with the Dutch tax office](/item/krita-foundation-in-trouble/) two weeks ago, the response was [overwhelming](/item/krita-foundation-update/). The little progress bar on krita.org is still counting, and we're currently at 37,085 euros, and 857 donators. And that excludes the people who sent money to the bank directly. It does include [Private Internet Access](http://privateinternetaccess.com/)' sponsorship. Thanks to all you! So many people have supported us, we cannot even manage to send out enough postcards.
 
 So, even though we're going to get another accountant's bill of about 4500 euros, we've still got quite a surplus! As of this moment, we have _€29,657.44_ in our savings account!
 

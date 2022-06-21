@@ -13,17 +13,17 @@ That said, you might've been using Krita for years, and still being a bit vague 
 
 Until [2005](https://en.wikipedia.org/wiki/Google_Summer_of_Code), all Krita development was done by volunteers, in their spare time. That year, Google started the Google Summer of Code program. Then we had students working full-time on Krita for three months; mentored by the existing volunteer team.
 
-For me, Krita maintainer since 2003, there was nothing more satisfying than working on Krita. In contrast with my day jobs, we actually started [releasing](https://krita.org/en/about/krita-releases-overview/) in 2004!
+For me, Krita maintainer since 2003, there was nothing more satisfying than working on Krita. In contrast with my day jobs, we actually started [releasing](/about/krita-releases-overview/) in 2004!
 
 But it was clear that there was only so much that could be done by a purely volunteer, unsponsored team. Time is money, money buys development time, so since [2009](https://dot.kde.org/2009/12/02/krita-team-seeking-sponsorship-take-krita-next-level), we've tried to sponsor development beyond Google Summer of Code. Some argued that this would kill the volunteer element in the community, but we've never seen a trace of that.
 
-So, these days, there are four people working full-time on Krita. There is Dmitry, since 2012, sponsored by the [Krita Foundation](https://krita.org/en/about/krita-foundation/) through donations and fund raisers.
+So, these days, there are four people working full-time on Krita. There is Dmitry, since 2012, sponsored by the [Krita Foundation](/about/krita-foundation/) through donations and fund raisers.
 
 Me, Boudewijn, has been funded working on Krita through a combination of donations, special projects for third-party organizations and, since 2017, the income from the Windows Store. I don't do just coding, but pretty much all project management.
 
 Agata and Ivan started working full-time on Krita this year, and are funded through the income from the Steam Store. Agata is well-known as Tiar and has been supporting other Krita users for ages. Ivan has been around in the Krita community for more than ten years, first producing things like shortcut cheat sheets, and completing a Google Summer of Code project successfully in 2018.
 
-This year, there are [four Google Summer of Code students](https://krita.org/en/item/our-2019-google-summer-of-code-students/?utm_source=dlvr.it&utm_medium=twitter) working on Krita: Sharaf, Tusooa, Kuntal and Alberto.
+This year, there are [four Google Summer of Code students](/item/our-2019-google-summer-of-code-students/?utm_source=dlvr.it&utm_medium=twitter) working on Krita: Sharaf, Tusooa, Kuntal and Alberto.
 
 Any given week, [there are a dozen people committing](https://github.com/KDE/krita/pulse) to Krita, so only a small part of the development community is funded. There are volunteers from many places in the world, some developing just one feature they need and asking for it to be included in Krita, others providing smaller and bigger features, bug fixes and UX improvements.
 
@@ -33,13 +33,13 @@ Of course, this is who were are... Developers, manual writers, artists. It's als
 
 ### How's development organized
 
-Our main communication channel is [irc](https://krita.org/en/irc/), internet relay chat. Yes, it's old-fashioned compared to something like [Matrix](https://webchat.kde.org/), but it works in a timely and dependable way.
+Our main communication channel is [irc](/irc/), internet relay chat. Yes, it's old-fashioned compared to something like [Matrix](https://webchat.kde.org/), but it works in a timely and dependable way.
 
 We have a weekly meeting at 14:00 CE(S)T every Monday. The meeting doesn't take more than an hour, and we'll discuss various topics and make a report. The reports are archived on [files.kde.org](https://files.kde.org/krita/krita_meeting_docs/).
 
 New code can be put up for review on KDE's gitlab instance, [invent](https://invent.kde.org/kde/krita/merge_requests). Everyone with a KDE identity account can fork Krita on gitlab and create pull requests.
 
-Right now, all full-time developers are working on fixing bugs for Krita 4.3, but volunteers can choose what they work on to a very large extent. The only limitation is that it must fit within Krita's [vision](https://krita.org/en/item/kritas-updated-vision/).
+Right now, all full-time developers are working on fixing bugs for Krita 4.3, but volunteers can choose what they work on to a very large extent. The only limitation is that it must fit within Krita's [vision](/item/kritas-updated-vision/).
 
 And next week we'll have our [2019 Krita Sprint](https://community.kde.org/Krita/Sprint2019). We try to get together at least once a year. Not just the Krita contributors, but we also invite artists to our sprints. The only way to learn how people use our application is by watching them work! Sprints are intense, but also lots of fun.
 
@@ -64,4 +64,4 @@ And of course a broad community full of people who are experts on C++, CMake, Qt
 
 While the developers and volunteers communicate mostly online, we occasionally get together in person with sprints. We discuss Krita of course, but we also socialize and just have a fun time! Next week we are meeting in the Netherlands for one of these sprints. We are going to be discussing many topics such as the future of Krita as well as taking a side trip to a [local museum](https://openluchtmuseum.nl/en). Many of our developers are artists as well, so there is sure to be a lot of sketch pads and painting flying around.
 
-if this sounds something you might want to be a part of, we are always welcoming new contributors. There are a lot of different areas that we have people volunteering and developing, not just hardcore programmers. We have a [getting involved section](https://krita.org/en/get-involved/overview/) that outlines some of the areas such as testing and creating brush resources. We also have a lot of documentation on building krita and being involved with our [updated contributor's manual](https://docs.krita.org/en/contributors_manual/community.html#).
+if this sounds something you might want to be a part of, we are always welcoming new contributors. There are a lot of different areas that we have people volunteering and developing, not just hardcore programmers. We have a [getting involved section](/get-involved/overview/) that outlines some of the areas such as testing and creating brush resources. We also have a lot of documentation on building krita and being involved with our [updated contributor's manual](https://docs.krita.org/en/contributors_manual/community.html#).

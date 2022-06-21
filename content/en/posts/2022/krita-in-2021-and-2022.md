@@ -13,9 +13,10 @@ We also launched the [Krita Dev Fund](https://fund.krita.org/), based on Blender
 
 {{< video-player src="../images/Video-for-store_final-30fps.mp4" type="video/mp4">}}
 
-Last year, 2021, was, of course the [year of the Krita 5 release](https://krita.org/en/item/krita-5-0-released/)! We also released from Krita 4.4.2 all the way through to Krita 4.4.8, so it was a busy year. With the release of 4.4.5 we said we wouldn't do another 4.4 release, but we did...
 
-The list of new features for Krita 5 is [huge](https://krita.org/en/krita-5-0-release-notes/). But even the 4.4 releases brought new features, like mesh gradients, mesh transformation, new fill layer types and new brush presets.
+Last year, 2021, was, of course the [year of the Krita 5 release](/item/krita-5-0-released/)! We also released from Krita 4.4.2 all the way through to Krita 4.4.8, so it was a busy year. With the release of 4.4.5 we said we wouldn't do another 4.4 release, but we did...
+
+The list of new features for Krita 5 is [huge](/krita-5-0-release-notes/). But even the 4.4 releases brought new features, like mesh gradients, mesh transformation, new fill layer types and new brush presets.
 
 ### Bugs
 
@@ -25,7 +26,7 @@ Last year we ended up with 16 bugs more than we started the year with, this year
 
 ### Code
 
-We also had three Google Summer of Code students participating in Google's abbreviated program for students. This year, everyone can apply, even if you're not a student anymore. [Santosh, Tanmay and Sachin](https://krita.org/en/item/kritas-google-summer-of-code-students/): thanks for your hard work!
+We also had three Google Summer of Code students participating in Google's abbreviated program for students. This year, everyone can apply, even if you're not a student anymore. [Santosh, Tanmay and Sachin](/item/kritas-google-summer-of-code-students/): thanks for your hard work!
 
 We finished the huge resource system rewrite that we started in 2015. It's certain that now that is out in the wild we will discover lots of things that need fixing, but then... That's always the case with code...
 

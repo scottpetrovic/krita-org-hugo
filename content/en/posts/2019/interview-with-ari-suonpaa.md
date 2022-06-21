@@ -64,7 +64,7 @@ I haven't used Krita for that long, so I have only a few pieces to choose from. 
 
 ### What techniques and brushes did you use in it?
 
-I was trying to imitate traditional paintings by using a limited palette and [the awesome Digital Atelier brush set](https://krita.org/en/item/introducing-digital-atelier-a-painterly-brush-preset-pack-by-ramon-miranda-with-tutorial-videos/).
+I was trying to imitate traditional paintings by using a limited palette and [the awesome Digital Atelier brush set](/item/introducing-digital-atelier-a-painterly-brush-preset-pack-by-ramon-miranda-with-tutorial-videos/).
 
 ### Where can people see more of your work?
 

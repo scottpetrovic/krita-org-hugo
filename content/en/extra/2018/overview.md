@@ -5,7 +5,7 @@ date: "2018-05-12"
 
 ## Get Involved
 
-We always welcome new contributors! Krita is a huge and ambitious project. There is more work than our small core team can handle. The Krita community is very open, welcoming and supportive. No resumé or CV needed! If you've got the enthusiasm, you're all welcome. [Get in contact with us](https://krita.org/en/about/contact/) if you have any issues getting started.
+We always welcome new contributors! Krita is a huge and ambitious project. There is more work than our small core team can handle. The Krita community is very open, welcoming and supportive. No resumé or CV needed! If you've got the enthusiasm, you're all welcome. [Get in contact with us](/about/contact/) if you have any issues getting started.
 
 .section-inset {<br /> padding: 3rem;<br />}<br />
 
@@ -72,7 +72,7 @@ Do you have resources to share and contribute? They are always welcome!
 1. Share your tutorials, brush packs, or other resources you make in the forum. The developers get notified when things are posted here.
 2. We will add some resources and tutorial links to our official documentation site if we think it is a good fit.
 
-[Contact developers with ideas](https://krita.org/en/about/contact/)
+[Contact developers with ideas](/about/contact/)
 
 ### Bug Triaging
 
@@ -92,4 +92,4 @@ While you might not have enough time to help out in other areas, donations are a
 
 Donations are used for a multitude of things to help improve Krita and grow the community.
 
-[Read about what donations can do](https://krita.org/en/support-us/donations/)
+[Read about what donations can do](/support-us/donations/)

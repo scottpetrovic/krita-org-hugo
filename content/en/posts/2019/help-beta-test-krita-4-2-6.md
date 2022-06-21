@@ -5,7 +5,7 @@ categories:
   - "news"
 ---
 
-This will be the first Krita release since [the big sprint](https://krita.org/en/item/krita-2019-sprint/). We're aiming to do monthly bugfix releases again from now on! But we also want to cut down on the regressions that come with rapid development so we're making beta releases again. Please help the team out and check these beta releases for bugs and regressions. Right there in the welcome screen is a link to a survey where you can give your feedback:
+This will be the first Krita release since [the big sprint](/item/krita-2019-sprint/). We're aiming to do monthly bugfix releases again from now on! But we also want to cut down on the regressions that come with rapid development so we're making beta releases again. Please help the team out and check these beta releases for bugs and regressions. Right there in the welcome screen is a link to a survey where you can give your feedback:
 
 [![](../images/survey-1024x587.png)](https://krita.org/wp-content/uploads/2019/08/survey.png)The survey idea is new -- we want to get your impressions of what we're about to release. If it works, we'll be refining the surveys.
 
@@ -88,4 +88,4 @@ For all downloads:
 
 ## Support Krita
 
-Krita is a free and open source project. Please consider supporting the project with [donations](https://krita.org/en/support-us/donations/) or by [buying training videos or the artbook!](https://krita.org/en/support-us/shop) With your support, we can keep the core team working on Krita full-time.
+Krita is a free and open source project. Please consider supporting the project with [donations](/support-us/donations/) or by [buying training videos or the artbook!](/support-us/shop) With your support, we can keep the core team working on Krita full-time.

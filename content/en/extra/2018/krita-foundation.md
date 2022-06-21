@@ -29,6 +29,6 @@ Currently, Boudewijn Rempt, Dmitry Kazakov, Agata Cacko and Ivan Yossi are spons
 
 For more information, see the [donations page](https://krita.org/support-us/donations/).
 
-**Address** Stichting Krita Foundation Korte Assenstraat 11 7411JP Deventer, the Netherlands. foundation@krita.org (**Note: this is not a user support email address. If you've got questions, go to [the forum and irc channel](https://krita.org/en/about/contact/)**).
+**Address** Stichting Krita Foundation Korte Assenstraat 11 7411JP Deventer, the Netherlands. foundation@krita.org (**Note: this is not a user support email address. If you've got questions, go to [the forum and irc channel](/about/contact/)**).
 
 **Bank Account** IBAN: NL72INGB0007216397 BIC: INGBNL2A

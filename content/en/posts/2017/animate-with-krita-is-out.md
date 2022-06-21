@@ -17,4 +17,4 @@ Animate with Krita is available as a digital download and costs just **€14,95*
 
 [Get Animate with Krita](https://gum.co/TIso?wanted=true)
 
-[](https://krita.org/en/animate-with-krita/)
+[](/animate-with-krita/)

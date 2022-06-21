@@ -5,13 +5,13 @@ categories:
   - "news"
 ---
 
-At the end of the year, we looked [back on 2017 and looked forward to 2018](https://krita.org/en/item/looking-back-looking-forward/), it's getting time to repeat the exercise! On the whole, 2018 was a better year for Krita than 2017. We hit some major milestones!
+At the end of the year, we looked [back on 2017 and looked forward to 2018](/item/looking-back-looking-forward/), it's getting time to repeat the exercise! On the whole, 2018 was a better year for Krita than 2017. We hit some major milestones!
 
-We **released [Krita 4.0](https://krita.org/en/item/krita-4-0-0-released/)**, which included Python scripting, the new, but sadly underpowered text tool, switched from ODG to SVG for vector graphics -- and much, much more.
+We **released [Krita 4.0](/item/krita-4-0-0-released/)**, which included Python scripting, the new, but sadly underpowered text tool, switched from ODG to SVG for vector graphics -- and much, much more.
 
 https://youtu.be/a-CY4hmkg\_I
 
-And after that, we released [4.0.1](https://krita.org/en/item/krita-4-0-1-released/), [4.0.2](https://krita.org/en/item/krita-4-0-2-released/), [4.0.3](https://krita.org/en/item/krita-4-0-3-released/), [4.0.4](https://krita.org/en/item/krita-4-0-4-released/), [4.1.0](https://krita.org/en/item/krita-4-1-0-released/) (with the [new reference images tool, session management and more](https://krita.org/en/krita-4-1-release-notes/)), [4.1.1](https://krita.org/en/item/krita-4-1-1-released/), [4.1.3](https://krita.org/en/item/krita-4-1.3-released/), [4.1.5](https://krita.org/en/item/krita-4-1.5-released/) and [4.1.7](https://krita.org/en/item/krita-4-1.7-released/). That's ten releases in one year, which means we're getting closer to our goal of a release every month. Are we totally satisfied? Not quite... We had also wanted to release 4.2.0 this year, with all the work done by our Google Summer of Code students. Unfortunately, one essential part is still unfinished, and that leads to some extra instability when working with larger images. In the meantime, more and more new code accumulates in the master branch in Git -- we're in danger of forgetting what's in there, so we've [started on the release notes already](https://krita.org/en/krita-4-2-release-notes/)!
+And after that, we released [4.0.1](/item/krita-4-0-1-released/), [4.0.2](/item/krita-4-0-2-released/), [4.0.3](/item/krita-4-0-3-released/), [4.0.4](/item/krita-4-0-4-released/), [4.1.0](/item/krita-4-1-0-released/) (with the [new reference images tool, session management and more](/krita-4-1-release-notes/)), [4.1.1](/item/krita-4-1-1-released/), [4.1.3](/item/krita-4-1.3-released/), [4.1.5](/item/krita-4-1.5-released/) and [4.1.7](/item/krita-4-1.7-released/). That's ten releases in one year, which means we're getting closer to our goal of a release every month. Are we totally satisfied? Not quite... We had also wanted to release 4.2.0 this year, with all the work done by our Google Summer of Code students. Unfortunately, one essential part is still unfinished, and that leads to some extra instability when working with larger images. In the meantime, more and more new code accumulates in the master branch in Git -- we're in danger of forgetting what's in there, so we've [started on the release notes already](/krita-4-2-release-notes/)!
 
 Speaking of [**Google Summer of Code**](https://summerofcode.withgoogle.com/archive/)... We participated through the [KDE](https://www.kde.org) umbrella in 2018. We had three students, who all completed their projects succesfully. All the code has been merged -- true, we still need to do some fixing, but it was a good year.
 
@@ -19,7 +19,7 @@ And in 2019 there will be another edition of the Google Summer of Code. While it
 
 [![](../images/2018-fundraiser-hero2.png)](https://krita.org/wp-content/uploads/2018/09/2018-fundraiser-hero2.png)
 
-We also had a [**succesful fundraiser**](https://krita.org/en/fundraising-2018-campaign/). We didn't use Kickstarter this time, so it was pretty [hard to actually drive traffic to the fundraiser](https://mail.kde.org/pipermail/kde-community/2018q4/004976.html). On the other hand, what with Kickstarter's cut, the actual net result was pretty much the same as with the 2016 fundraiser. We got about seven to eight months of development funded!
+We also had a [**succesful fundraiser**](/fundraising-2018-campaign/). We didn't use Kickstarter this time, so it was pretty [hard to actually drive traffic to the fundraiser](https://mail.kde.org/pipermail/kde-community/2018q4/004976.html). On the other hand, what with Kickstarter's cut, the actual net result was pretty much the same as with the 2016 fundraiser. We got about seven to eight months of development funded!
 
 [![](../images/busy.png)](https://krita.org/wp-content/uploads/2018/12/busy.png)Our community has grown as well. Krita gets downloaded almost **two million times** a year -- and that's just from our own website. There's the Windows Store, there's the rejuvenated Steam Store, community-driven flatpak, Windows download sites and Linux distributions being more and more up-to-date.
 

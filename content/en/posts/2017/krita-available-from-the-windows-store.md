@@ -13,7 +13,7 @@ Putting Krita in the Windows Store makes Krita visible to a whole new group of p
 
 ### Money
 
-And we wanted to do the same as on Steam, and put a price-tag on Krita in the store. Publishing Krita on the Store takes time, and the Krita project really needs funding at the moment. (Note, though, that buying Krita in the Windows Store means part of your money goes to Microsoft: it's still more effective to [donate](https://krita.org/en/support-us/donations/)).
+And we wanted to do the same as on Steam, and put a price-tag on Krita in the store. Publishing Krita on the Store takes time, and the Krita project really needs funding at the moment. (Note, though, that buying Krita in the Windows Store means part of your money goes to Microsoft: it's still more effective to [donate](/support-us/donations/)).
 
 In return, if you get Krita from the Windows Store, you get automatic updates, and it becomes really easy to install Krita on all your Windows systems. Krita will also run in a sandbox, like other Windows apps.
 

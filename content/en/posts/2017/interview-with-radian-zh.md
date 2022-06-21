@@ -58,7 +58,7 @@ Krita 有一些地方让我有点小烦，不过这些问题要么太难修复�
 
 ![](../images/34-4.jpg)
 
-我画完一张画 1 到 3 个月之后就会觉得以前画的简直不堪入目。不过也有一些例外。我为《[Made with Krita](https://krita.org/en/item/made-with-krita-2016-the-krita-artbook/)》绘制的 Kiki 就是其中之一。我在上面尝试了许多新技巧，说不定也作出了一些正确的选择。
+我画完一张画 1 到 3 个月之后就会觉得以前画的简直不堪入目。不过也有一些例外。我为《[Made with Krita](/item/made-with-krita-2016-the-krita-artbook/)》绘制的 Kiki 就是其中之一。我在上面尝试了许多新技巧，说不定也作出了一些正确的选择。
 
 ### 你在这幅作品里使用了什么笔刷和技巧？
 

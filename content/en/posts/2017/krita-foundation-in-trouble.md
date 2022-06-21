@@ -5,7 +5,7 @@ categories:
   - "news"
 ---
 
-[**Please check the August 2nd update, too!**](https://krita.org/en/item/krita-foundation-update/)
+[**Please check the August 2nd update, too!**](/item/krita-foundation-update/)
 
 Even while we're working on a new beta for Krita 3.2 and a new development build for 4.0 (with Python, on Windows!), we have to release some bad news as well.
 

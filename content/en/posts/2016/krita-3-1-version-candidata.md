@@ -21,7 +21,7 @@ Dada la falta de salud, se alargó el lanzamiento a una semana después, sin emb
 - Se arregló el seleccionar donde se guardan las animaciones (Nota: todavía hay varios errores en éste funcionamiento, pero ya los estamos trabajando).
 - Se mejoró la rapidez de presentación en el selector de la paleta emergente.
 
-Puedes darle un vistaso a lo que viene en las notas de lanzamiento, no es concreto pero te puedes dar una idea de como será la version final 3.1: [Ver las notas (en inglés)](https://krita.org/en/release-notes-for-krita-3-1).
+Puedes darle un vistaso a lo que viene en las notas de lanzamiento, no es concreto pero te puedes dar una idea de como será la version final 3.1: [Ver las notas (en inglés)](/release-notes-for-krita-3-1).
 
 ### Windows
 

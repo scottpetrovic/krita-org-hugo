@@ -117,7 +117,7 @@ We moved the Histogram area from the layers menu into its own [Histogram docker]
 
 ##  Download Links
 
-Visit the [Download page](https://krita.org/en/download/krita-desktop/) to grab the new builds. While you are downloading the new version, check out this amazing video that Achille made using Krita's animation features.
+Visit the [Download page](/download/krita-desktop/) to grab the new builds. While you are downloading the new version, check out this amazing video that Achille made using Krita's animation features.
 
  
 
@@ -161,7 +161,7 @@ You can also download the **experimental** build that has the new OpenGL Core Pr
 
 - [krita-3.0.1-nimmy2.dmg](http://files.kde.org/krita/3/osx/devbuilds/krita-3.0.1-nimmy2.dmg)
 
-See this [post for more information](https://krita.org/en/item/experimental-osx-build-available/) and how to report your findings.
+See this [post for more information](/item/experimental-osx-build-available/) and how to report your findings.
 
 #### Source
 

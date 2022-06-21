@@ -7,7 +7,7 @@ And then we realized we hadn't posted news about ongoing Krita development for s
 
 So, what's been going on? Some of the things we've been doing were backported to Krita 3.2 and 3.3, like support for the Windows 8 Pointer API, support for the ANGLE Direct3D display renderer, the new gmic-qt G'Mic plugin, new commandline options, support for touch painting, the new smart patch tool, new brush presets and blending modes... But there is also a lot of other work that simply couldn't be backported to 3.x.
 
-The last time we did a development update with Krita 4.0 was in June 2017: the [first development build for 4.0](https://krita.org/en/item/first-development-builds-for-krita-4-0/) already had a large number of new features:
+The last time we did a development update with Krita 4.0 was in June 2017: the [first development build for 4.0](/item/first-development-builds-for-krita-4-0/) already had a large number of new features:
 
 - the SVG-based vector layers with improved vector handling tools,
 - Allan Marshall's new airbrush system,
@@ -85,7 +85,7 @@ The grid now has a new Isometric option. This can be controlled and modified thr
 
 ### More
 
-And there's of course a lot of bug fixes, UI polish, performance improvements, small feature improvements. The list is too long to keep here, so we're working on a [separate release notes page](https://krita.org/en/krita-4-0-release-notes/). These notes, like this Krita 4.0 build, are very much a work in progress!
+And there's of course a lot of bug fixes, UI polish, performance improvements, small feature improvements. The list is too long to keep here, so we're working on a [separate release notes page](/krita-4-0-release-notes/). These notes, like this Krita 4.0 build, are very much a work in progress!
 
 ### Features currently working on
 
@@ -147,4 +147,4 @@ The Linux appimage and the source tarball are signed. You can retrieve the publi
 
 #### Support Krita
 
-Krita is a free and open source project. Please consider supporting the project with [donations](https://krita.org/en/support-us/donations/) or by [buying training videos or the artbook!](https://krita.org/en/support-us/shop) With your support, we can keep the core team working on Krita full-time.
+Krita is a free and open source project. Please consider supporting the project with [donations](/support-us/donations/) or by [buying training videos or the artbook!](/support-us/shop) With your support, we can keep the core team working on Krita full-time.

@@ -3,7 +3,7 @@ title: "Looking Forward"
 date: "2016-12-16"
 ---
 
-We have just [released Krita 3.1](https://krita.org/en/item/krita-3-1-released-and-looking-forward/), but we are already deep into coding again! We will continue releasing bug fix versions of Krita 3.1.x until it's time to release 3.2 (or maybe 4.0...). And, as with 2.9, some bug fix releases might even contain new features, if they're small and safe enough. But we'll also start making development builds soon, and there's also the  [daily build for Windows](https://ci.appveyor.com/project/alvinhochun/krita-packaging/build/artifacts).
+We have just [released Krita 3.1](/item/krita-3-1-released-and-looking-forward/), but we are already deep into coding again! We will continue releasing bug fix versions of Krita 3.1.x until it's time to release 3.2 (or maybe 4.0...). And, as with 2.9, some bug fix releases might even contain new features, if they're small and safe enough. But we'll also start making development builds soon, and there's also the  [daily build for Windows](https://ci.appveyor.com/project/alvinhochun/krita-packaging/build/artifacts).
 
 **For the 2015 kickstarter features, we're working on the following items:**
 

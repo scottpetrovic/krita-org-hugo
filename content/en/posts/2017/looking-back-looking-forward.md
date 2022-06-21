@@ -11,7 +11,7 @@ But then, when we could go public with our problems, the response was _phenomena
 
 From nearly broke, we went to be in a position to start planning again!
 
-We [reported about those plans before](https://krita.org/en/about/krita-roadmap-2017-2019/), but to recap:
+We [reported about those plans before](/about/krita-roadmap-2017-2019/), but to recap:
 
 - We will to release Krita 4.0 with _Python scripting, SVG vector layers,_ a new _text tool,_ the _stacked brushes_ feature (now renamed to masking brush) and the _lazy coloring brush,_ and many more features. String freeze December 31st 23:59:59, release planned for March!
 - We want to spend next year working on bug fixes, performance improvements and polish
@@ -24,6 +24,6 @@ Akademy is the yearly KDE community conference, and Krita has always been part o
 
 These days, judging by the number of bugs reported and closed, Krita is the second-most used KDE project, after the Plasma desktop shell. Without KDE, Krita wouldn't be where it's now. Without KDE, and the awesome job it's volunteer sysadmins are doing, we wouldn't have working forums, continuous integration, bug trackers or a project management platform. Sprints would be far more difficult to organize, and, of course, Krita depends heavily on a number of KDE framework libraries that make our coding life much easier. [KDE is currently having the annual End of Year Fundraiser](https://www.kde.org/fundraisers/yearend2017/)!
 
-Our [contributor sprint in 2016](https://krita.org/en/item/2016-krita-sprint-day-1/) was partly sponsored by KDE as well. With all the bother, it looked like we wouldn't meet up in 2017. But with the project back on a sound footing, we managed to have a small sprint in [November after all](https://krita.org/en/item/krita-development-sprint-2017/), and much vigorous discusion was had by all participants, ending up with firm plans for the last few 4.0 features that we were working on. Next year, we intend to have another big contributor sprint as well.
+Our [contributor sprint in 2016](/item/2016-krita-sprint-day-1/) was partly sponsored by KDE as well. With all the bother, it looked like we wouldn't meet up in 2017. But with the project back on a sound footing, we managed to have a small sprint in [November after all](/item/krita-development-sprint-2017/), and much vigorous discusion was had by all participants, ending up with firm plans for the last few 4.0 features that we were working on. Next year, we intend to have another big contributor sprint as well.
 
 And, of course, lots of lovely releases, bug fixes, features, artist interviews, documentation updates, and the please of seeing so many people create _great_ art!

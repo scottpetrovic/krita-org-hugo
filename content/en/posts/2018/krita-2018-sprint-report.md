@@ -9,7 +9,7 @@ This weekend, Krita developers and artists from all around the world came to the
 
 \[caption id="attachment\_6665" align="aligncenter" width="1024"\][![](../images/2018-05_Krita-sprint_Deventer-1024x345.jpg)](https://krita.org/wp-content/uploads/2018/05/2018-05_Krita-sprint_Deventer.jpg) Image by David Revoy\[/caption\]
 
-Events like these are very important: bringing people together, not just for serious discussions and hacking, but for lunch and dinner and rambling walks makes interaction much easier when we've gone back to our IRC channel, #krita. We didn't have a big sprint in 2017, the last big sprint was in [2016](https://krita.org/en/item/2016-krita-sprint-day-1/).
+Events like these are very important: bringing people together, not just for serious discussions and hacking, but for lunch and dinner and rambling walks makes interaction much easier when we've gone back to our IRC channel, #krita. We didn't have a big sprint in 2017, the last big sprint was in [2016](/item/2016-krita-sprint-day-1/).
 
 So... What did we do? We first had a [long meeting](https://files.kde.org/krita/krita_meeting_docs/Other%20Meetings/2018%20Krita%20Sprint%20Meeting.odt) where we discussed the following topics:
 

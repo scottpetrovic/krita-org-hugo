@@ -9,11 +9,11 @@ Here's our second update on the state of Krita 5. We’re bringing you these upd
 
 https://youtu.be/D0Lv5gWvu94
 
-If you want to give this a try, download one of the [Krita Next nightly builds](https://krita.org/en/download/krita-desktop/). There's also a [zip file with the presets](https://files.kde.org/krita/extras/RGBA-wet.zip) Ramon created for testing the new engine! Now, take care! These are development builds, so make a backup of [Krita's settings](https://docs.krita.org/en/KritaFAQ.html#resetting-krita-configuration) and of [the resources folder](https://docs.krita.org/en/KritaFAQ.html#where-are-my-resources-stored). Have fun!
+If you want to give this a try, download one of the [Krita Next nightly builds](/download/krita-desktop/). There's also a [zip file with the presets](https://files.kde.org/krita/extras/RGBA-wet.zip) Ramon created for testing the new engine! Now, take care! These are development builds, so make a backup of [Krita's settings](https://docs.krita.org/en/KritaFAQ.html#resetting-krita-configuration) and of [the resources folder](https://docs.krita.org/en/KritaFAQ.html#where-are-my-resources-stored). Have fun!
 
 Last week was also the week Halla gave a [presentation on funding Krita development during the Linux App Summit](https://www.youtube.com/watch?v=1pFADheIzQk). The video hasn't been cut up in separate videos for each presentation. Her presentation starts at 2:58.
 
-We also [released the results](https://krita.org/en/item/huion-and-krita-competition-winners/) of the contest we organized together with Huion. That was really fun, and [there were so many awesome submissions](https://krita-artists.org/c/contest-games-collab/four-seasons-journey-of-leon-kiki/30)!
+We also [released the results](/item/huion-and-krita-competition-winners/) of the contest we organized together with Huion. That was really fun, and [there were so many awesome submissions](https://krita-artists.org/c/contest-games-collab/four-seasons-journey-of-leon-kiki/30)!
 
 \[caption id="attachment\_12051" align="aligncenter" width="1024"\][![](../images/competition_1-1024x724.jpg)](https://krita.org/wp-content/uploads/2021/05/competition_1-scaled.jpg) Watch out Leon!\[/caption\]
 

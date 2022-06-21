@@ -5,7 +5,7 @@ categories:
   - "uncategorized-es"
 ---
 
-Apenas lanzamos [Krita 3.1](https://krita.org/en/item/krita-3-1-released-and-looking-forward/), y ya estamos trabajando en el código de la siguiente versión. La corrección de errores de código de Krita 3.1.x seguirá en vigencia hasta el lanzamiento de la versión 3.2 (o tal vez la versión 4.0...), y al igual que con la versión 2.9, algunas correcciones vendrán acompañadas con nuevas funciones cuando sea posible. Por lo pronto vendrán los lanzamientos de prueba además de la compilación diaria para [Windows](https://ci.appveyor.com/project/alvinhochun/krita-packaging/build/artifacts).
+Apenas lanzamos [Krita 3.1](/item/krita-3-1-released-and-looking-forward/), y ya estamos trabajando en el código de la siguiente versión. La corrección de errores de código de Krita 3.1.x seguirá en vigencia hasta el lanzamiento de la versión 3.2 (o tal vez la versión 4.0...), y al igual que con la versión 2.9, algunas correcciones vendrán acompañadas con nuevas funciones cuando sea posible. Por lo pronto vendrán los lanzamientos de prueba además de la compilación diaria para [Windows](https://ci.appveyor.com/project/alvinhochun/krita-packaging/build/artifacts).
 
 **De las funciones elegidas en el evento de Kickstarters 2015, estas son en las que estamos trabajando:**
 

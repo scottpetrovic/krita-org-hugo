@@ -9,7 +9,7 @@ Krita 4.3.0 will be the next full feature release of Krita. We've worked for a y
 
 [![Kiki among the waterlilies](../images/kiki_4.3.3_sm-1024x512.png)](https://krita.org/wp-content/uploads/2020/05/kiki_4.3.3_sm.png)
 
-[The full release notes bring you all the details](https://krita.org/en/krita-4-3-release-notes/)!
+[The full release notes bring you all the details](/krita-4-3-release-notes/)!
 
 Please help improve Krita by testing this beta!
 
@@ -53,4 +53,4 @@ For all downloads:
 
 ## Support Krita
 
-Krita is a free and open source project. Please consider supporting the project with [donations](https://krita.org/en/support-us/donations/) or by [buying training videos!](https://krita.org/en/support-us/shop) With your support, we can keep the core team working on Krita full-time.
+Krita is a free and open source project. Please consider supporting the project with [donations](/support-us/donations/) or by [buying training videos!](/support-us/shop) With your support, we can keep the core team working on Krita full-time.

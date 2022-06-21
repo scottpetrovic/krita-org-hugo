@@ -13,7 +13,7 @@ According to openhub, we had **2271** commits from **60** contributors. This exc
 
 We had **nine** releases (4.2.0 to 4.2.8) in 2019, slightly less than we'd planned, we'd wanted to have twelve releases. But one of those releases was 4.2.0, which made HDR editing available to artists for the first time; no other application supported that when 4.2.0 was released in May.
 
-We had **four** [Google Summer of Code students](https://krita.org/en/item/our-2019-google-summer-of-code-students/?utm_source=dlvr.it&utm_medium=twitter), and most of their work has already been merged and will be in Krita 4.3.0: a new magnetic selection tool, the history docker and the [android port](https://binary-factory.kde.org/job/Krita_Nightly_Android_Build/).
+We had **four** [Google Summer of Code students](/item/our-2019-google-summer-of-code-students/?utm_source=dlvr.it&utm_medium=twitter), and most of their work has already been merged and will be in Krita 4.3.0: a new magnetic selection tool, the history docker and the [android port](https://binary-factory.kde.org/job/Krita_Nightly_Android_Build/).
 
 Next to fixing bugs, we're work on that 4.3.0 release, but the main reason why 4.3.0 didn't happen in 2019 was because rewriting the core system for loading brushes, gradients and so turns out to be much more work than we had ever thought. We should have approached that much more gradually, but we couldn't figure out how to make that work.
 
@@ -21,9 +21,9 @@ We had **2,346,618** unique downloads from the download page on this website; th
 
 We kicked off [**krita-artists.org**](http://krita-artists.org) as our new discussion and support site, and we've already got more than **1000** active users.
 
-We also had the largest [Krita Sprint](https://krita.org/en/item/krita-2019-sprint/) ever.
+We also had the largest [Krita Sprint](/item/krita-2019-sprint/) ever.
 
-Through the donation button on krita.org and the donation page you see after a download, we got **€29,715.20** in donations. We made enough money apart from the donations from the Windows Store and Steam that this year we could hire **three** new full-time developers. And we got a [grant from Epic](https://krita.org/en/item/krita-receives-epic-megagrant/), too.
+Through the donation button on krita.org and the donation page you see after a download, we got **€29,715.20** in donations. We made enough money apart from the donations from the Windows Store and Steam that this year we could hire **three** new full-time developers. And we got a [grant from Epic](/item/krita-receives-epic-megagrant/), too.
 
 In short, 2019 was a year when Krita saw a huge growth, almost scarily so!
 

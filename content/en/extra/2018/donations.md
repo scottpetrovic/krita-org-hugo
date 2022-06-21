@@ -18,13 +18,13 @@ We frequently post development updates and status reports on our homepage. The p
 
 If you want to be notified when new releases come out you can sign up for our release mailing list. The mailing list only sends out an email when final builds are done. If you want to see early builds, you will need to catch the news.
 
-You might not want to constantly check the website for updates. You can use our RSS feed to subscribe to news updates at [https://krita.org/en/feed/](https://krita.org/en/feed/)
+You might not want to constantly check the website for updates. You can use our RSS feed to subscribe to news updates at [/feed/](/feed/)
 
 ## Having issues with donating?
 
 Krita is located in the Netherlands. You might have to contact your bank before a payment can go through. For the USA, you might have to put a "travel notice" in for the Netherlands for this to work.
 
-If you continue having issues, please [contact us](https://krita.org/en/about/contact/) so we can learn more about your issue.
+If you continue having issues, please [contact us](/about/contact/) so we can learn more about your issue.
 
 ## Large Donations
 
