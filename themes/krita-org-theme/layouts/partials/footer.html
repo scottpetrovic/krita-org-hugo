@@ -24,9 +24,8 @@
 	<br/>
 
 	{{ range $.Site.Home.AllTranslations }}
-		<a href="{{ .Permalink }}/" style="margin-right: 1rem">
-			<img src="{{ .Site.BaseURL }}{{ .Language.Params.flagIconLocation }}" width="15" />
-			{{ .Language.LanguageName }}		
+		<a href="{{ .Permalink }}" style="margin-right: 1rem">
+			<img src="{{ .Site.BaseURL }}{{ .Language.Params.flagIconLocation }}" width="20" /> {{ .Language.LanguageName }}		
 		</a>
 	{{ end }}
 </footer>

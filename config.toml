@@ -67,3 +67,26 @@ defaultContentLanguage = 'en'
             url = '/about'
             weight = 3
 
+    [languages.zh]
+    contentDir = 'content/zh'
+    languageName = 'Chinese'
+    languageDirection =  'ltr'
+    title = 'Krita Site(ZH)'
+    flagIconLocation = 'images/language-icons/china.svg'
+    weight = 3
+
+    [languages.zh-hk]
+    contentDir = 'content/zh-hk'
+    languageName = 'Chinese (HK)'
+    languageDirection =  'ltr'
+    title = 'Krita Site(HK)'
+    flagIconLocation = 'images/language-icons/hong-kong.svg'
+    weight = 4
+
+    [languages.zh-tw]
+    contentDir = 'content/zh-tw'
+    languageName = 'Chinese (TW)'
+    languageDirection =  'ltr'
+    title = 'Krita Site(TW)'
+    flagIconLocation = 'images/language-icons/taiwan.svg'
+    weight = 5
