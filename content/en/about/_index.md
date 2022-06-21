@@ -23,4 +23,4 @@ From 2009 onwards, the [Krita project started funding community members](http://
 
 In 2012, the Krita community [created the Krita Foundation](https://krita.org/item/announcing-the-krita-foundation/ "Announcing the Krita Foundation"), to provide more support for development.
 
-\[caption id="" align="alignleft" width="304"\]![Cyrille and Boudewijn - 2008.](images/krita-history-screen.jpg "Photograph by Alexandre Prokoudine") Photograph by Alexandre Prokoudine\[/caption\]
+\[caption id="" align="alignleft" width="304"\]![Cyrille and Boudewijn - 2008.](../images/krita-history-screen.jpg "Photograph by Alexandre Prokoudine") Photograph by Alexandre Prokoudine\[/caption\]

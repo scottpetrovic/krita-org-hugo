@@ -11,37 +11,37 @@ https://www.youtube.com/watch?v=9S\_x6koOVBo
 
 ### Tweak Brush settings in the pop-up palette
 
-![oncanvas_brush_editor_3](images/oncanvas_brush_editor_3.png)
+![oncanvas_brush_editor_3](../images/oncanvas_brush_editor_3.png)
 
 Tweak your brush without having to go into the brush editor. Each brush engine has its own settings to tweak. Use the small arrow icon to toggle this on and off. You can even configure which properties are shown. [Read the documentation for more information](https://docs.krita.org/On_Canvas_Brush_Editor).
 
 ### Soft Proofing
 
-![softproofing_gamutwarnings](images/softproofing_gamutwarnings.png)
+![softproofing_gamutwarnings](../images/softproofing_gamutwarnings.png)
 
 See how your artwork will look like when converting to CMYK. There is an additional "out of gamut" display to show you what color data will be getting lost. The first result of Wolthera's Google Summer of Code 2016 work! [Read the documentation](https://docs.krita.org/Soft_Proofing)
 
 ### Improved Mirror Tools
 
-![mirror tool enhancements](images/mirror-tool-enhancements.jpg)
+![mirror tool enhancements](../images/mirror-tool-enhancements.jpg)
 
 Additional options for the mirror tools. Lock the position so you don't accidently move it. Hide the line so it doesn't get in the way while painting. Move to center if you accidently move it while painting. [See documentation](https://docs.krita.org/Mirror_Tools)
 
 ### Threshold and Wavelet Decompose Added
 
-![wavelet_decompose](images/wavelet_decompose.png)
+![wavelet_decompose](../images/wavelet_decompose.png)
 
 Added a Threshold filter and a [Wavelet Decompose](https://docs.krita.org/Wavelet_Decompose) plugin. The wavelet decompose plugin was created by Miroslav Talasek.
 
 ### Quick Flip and Rotate buttons
 
-![quick flip](images/quick-flip.jpg)
+![quick flip](../images/quick-flip.jpg)
 
 Quickly flip or rotate your layers and selections with the free transform tool. No more -100% width transformations. Buttons exist for flipping vertical or horizontal, rotating clock wise or counter clock wise rotate.
 
 ### Improved Dockers
 
-![histogram docker](images/Histogram_docker.png)
+![histogram docker](../images/Histogram_docker.png)
 
 We moved the Histogram area from the layers menu into its own [Histogram docker](https://docs.krita.org/Histogram_docker) so it always can stay on the screen. Greatly improved the visual quality of the overview docker so it looks better. The channels docker now shows thumbnails as well. This work was done by Eugene Ingerman. Thanks!
 

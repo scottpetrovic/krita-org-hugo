@@ -29,7 +29,7 @@ Next, Scott Petrovic has been putting a lot of polish on Krita!
 
 Dmitry Kazakov has worked on the transform tool. While the cage tool got plenty of fixes, he also implemented a whole new mode: liquify. This needs testing now! Now the transform tool option pane is seriously overloaded...
 
-[![liquify](images/liquify-300x274.png)](https://krita.org/wp-content/uploads/2014/10/liquify.png)
+[![liquify](../images/liquify-300x274.png)](https://krita.org/wp-content/uploads/2014/10/liquify.png)
 
 If you've got a good proposal for a better layout, please share your ideas on the forum! Right now, Dmitry is working on the next part of the Kickstarter feature list: non-destructive transformation masks.
 

@@ -6,7 +6,7 @@ categories:
 coverImage: "Lady05-800.jpg"
 ---
 
-![](images/fish-eye-800.jpg)
+![](../images/fish-eye-800.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -16,7 +16,7 @@ I've loved drawing since I was a kid. I think it is because pen and paper have a
 
 I've always been hacking my computer, which led me to get interested in open source.
 
-![](images/hunter-800.jpg)
+![](../images/hunter-800.jpg)
 
 ### Do you paint professionally, as a hobby artist, or both?
 
@@ -24,7 +24,7 @@ I paint as a professional hobbyist. Which means it’s a hobby but I put maximum
 
 I’ve made lots of architectural illustration which actually led me to get interested in digital as a painting medium.
 
-![](images/choco-choc-waste-800.jpg)
+![](../images/choco-choc-waste-800.jpg)
 
 ### What genre(s) do you work in?
 
@@ -38,7 +38,7 @@ I’m always piling something on top of what I already have.
 
 I made a rule to always be inspired by several artists at the same time. Getting too focused on a single one appears to have some dangerous effects on me. Actually Vladimir Volegov is the one that moves me the most.
 
-### ![](images/Vladimir-Volegov-800.jpg)
+### ![](../images/Vladimir-Volegov-800.jpg)
 
 ### How and when did you get to try digital painting for the first time?
 
@@ -52,7 +52,7 @@ In 2005, I absolutely hated it. It was on a Wacom Graphire 4 small format. At th
 
 3\. You can focus on your art: If the elements you’ve been freed from in point 1 and 2 are no longer, then what can make you stand out? Your talent, your experience, your ideas…
 
-![](images/inGoodCare-800.jpg)
+![](../images/inGoodCare-800.jpg)
 
 ### How did you find out about Krita?
 
@@ -62,7 +62,7 @@ I found a David Revoy video about Mypaint. I don’t remember if he suggested Kr
 
 I realized it could do all the things I favored Manga Studio over Photoshop for.
 
-### ![](images/mountain-800.jpg)
+### ![](../images/mountain-800.jpg)
 
 ### What do you love about Krita?
 
@@ -88,7 +88,7 @@ The brush engines, the way it is meant for painting...
 
 ### If you had to pick one favorite of all your work done in Krita so far, what would it be, and why?
 
-![](images/Lady05-800.jpg)
+![](../images/Lady05-800.jpg)
 
 That drawing of the Chinese lady in the woods. I feel this is when I stopped focussing on making stupidly smooth shading and begun working on my brushwork.
 

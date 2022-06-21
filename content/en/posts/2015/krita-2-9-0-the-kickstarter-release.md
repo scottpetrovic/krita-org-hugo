@@ -35,6 +35,6 @@ OSX:- http://download.kde.org/stable/krita/krita\_x64\_2.9.0.1.zip
 
  
 
-[![mascot_20150204_kiki_c_1920x1080](images/mascot_20150204_kiki_c_1920x1080-1024x576.png)](https://krita.org/wp-content/uploads/2015/02/mascot_20150204_kiki_c_1920x1080.png)
+[![mascot_20150204_kiki_c_1920x1080](../images/mascot_20150204_kiki_c_1920x1080-1024x576.png)](https://krita.org/wp-content/uploads/2015/02/mascot_20150204_kiki_c_1920x1080.png)
 
 _Kiki in Spring Time, by Tyson Tan_

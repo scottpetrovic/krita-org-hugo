@@ -29,7 +29,7 @@ https://youtu.be/jI87VzDtkPY
 
 We added Radian's brush set to Krita's default brushes. These brushes are good for create a strong painterly look.
 
-[![](images/updated_presets_rad-478x1024.jpg)](https://krita.org/wp-content/uploads/2017/07/updated_presets_rad.jpg)
+[![](../images/updated_presets_rad-478x1024.jpg)](https://krita.org/wp-content/uploads/2017/07/updated_presets_rad.jpg)
 
 ## Other Features
 

@@ -9,7 +9,7 @@ The Krita team is organizing a bug day where the team will be on irc from early 
 
 Join us all on #krita on irc.freenode.net on Saturday November 5th!
 
-![](images/swordman_sm.png)
+![](../images/swordman_sm.png)
 
 The Swordman of the Apocalypse by Alvaro Dopazo -- featured on the beta 3 splash screen, to inspire all developers and everyone else. He is ready to slash some bugs. Are you?
 
@@ -47,7 +47,7 @@ We still have more than one hundred open bugs, so there's plenty to do before we
 
 Timothee Giet will visit Deventer in the weekend of November 5th to dedicate the comic + dvd packs and help them send out
 
-![](images/comics-with-krita-dvd-cover.jpg)
+![](../images/comics-with-krita-dvd-cover.jpg)
 
 But there are still some copies left, so you can order yours if you haven't done so!
 

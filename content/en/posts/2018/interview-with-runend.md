@@ -6,7 +6,7 @@ categories:
 coverImage: "kitchen-medieval-800.png"
 ---
 
-### ![](images/kitchen-medieval-800.png)
+### ![](../images/kitchen-medieval-800.png)
 
 ### Could you tell us something about yourself?
 
@@ -18,7 +18,7 @@ It can be said that I'm a hobbyist now, but I keep learning, practicing, experim
 
 ### What genre(s) do you work in?
 
-![](images/drink-juice-800.png)
+![](../images/drink-juice-800.png)
 
 So far I've made scenery background with character as a base to learn something. Starting from the basic we can make something more interesting, but still it was quite difficult for me.
 
@@ -36,7 +36,7 @@ Digital painting has many features that make it easy to create art. Of course th
 
 Lately I've been learning traditional painting using poster color, and that makes me feel both happy and challenged.
 
-![](images/stasiun-800.jpg)
+![](../images/stasiun-800.jpg)
 
 ### How did you find out about Krita?
 
@@ -50,7 +50,7 @@ I was like "WOW", grateful to find software as good as this.
 
 I have tried some of the features, especially the brush engine, UI/UX, layering, animation tools, I love all of them! And of course it's free and open source.
 
-![](images/magical-stone-800.png)
+![](../images/magical-stone-800.png)
 
 ### What do you think needs improvement in Krita? Is there anything that really annoys you?
 
@@ -60,7 +60,7 @@ Probably the filter layer and filter mask performance. Those run very slowly, I 
 
 Free open source software that runs cross-platform, no need to spend more. If you get a job or a paid project with Krita, there is a donate button to make Krita better still.
 
-### ![](images/waterfall-800.png)
+### ![](../images/waterfall-800.png)
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 

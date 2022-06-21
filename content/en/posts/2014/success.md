@@ -16,4 +16,4 @@ It would be really cool to be able to release the next version of Krita for Linu
 
 <table><tbody><tr><td><input type="hidden" name="on0" value="Reward Selection">Reward Selection</td></tr><tr><td><select name="os0"><option value="Donate">Donate €5,00 EUR</option> <option value="Postcard">Postcard €15,00 EUR</option> <option value="Postcard and stickers">Postcard and stickers €25,00 EUR</option> <option value="Digital Download of the Muses DVD">Digital Download of the Muses DVD €50,00 EUR</option> <option value="Physical copy of the Muses DVD">Physical copy of the Muses DVD €75,00 EUR</option> <option value="USB Stick with Krita">USB Stick with Krita €100,00 EUR</option> <option value="Comics with Krita DVD plus signed comic">Comics with Krita DVD plus signed comic €150,00 EUR</option> <option value="Dedicated Tutorial by Wolthera">Dedicated Tutorial by Wolthera €250,00 EUR</option> <option value="Pick your own priority">Pick your own priority €750,00 EUR</option> <option value="A month of dedicated development">A month of dedicated development €2.500,00 EUR</option></select></td></tr></tbody></table>
 
-  ![](images/pixel.gif)
+  ![](../images/pixel.gif)

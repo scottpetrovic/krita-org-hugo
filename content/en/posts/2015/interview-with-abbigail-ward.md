@@ -6,7 +6,7 @@ categories:
 coverImage: "mountains800.png"
 ---
 
-[![Mountains by Abbigail Ward](images/mountains800.png)](https://krita.org/wp-content/uploads/2015/03/mountains_by_lady_dragonrose-d8gism2.png)
+[![Mountains by Abbigail Ward](../images/mountains800.png)](https://krita.org/wp-content/uploads/2015/03/mountains_by_lady_dragonrose-d8gism2.png)
 
 ### Would you like to tell us something about yourself?
 

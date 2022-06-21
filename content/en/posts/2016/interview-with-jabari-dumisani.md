@@ -6,7 +6,7 @@ categories:
 coverImage: "warriors.png"
 ---
 
-![warriors](images/warriors.png)
+![warriors](../images/warriors.png)
 
 ### Could you tell us something about yourself?
 
@@ -56,7 +56,7 @@ Although it wasn't my first choice in the beginning, it's become my de-facto for
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![jaelynn](images/jaelynn.png)
+![jaelynn](../images/jaelynn.png)
 
 Easily my "Guardians of the Cloudgate: Attack of the Ebonseed" tabletop board game. This is the first time I ventured into toy design and used Krita for everything from the playing board, the pull cards, the cartoon art, the meeple stickers, the box art, the banner ads for the online storefront ... everything.
 

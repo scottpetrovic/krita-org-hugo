@@ -5,7 +5,7 @@ categories:
   - "artist-interview"
 ---
 
-### ![](images/llama800.png)
+### ![](../images/llama800.png)
 
 ### Could you tell us something about yourself?
 
@@ -31,7 +31,7 @@ My first experience was with an illustrator on a very bad "CGI" course. But what
 
 In the beginning it was fear, with pixel art and vectors I had all the control. After that was because of animation, doing 2d animation on paper needs a huge setup and you know what Uncle Ben said, "with big setups comes a big bill to pay". Nowdays I still do animation, but I don't make a choice, I do what each project needs, recently I directed a stop-motion short because it was the right language for the message.
 
-### ![](images/hula800.png)
+### ![](../images/hula800.png)
 
 ### How did you find out about Krita?
 
@@ -55,7 +55,7 @@ The organization of the tools, whenever I'm teaching about Krita, I had the time
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](images/lofigirl800.jpg)
+![](../images/lofigirl800.jpg)
 
 My static favourite is the version of the lofi girl I did for a twitter thread. I used all my knowledge of art and krita to make it: filter layers, g'mic, collage, masks, textures, brushes et cetera.
 

@@ -8,19 +8,19 @@ coverImage: "photo_20170322_kiki_set02_angle03.jpg"
 
 Ryou is the amazing artist from Japan who made the Kiki plastic model. Thanks to Tyson Tan, we now have an interview with him!
 
-[![](images/photo_20170322_kiki_set01_angle01-300x200.jpg)](https://krita.org/wp-content/uploads/2017/03/photo_20170322_kiki_set01_angle01.jpg)
+[![](../images/photo_20170322_kiki_set01_angle01-300x200.jpg)](https://krita.org/wp-content/uploads/2017/03/photo_20170322_kiki_set01_angle01.jpg)
 
 ### Can you tell us something about yourself?
 
 I'm Ito Ryou-ichi (Ryou), a Japanese professional modeler and figure sculptor. I work for the model hobby magazine 月刊モデルグラフィックス (Model Graphics Monthly), writing columns, building guides as well as making model samples.
 
-[![](images/photo_20170322_kiki_set01_angle02-300x200.jpg)](https://krita.org/wp-content/uploads/2017/03/photo_20170322_kiki_set01_angle02.jpg)
+[![](../images/photo_20170322_kiki_set01_angle02-300x200.jpg)](https://krita.org/wp-content/uploads/2017/03/photo_20170322_kiki_set01_angle02.jpg)
 
 ### When did you begin making models like this?
 
 Building plastic models has been my hobby since I was a kid. Back then I liked building robot models from anime titles like the Gundam series. When I grew up, I once worked as a manga artist, but the job didn't work out for me, so I became a modeler/sculptor around my 30s (in the 2000s). That said, I still love drawing pictures and manga!
 
-[![](images/photo_20170322_kiki_set01_angle03a-300x200.jpg)](https://krita.org/wp-content/uploads/2017/03/photo_20170322_kiki_set01_angle03a.jpg)
+[![](../images/photo_20170322_kiki_set01_angle03a-300x200.jpg)](https://krita.org/wp-content/uploads/2017/03/photo_20170322_kiki_set01_angle03a.jpg)
 
 ### How do you design them?
 
@@ -28,7 +28,7 @@ Being a former manga artist, I like to articulate my figure design from a manga 
 
 Although I like human and robot characters in general, my favorite has to be kemono (Japanese style furry characters). A niche genre indeed, especially in the modeling scene — you don't see many of those figures around. But to me, it feels like a challenge in which I can make the best use of my taste and skills.
 
-[![](images/photo_20170322_kiki_set01_angle04-300x200.jpg)](https://krita.org/wp-content/uploads/2017/03/photo_20170322_kiki_set01_angle04.jpg)
+[![](../images/photo_20170322_kiki_set01_angle04-300x200.jpg)](https://krita.org/wp-content/uploads/2017/03/photo_20170322_kiki_set01_angle04.jpg)
 
 ### How do you make the prototypes? And how were they produced?
 
@@ -36,13 +36,13 @@ There are many ways of prototyping a figure. I have been using epoxy putty sculp
 
 In case of Kiki's figure (and most of my figures), the final product is known as a "Garage Kit" — a box of unassembled, unpainted resin parts. The buyer builds and paints the figure by themselves. To turn the prototype into a garage kit, the finished prototype must first be broken into a few individual parts, make sure they have casting friendly shapes. Silicon-based rubber is then used to make molds out of those parts. Finally, flowing synthetic resin is injected into the molds and parts are harvested after the injected resin settled. This method is called "resin casting". Although I can cast them at home by myself, I often commission a professional workshop to do it for me. It costs more that way, but they can produce parts of higher quality in large quantity.
 
-[![](images/photo_20170322_kiki_set02_angle01-1-300x200.jpg)](https://krita.org/wp-content/uploads/2017/03/photo_20170322_kiki_set02_angle01-1.jpg)
+[![](../images/photo_20170322_kiki_set02_angle01-1-300x200.jpg)](https://krita.org/wp-content/uploads/2017/03/photo_20170322_kiki_set02_angle01-1.jpg)
 
 ### How did you learn about Krita?
 
 Some time ago I came across Tyson Tan's character designs on Pixiv.net and immediately became a big fan of his work. His Kiki pictures caught my attention and I did some research out of curiosity, leading me to Krita. I haven't yet learned how to use Krita, but I'll do that eventually.
 
-[![](images/photo_20170322_kiki_set02_angle02-300x200.jpg)](https://krita.org/wp-content/uploads/2017/03/photo_20170322_kiki_set02_angle02.jpg)
+[![](../images/photo_20170322_kiki_set02_angle02-300x200.jpg)](https://krita.org/wp-content/uploads/2017/03/photo_20170322_kiki_set02_angle02.jpg)
 
 ### Why did you decide to make a Kiki statuette?
 
@@ -64,4 +64,4 @@ Ryou's Personal Website: [http://bmwweb3.nobody.jp/](http://bmwweb3.nobody.jp/)
 
  
 
-[![](images/photo_20170322_kiki_set02_angle03-1024x681.jpg)](https://krita.org/wp-content/uploads/2017/03/photo_20170322_kiki_set02_angle03.jpg)
+[![](../images/photo_20170322_kiki_set02_angle03-1024x681.jpg)](https://krita.org/wp-content/uploads/2017/03/photo_20170322_kiki_set02_angle03.jpg)

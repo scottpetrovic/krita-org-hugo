@@ -6,7 +6,7 @@ categories:
 coverImage: "city-of-illusions-800.jpg"
 ---
 
-![](images/Hirend-800.jpg)
+![](../images/Hirend-800.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -24,7 +24,7 @@ I work in different genres, but I am most attracted to sci-fi and fantasy. Mainl
 
 As artists in digital art [Theo Prins](http://www.theoprins.com/), [Jakub Rebelka](http://shzrebelka.tumblr.com/) and [Simon Stålenhag](https://simonstalenhag.se/) inspire me.
 
-![](images/citadel1-800.jpg)
+![](../images/citadel1-800.jpg)
 
 ### How and when did you get to try digital painting for the first time?
 
@@ -56,7 +56,7 @@ Simplicity combined with great features. And versatility.
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](images/city-of-illusions-800.jpg)
+![](../images/city-of-illusions-800.jpg)
 
 This is my first work in Krita, "City of Illusions". Simply because it is the first. Also because I had an idea and a sketch for this work for a long time, but I couldn't find the tools and programs to implement them. I think it turned out well in Krita.
 

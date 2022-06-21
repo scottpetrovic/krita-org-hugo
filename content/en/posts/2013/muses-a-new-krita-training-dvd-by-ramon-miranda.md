@@ -13,7 +13,7 @@ The DVD will have more than three hours of HD video focused on creating digital 
 
 "Muses" will come with a full set of brushes and brush presets, icons ready to use with your own presets and much more. The voice over will be in English and Spanish, with unobtrusive pop-over messages for extra clarity.
 
-![](images/muses cover_STUDY COLOR.jpeg)
+![](../images/muses cover_STUDY COLOR.jpeg)
 
 _Muses -- the color sketch for the projected DVD cover_
 

@@ -7,7 +7,7 @@ Krita's [2018 fund raiser is all about fixing bugs!](https://krita.org) And we'r
 
 So, we actually both started looking at the bug at the same time, me being Boudewijn. The issue is, if you use a custom keyboard shortcut scheme that includes a shortcut definition for "close current image", then a popup would show, saying that the shortcut is ambiguous:
 
-[![](images/ambiguous.png)](https://krita.org/wp-content/uploads/2018/09/ambiguous.png)
+[![](../images/ambiguous.png)](https://krita.org/wp-content/uploads/2018/09/ambiguous.png)
 
 The popup doesn't tell where the ambiguous definition _is..._ Only that there is an ambiguous definition. Hm... Almost everything that does something in Krita that is triggered by a shortcut is an [_action._](http://doc.qt.io/qt-5/qaction.html) And deep down, Qt keeps track of all actions, and all shortcuts, but we cannot access that list.
 

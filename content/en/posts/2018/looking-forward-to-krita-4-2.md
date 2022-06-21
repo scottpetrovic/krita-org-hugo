@@ -8,7 +8,7 @@ categories:
 
 Everyone is hard at work, and what will become Krita 4.2 is taking shape already. Today we're presenting a preview of Krita 4.2. It's not complete yet, and there **ARE** bugs. More than in the stable release (we'll be doing a 4.1.4 after all next week to clear up some more bugs...), and some might make you lose work.
 
-\[caption id="attachment\_8252" align="aligncenter" width="850"\][![](images/2018-fundraiser-hero2.png)](https://krita.org) Support Krita! Join the 2018 Fundraiser!\[/caption\]
+\[caption id="attachment\_8252" align="aligncenter" width="850"\][![](../images/2018-fundraiser-hero2.png)](https://krita.org) Support Krita! Join the 2018 Fundraiser!\[/caption\]
 
 But experiment with it, test it, check it out! There are lots of new things in there, and we'd love your feedback! There are also quite a few things we're right now working on, that aren't in this preview, but will be in 4.2. And we'll talk about, too!
 
@@ -20,13 +20,13 @@ https://youtu.be/gWv--Do9L0E
 
 **Gamut masks**. A much-demanded new feature, gamut masks mask out part of the color selector. A [technique described by James Gurney](http://gurneyjourney.blogspot.com/2011/09/part-1-gamut-masking-method.html), this helps you to use color in a harmonious way. You can create new masks and edit existing masks right inside Krita. The masks now work with both the artistic and the advanced color selector. Rotating masks over the color selector is possible as well!
 
-![](images/gamut-masking.png)
+![](../images/gamut-masking.png)
 
 **Improved performance**. We're always working to make Krita perform better, and there will always be room for improvement. This preview contains Andrey Kamakin's Google Summer of Code work on the very core of Krita: the tile engine. That is, the bits where all your layer's pixels are handled. There's still some fixing to do here, so be warned that if you paint with really big brushes, you may experience crashes. At the same time, this preview also contains more of Ivan Yossi's Summer of Code work: the creation of brush masks now uses your CPU's vectorization instructions, and that also increates performance! Dmitry also worked hard on improving the performance of the Layer Styles feature: especially for the Stroke Layer Style. The rendering became more correct at the same time. And fill layers have become much faster, too!
 
 **Keep up to date**! Only on Linux for now, since we're still working on setting up the necessary libraries for encryption on Windows and macOS. The welcome screen can now show the latest news about Krita. It's off by default, since to bring you the news we have to connect to the Krita website.
 
-[![](images/news_widget-1024x566.png)](https://krita.org/wp-content/uploads/2018/10/news_widget.png)
+[![](../images/news_widget-1024x566.png)](https://krita.org/wp-content/uploads/2018/10/news_widget.png)
 
 **Colored Assistants.** It's now possible to give your painting assistants individual colors, and that color is saved and restored when you save and load your .kra project file.
 
@@ -60,7 +60,7 @@ Another area where work is going is **resource management**. That is, loading, w
 
 Have fun with the 4.2 preview!
 
-[![](images/4.2-preview-1024x693.png)](https://www.krita.org)
+[![](../images/4.2-preview-1024x693.png)](https://www.krita.org)
 
 ## Download
 

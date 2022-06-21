@@ -6,7 +6,7 @@ categories:
 coverImage: "AlyssaMay_PegasusConstellation_Small.png"
 ---
 
-### ![](images/AlyssaMay_PegasusConstellation_Small.png)
+### ![](../images/AlyssaMay_PegasusConstellation_Small.png)
 
 ### Could you tell us something about yourself?
 
@@ -24,7 +24,7 @@ Primarily fantasy because I love how much room for imagination there is. Nothing
 
 Dan dos Santos is my absolute favorite artist. His rendering is gorgeous. His color is masterful. There's a lot that can be learned just by looking at the paintings he produces, but luckily for me and anyone else who looks up to his work, he even shares some of his techniques and professional experience with the world. He works mostly in traditional media, but the concepts that he discusses are pretty universal. As far as digital artists go, I'm very fond of the work of people like Marta Dahlig and Daarken.
 
-![](images/AlyssaMay_NurseryCritters_Small.png)
+![](../images/AlyssaMay_NurseryCritters_Small.png)
 
 ### How and when did you get to try digital painting for the first time?
 
@@ -56,7 +56,7 @@ I think the open source nature of it is a big component, but on a daily use basi
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](images/AlyssaMay_DemonInTheDark_Small.png)I think my favorite Krita painting so far is my most recent—Demon in the Dark. Out of my work produced start to finish in the program, that one had the most detail to play with and I had a lot more fun balancing the composition. Cloth, smoky details, and the female figure are some of the things I enjoy painting most, and that one included all of them!
+![](../images/AlyssaMay_DemonInTheDark_Small.png)I think my favorite Krita painting so far is my most recent—Demon in the Dark. Out of my work produced start to finish in the program, that one had the most detail to play with and I had a lot more fun balancing the composition. Cloth, smoky details, and the female figure are some of the things I enjoy painting most, and that one included all of them!
 
 ### What techniques and brushes did you use in it?
 

@@ -15,4 +15,4 @@ Krita is Free software, licensed under the GNU Public License, version 2 or any 
 
 [Let's get Krita through the Greenlight!](http://steamcommunity.com/sharedfiles/filedetails/?id=225403385)
 
-[![](images/kritasteam.png)](http://steamcommunity.com/sharedfiles/filedetails/?id=225403385)
+[![](../images/kritasteam.png)](http://steamcommunity.com/sharedfiles/filedetails/?id=225403385)

@@ -13,7 +13,7 @@ Krita needs you! We've new test builds of what will become Krita 4.2. There are 
 
 First, following [two discussions](https://forum.kde.org/viewtopic.php?f=288&t=136165) on [the forum](https://forum.kde.org/viewtopic.php?f=139&t=152017), William Brown created his [very first patch for Krita](https://phabricator.kde.org/D18467). This changes the way flow and opacitiy interact:
 
-\[caption id="attachment\_8897" align="aligncenter" width="1024"\][![](images/image-1024x768.png)](https://krita.org/wp-content/uploads/2019/01/image.png) Comparison of new and old Flow handling\[/caption\]
+\[caption id="attachment\_8897" align="aligncenter" width="1024"\][![](../images/image-1024x768.png)](https://krita.org/wp-content/uploads/2019/01/image.png) Comparison of new and old Flow handling\[/caption\]
 
 Now these changes really touch the core of what Krita does, that is painting, so we'd like all of you to go out, download a test build and play with it.
 
@@ -23,7 +23,7 @@ Krita's .kra format is actually a simple zip file. And simple zip files have a l
 
 So we are now using a new library, [quazip](https://stachenov.github.io/quazip/), that supports the Zip64 standard. But we use that library now wherever we load and save .kra files, but also [OpenRaster](https://www.openraster.org/) files, resource bundles -- everything that's a zip file. By default, Zip64 is disabled: if you're working on big animations, you need to manually enable Zip64 functionality:
 
-[![](images/zip64.png)](https://krita.org/wp-content/uploads/2019/01/zip64.png)Note that Zip64 files cannot be loaded in older versions of Krita! But we also need you test whether everything is okay when Zip64 is disabled.
+[![](../images/zip64.png)](https://krita.org/wp-content/uploads/2019/01/zip64.png)Note that Zip64 files cannot be loaded in older versions of Krita! But we also need you test whether everything is okay when Zip64 is disabled.
 
 ### Feedback
 

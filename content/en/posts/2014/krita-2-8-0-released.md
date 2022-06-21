@@ -7,7 +7,7 @@ Today, the Krita team releases Krita 2.8. Krita 2.8 is a big milestone release, 
 
 ### What's new in Krita 2.8?
 
-![](images/Krita_2.8_screenshot_with_its_mascot_Kiki.png)
+![](../images/Krita_2.8_screenshot_with_its_mascot_Kiki.png)
 
 Krita 2.8 running in [Trisquel GNU/Linux 6.0](http://trisquel.info/), showing the default interface. The character on the canvas is Kiki the Cyber Squirrel, Krita's Mascot.
 
@@ -27,7 +27,7 @@ Krita has relied on Qt's graphics tablet support since Krita 2.0. We consciously
 
 So, with leaden shoes, we decided to dive in, and do our own tablet support. This was mostly done by Dmitry Kazakov during a week-long visit to Deventer, sponsored by the Krita Foundation. We now have our own code on X11 and Windows, though still based on Qt's example. Drawing is much, much smoother because we can process much more information and issues with offsets are gone.
 
-![](images/image14.jpg)
+![](../images/image14.jpg)
 
 Photo: David Revoy testing Krita with four tablets.
 
@@ -43,7 +43,7 @@ Again, as part of his sponsored work by the Krita Foundation, Dmitry took the le
 
 The result? Even at small zoom levels, the high-quality scaling option gives beautiful and fast results.
 
-![](images/image09.png)
+![](../images/image09.png)
 
 _Image by Timothee Giet_
 
@@ -63,7 +63,7 @@ _Development: Arjen Hiemstra, Dan Leinir Turthra Jensen, Timothée Giet , Boudew
 
 The Wrap Around mode (activate it with the W key, or in View > Wrap around mode) tiles the artwork on the canvas border for easy creation of tiled textures. It is only visualized in OpenGL mode (Settings > Configure Krita > Display).
 
-![](images/image06.png)
+![](../images/image06.png)
 
 Development: Dmitry Kazakov.
 
@@ -73,7 +73,7 @@ Krita 2.8 offer a new set of brush presets, with new icons following standards. 
 
 Additionally, now It is easier and faster to assign tags to resources -- with a single right click.
 
-![](images/image11.png)
+![](../images/image11.png)
 
 _Development: Sascha Suelzer_
 
@@ -83,7 +83,7 @@ _Resources: Timothée Giet, Ramon Miranda, Wolthera, David Revoy, and other Krit
 
 Directly select a layer by pressing the 'R' key and clicking with mouse/stylus on the canvas.
 
-![](images/image10.png)
+![](../images/image10.png)
 
 _Development: Dmitry Kazakov._
 
@@ -93,7 +93,7 @@ _Icons: David Revoy_
 
 Transparency checkboxes represent the transparent colors. Now the colors and size of the checkboxes are configurable: You can change it in Settings > Preferences > Transparency Checkboxes. Here is a demo with a dark checker theme to show the halo around the Krita 256x256 \*.png logo:
 
-![](images/image05.jpg)
+![](../images/image05.jpg)
 
 _Development: Boudewijn Rempt._
 
@@ -101,7 +101,7 @@ _Development: Boudewijn Rempt._
 
 It’s now easier to switch palettes with the Palette docker. Adding and removing a color can be performed directly on the docker. A set of new palette presets made by talented authors are now also bundled with Krita by default. You can display the Palette docker via: Setting > Docker > Palette.
 
-![](images/image01.jpg)
+![](../images/image01.jpg)
 
 _Development: Sven Langkamp_
 
@@ -113,13 +113,13 @@ If you scroll the canvas a lot in one direction, you’ll notice a big button ap
 
 This feature will help you to focus on drawing and never worry about the drawing surface available.
 
-![](images/image12.png)
+![](../images/image12.png)
 
 #### Additional options for the crop tool
 
 The crop tool can now ‘grow’ (you can crop a document outside the canvas limit and extend the canvas) and also get decorations (third guidelines, middle crosshair).
 
-![](images/image02.png)
+![](../images/image02.png)
 
 _Development: Camilla Boemann_
 
@@ -150,7 +150,7 @@ Use hundreds of famous Gmic filters directly in Krita. It’s a first implementa
 
 You can find the feature under the menu: Layer > Apply Gmic actions.
 
-![](images/image00.jpg)
+![](../images/image00.jpg)
 
 _Development: Lukáš Tvrdý, David Tschumperlé._
 
@@ -172,7 +172,7 @@ Development: Dmitry Kazakov.
 
 Krita gets a new panel in the preferences (Setting > Configure Krita > Canvas Input Settings) to offer you the possibility to customize all related canvas shortcuts. That means: all the zoom- and color picker keys are configurable now.
 
-![](images/image04.jpg)
+![](../images/image04.jpg)
 
 _Development: Arjen Hiemstra_
 
@@ -180,7 +180,7 @@ _Development: Arjen Hiemstra_
 
 A lot of work was done to make the Krita 2.8 user interface more compact, and dim the saturation of the icons to let the user focus on the canvas.
 
-![](images/image07.jpg)
+![](../images/image07.jpg)
 
 #### Other new Features:
 

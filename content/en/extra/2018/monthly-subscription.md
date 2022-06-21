@@ -17,4 +17,4 @@ Our normal payment processor doesn't support PayPal for monthly payments. If you
 
  _ €3 minimum_
 
- ![](images/pixel.gif)
+ ![](../images/pixel.gif)

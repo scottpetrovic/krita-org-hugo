@@ -6,7 +6,7 @@ categories:
 coverImage: "laura-larayice-doodle-800px.png"
 ---
 
-![laura-larayice-doodle-800px](images/laura-larayice-doodle-800px.png)
+![laura-larayice-doodle-800px](../images/laura-larayice-doodle-800px.png)
 
 ### Could you tell us something about yourself?
 
@@ -42,7 +42,7 @@ I LOVED IT SO MUCH. I had been used to drawing with GIMP which really isn't grea
 
 ### What do you love about Krita?
 
-Pressure sensitivity, smooth blending, super cool useful brushes for shading and stuff, the ability to flip and rotate the canvas (my favorite part), and autosave (also my favorite part). ![laura-leopard-trench-coat-800px](images/laura-leopard-trench-coat-800px.png)
+Pressure sensitivity, smooth blending, super cool useful brushes for shading and stuff, the ability to flip and rotate the canvas (my favorite part), and autosave (also my favorite part). ![laura-leopard-trench-coat-800px](../images/laura-leopard-trench-coat-800px.png)
 
 ### What do you think needs improvement in Krita? Is there anything that really annoys you?
 

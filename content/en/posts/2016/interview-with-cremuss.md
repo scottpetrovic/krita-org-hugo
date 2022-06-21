@@ -22,7 +22,7 @@ Both, I paint professionally but I also like to spend a lot of my free time on p
 
 ### What genre(s) do you work in?
 
-![texture800](images/texture800.jpg)
+![texture800](../images/texture800.jpg)
 
 I mostly paint stylized textures for 3D models. I'm not much of a drawer or painter so most of my 2D work is involving 3D sooner or later.
 
@@ -38,7 +38,7 @@ I'm pretty sure my first ever digital painting session was when my dad bought me
 
 I didn't really choose. I'm not really a good drawer or painter so I never actually started traditional painting although I should have. I had to learn digital painting because it's a huge part of cartoony/stylized 3D work.
 
-![HandPaintedWeapons_Axe1](images/HandPaintedWeapons_Axe1.jpg)
+![HandPaintedWeapons_Axe1](../images/HandPaintedWeapons_Axe1.jpg)
 
 ### How did you find out about Krita?
 
@@ -72,7 +72,7 @@ I'm not experienced enough with 2D applications to answer that honestly. I feel 
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![HandPaintedHouse1](images/HandPaintedHouse1.jpg)
+![HandPaintedHouse1](../images/HandPaintedHouse1.jpg)
 
 I would pick these 3D stylized houses. I'm the kind of artist that never seems to be satisfied with his work but somehow I'm satisfied with those. Textures were 100% hand-painted in Krita.
 

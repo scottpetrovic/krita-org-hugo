@@ -20,7 +20,7 @@ We've created a special version of Krita 4.0 pre-alpha for Windows users to test
 - Open the second zipfile in Windows Explorer and drag the bin, lib and share folders into the krita\_4.0-prealpha\_angle\_ink-1-x64 folder on your desktop.
 - With Windows Explorer, navigate into the krita\_4.0-prealpha\_angle\_ink-1-x64 folder on your desktop
 - Start Krita by double-clicking on the krita link or on the bin\\krita.exe file
-- You will now be given a choice:[![](images/angle_question.png)](https://krita.org/wp-content/uploads/2017/08/angle_question.png)
+- You will now be given a choice:[![](../images/angle_question.png)](https://krita.org/wp-content/uploads/2017/08/angle_question.png)
 - Please first choose Test Desktop OpenGL. Create a new image and try to draw for a bit. Fill in the results in the survey: whether you experienced a crash or not.
 - Next, restart Krita and choose Test ANGLE. Create a new image and draw for a bit. Fill in the results in the survey.
 
@@ -39,7 +39,7 @@ This is only relevant for Windows 8 and 10: Windows 7 does not support this API 
 - With Windows Explorer, navigate into the krita\_4.0-prealpha\_angle\_ink-1-x64 folder on your desktop
 - Start Krita by double-clicking on the krita link or on the bin\\krita.exe file
 - Press either Test Desktop OpenGL or Test ANGLE when you see the dialog discussed above: this does not matter
-- Go to Settings/Configure Krita/Tablet and check the experimental pointer api/windows ink support checkbox:[![](images/tablet_support.png)](https://krita.org/wp-content/uploads/2017/08/tablet_support.png)
+- Go to Settings/Configure Krita/Tablet and check the experimental pointer api/windows ink support checkbox:[![](../images/tablet_support.png)](https://krita.org/wp-content/uploads/2017/08/tablet_support.png)
 - Close Krita and start Krita again
 - Create a new document and draw with the default brush. Check whether pressure gives a variation in size and opacity. Note your findings in the survey: [https://goo.gl/forms/5TSCWNZvvjN5SVoq1](https://goo.gl/forms/5TSCWNZvvjN5SVoq1)
 

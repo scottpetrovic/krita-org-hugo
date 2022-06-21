@@ -13,4 +13,4 @@ Chinkal and Maria are working hard to get the shop up and running as soon as pos
 
 We’re looking forward to reading your suggestions [here](http://forum.kde.org/viewtopic.php?f=137&t=111407).
 
-And... remember, only **a few days for Krita 2.7 release**![![](images/cropped-icon-krita-sketch2.png)](http://kritawebshopblog.files.wordpress.com/2013/04/cropped-icon-krita-sketch2.png)
+And... remember, only **a few days for Krita 2.7 release**![![](../images/cropped-icon-krita-sketch2.png)](http://kritawebshopblog.files.wordpress.com/2013/04/cropped-icon-krita-sketch2.png)

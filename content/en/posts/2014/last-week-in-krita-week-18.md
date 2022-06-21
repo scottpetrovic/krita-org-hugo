@@ -27,19 +27,19 @@ Before going into specifics I want to mention that there have been a lot of impr
 
 Thanks to Lukáš Tvrdý Gmic support has been extended to work with Krita selections. Some of the initial selection glitches were solved this week, making Gmic’s versatile image processing library more comfortable to use.
 
-![Gmic selection mask](images/sm_w18_gmic.jpg)
+![Gmic selection mask](../images/sm_w18_gmic.jpg)
 
 ### Color to alpha now as Adjustment layer.
 
 Due to a bug in rendering we removed this filter from the adjustment layer menu. Beast took the task to fix it. Color to alpha, now with perfect rendering, is back.
 
-![Color to alpha filter mask](images/sm_w18_col-toalpha.jpg)
+![Color to alpha filter mask](../images/sm_w18_col-toalpha.jpg)
 
 ### Posterize Filter (NEW)
 
 This popular filter from other software tools is now available on Krita by the coding effort of Beast. The filter works either as a regular filter or in the layer stack as a filter/adjustment filter. We are sure this addition will allow you to get even more varied results.
 
-![Posterize Filter example](images/sm_w18_posterize_01f.jpg)
+![Posterize Filter example](../images/sm_w18_posterize_01f.jpg)
 
 ## Krita Sketch and Gemini
 
@@ -68,13 +68,13 @@ Dmitry Kazakov has stabilized and improved support for HDR images, specially in 
 
 Other bugs fixed: BUG [#333421](http://bugs.kde.org/show_bug.cgi?id=333421)
 
-![Image background Color](images/sm_w18_bgcolor.jpg)
+![Image background Color](../images/sm_w18_bgcolor.jpg)
 
 ### Resource Manager
 
 Victor Lafon is working hard to implement the Resource Manager, a central place to manage all Krita assets: presets, brush tips, gradients, textures, palettes. When it’s done it will make it much easier to organize all assets.
 
-![Krita Resource Manager](images/sm_w18_resManager.jpg)
+![Krita Resource Manager](../images/sm_w18_resManager.jpg)
 
 ### Previous weeks' fixes and additions
 

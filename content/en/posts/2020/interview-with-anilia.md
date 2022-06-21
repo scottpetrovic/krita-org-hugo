@@ -6,7 +6,7 @@ categories:
 coverImage: "glorycity-800.png"
 ---
 
-![](images/glorycity-800.png)
+![](../images/glorycity-800.png)
 
 ### Could you tell us something about yourself?
 
@@ -20,7 +20,7 @@ At first digital painting was my hobby but shortly it became my full time job an
 
 Mainly I make illustrations and character designs and portraits.
 
-![](images/mom-m-800.png)
+![](../images/mom-m-800.png)
 
 ### Whose work inspires you most -- who are your role models as an artist?
 
@@ -34,7 +34,7 @@ I bought my first tablet while I was still studying at Silesian University of Te
 
 Digital painting offer so much more for artist! When you have basic knowledge about the technical side of digital painting, you can do almost everything with your piece. You can transform everything, add or cut elements if you like. This technique gives you unlimited options of change for every element of your drawing. Digital painting allows you to control every part of your work, that’s fantastic.
 
-![](images/dragon2-800.png)
+![](../images/dragon2-800.png)
 
 ### How did you find out about Krita?
 
@@ -48,7 +48,7 @@ Amazing! When I first opened Krita I thought - This is exactly what I need, that
 
 Everything, but the most important thing is that Krita gives me exactly what I need for digital painting. I have all necessary tools in one place and those tools works perfectly with my tablet. I don’t need to spend hours to customize the program and search for options.
 
-![](images/horrorcity-800.png)
+![](../images/horrorcity-800.png)
 
 ### What do you think needs improvement in Krita? Is there anything that really annoys you?
 
@@ -62,7 +62,7 @@ Functionality. Krita works perfectly with my tablet. The float of the brush is f
 
 That question is very hard. I usually like my last painting but I always have in mind some improvements… I'm constantly learning so with every piece I have a new idea how to make it better.
 
-![](images/VNEm-800.png)
+![](../images/VNEm-800.png)
 
 ### What techniques and brushes did you use in it?
 
@@ -74,7 +74,7 @@ My portfolio: [https://aniliaart.artstation.com](https://aniliaart.artstation.co
 
 Commissions: [http://artistsnclients.com/people/Anilia](http://artistsnclients.com/people/Anilia)
 
-![](images/Phoenix-end2-800.png)
+![](../images/Phoenix-end2-800.png)
 
 ### Anything else you'd like to share?
 

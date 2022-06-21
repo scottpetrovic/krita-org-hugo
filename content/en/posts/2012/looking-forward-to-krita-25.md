@@ -11,11 +11,11 @@ Krita on Windows is getting more and more stable. The installer you can download
 
 ### Smudging
 
-Last week, we got a new smudging option for the colorsmudge brush: dulling. This works a bit like smudging in Mypaint currently works. In git master, we already have a few presets that use this mode! Check [Animtim's blog for more information](http://timotheegiet.com/blog/floss/new-brush-engine-mode-in-krita-blend-like-in-mypaint.html) -- this screenshot is from his blog.![](images/dullmodescreenshot.png)
+Last week, we got a new smudging option for the colorsmudge brush: dulling. This works a bit like smudging in Mypaint currently works. In git master, we already have a few presets that use this mode! Check [Animtim's blog for more information](http://timotheegiet.com/blog/floss/new-brush-engine-mode-in-krita-blend-like-in-mypaint.html) -- this screenshot is from his blog.![](../images/dullmodescreenshot.png)
 
 David Revoy also quickly produced a [very painterly sketch](https://twitter.com/#!/davidrevoy/status/202123206126088192):
 
-![](images/david_revoy_painterly_sketch_with_dulling_mode.jpg)
+![](../images/david_revoy_painterly_sketch_with_dulling_mode.jpg)
 
 ### Composition docker
 

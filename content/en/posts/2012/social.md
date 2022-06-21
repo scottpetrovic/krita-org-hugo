@@ -10,7 +10,7 @@ That's why, if you want the latest news, the most interesting updates and the qu
 
 # Open Social Networks
 
-[![](images/diaspora.jpg)](https://joindiaspora.com/u/krita)[![](images/identica.png)](http://identi.ca/krita)
+[![](../images/diaspora.jpg)](https://joindiaspora.com/u/krita)[![](../images/identica.png)](http://identi.ca/krita)
 
 You can also follow Krita by [RSS](http://feeds.feedburner.com/krita/news) and on [Krita's forums](http://forum.kde.org/krita).
 

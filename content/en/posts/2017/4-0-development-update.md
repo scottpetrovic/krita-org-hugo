@@ -27,7 +27,7 @@ The last time we did a development update with Krita 4.0 was in June 2017: the [
 
 After the development build release we sent out a user survey:  In case you didn't see the results of our last survey this was the summary.
 
-![](images/gripes.png)
+![](../images/gripes.png)
 
 The biggest item on the list was lag. Lag can have many meanings, and there will always be brushes or operations that are not instant. But we had the opportunity the past couple of months to work on an outside project to help improve the performance of Krita. While we knew this might delay the release of Krita 4.0, it would be much appreciated by artists. Some of the performance improvements contain the following:
 
@@ -43,7 +43,7 @@ https://www.youtube.com/watch?v=wnPUtYo2Y9Y
 
 We also added performance benchmarking. We can see much more accurately how brushes are performing and make our brushes better/optimized in the future:
 
-![](images/performance-benchmarking.gif)
+![](../images/performance-benchmarking.gif)
 
  
 
@@ -53,19 +53,19 @@ We also added performance benchmarking. We can see much more accurately how brus
 
 Andrey Kamakin added an option to show a thin grid around pixels if you zoom in enough:
 
-![](images/pixel-grid-example.gif)
+![](../images/pixel-grid-example.gif)
 
 ### Live Brush Preview
 
 Scott Petrovic has been working with a number of artists to rework the brush editor. There have been many things changed including renaming brushes and  better saving options.  There's also a live stroke preview now to see what happens when you change settings. Parts of the editor can be shown or hidden to accommodate for smaller monitors.
 
-![](images/live-preview.gif)
+![](../images/live-preview.gif)
 
 ### Isometric Grid
 
 The grid now has a new Isometric option. This can be controlled and modified through the grid docker:
 
-[![](images/isometric-1024x715.png)](https://krita.org/wp-content/uploads/2017/11/isometric.png)
+[![](../images/isometric-1024x715.png)](https://krita.org/wp-content/uploads/2017/11/isometric.png)
 
 ## Filters
 

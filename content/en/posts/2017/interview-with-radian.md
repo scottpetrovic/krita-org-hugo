@@ -6,7 +6,7 @@ categories:
 coverImage: "34-4.jpg"
 ---
 
-### ![](images/38.jpg)
+### ![](../images/38.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -20,7 +20,7 @@ I’m not working professionally yet but I’m aiming for it! I want to find wor
 
 I like to make neat atmospheric illustrations, usually it’s fantasy inspired works. Actually, I care more about making it look cool so I can paint whatever I like. Except cityscapes and street views. I hate those.
 
-![](images/16.jpg)
+![](../images/16.jpg)
 
 ### Whose work inspires you most -- who are your role models as an artist?
 
@@ -56,7 +56,7 @@ The best balance between comfort and functionality. There are a few cool Photosh
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](images/34-4.jpg)
+![](../images/34-4.jpg)
 
 I tend to hate any of my artwork if it is more than 1-3 months old but there are a couple of exceptions. The Kiki painting I made for the artbook "[Made with Krita](https://krita.org/en/item/made-with-krita-2016-the-krita-artbook/)" is one of them. I used a bunch of new tricks in here and probably made a few good choices by accident.
 

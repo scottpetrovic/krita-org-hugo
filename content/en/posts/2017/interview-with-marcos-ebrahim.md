@@ -6,7 +6,7 @@ categories:
 coverImage: "Marcos_Illustration01.jpeg"
 ---
 
-### ![](images/Marcos_Illustration01.jpeg)
+### ![](../images/Marcos_Illustration01.jpeg)
 
 ### Could you tell us something about yourself?
 
@@ -30,7 +30,7 @@ Other great illustrators and artists I like: Goro Fujita, Marco Bucci, Patrice B
 
 About three years ago, when I was trying to use my new Wacom Intuos tablet for painting and drawing, practicing studies from the great Renaissance masters as fan art.
 
-### ![](images/Palette_Tile_Sreenshot.jpg)
+### ![](../images/Palette_Tile_Sreenshot.jpg)
 
 ### What makes you choose digital over traditional painting?
 
@@ -62,13 +62,13 @@ I think that Krita, as open-source art software, could soon compete with commerc
 
 Frankly, I've only recently started to use Krita and I've finished only two pictures. One I could call an illustration, the other is the background of my art blog, trying to use the wrap tool to make a tiled pattern. You can see this in the screenshots.
 
-![](images/BackGround_Palette_Tile_Screen_Shot1.jpg)
+![](../images/BackGround_Palette_Tile_Screen_Shot1.jpg)
 
 ### What techniques and brushes did you use in it?
 
 I prefer to make a sketch, then work on it adding base colors and adjusting the lighting value to reach the final details.
 
-![](images/Marcos_Illustration_Krita_Steps.jpeg)
+![](../images/Marcos_Illustration_Krita_Steps.jpeg)
 
 ### Where can people see more of your work?
 

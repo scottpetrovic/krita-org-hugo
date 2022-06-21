@@ -6,7 +6,7 @@ categories:
 coverImage: "Artwork_Featured.jpg"
 ---
 
-![Artwork_02](images/Artwork_02.jpg)
+![Artwork_02](../images/Artwork_02.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -22,7 +22,7 @@ Not sure if I can really answer this question fully. I could never really identi
 
 I guess you could associate my work generally with the fantastic rather than the ordinary. So some flavour of fantasy, sci-fi or somewhere in-between. But I like juxtaposition so there's usually a balance between the weird and the simple. Same goes with my "style": usually a flip flop between cartoony and realistic. All of that could have been summarised with: experimental. I'm still experimenting!
 
-### ![Artwork03](images/Artwork03.png)
+### ![Artwork03](../images/Artwork03.png)
 
 ### Whose work inspires you most -- who are your role models as an artist?
 
@@ -40,7 +40,7 @@ This is training my memory... I was in fourth grade? Yes. I was something like t
 
 I still do a bit of both when I can! Rough thumbnails and ideas can't be produced as efficiently digitally, I feel. Same goes with certain inking techniques. Though most of my refined work does end up digital. I just find it more versatile and it allows me to experiment with different styles and methods without having to purchase all the materials in real life. In terms of creating final pieces or clear sketches, (not chicken scratch that only I will look at) I tend to be quicker and more decisive.
 
-![Artwork04](images/Artwork04.png)
+![Artwork04](../images/Artwork04.png)
 
 ### How did you find out about Krita?
 
@@ -54,7 +54,7 @@ Already back then the program was quite robust. I remember I got annoyed over th
 
 It's a really powerful program that happens to be free! There's more variety in the brush builds and each feature feels like it belongs in the program. I don't know, Krita just feels overall intuitive: eraser is just a transparent version of the brush, canvas view flip, and the fact that I can have both of the colour picker modes as shortcuts; current layer and whole canvas.
 
-### ![Artwork_05](images/Artwork_05.jpg)
+### ![Artwork_05](../images/Artwork_05.jpg)
 
 ### What do you think needs improvement in Krita? Is there anything that really annoys you?
 
@@ -68,7 +68,7 @@ It's the best cross between a digital art and a visual editing program. A lot of
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![Artwork_Honorary family](images/Artwork_Honorary-family.png)
+![Artwork_Honorary family](../images/Artwork_Honorary-family.png)
 
 This is a piece I made for a friend known as [Satusilta](http://satusilta.tumblr.com); on the left is my character, Emil, and on the right is her character, Saara. I hadn't worked in a 'pencil-like' style in a really long while, so I was really pleased with how the pencil rendering turned out!
 

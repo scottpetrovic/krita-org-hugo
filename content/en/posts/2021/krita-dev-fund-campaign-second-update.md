@@ -15,7 +15,7 @@ Last week was also the week Halla gave a [presentation on funding Krita developm
 
 We also [released the results](https://krita.org/en/item/huion-and-krita-competition-winners/) of the contest we organized together with Huion. That was really fun, and [there were so many awesome submissions](https://krita-artists.org/c/contest-games-collab/four-seasons-journey-of-leon-kiki/30)!
 
-\[caption id="attachment\_12051" align="aligncenter" width="1024"\][![](images/competition_1-1024x724.jpg)](https://krita.org/wp-content/uploads/2021/05/competition_1-scaled.jpg) Watch out Leon!\[/caption\]
+\[caption id="attachment\_12051" align="aligncenter" width="1024"\][![](../images/competition_1-1024x724.jpg)](https://krita.org/wp-content/uploads/2021/05/competition_1-scaled.jpg) Watch out Leon!\[/caption\]
 
 Now for the work that landed since our last update. It was mostly a bug fix week, where 21 authors have pushed 90 commits to master and 97 commits to all branches -- we have been nicely busy!
 
@@ -33,4 +33,4 @@ Now for the work that landed since our last update. It was mostly a bug fix week
 
 So, if you like what we're doing, join the development fund!
 
-[![](images/landing-page-banner.png)](https://fund.krita.org)
+[![](../images/landing-page-banner.png)](https://fund.krita.org)

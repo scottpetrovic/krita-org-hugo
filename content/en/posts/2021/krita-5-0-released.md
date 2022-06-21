@@ -19,7 +19,7 @@ This is a huge release, with a lot of new features and improvements. Some highli
 
 And much, much more! For a complete overview, read the [release notes.](https://krita.org/en/krita-5-0-release-notes/ )
 
-\[video width="1920" height="1080" mp4="https://krita.org/wp-content/uploads/2021/12/Video-for-store\_final-30fps.mp4"\]\[/video\]
+\[video width="1920" height="1080" mp4="../images/Video-for-store\_final-30fps.mp4"\]\[/video\]
 
 Music provided to us by [Irene Fariña](https://www.instagram.com/irerakmusic/).
 
@@ -27,7 +27,7 @@ If you have bought Krita in the Windows Store, the Epic Store, Steam or the Goog
 
 From Krita 5.0 onwards, Krita will also be submitted to the Mac Apple Store!
 
-![](images/2021-11-16_kiki-piggy-bank_krita5.png) Krita is a free and open source project. Please consider supporting the project by [joining the development fund](https://fund.krita.org), [donating](https://krita.org/en/support-us/donations/) or by [buying training videos!](https://krita.org/en/shop/) With your support, we can keep the core team working on Krita full-time.
+![](../images/2021-11-16_kiki-piggy-bank_krita5.png) Krita is a free and open source project. Please consider supporting the project by [joining the development fund](https://fund.krita.org), [donating](https://krita.org/en/support-us/donations/) or by [buying training videos!](https://krita.org/en/shop/) With your support, we can keep the core team working on Krita full-time.
 
 ## Download
 

@@ -5,13 +5,13 @@ date: "2012-07-28"
 
 _We have a guest at krita.org today. Dread Knight from [Freezing Moon](http://freezingmoon.org) is a regular visitor to the irc channels of several free paint application projects. He has been working on a really cool game project for quite some time now, called Ancient Beast. I wanted to give him a chance to his promising project to you!_
 
-Greetings! I’m Dread Knight from FreezingMoon.org and I would like to tell you a bit about the project we’re working on for quite a while now: ![](images/image06.png)
+Greetings! I’m Dread Knight from FreezingMoon.org and I would like to tell you a bit about the project we’re working on for quite a while now: ![](../images/image06.png)
 
-Ancient Beast is a free open source browser based player-vs-player, turn-based strategy game project. To put it in other words, card games meet battle chess, with creatures! The gameplay is rather similar to Heroes of Might and Magic 3, but focused only on the combat aspect: match based, playable 1vs1 or 2vs2 on pretty much any device when it will be ready. ![](images/image00.jpg)
+Ancient Beast is a free open source browser based player-vs-player, turn-based strategy game project. To put it in other words, card games meet battle chess, with creatures! The gameplay is rather similar to Heroes of Might and Magic 3, but focused only on the combat aspect: match based, playable 1vs1 or 2vs2 on pretty much any device when it will be ready. ![](../images/image00.jpg)
 
 Earlier combat mock-up
 
-The game takes places several hundred years in the future, when humans, empowered by advanced 3d [rep-rap](http://reprap.org/wiki/Main_Page) printers, are able to play God, by having the power to create beasts as they please within a matter of seconds, in order to fight each other for survival or pure entertainment. ![](images/image05.jpg)
+The game takes places several hundred years in the future, when humans, empowered by advanced 3d [rep-rap](http://reprap.org/wiki/Main_Page) printers, are able to play God, by having the power to create beasts as they please within a matter of seconds, in order to fight each other for survival or pure entertainment. ![](../images/image05.jpg)
 
 Ancient Beast is an open project and the reason I'm writing here is to invite you all to become involved in the project! There are plenty of ways you can have fun doing stuff for the project!
 
@@ -19,11 +19,11 @@ We’re planning on about _50_ collectible creatures that players will be able t
 
 For this kind of stuff we’re using Wuala. You can sign up using this [referral link](http://www.wuala.com/en/referral/CGN5J6GH3PBBBHCGKJ3P) and then join our [Wuala group](http://www.wuala.com/AncientBeast). (Wuala is kinda like dropbox, but way better!)
 
-Some examples of project artwork where Krita was used: ![](images/image02.jpg) Sarcophag by Katarzyna Zalecka and Ramon Miranda (CC-BY-SA 3.0) ![](images/image07.jpg) Vulcan by Katarzyna Zalecka and David Revoy  (CC-BY-SA 3.0)
+Some examples of project artwork where Krita was used: ![](../images/image02.jpg) Sarcophag by Katarzyna Zalecka and Ramon Miranda (CC-BY-SA 3.0) ![](../images/image07.jpg) Vulcan by Katarzyna Zalecka and David Revoy  (CC-BY-SA 3.0)
 
-![](images/image01.jpg) Another sarcophag by Katarzyna Zalecka and Ramon Miranda (CC-BY-SA 3.0)
+![](../images/image01.jpg) Another sarcophag by Katarzyna Zalecka and Ramon Miranda (CC-BY-SA 3.0)
 
-And here are some blender samples of what finished creatures look like ![](images/image04.jpg) Swampler by Katarzyna Zalecka and Jeepster  (CC-BY-SA 3.0) ![](images/image03.jpg) Vulcan by Katarzyna Zalecka and Roberto Roch (CC-BY-SA 3.0)
+And here are some blender samples of what finished creatures look like ![](../images/image04.jpg) Swampler by Katarzyna Zalecka and Jeepster  (CC-BY-SA 3.0) ![](../images/image03.jpg) Vulcan by Katarzyna Zalecka and Roberto Roch (CC-BY-SA 3.0)
 
 So you see, plenty of scope for showing off with high-quality artwork done with open source software! But I could also use an extra hand with coding (HTML5/canvas/javascript/php), since it’s no secret that I’m not an excellent coder and that I struggle with even the most basic things... And since this game will be web-based, that means doing proper work on the actual gameplay is a bit out of my reach right now, and I have to rely on other people who don’t have much free time. The game is highly integrated into the website since it’s a web game; you can find the code in our [github repository](https://github.com/FreezingMoon/AncientBeast).
 

@@ -6,7 +6,7 @@ categories:
 coverImage: "Adene-800.jpg"
 ---
 
-### ![Adene-800](images/Adene-800.jpg)
+### ![Adene-800](../images/Adene-800.jpg)
 
 ### Could you tell us something about yourself?
 

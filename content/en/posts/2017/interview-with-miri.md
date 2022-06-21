@@ -6,7 +6,7 @@ categories:
 coverImage: "ra_thoth.png"
 ---
 
-### ![](images/rama_ravana.png) Could you tell us something about yourself?
+### ![](../images/rama_ravana.png) Could you tell us something about yourself?
 
 Hi there, I’m Miri. I’ve been drawing ever since I could pick up a pencil and switched to digital in the past 3 or so years, currently enrolled in college to grind out credits and hopefully become an animator.
 
@@ -18,7 +18,7 @@ At this moment in time I’m just a hobbyist who does volunteer work for the Smi
 
 Mainly fantasy and mythology gods and gaming fanart, I really love drawing characters.
 
-### ![](images/thanatos_loki.png)
+### ![](../images/thanatos_loki.png)
 
 ### Whose work inspires you most -- who are your role models as an artist?
 
@@ -54,7 +54,7 @@ Free Software and Linux compatible. Cannot stress it enough. Linux support is a 
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](images/ra_thoth.png) Every new piece beomes my favorite for a certain time, until I start pointing out flaws in it, and then go back to an older piece. I’m really into my Ra + Thoth piece, though, just because of the details and shading coming out so nice, not to mention a background I was really pleased with.
+![](../images/ra_thoth.png) Every new piece beomes my favorite for a certain time, until I start pointing out flaws in it, and then go back to an older piece. I’m really into my Ra + Thoth piece, though, just because of the details and shading coming out so nice, not to mention a background I was really pleased with.
 
 ### What techniques and brushes did you use in it?
 
@@ -68,4 +68,4 @@ Deviantart: [Pluuck](http://pluuck.deviantart.com/) Twitter: [Hikkikomiri](https
 
 Honestly, never give up. Accept critique but don’t let it eat you away to make you fear picking up a pen again. What may be something you find a struggle, may be even harder for someone else. Be unique, be creative, and always keep improving.
 
-![](images/cu_chulainn.png)
+![](../images/cu_chulainn.png)

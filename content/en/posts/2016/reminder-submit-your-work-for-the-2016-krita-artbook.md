@@ -7,7 +7,7 @@ We're only one month away from the deadline for submissions for the 2016 Krita A
 
 This book will be sent out to the seventy Kickstarter backers who selected the artbook as their reward, and it will be available from the Krita shop.
 
-[![kiki_artbook_small](images/kiki_artbook_small.png)](https://krita.org/wp-content/uploads/2016/06/kiki_artbook_small.png)
+[![kiki_artbook_small](../images/kiki_artbook_small.png)](https://krita.org/wp-content/uploads/2016/06/kiki_artbook_small.png)
 
 Here's a short recap of the rules:
 
@@ -21,7 +21,7 @@ Here's a short recap of the rules:
 
 Here's a mock-up of what we intend:
 
-[![spread](images/spread-1024x718.png)](https://krita.org/wp-content/uploads/2016/06/spread.png)
+[![spread](../images/spread-1024x718.png)](https://krita.org/wp-content/uploads/2016/06/spread.png)
 
 If you want to be in on it, send your submission to foundation@krita.org. We need the following:
 

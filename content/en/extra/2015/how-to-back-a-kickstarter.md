@@ -3,13 +3,13 @@ title: "How to Back a KickStarter"
 date: "2015-05-04"
 ---
 
-![](images/how-to-back-1.jpg)
+![](../images/how-to-back-1.jpg)
 
 **Step 1: Back the KickStarter Page**  
 Kickstarter only has an English website, so all screenshots will be in English. If you use Google Chrome, you might be able to right click on the pages and click "Translate to xxx". This will make these steps much easier.  
 Visit the [KickStarter page](http://www.kickstarter.com) and click the "Back This Project" button
 
-![](images/how-to-back-2.jpg)
+![](../images/how-to-back-2.jpg)
 
 **Step 2: Enter your Pledge Amount**  
 Enter your pledge amount and select a reward. If you select a reward that involves shipping, you'll be prompted to include your country for extra shipping costs.
@@ -19,7 +19,7 @@ Enter your pledge amount and select a reward. If you select a reward that involv
 3. Select your country
 4. Click "Continue to next step"
 
-![](images/sign-up-3.jpg)
+![](../images/sign-up-3.jpg)
 
 **Step 3: Log in to KickStarter Account**  
 If you have a Facebook account, you can use that to log in. Otherwise, you will have to create a new KickStarter account if you don't have one.  
@@ -31,7 +31,7 @@ If you have a Facebook account, you can use that to log in. Otherwise, you will 
 5. Re-enter Password
 6. Click "Sign me up!"
 
-![](images/how-to-back-3.jpg)
+![](../images/how-to-back-3.jpg)
 
 **Step 4: Enter your Payment Details**  
 

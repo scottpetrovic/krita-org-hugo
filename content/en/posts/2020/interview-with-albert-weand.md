@@ -6,7 +6,7 @@ categories:
 coverImage: "Nest-800.jpg"
 ---
 
-### ![](images/Hen-800.jpg)
+### ![](../images/Hen-800.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -20,7 +20,7 @@ It started as a hobby. Many of my illustrations are created as personal projects
 
 I used to draw manga (comics). As a result, most of my work was done in grayscale. But I was always interested in digital illustration and painting. Nowadays, I’m starting to take inspiration from fantasy and nature. My work focuses on characters but I’m trying to work on backgrounds as well.
 
-### ![](images/Pueblo-800.jpg)
+### ![](../images/Pueblo-800.jpg)
 
 ### Whose work inspires you most -- who are your role models as an artist?
 
@@ -42,7 +42,7 @@ A couple of years ago, I started to gain interest in GNU/Linux and even consider
 
 I really like the user interface, it’s very flexible. I like to keep things simple and just focus on the artwork. The shortcuts to navigate around the canvas are great, they feel very natural. There’s no need to change tools in order to zoom in, zoom out or move around the canvas. I also like the default brushes, they feel organic and the textures help to simulate real brushes in traditional painting.
 
-### ![](images/Noche-800.jpg)
+### ![](../images/Noche-800.jpg)
 
 ### What do you love about Krita?
 
@@ -60,7 +60,7 @@ Based on my experience, Krita is very intuitive and the brush engine allows a lo
 
 Right now, I think my favorite work would be "Nest".
 
-![](images/Nest-800.jpg) In my first digital paintings, the brushwork was very clean and everything had to be well-defined. Now I’ve come to understand that it’s important to balance the level of details; some things can be suggested by shapes and colors. If the brushstrokes have the same size and texture, the image might look too uniform. That’s why I’ve been trying to use more brushes in my artworks. I think I did a decent job here, although there’s certainly room for improvement.
+![](../images/Nest-800.jpg) In my first digital paintings, the brushwork was very clean and everything had to be well-defined. Now I’ve come to understand that it’s important to balance the level of details; some things can be suggested by shapes and colors. If the brushstrokes have the same size and texture, the image might look too uniform. That’s why I’ve been trying to use more brushes in my artworks. I think I did a decent job here, although there’s certainly room for improvement.
 
 ### What techniques and brushes did you use in it?
 

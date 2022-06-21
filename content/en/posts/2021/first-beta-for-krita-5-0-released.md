@@ -9,7 +9,7 @@ categories:
 
 Today, the Krita team releases the first beta for Krita 5.0. Krita 5.0 is a major release, with a lot of new features and a lot of changes.
 
-\[caption id="attachment\_12343" align="aligncenter" width="1024"\][![](images/electrichearts_20201224A_kiki_c1_1080P-1024x512.png)](https://krita.org/wp-content/uploads/2021/08/electrichearts_20201224A_kiki_c1_1080P.png) The new splash screen, by Tyson Tan\[/caption\]
+\[caption id="attachment\_12343" align="aligncenter" width="1024"\][![](../images/electrichearts_20201224A_kiki_c1_1080P-1024x512.png)](https://krita.org/wp-content/uploads/2021/08/electrichearts_20201224A_kiki_c1_1080P.png) The new splash screen, by Tyson Tan\[/caption\]
 
 First some **warnings**:
 
@@ -43,11 +43,11 @@ Now, what's in it? [The answer is a lot](https://krita.org/en/krita-5-0-release-
 
 And a host of smaller improvements, smaller features and lots of performance improvements!
 
-[![Krita in the old oxygen style](images/krita-style-change-1024x533.png)](https://krita.org/wp-content/uploads/2021/08/krita-style-change.png)
+[![Krita in the old oxygen style](../images/krita-style-change-1024x533.png)](https://krita.org/wp-content/uploads/2021/08/krita-style-change.png)
 
 We intend to release the final version in September, but that is _not_ a hard promise! We will continue fixing issues that come in from testing the beta and the nightly builds so we can release a solid Krita 5. Please consider supporting Krita's development through the [development fund](https://fund.krita.org/):
 
-[![](images/devfund-1024x346.png)](https://fund.krita.org)
+[![](../images/devfund-1024x346.png)](https://fund.krita.org)
 
 ## Download
 

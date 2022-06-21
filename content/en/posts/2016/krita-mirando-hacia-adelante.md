@@ -15,7 +15,7 @@ Apenas lanzamos [Krita 3.1](https://krita.org/en/item/krita-3-1-released-and-lo
 
  
 
-[![screenshot_20161213_143102](images/Screenshot_20161213_143102-300x180.png)](https://krita.org/wp-content/uploads/2016/12/Screenshot_20161213_143102.png)
+[![screenshot_20161213_143102](../images/Screenshot_20161213_143102-300x180.png)](https://krita.org/wp-content/uploads/2016/12/Screenshot_20161213_143102.png)
 
  
 

@@ -17,4 +17,4 @@ Together with our artist community we created a set of goals to work on, ranging
 
 [http://www.krita.org/kickstarter.php](kickstarter.php)
 
-[![](images/kickstarter.png)](kickstarter.php)
+[![](../images/kickstarter.png)](kickstarter.php)

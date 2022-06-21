@@ -38,7 +38,7 @@ El diseño original ya no logra abastecer los nuevos recursos, ademas, después 
 
 Al menos ése es el plan...  Pero aun hay bastante por hacer.
 
-[![](images/resource_db_explorer-300x145.png)](https://krita.org/wp-content/uploads/2018/09/resource_db_explorer.png)
+[![](../images/resource_db_explorer-300x145.png)](https://krita.org/wp-content/uploads/2018/09/resource_db_explorer.png)
 
 También tuvimos una sorpresa y otras cosas extras:
 
@@ -46,10 +46,10 @@ También tuvimos una sorpresa y otras cosas extras:
 
 Una nueva y fantástica función el la mascara de la gama, creada por Anna Medonosova. Lo cual incluye el editar y aplicar la mascara al selector artístico de colores. Ver el articulo de [James Gurney](https://gurneyjourney.blogspot.com/2008/01/color-wheel-masking-part-1.html) (en ingles) para mayor información.
 
-[![](images/gamut-300x300.png)](https://krita.org/wp-content/uploads/2018/09/gamut.png)
+[![](../images/gamut-300x300.png)](https://krita.org/wp-content/uploads/2018/09/gamut.png)
 
 Ahora tambien tenemos un panel para la observación de errores. por lo que los usuarios de Windows ya no tienen que lidiar con la ventana de la misma función:
 
-[![](images/log-docker-300x300.png)](https://krita.org/wp-content/uploads/2018/09/log-docker.png)(Art de [Iza Ka](http://LifeFinalEdited.pl))
+[![](../images/log-docker-300x300.png)](https://krita.org/wp-content/uploads/2018/09/log-docker.png)(Art de [Iza Ka](http://LifeFinalEdited.pl))
 
 Y por supuesto, han habido mas actividades, Reptorian a creado un conjunto de modos de mezclado y ahora está trabajando en una nueva selección de mezclado. Jouni ha estado mejorando y solucionando problemas con la nueva herramienta de imágenes de referencia y ha implementado el [clonado de fotogramas para la animación](https://phabricator.kde.org/T8764).

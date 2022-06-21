@@ -6,7 +6,7 @@ categories:
 coverImage: "kiki800.png"
 ---
 
-![kiki800](images/kiki800.png)
+![kiki800](../images/kiki800.png)
 
 ### Could you tell us something about yourself?
 

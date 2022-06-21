@@ -6,7 +6,7 @@ categories:
 coverImage: "surprised-to-see-me1.jpg"
 ---
 
-### [![surprised-to-see-me](images/surprised-to-see-me.jpg)](https://krita.org/wp-content/uploads/2014/12/surprised-to-see-me.jpg) Would you like to tell us something about yourself?
+### [![surprised-to-see-me](../images/surprised-to-see-me.jpg)](https://krita.org/wp-content/uploads/2014/12/surprised-to-see-me.jpg) Would you like to tell us something about yourself?
 
 I only paint digitally.  Even though I love the way traditional paintings look, I haven't painted traditionally.  A #2 pencil was my first tool for drawing when i was a child, and is still my favourite.  I've tried various pencils, charcoal, and made a horrible mess with graphite dust, but none of them ever worked as well for me as the pencil.
 

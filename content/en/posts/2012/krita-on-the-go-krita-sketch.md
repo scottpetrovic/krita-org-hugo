@@ -11,23 +11,23 @@ Just check out [Timothee Giet's introduction](http://timotheegiet.com/blog/illus
 
 ### Welcome Screen
 
-![](images/startscreen.png) 
+![](../images/startscreen.png) 
 
 ### Brushes
 
-![](images/kritasketch_brushes.png)
+![](../images/kritasketch_brushes.png)
 
 (Artwork by Boudewijn Rempt)
 
 ### Selections
 
-![](images/krita_sketch_selection.png)
+![](../images/krita_sketch_selection.png)
 
 (Artwork by David Revoy)
 
 ### Layers
 
-![](images/sketch_layers.png)
+![](../images/sketch_layers.png)
 
 (Artwork by David Revoy)
 

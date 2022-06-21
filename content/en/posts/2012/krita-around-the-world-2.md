@@ -19,7 +19,7 @@ It's always great to see that Krita is capable of many different styles! Just ta
 
 Apart from the presentation, Oscar also sat down at the KDE booth and demoed Krita -- but as [Jos Poortvliet shows in his blog](http://blog.jospoortvliet.com/2012/05/lfnw-and-other-event-awesomeness.html), he had competition. Moe Jackson had never used Krita, or even a tablet, but sat down and started having fun, painting a meadow and trees:
 
-![](images/tree_meadow.jpg)
+![](../images/tree_meadow.jpg)
 
 Great work for a first-timer! Carl Symons had a bunch of DVD's to give away, and Moe got one, of course.
 

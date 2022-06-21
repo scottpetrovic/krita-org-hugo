@@ -6,7 +6,7 @@ categories:
 coverImage: "20170911_web_waytooemily_no.jpg"
 ---
 
-### ![](images/waytooemily_web_tornapart2.jpg)Could you tell us something about yourself?
+### ![](../images/waytooemily_web_tornapart2.jpg)Could you tell us something about yourself?
 
 Hi! My name is Emily Wei, and I'm 19 years old. I was born in Taiwan, but I grew up in New Jersey. Right now, I'm back in Taiwan juggling university, freelance work, sleep, and a one-year course I'm taking at Kadokawa International Edutainment (Advanced Commercial Illustration).
 
@@ -36,7 +36,7 @@ Long version: Digital art is much more forgiving than traditional medias, and yo
 
 That said, I do love traditional art. There's nothing quite like the feeling of putting pen on paper! It's also easier in some aspects; for example, drawing decent circles (and most geometric shapes in general) freehand is ridiculously harder with a tablet. Limited supplies also makes you be more economic and decisive about what goes where, which is a mindset I'd like to carry over into my digital work more.
 
-![](images/web_waytooemily_odow_levi_umi2.jpg)
+![](../images/web_waytooemily_odow_levi_umi2.jpg)
 
 ### How did you find out about Krita?
 
@@ -50,7 +50,7 @@ I don't really remember, actually! I think I might've seen a thread about it on 
 
 The brush engines are really fantastic. There are a lot of traditional media-esque brushes for people who like a little roughness/texture as well as the standard digital round opacity brushes and soft airbrushes. Here's one of the first few sketches I did with Krita back in 2015:
 
-![](images/web_waytooemily_klk_satsuki_adolescent.jpg)
+![](../images/web_waytooemily_klk_satsuki_adolescent.jpg)
 
 There's also the option to convert your artwork to CMYK if you want to make prints and merch, which is really convenient.
 
@@ -66,13 +66,13 @@ I find it amazing how much you can do with a program that is legitimately free t
 
 And again, the brushes are great.
 
-### ![](images/kritabrushes.jpeg)
+### ![](../images/kritabrushes.jpeg)
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
 Probably "No"!
 
-![](images/20170911_web_waytooemily_no.jpg)
+![](../images/20170911_web_waytooemily_no.jpg)
 
 It's not the most technically advanced work I've done, and the story behind it isn't exactly happy, but I still like the colors, the clothing folds, and the overall composition.
 

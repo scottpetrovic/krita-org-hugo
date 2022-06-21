@@ -6,7 +6,7 @@ categories:
 coverImage: "skymoot-dragon.jpg"
 ---
 
-### ![](images/skymoot-dragon.jpg)
+### ![](../images/skymoot-dragon.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -28,7 +28,7 @@ My first and largest influences are the old-fashioned Disney animated films from
 
 I began using digital tools purely as a form of practice a few years ago. To me it was very casual; I was figure drawing and making fan art referencing in-jokes from a favorite podcast of mine called "We Hate Movies." I didn't intend to pursue it seriously, but found myself returning to it more and more often.
 
-![](images/charactersplash.jpg)
+![](../images/charactersplash.jpg)
 
 ### What makes you choose digital over traditional painting?
 
@@ -58,7 +58,7 @@ Krita has a great community of support that will ensure that it gets better year
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](images/TUEpage2.jpg)
+![](../images/TUEpage2.jpg)
 
 I made this page in Krita in order to see whether I could use it for a webcomic I plan on creating. The experiment was a success, and I believe that my skills will continue to grow. This proves that I can use Krita to tell the kinds of stories that I have plans for.
 

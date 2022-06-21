@@ -5,7 +5,7 @@ categories:
   - "artist-interview"
 ---
 
-![](images/triptych_800px.png)
+![](../images/triptych_800px.png)
 
 ### Could you tell us something about yourself?
 
@@ -17,7 +17,7 @@ I paint as a hobby primarily, and sometimes branch out into some illustration an
 
 ### What genre(s) do you work in?
 
-![](images/Tess_Scene_800px.png)
+![](../images/Tess_Scene_800px.png)
 
 I work in a variety of genres -- mostly I would say I do quite sketchy and traditional "painterly" work. Usually just quick pieces that fit around other commitments and projects. Portraiture is probably my favourite subject, and I have been enjoying experimenting digitally with some different styles and art prompts to try and loosen up my style.
 
@@ -33,7 +33,7 @@ I started painting digitally as a younger teenager when I got my first basic dra
 
 The pressure of my PhD has meant that digital painting is more convenient than traditional since I can work much more quickly and fit it in amongst other projects. I've also been more attracted to digital painting as I've become more interested in sharing work online, since it requires a lot less effort to export something that's already digital than trying to photograph traditional work. Nothing beats the new sketchbook feeling though, so traditional will always have a place in my heart!
 
-![](images/friendinknead_800px.png)
+![](../images/friendinknead_800px.png)
 
 ### How did you find out about Krita?
 
@@ -57,7 +57,7 @@ Before I found Krita I used GIMP for digital art, and by comparison I can defini
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](images/indi_800px.png)
+![](../images/indi_800px.png)
 
 My favourite work so far is probably the portrait I did of my sister. It's just a little sketch, but I think it really capture some of her personality so I love how it came out! I think that was also the piece when I first started to feel really comfortable and confident with the techniques I like using in Krita.
 
@@ -79,6 +79,6 @@ I also enjoy photography so if you are interested in that you can find pictures 
 
 ### Anything else you'd like to share?
 
-![](images/compilation_800px.png)
+![](../images/compilation_800px.png)
 
 Like I mentioned above, I just created an art fundraiser for a Ghanaian conservation charity (People and Wildlife Ghana), where for a small donation I will send a t-shirt friendly copy of my original digital artwork "coRvid-19". This is a compilation of a light-relief series I did during lockdown, where I illustrated 19 of the world's corvid/crow species. All of those illustrations can be found individually on my Instagram page, and if anyone is interested in the fundraiser then you can read more about it here: [https://www.justgiving.com/fundraising/tansy-brancombe](https://www.justgiving.com/fundraising/tansy-brancombe).

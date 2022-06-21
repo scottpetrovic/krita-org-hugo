@@ -5,7 +5,7 @@ date: "2013-02-18"
 
 Since [it was first announced](http://forum.kde.org/viewtopic.php?f=137&t=109205), we have received 19 entries, many of which were of quite good quality and show an interesting approach to the topic. That of course meant that picking a winner was quite a challenge.
 
-![](images/mascot_20130120_KDE_3_720px.png)
+![](../images/mascot_20130120_KDE_3_720px.png)
 
 _Image : [Konqui, Katie and Friends](http://forum.kde.org/viewtopic.php?f=254&t=109758#p257664) by [tysontan](http://forum.kde.org/memberlist.php?mode=viewprofile&u=49338)_
 

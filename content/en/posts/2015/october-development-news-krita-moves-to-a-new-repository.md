@@ -23,6 +23,6 @@ Coding on all the kickstarter features is going on apace: the Level of Detail pe
 
 ### Qt5 Port
 
-\[caption id="attachment\_2452" align="alignnone" width="1024"\][![October Kiki, by Wolthera](images/kikiqt5-1024x794.png)](https://krita.org/wp-content/uploads/2015/10/kikiqt5.png) October Kiki, by Wolthera\[/caption\]
+\[caption id="attachment\_2452" align="alignnone" width="1024"\][![October Kiki, by Wolthera](../images/kikiqt5-1024x794.png)](https://krita.org/wp-content/uploads/2015/10/kikiqt5.png) October Kiki, by Wolthera\[/caption\]
 
 Krita 3.0, that is to say, the Qt5 port of Krita has come far enough that it's possible to actually do some drawing and sketching with it. The Qt5 developers, especially Shawn Rutledge did a real good job on improving Qt's support for tablets, but... There are bugs in the XCB library that need fixing. This means that tablet handling on Linux isn't perfect yet, and we haven't done a lot of testing on Windows yet. And the porting caused a lot of regressions, small bugs, visual issues, performance regressions... All of those need fixing over the next couple of months!

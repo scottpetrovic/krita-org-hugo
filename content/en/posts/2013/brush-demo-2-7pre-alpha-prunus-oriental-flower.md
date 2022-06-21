@@ -17,7 +17,7 @@ Since end January, Krita 2.7pre-alpha get a new major feature  :  **Texture** 
 
 The feature appear in the Brush Setting Editor. Under the 'Texture' categorie you can find 2 sub-panel : - Pattern to select the bitmap responsible of your texture and do settings on the aspect and brush interaction with it - Strength to apply a 'sensor' ( speed/pressure/distance/Tilt...etc... ) to the way the texture impact your stroke.
 
-![texture panel](images/2013-02-17_texture-panel.jpg)
+![texture panel](../images/2013-02-17_texture-panel.jpg)
 
 This feature existed in a more simple way since 2.5 and was mostly created by Boudewijn Rempt. Dmitry Kazakov , thanks to his sponsorship period, could finish the feature, enhance the settings and propagate the feature to many other brush engine in Krita. ( have a look at the [support page](http://krita.org/foundation "support Krita page") if you want to contribute to the sponsoring of Dmitry ).
 

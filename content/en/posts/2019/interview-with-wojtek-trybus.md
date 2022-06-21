@@ -6,7 +6,7 @@ categories:
 coverImage: "lighttown800.png"
 ---
 
-![](images/the_storm_is_coming800.png)
+![](../images/the_storm_is_coming800.png)
 
 ### Could you tell us something about yourself?
 
@@ -16,7 +16,7 @@ My name is Wojtek Trybus and I publish artworks as wojtryb. I'm in the last year
 
 Drawing was always something that, despite being quite hard to learn, was making me happy and fulfilled. I guess this counts as a hobby then. I don't make any money from it right now and I still haven't decided if I will be more of a programmer or a graphic designer in the nearest future.
 
-![](images/lighttown800.png)
+![](../images/lighttown800.png)
 
 ### What genre(s) do you work in?
 
@@ -30,7 +30,7 @@ Vlad Gerasimov, founder of [Vladstudio](https://vlad.studio), was my first great
 
 As a kid, as many other kids, I used to love computer games - when I grew up a bit, I noticed that it was not the games I liked that much, but the worlds they took me to. When in 2011 I found out how you can use GIMP and a digital tablet to create something similar, it all began.
 
-![](images/fishy_business800.png)
+![](../images/fishy_business800.png)
 
 ### What makes you choose digital over traditional painting?
 
@@ -44,7 +44,7 @@ It was 2015, I guess, when I read about it on David Revoy's blog for the first t
 
 Insanely laggy :D It took me one year to accidentally switch something in settings, that suddenly made it work normally. Luckily, with each update, it's less likely for someone to have such a problem again. After I made my first artwork in 2016, Krita happened to exceed GIMP in any way possible. I fell in love instantly.
 
-![](images/grapevine800.png)
+![](../images/grapevine800.png)
 
 ### What do you love about Krita?
 
@@ -66,7 +66,7 @@ Actually I don't use any other drawing application as I simply don't need one. I
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](images/festival_preparation800.png)
+![](../images/festival_preparation800.png)
 
 One of my most recent illustrations is "festival preparation" - it indicates the direction I want to go with my art - to improve in art foundations, while keeping it fun and full of imagination. A lot of things I studied recently were used here, and it seems it all went particularly well.
 

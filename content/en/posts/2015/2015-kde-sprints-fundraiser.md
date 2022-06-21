@@ -13,4 +13,4 @@ It's a very effective meeting: in 2011 the KDE Frameworks 5 project was started,
 
 Let's help KDE bring people together!
 
-[![](images/Fundraiser-Banner-2015.png)](https://www.kde.org/fundraisers/kdesprints2015/)
+[![](../images/Fundraiser-Banner-2015.png)](https://www.kde.org/fundraisers/kdesprints2015/)

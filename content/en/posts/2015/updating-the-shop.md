@@ -13,4 +13,4 @@ And check out the very nice black tote bags and cool mugs as well!
 
 All prices include shipping and only in the Netherlands, V.A.T. is added.
 
-[![shop](images/shop.png)](https://krita.org/support-us/shop/)
+[![shop](../images/shop.png)](https://krita.org/support-us/shop/)

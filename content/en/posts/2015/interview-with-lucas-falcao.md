@@ -6,7 +6,7 @@ categories:
 coverImage: "lucas.jpg"
 ---
 
-### [![watson](images/watson800.png)](https://krita.org/wp-content/uploads/2015/01/watson_final_1600px_web.png)
+### [![watson](../images/watson800.png)](https://krita.org/wp-content/uploads/2015/01/watson_final_1600px_web.png)
 
 ### Would you like to tell us something about yourself?
 

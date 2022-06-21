@@ -15,19 +15,19 @@ Originalmente, en nuestro espacio dentro de la tienda, mencionábamos que Krita 
 
  
 
-[![](images/store_listing-1024x980.png)](https://krita.org/wp-content/uploads/2018/07/store_listing.png)
+[![](../images/store_listing-1024x980.png)](https://krita.org/wp-content/uploads/2018/07/store_listing.png)
 
 Lo siguiente es lo que una nueva interpretación de Microsoft nos ha puesto contra la regla: "Tu app puede promover y distribuir software soo mediante la tienda de Microsoft".
 
-[![](images/Screenshot_20180730_151859.png)](https://krita.org/wp-content/uploads/2018/07/Screenshot_20180730_151859.png)
+[![](../images/Screenshot_20180730_151859.png)](https://krita.org/wp-content/uploads/2018/07/Screenshot_20180730_151859.png)
 
 Sin embargo ésto también es parte de la misma clausula 10.8: "Si tu app incluye venta interna, suscripciones, moneda virtual, sistema de pagos o capturas financieras entonces los siguientes puntos aplican:"
 
-[![](images/Screenshot_20180730_151934-1024x138.png)](https://krita.org/wp-content/uploads/2018/07/Screenshot_20180730_151934.png)
+[![](../images/Screenshot_20180730_151934-1024x138.png)](https://krita.org/wp-content/uploads/2018/07/Screenshot_20180730_151934.png)
 
 Suena bastante claro para nosotros que si cualquiera de estos puntos aplica, entonces la clausula 10.8.5 se aplica también. Pero nosotros entendemos que si nuestro app no hace o incluye ninguna de esas funciones, entonces no ha problemas. Sin embargo Microsoft nos dice lo contrario, en un correo electrónico a nuestro desarrollador nos dicen: "Hola Boudewijn, La póliza 10.8.5 se aplica de cualquier forma al app. Por favor actualiza la metadata y quita todos los enlaces que promuevan la instalación del app fuera de la nuestra tienda. Si no se quitan esos enlaces los problemas de certificación con el programa no serán resueltos. Por favor déjanos saber si necesitas mas ayuda..."
 
-[![](images/mail_microsoft-1024x443.png)](https://krita.org/wp-content/uploads/2018/07/mail_microsoft.png)
+[![](../images/mail_microsoft-1024x443.png)](https://krita.org/wp-content/uploads/2018/07/mail_microsoft.png)
 
 Y por lo tanto, Krita no contiene nada que aplique a la clausula 10.8, pero al parecer en éste caso la palabra en ingles "if" es ambigua y abierta a la interpretación que Microsoft decida.
 

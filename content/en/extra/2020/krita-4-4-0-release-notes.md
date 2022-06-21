@@ -17,7 +17,7 @@ Fill layers can now make use of multi-threading. This means that if your compute
 
 ### Transformations for the pattern fill
 
-[![](images/krita_4_4_texture_example.png)](https://krita.org/wp-content/uploads/2020/09/krita_4_4_texture_example.png)
+[![](../images/krita_4_4_texture_example.png)](https://krita.org/wp-content/uploads/2020/09/krita_4_4_texture_example.png)
 
 The different pattern transforms possible now.
 
@@ -25,13 +25,13 @@ The [patterns of fill layers](https://docs.krita.org/en/reference_manual/layers_
 
 ### Screentone
 
-[![](images/fill_layer_screentone_postprocessing.png)](https://krita.org/wp-content/uploads/2020/09/fill_layer_screentone_postprocessing.png)
+[![](../images/fill_layer_screentone_postprocessing.png)](https://krita.org/wp-content/uploads/2020/09/fill_layer_screentone_postprocessing.png)
 
 [A new fill layer option](https://docs.krita.org/en/reference_manual/layers_and_masks/fill_layer_generators/screentone.html) specialized in filling the whole screen with dots, squares, lines, waves or more. This fill layer allows you to quickly generate the simple pattern you need on the fly, which is very useful for those doing comic book illustration or similar highly graphics styles.
 
 ### Multigrid
 
-[![](images/multigrid-color-examples.png)](https://krita.org/wp-content/uploads/2020/09/multigrid-color-examples.png)
+[![](../images/multigrid-color-examples.png)](https://krita.org/wp-content/uploads/2020/09/multigrid-color-examples.png)
 
 [A fill layer that generates](https://docs.krita.org/en/reference_manual/layers_and_masks/fill_layer_generators/multigrid.html), among others, [Penrose tilings](https://en.wikipedia.org/wiki/Penrose_tiling), as well as Quasicrystal structures. The results are rotationally symmetric, but aperiodic, meaning these rhomb patterns don't repeat themselves.
 
@@ -39,7 +39,7 @@ This filter was inspired by the next item on the list...
 
 ### SeExpr
 
-[![](images/1096px-SeExpr_manual_1.jpg)](https://krita.org/wp-content/uploads/2020/08/1096px-SeExpr_manual_1.jpg)
+[![](../images/1096px-SeExpr_manual_1.jpg)](https://krita.org/wp-content/uploads/2020/08/1096px-SeExpr_manual_1.jpg)
 
 SeExpr Manual
 
@@ -49,7 +49,7 @@ Amyspark's Google Summer of Code project, the integration of Disney Animation's 
 
 Following the addition of the lightness mode in 4.3, this release sees another round of features for the brush engines.
 
-[![](images/flowers_gradients_lightness.png)](https://krita.org/wp-content/uploads/2020/09/flowers_gradients_lightness.png)
+[![](../images/flowers_gradients_lightness.png)](https://krita.org/wp-content/uploads/2020/09/flowers_gradients_lightness.png)
 
 Top stroke: using a combination of the new lightness parameter with the mix parameter. Bottom stroke: using the texture strength parameter to mix gradient mapped brush tips and textures.
 
@@ -65,7 +65,7 @@ Brushes now have the ability to use [lightness and the gradients for textures](h
 
 Diagonal lines allow modifying _lightness and saturation_ of the currently active color at the same time.
 
-[![Diagonal lines in MyPaint Color Selector (Shift+M)](images/mypaint_selector_diagonal.png)](https://krita.org/wp-content/uploads/2020/09/mypaint_selector_diagonal.png)
+[![Diagonal lines in MyPaint Color Selector (Shift+M)](../images/mypaint_selector_diagonal.png)](https://krita.org/wp-content/uploads/2020/09/mypaint_selector_diagonal.png)
 
 Diagonal lines in MyPaint Color Selector (Shift+M)
 
@@ -73,7 +73,7 @@ Diagonal lines in MyPaint Color Selector (Shift+M)
 
 While Krita had support for the GIMP Gradient format, we never supported the dynamic changing of [gradients](https://docs.krita.org/en/reference_manual/resource_management/resource_gradients.html) based on the current fore and background colors. Nor did we do so for the layer styles. This has now been added. Several of the bundled presets use the foreground color to easily create sparks, haze and other effects.
 
-[![](images/fg_changing_gradients_for_sparkles.png)](https://krita.org/wp-content/uploads/2020/09/fg_changing_gradients_for_sparkles.png)
+[![](../images/fg_changing_gradients_for_sparkles.png)](https://krita.org/wp-content/uploads/2020/09/fg_changing_gradients_for_sparkles.png)
 
  
 
@@ -109,7 +109,7 @@ By Gwendal Blanchard, this plugin allows you to quickly separate the image chann
 
 ### New Python scripting website
 
-![](images/scripting-school-1024x387.png)
+![](../images/scripting-school-1024x387.png)
 
 To learn about the new scripting APIs, or learn how to script with Krita in general, [a new website was made](https://scripting.krita.org/) to assist. It is broken apart into various sections of what scripting can do.
 

@@ -3,7 +3,7 @@ title: "Expressive painting with Hairy presets"
 date: "2013-08-27"
 ---
 
-![](images/9sWvZzm.jpg)
+![](../images/9sWvZzm.jpg)
 
 Hi!
 
@@ -32,7 +32,7 @@ Next: advanced options:
 - Also some of these new presets use the Ascension with a not common ramp. This ramp is useful to constrain the amount of degrees you can rotate your hand before the brush start to rotate and covers the Left and Right rotation. You only have to modify the corners points to make this behavior more sensitive.
     
 
-**![](images/pRRhflb.jpg)**
+**![](../images/pRRhflb.jpg)**
 
 ## **Contents of the Hairy Brush Pack**
 
@@ -62,4 +62,4 @@ License :  the brushkit itself and thumbnails is released under the [WTFPL 2.0]
 
 Unzip the downloaded zip , and paste the files into your Krita user preference directory. On Linux, the Krita preferences are located here :  /home//.kde/share/apps/krita/paintoppresets
 
-![](images/0fUaxB2.jpg)
+![](../images/0fUaxB2.jpg)

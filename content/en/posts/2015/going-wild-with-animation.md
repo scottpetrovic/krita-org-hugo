@@ -11,7 +11,7 @@ But here's the animation gallery!
 
  By Timothee Giet
 
-![Toothless dargon turning head](images/tumblr_nyddn9aI1z1qk9kjpo1_500.gif) and ![Horse galloping](images/tumblr_nydc17gN9k1qk9kjpo1_500.gif) by JackTheVulture on tumblr.
+![Toothless dargon turning head](../images/tumblr_nyddn9aI1z1qk9kjpo1_500.gif) and ![Horse galloping](../images/tumblr_nydc17gN9k1qk9kjpo1_500.gif) by JackTheVulture on tumblr.
 
 [Falling ball](https://pbs.twimg.com/tweet_video/CUqCk9aUsAA8x_C.mp4) by はまの ‏@HaMoO0NoO0 on twitter.
 

@@ -6,7 +6,7 @@ categories:
 coverImage: "Drei-Kleidchen-31.10.2015.jpg"
 ---
 
-[![Drei Kleidchen 31.10.2015](images/Drei-Kleidchen-31.10.2015.jpg)](https://krita.org/wp-content/uploads/2015/12/Drei-Kleidchen-31.10.2015.jpg)
+[![Drei Kleidchen 31.10.2015](../images/Drei-Kleidchen-31.10.2015.jpg)](https://krita.org/wp-content/uploads/2015/12/Drei-Kleidchen-31.10.2015.jpg)
 
 ### Could you tell us something about yourself?
 

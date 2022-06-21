@@ -17,7 +17,7 @@ Por favor nótese lo siguiente:
 
 Si tienes algún problema por favor consulta el [formulario para el reporte de errores de código](https://phabricator.kde.org/T7492) (en ingles) antes de reportar en Bugzilla, desde el lanzamiento de la versión 4.0.0 se han reportado mas de 150 "bugs" (errores de código), pero la mayoría eran reportes duplicados o simplemente preguntas y quejas las cuales deben ser dirigidas a el foro oficial o en el IRC. Estos pseudo-reportes toman bastante tiempo para ser revisados y hace que la corrección de verdaderos errores se tome mucho mas tiempo. Ademas solo reportes in ingles serán validados. ¡Gracias por comprendernos y ayudarnos!
 
-[![](images/kiki_4.0_sm-1-1024x463.png)](https://krita.org/wp-content/uploads/2018/03/kiki_4.0_sm-1.png)
+[![](../images/kiki_4.0_sm-1-1024x463.png)](https://krita.org/wp-content/uploads/2018/03/kiki_4.0_sm-1.png)
 
 ## Mejoras
 

@@ -6,7 +6,7 @@ categories:
 coverImage: "r_DM170.jpg"
 ---
 
-### [![r_dijeau-800](images/r_dijeau-800.jpeg)](https://krita.org/wp-content/uploads/2015/06/r_dijeau.jpeg)
+### [![r_dijeau-800](../images/r_dijeau-800.jpeg)](https://krita.org/wp-content/uploads/2015/06/r_dijeau.jpeg)
 
 ### Could you tell us something about yourself?
 
@@ -30,7 +30,7 @@ I did not take a definite choice. Even if I work mainly digitally, I still have 
 
 I do not think that working digitally means to be faster. On the contrary, I can work more quickly by hand, especially in the first sketching phases. What digital art allows is CONTROL all over the process. If you keep your layer stack well organized, you can always edit your art without losing the original version, and this is very useful when your client asks for changes. If you work with traditional tools and you drop your ink in the wrong place, you can’t press Ctrl+z.
 
-[![r_Ev-800](images/r_Ev-800.jpeg)](https://krita.org/wp-content/uploads/2015/06/r_Ev.jpeg)
+[![r_Ev-800](../images/r_Ev-800.jpeg)](https://krita.org/wp-content/uploads/2015/06/r_Ev.jpeg)
 
 ### How did you find out about Krita?
 
@@ -54,7 +54,7 @@ Krita is by far the most complete digital painting tool developed on Linux. It i
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-[![r_DM170-800](images/r_DM170-800.jpg)](https://krita.org/wp-content/uploads/2015/06/r_DM170.jpg) The musicians in the field.
+[![r_DM170-800](../images/r_DM170-800.jpg)](https://krita.org/wp-content/uploads/2015/06/r_DM170.jpg) The musicians in the field.
 
 ### What techniques and brushes did you use in it?
 

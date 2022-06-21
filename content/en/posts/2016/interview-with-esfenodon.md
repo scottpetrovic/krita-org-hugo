@@ -6,7 +6,7 @@ categories:
 coverImage: "Esfenodon.jpg"
 ---
 
-![Yaiza_Happy_Esfenodon____](images/Yaiza_Happy_Esfenodon____.jpg)
+![Yaiza_Happy_Esfenodon____](../images/Yaiza_Happy_Esfenodon____.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -62,7 +62,7 @@ Speed. I'm abandoning other tools because I love speed. Krita is relaxing softwa
 
 Maybe P-B-P-B. It was very funny. A pretty girl and a beautiful owl. I like owls. I was like "I think I can do scientific illustrations in Krita... why not to put an owl here?" To be honest someone told me to put in an owl, hahaha.
 
-![P-B-P-B___Esfenodon___](images/P-B-P-B___Esfenodon___.jpg)
+![P-B-P-B___Esfenodon___](../images/P-B-P-B___Esfenodon___.jpg)
 
 ### What techniques and brushes did you use in it?
 
@@ -70,7 +70,7 @@ I like to use hard flat brushes. I don't want to hide the brush. Strokes can giv
 
 I try not to use many layers or "control z". If something is wrong I try to resolve it painting over. Sometimes you find something interesting that way.
 
-![P-B-P-B_process__Esfenodon___](images/P-B-P-B_process__Esfenodon___.jpg)
+![P-B-P-B_process__Esfenodon___](../images/P-B-P-B_process__Esfenodon___.jpg)
 
 ### Where can people see more of your work?
 

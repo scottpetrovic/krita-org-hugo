@@ -5,7 +5,7 @@ categories:
   - "artist-interview"
 ---
 
-### [![](images/Halloween_800.jpg)](https://krita.org/wp-content/uploads/2020/01/Never-Dot-Halloween.jpg)
+### [![](../images/Halloween_800.jpg)](https://krita.org/wp-content/uploads/2020/01/Never-Dot-Halloween.jpg)
 
 ### Could you tell us something about yourself?
 

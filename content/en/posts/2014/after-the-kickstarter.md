@@ -7,7 +7,7 @@ Running a kickstarter is very much like, well, running! Running for thirty solid
 
  Reward Selection Donate €5,00 EUR Postcard €15,00 EUR Postcard and stickers €25,00 EUR Digital Download of the Muses DVD €50,00 EUR USB Stick with Krita €100,00 EUR Comics with Krita DVD plus signed comic €150,00 EUR Dedicated Tutorial by Wolthera €250,00 EUR Pick your own priority €750,00 EUR A month of dedicated development €2.500,00 EUR 
 
- ![](images/pixel.gif)
+ ![](../images/pixel.gif)
 
 [Yiynova Europe](http://www.yiynova.eu/) noticed the kickstarter and contacted us -- they loaned us two Yiynova tablet monitors, the [19" MSP19u](http://www.yiynova.eu/msp19u.php) and the the [21,5" MVP22u](http://www.yiynova.eu/mvp22u.php) to test Krita with. We already had a [bug report about multi-monitor setup](https://bugs.kde.org/show_bug.cgi?id=337101) with other tablets than a Cintiq, so this was very welcome! And today there's a new experimental build that works just fine!
 

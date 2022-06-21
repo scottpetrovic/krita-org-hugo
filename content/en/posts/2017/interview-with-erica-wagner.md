@@ -6,7 +6,7 @@ categories:
 coverImage: "T-Rex3.png"
 ---
 
-### ![](images/T-Rex3.png)
+### ![](../images/T-Rex3.png)
 
 ### Could you tell us something about yourself?
 
@@ -58,7 +58,7 @@ My favorite is the texture for the 3d lowpoly model t-rex I made for a shirt des
 
 ### What techniques and brushes did you use in it?
 
-![](images/SHW-Logo-2.png)
+![](../images/SHW-Logo-2.png)
 
 I used the Krita ink gpen 25 and the smudge rake 2 brushes. I chose the colors of my brand ScienceHerWay which are white, black, neon and dark shades of pink, purple, and teal and then used some light and dark grey. Certain areas of the dinosaur I made darker to give some details such as the dark purple lines in the lips, a darker shade of the color used on the nails, elbow and knee joints, and a light shade of teal on the inside of the mouth for where he teeth would be. For the pink streaks on the dinosaur’s back and legs I made a line of neon pink with the ink gpen 25 brush and then used the smudge rake 2 brush randomly to make it look like a natural pattern until the neon pink line was gone. I repeated this process with the dark neon pink.
 

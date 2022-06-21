@@ -6,7 +6,7 @@ categories:
 coverImage: "Cute-Thicc-Girl-800.png"
 ---
 
-### ![](images/Cute-Thicc-Girl-800.png)
+### ![](../images/Cute-Thicc-Girl-800.png)
 
 ### Could you tell us something about yourself?
 

@@ -5,7 +5,7 @@ categories:
   - "news"
 ---
 
-![](images/GSoC2016Logo.jpg)
+![](../images/GSoC2016Logo.jpg)
 
 Every summer Google puts on a program that helps university developers get involved with the open source community. This is known as Google Summer of Code (GSoC). Krita has always participated in GSoC through the [KDE community](https://dot.kde.org/2019/02/27/google-summer-code-2019), and plans to do it again in 2019!
 

@@ -37,7 +37,7 @@ In the new builds, not quite beta 2 yet, just another build in between the last 
 
 And that ties in with a lot of work Wolthera has done. Building on Victor Lafon's work earlier this year to make it possible to package resources -- brushes, gradients, patterns, everything -- in bundles, she's hit her stride and figured out what was broken and what needs to be added. But... It's already possible to load a bundle into Krita, and use the resources!
 
-[![resources](images/resources-300x204.png)](https://krita.org/wp-content/uploads/2014/12/resources.png)
+[![resources](../images/resources-300x204.png)](https://krita.org/wp-content/uploads/2014/12/resources.png)
 
 And here's the [first bundle, with inking brushes](https://www.dropbox.com/s/4nj8t4538f5wx2s/Wolthera_Inking_Pack.bundle?dl=0)! If you want to get into the game, remember, this is still barely ripe. Also check the [brush preset guidelines](https://community.kde.org/Krita/Brushes_Preset_Preview)!
 

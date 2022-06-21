@@ -5,7 +5,7 @@ date: "2014-02-20"
 
 Free and open graphics software is taking its place in more and more game and vfx studios. Over the past year, [Playkot](http://playkot.com/)'s Paul Geraskin and his colleagues have been using Krita, Blender and Gimp to work on the assets for their latest facebook game, [Super City "Epic city builder with amazing visuals"](https://apps.facebook.com/super_city_game/), which was released yesterday!
 
-[![](images/logo.png)](http://playkot.com/)
+[![](../images/logo.png)](http://playkot.com/)
 
  
 
@@ -13,10 +13,10 @@ Playkot, based in St. Petersburg has been working on Super City for the past two
 
 He continues, "Super City first went live in Russian social networks like www.vk.com or www.odnoklassiki.ru, then in Korea and Japan. Over four million gamers have already enjoyed art created with Krita and Blender!"
 
-[![](images/supercity.png)](https://apps.facebook.com/super_city_game/)
+[![](../images/supercity.png)](https://apps.facebook.com/super_city_game/)
 
 As for Krita, Paul has been a great member of our community, helping out with testing, feature requests and even a patch for the OpenGL canvas shaders! The awesome Supercity art has become really familiar to the Krita development team over the past year!
 
-![](images/supercity_devel.png)
+![](../images/supercity_devel.png)
 
 If you're on facebook, you can play [SuperCity](https://apps.facebook.com/super_city_game/), too. Have fun!

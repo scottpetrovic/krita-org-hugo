@@ -7,4 +7,4 @@ This past week artist David Revoy visited the Université Cergy-Pontoise in Pari
 
 You can read more about David's trip and see what was taught during the class from his blog: [https://www.davidrevoy.com/article335/krita-digital-painting-courses-at-university-cergy-pontoise](https://www.davidrevoy.com/article335/krita-digital-painting-courses-at-university-cergy-pontoise)
 
-![](images/david_revoy_with-student-2017-cergy.jpg)
+![](../images/david_revoy_with-student-2017-cergy.jpg)

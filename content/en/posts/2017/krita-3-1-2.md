@@ -32,7 +32,7 @@ El siguiente enlace incluye la [lista de errrores de codigo](https://krita.org/
 
 Si quieres ver lo que otros usuarios han hecho con Krita, obtén el libro [**Made with Krita 2016**](https://krita.org/en/item/made-with-krita-2016-the-krita-artbook/) (Hecho con Krita), el primer libro de arte con nuestro software, ya lo puedes ordenar hoy mismo.
 
-\[caption id="attachment\_4645" align="alignleft" width="217"\][![Made with Krita 2016](images/cover_small-217x300.png)](https://krita.org/wp-content/uploads/2016/12/cover_small.png) Made with Krita 2016\[/caption\]
+\[caption id="attachment\_4645" align="alignleft" width="217"\][![Made with Krita 2016](../images/cover_small-217x300.png)](https://krita.org/wp-content/uploads/2016/12/cover_small.png) Made with Krita 2016\[/caption\]
 
 ### ¡Esperamos tus comentarios!
 

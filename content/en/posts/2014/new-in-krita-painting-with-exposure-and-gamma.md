@@ -24,11 +24,11 @@ Krita has two methods of rendering the image on screen: internal and using Open 
     2. Set the $OCIO environment variable to the path of your config directory
     3. Select the path to the configuration in the Krita docker manually
 
-![](images/smoking_common.png)
+![](../images/smoking_common.png)
 
 Smoking Figure by Timothée Giet
 
-![](images/field_common.png)
+![](../images/field_common.png)
 
 Landscape by Wolthera van Hövell tot Westerflier
 

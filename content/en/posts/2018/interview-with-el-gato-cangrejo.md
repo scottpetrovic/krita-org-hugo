@@ -6,7 +6,7 @@ categories:
 coverImage: "Distant.jpg"
 ---
 
-### ![](images/Sorceress.jpg)
+### ![](../images/Sorceress.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -20,7 +20,7 @@ I'm really trying to make it professionally, "very hard thing" but also I try to
 
 I like to let my hand and my pen go to wherever they want to go, and then I begin to think about those traces and it leads me to different shapes, themes and genres. I can build an script for a comic or for a short film, an illustration or even sounds based on a web of random traces on a digital canvas or on a piece of paper.
 
-![](images/The-Cape.jpg)
+![](../images/The-Cape.jpg)
 
 ### Whose work inspires you most -- who are your role models as an artist?
 
@@ -46,7 +46,7 @@ I hated Krita at the time, now I love it!
 
 The shortcuts are essential, the brushes, the animation tools, "insert meme here" it's free!
 
-![](images/Learning-a-New-Mantra.jpg)
+![](../images/Learning-a-New-Mantra.jpg)
 
 ### What do you think needs improvement in Krita? Is there anything that really annoys you?
 
@@ -58,7 +58,7 @@ As I said earlier, the shortcuts are essential, the animation tools combined wit
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](images/Distant.jpg)
+![](../images/Distant.jpg)
 
 I would choose Distant.
 
@@ -70,7 +70,7 @@ I like the "Airbrush\_Linear" a lot. I set it to a big size and the opacity to 1
 
 https://gatocangrejo.deviantart.com/gallery/
 
-![](images/Totally-Focused.jpg)
+![](../images/Totally-Focused.jpg)
 
 ### Anything else you'd like to share?
 

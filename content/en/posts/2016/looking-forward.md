@@ -11,7 +11,7 @@ We have just [released Krita 3.1](https://krita.org/en/item/krita-3-1-released-a
 - Improved palette handling: we've started work on adding support for two new palette formats that can handle color correctly already. We intend to rewrite the palette editor in Python, and for that we need 2016's Python scripting to be done. That is moving along quite nicely! More information on that below.
 - Stacked brushes: This functionally works and is pretty innovative, even! But it is difficult to configure stacked brushes with the existing brush editor UI design. We've started re-working the brush editor already to make way for this feature. When that work is done this feature can land. The new brush editor UI is still being refined:
 
-[![screenshot_20161213_143102](images/Screenshot_20161213_143102-300x180.png)](https://krita.org/wp-content/uploads/2016/12/Screenshot_20161213_143102.png)
+[![screenshot_20161213_143102](../images/Screenshot_20161213_143102-300x180.png)](https://krita.org/wp-content/uploads/2016/12/Screenshot_20161213_143102.png)
 
 **For the 2016 Kickstarter features, we're working on the following items:**
 

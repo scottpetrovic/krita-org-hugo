@@ -6,7 +6,7 @@ categories:
 coverImage: "2.png"
 ---
 
-### ![](images/3.png)
+### ![](../images/3.png)
 
 ### Could you tell us something about yourself?
 
@@ -20,7 +20,7 @@ I practice digital art as a hobby artist, but since digital art has become my da
 
 How to define my genre ... hmm, well I like to make fantasy, sometimes dark art, I like sci-fi but today I work more with fractals, surreal, abstract. In fact what I mostly like is create some fractals, work on and transform them, I sometimes mix them with painting, I have great fun doing that.
 
-![](images/1.png)
+![](../images/1.png)
 
 ### Whose work inspires you most -- who are your role models as an artist?
 
@@ -34,7 +34,7 @@ The first time was in 2015. I was curious to try, first steps towards what would
 
 Digital art is so much more practical and more economical. No need for pencils, paintbrushes, paint, paper or canvas, everything is there, in little space. No need to install, store, clean. Only my computer and my drawing tablet, I turn on or off when I want! Great! And if I make a mistake during my work, I erase it instantly! As I can very well make a final choice very quickly on several color tests, shapes among the multitude of layers, filters, etc ... Imagine doing the same thing in traditional art!! No, impossible! But I really have admiration for traditional painters too. They are 2 different ways to make art!
 
-![](images/5.png)
+![](../images/5.png)
 
 ### How did you find out about Krita?
 
@@ -48,7 +48,7 @@ Very intuitive. I immediately felt comfortable with it. I was impressed by the m
 
 I like everything, whether for brushes, tools (settings, possible options) or filters, color adjustment, how you can also organize your work space, even the space for animation is there. And of course the useful G'MIC filters. Everything is there for my work.
 
-![](images/4.png)
+![](../images/4.png)
 
 ### What do you think needs improvement in Krita? Is there anything that really annoys you?
 
@@ -60,7 +60,7 @@ I don't use other tools except Krita, but sometimes I play with Mandelbulb3D and
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](images/2.png)
+![](../images/2.png)
 
 There is more than one but I choose a simple painting "Call of the moon" because it was one of my first with Krita, very different from what I'm doing today but I remember having so much pleasure doing it.
 

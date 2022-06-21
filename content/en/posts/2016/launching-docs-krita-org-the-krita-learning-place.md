@@ -11,17 +11,17 @@ Here are some of the things we're sure you'll appreciate:
 
 ### Better Search Capabilities
 
-![live-search](images/live-search.gif)
+![live-search](../images/live-search.gif)
 
 The [docs](https://docs.krita.org) site has its own search functionality now! The search will pick up not just page titles, but also content. This makes it much easier to find what you are looking for! And the live search bar also will give suggestions as you type.
 
 ### Improved Navigation
 
-![page-tree-navigation](images/page-tree-navigation.gif)
+![page-tree-navigation](../images/page-tree-navigation.gif)
 
 All the content is now organized in a page tree display. You can drill down into the specific areas that you are interested in. The navigation turns into a fixed layout to make it easy to reference where you are. And pages include a previous and next page function to help you move around. Breadcrumbs exist above the title as well. Click on them to go up a directory, as usual!
 
-![page-navigation](images/page-navigation.gif)
+![page-navigation](../images/page-navigation.gif)
 
 ### Combined Educational Resources
 

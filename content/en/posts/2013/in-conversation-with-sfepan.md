@@ -8,7 +8,7 @@ coverImage: "sfepan-thumbnail.jpg"
 
 This time around we got into a conversation with the Krita artist Sfepan from Moldova. The illustration below is "Jorro" which is his favorite Krita work. Read on this interesting conversation! Have a nice day!
 
-![](images/jorro_by_sfepan - Copy.png)
+![](../images/jorro_by_sfepan - Copy.png)
 
 ### **Do you paint professionally or as a hobby artist? In any of the case, how would you define the importance of art in your daily?**
 

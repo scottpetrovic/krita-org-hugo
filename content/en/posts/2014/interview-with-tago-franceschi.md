@@ -34,4 +34,4 @@ In it I was able to retain, I think with a good result, different styles (impres
 
 Sure, no problem!
 
-![](images/Bellezza-sul-lagoby-tago.png)
+![](../images/Bellezza-sul-lagoby-tago.png)

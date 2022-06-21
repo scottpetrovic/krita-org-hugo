@@ -17,4 +17,4 @@ Browse other [gifts](http://www.zazzle.com/gifts) from Zazzle.
 
 The artwork used in the newly launched products are by [Yuri Fidelis](http://yurifidelis.deviantart.com/%20) ("Unfinished"), [Philip Koops](http://peileppe.com/) ("Krita Bear") and [Namito](http://namito111.deviantart.com/%20) ("Cranes"). The samples in their order -
 
-![Unfinished](images/product8.png "Unfinished")![Bear Tee](images/product10.png "Bear Tee")![Cranes](images/product9.png "Cranes")
+![Unfinished](../images/product8.png "Unfinished")![Bear Tee](../images/product10.png "Bear Tee")![Cranes](../images/product9.png "Cranes")

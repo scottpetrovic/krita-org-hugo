@@ -6,7 +6,7 @@ categories:
 coverImage: "bluesiamesefightingfishkrita.jpg"
 ---
 
-![](images/websitesquirrelmascots.jpg)
+![](../images/websitesquirrelmascots.jpg)
 
 ### 可以介绍一下你自己吗？
 
@@ -14,7 +14,7 @@ coverImage: "bluesiamesefightingfishkrita.jpg"
 
 我在大学里学习的是考古学专业，因为我喜欢历史、神话、民间传说和自然环境。我自小就一直在画画。2003 年从大学考古专业毕业后，我出于爱好和工作需要自学了数字绘画和网页编程。我曾经从事过自由职业的网页设计和网管工作，但 2013 年我对生活感到了幻灭并陷入抑郁，我决定要追寻艺术创作之路并参加了一个美术基础课程。2014 年起我拼了命地练习并积累了一套个人作品集。
 
-### ![](images/getwellsoonkrita.jpg)
+### ![](../images/getwellsoonkrita.jpg)
 
 ### 你的绘画是专业性质，还是兴趣爱好，或者说两者都有？
 
@@ -24,7 +24,7 @@ coverImage: "bluesiamesefightingfishkrita.jpg"
 
 我发现自己喜欢绘制自然和动物主题的作品。我阅读许多神话和民间故事，我也在为个人的美人鱼和河神企划绘制作品，不过它目前还刚刚起步。我正在让自己的风格包含更多的幻想元素，并将他们整合到我的图案绘制工作中。
 
-![](images/chickensmall.jpg)
+![](../images/chickensmall.jpg)
 
 ### 哪位作者的作品对你启发最大？你把哪位作者作为你的榜样？
 
@@ -34,7 +34,7 @@ coverImage: "bluesiamesefightingfishkrita.jpg"
 
 我在 2004 年首次尝试了数字绘画。我当时想要在一个 Maxis 模拟类游戏里绘制自己的材质，我使用了我姐的 Photoshop 6 和我妈给我买的一块无压感的数位板。为了跟别人分享我的作品，我还学会了编写网页。我的第一份工作是在银行里面录入数据的办事员 (无聊透顶)，这让我存够了钱，在 2005 年买到了人生的第一块像样的 Wacom 数位板。我希望能够从事考古学专业的工作，不过在当地并没有相关的有偿工作。我在网络上看到其他人绘制的精美的数字绘画作品后，对概念美术和奇幻美术着了迷，并开始努力提高自己的水平。我在 CGSociety 和 GFXArtist 上面搜刮作品，购买 ImagineFX 杂志，使尽一切办法来自学数字绘画。那时候的资源远没有现在的那么丰富，不过过程非常有趣，让我可以从生活的其他方面暂时解脱出来。
 
-![](images/materialstudieskrita.jpg)
+![](../images/materialstudieskrita.jpg)
 
 ### 为什么你选择了数字绘画而不是传统绘画？
 
@@ -48,7 +48,7 @@ coverImage: "bluesiamesefightingfishkrita.jpg"
 
 我第一次尝试 Krita 的时候还是一个重度 Corel Painter 用户，不过我觉得它应该有点潜力，所以就把网站添加进了书签。在 2013 年时我再一次尝试 Krita 时，我觉得它已经比 Corel Painter 更好了。它的界面很棒，比 Corel Painter 好用得多，而且自带的笔刷也特别实用。
 
-![](images/bluesiamesefightingfishkrita.jpg)
+![](../images/bluesiamesefightingfishkrita.jpg)
 
 ### 你喜欢 Krita 的哪些方面？
 
@@ -58,7 +58,7 @@ coverImage: "bluesiamesefightingfishkrita.jpg"
 
 我是在说不出 Krita 有什么地方让我不爽，有问题也应该是我自己的硬件造成的。有时候我画着画着压力感应就没了，我必需先最小化之后重新最大化 Krita 的窗口压力感应才会回复。我猜那要么是我那块友基 2150 的锅，要么就是 Windows 10 那该死的 Creator 更新干的好事。我也在使用 Photoshop CS3、Affinity Designer、Affinity Photo 等软件，Krita 的不足可以用其他软件互补，反之亦然。
 
-![](images/allfinhappyfamiliessmall.jpg)
+![](../images/allfinhappyfamiliessmall.jpg)
 
 ### Krita 和其他你正在使用的工具相比有什么独特之处？
 
@@ -66,7 +66,7 @@ coverImage: "bluesiamesefightingfishkrita.jpg"
 
 ### 你可以挑出一幅你最喜欢的使用 Krita 创作的作品吗？原因是什么？
 
-![](images/fishallstudieskrita.jpg)
+![](../images/fishallstudieskrita.jpg)
 
 我喜欢我的那套金鱼练习，它们很好玩，画出来的效果也不错。我打算用同样的风格绘制更多的作品。
 

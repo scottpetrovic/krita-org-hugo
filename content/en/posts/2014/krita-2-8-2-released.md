@@ -21,4 +21,4 @@ Linux users can get updates from their distributions, Windows users can download
 [http://heap.kogmbh.net/downloads/krita\_x64\_2.8.2.0.msi](http://heap.kogmbh.net/downloads/krita_x64_2.8.2.0.msi)  
 [http://heap.kogmbh.net/downloads/krita\_x86\_2.8.2.0.msi](http://heap.kogmbh.net/downloads/krita_x86_2.8.2.0.msi)  
   
-![](images/psd_grouplayers.png)
+![](../images/psd_grouplayers.png)

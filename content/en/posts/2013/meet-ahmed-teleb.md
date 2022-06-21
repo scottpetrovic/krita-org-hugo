@@ -6,7 +6,7 @@ categories:
 coverImage: "adhmed-teleb-thumbnail.jpg"
 ---
 
-**![Alien Portrait 2 by Ahmed Teleb](images/alienportrait2.png "Alien Portrait 2")**
+**![Alien Portrait 2 by Ahmed Teleb](../images/alienportrait2.png "Alien Portrait 2")**
 
 ### **Do you paint professionally or as a hobby artist?**
 

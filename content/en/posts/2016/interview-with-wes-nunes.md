@@ -6,7 +6,7 @@ categories:
 coverImage: "M038-800.jpeg"
 ---
 
-![M038-800](images/M038-800.jpeg)
+![M038-800](../images/M038-800.jpeg)
 
 ### Could you tell us something about yourself?
 
@@ -40,7 +40,7 @@ A few years ago I was looking for illustration software that would satisfy me on
 
 "Oh my gosh this thing has everything! Everything!" I think that it was my first impression. The second must have been, "can a person marry a program?" Seriously, I adapted myself very quickly to Krita and it was so ideal for me, I loved it.
 
-![Capturar01-800](images/Capturar01-800.jpg)
+![Capturar01-800](../images/Capturar01-800.jpg)
 
 ### What do you love about Krita?
 
@@ -58,7 +58,7 @@ Its ease of use, simple interface and it is completely free. There is strong com
 
 I made a stripcomic for my blog Manifesto dos Quadrinhos (something like The Comics Manifest in English) called LAVAT, published months ago. It is a symbolic work because it toured the world and gave me visibility. It was an extremely emotional work because I portrayed a terrifying death scene of a young gay couple killed by strict anti-LGBT laws in fundamentalist countries in the Middle East. This was my favorite work made using Krita.
 
-![S026-800](images/S026-800.jpg)
+![S026-800](../images/S026-800.jpg)
 
 ### What techniques and brushes did you use in it?
 

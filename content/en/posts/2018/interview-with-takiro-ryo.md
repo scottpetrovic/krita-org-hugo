@@ -6,7 +6,7 @@ categories:
 coverImage: "that_strange_feeling_of_confusion_mixed_with_anger.png"
 ---
 
-### ![](images/friend_or_foe.png)
+### ![](../images/friend_or_foe.png)
 
 ### Could you tell us something about yourself?
 
@@ -16,7 +16,7 @@ Well, I'm not really sure what to tell about myself. My name is Takiro, I'm from
 
 At the moment I'm more of a hobby artist, I sometimes do commissions for private clients but that rarely happens. I'd love to be a professional artist some day but I'm still not sure if I have what it takes because there is more to being a professional than just being good at art.
 
-![](images/nyaaas_lickable_paws.png)
+![](../images/nyaaas_lickable_paws.png)
 
 [_Timelapse of this painting_](https://youtu.be/tjTwyvMEPs0)
 
@@ -34,7 +34,7 @@ I had the amazing opportunity to meet Michaela Frech at an Art Show we both atte
 
 As for my ideas, I get them mostly from fantasy movies and series, the novels and fables I read in my childhood and from video games. I often like to switch the characters with animals and think about how their animal behavior and characteristics could influences the plot.
 
-![](images/sightseeing_flight.png)
+![](../images/sightseeing_flight.png)
 
 [_Timelapse of this painting_](https://youtu.be/1add1PDIQR0)
 
@@ -54,7 +54,7 @@ And colors. I love the bright colors you usually only can have on a screen, whic
 
 I just checked and it looks like I started using Krita in 2013. I'm not exactly sure how it happened but I remember that I was frustrated about all the other tools I tried by then, PaintShop, Corel, Photoshop, SAI, you name it. I already was almost completely transitioned to Linux, except for the painting part and then I remembered that my computer science teacher once mentioned a tool for Linux that was not gimp. Unfortunately I couldn't remember the name so I typed "good painting tool for Linux -gimp" into a search engine and BAM! Krita.
 
-![](images/dont_let_go_we_almost_have_one.png)
+![](../images/dont_let_go_we_almost_have_one.png)
 
 ### What was your first impression?
 
@@ -76,7 +76,7 @@ For me it is the feeling that Krita is made with the artist in mind. Often when 
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](images/about_to_fail.png)
+![](../images/about_to_fail.png)
 
 Hm, I have a few but I think my latest is "About to Fail", an artwork I just finished recently. It shows my character in a typical situation where he is careless and about to mess up an experiment. I like it because, not only is it a typical artwork that includes a lot of things i like (fantasy, magic, animals) but also because it was a milestone in my personal development as an artist.
 

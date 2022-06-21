@@ -13,7 +13,7 @@ Enseguida se muestra un resumen de la asamblea Krita 2017.
 
 En el rastreador de errores de código (bug tracker), se logro el eliminar alrededor de 120 reportes, es de entenderse que varios de estos reportes no corresponden a verdaderos problemas en el código, si no que son el resultado de algunos usuarios que han confundido el sistema para pedir ayuda del uso de Krita. También existen aquellos reportes que son duplicados de el mismo problema, por lo que se requiere que se enlacen. al final de la tarea se corrigieron mas de una docena de verdaderos errores de código, lo cual es bastante productivo:
 
-[![](images/bugs_november_sprint-874x1024.png)](https://krita.org/wp-content/uploads/2017/11/bugs_november_sprint.png)
+[![](../images/bugs_november_sprint-874x1024.png)](https://krita.org/wp-content/uploads/2017/11/bugs_november_sprint.png)
 
 ### Krita 4.0
 

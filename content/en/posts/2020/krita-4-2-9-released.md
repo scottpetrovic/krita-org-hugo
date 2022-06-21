@@ -14,7 +14,7 @@ Krita 4.2.9 however is really stable after all the testing it had during the bet
     
     <iframe src="https://www.youtube.com/embed/fyc8-qgxAww" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
     
-- New contributor Saurabh Kumar added a "Split Layer into Selection Mask" feature:[![Layer Split Dialog](images/Screenshot_20200225_140252.png)](https://krita.org/wp-content/uploads/2020/02/Screenshot_20200225_140252.png)
+- New contributor Saurabh Kumar added a "Split Layer into Selection Mask" feature:[![Layer Split Dialog](../images/Screenshot_20200225_140252.png)](https://krita.org/wp-content/uploads/2020/02/Screenshot_20200225_140252.png)
 
 As for the bugfixes... There are a lot of them, and this list isn't even completely complete!
 

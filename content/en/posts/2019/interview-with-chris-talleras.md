@@ -6,7 +6,7 @@ categories:
 coverImage: "20180311-unreal-bjornament-round-2-800.png"
 ---
 
-### ![](images/20180319-mothman-800.png)
+### ![](../images/20180319-mothman-800.png)
 
 ### Could you tell us something about yourself?
 
@@ -20,7 +20,7 @@ I don't do art full-time unfortunately but with time I hope I can fully support 
 
 I'm a mostly a digital artist by trade; making illustrations and designs of weird, bizarre characters and creatures. I also do a lot of fantasy-type art inspired by Dungeons & Dragons and do a lot of worldbuilding.
 
-### ![](images/20180513-mind-flayer-800.png)
+### ![](../images/20180513-mind-flayer-800.png)
 
 ### Whose work inspires you most -- who are your role models as an artist?
 
@@ -54,7 +54,7 @@ A Norwegian painter who had his heyday back in the 1880-1890s and was popular ar
 
 I've done digital art since elementary school, but doing it for real wasn't before about 8th grade I think, when my mom helped me getting a Wacom Intuos 4 which I still own, although a friend of mine fricked it up a little when he borrowed it not too long ago. Since then I've kept going and to my art teacher's perplexment as they had no idea how doing art on the computer worked or what the hell I was making.
 
-![](images/20180412-800.png)
+![](../images/20180412-800.png)
 
 ### What makes you choose digital over traditional painting?
 
@@ -76,7 +76,7 @@ The first art pieces didn't look great, but I could see the potential with the b
 
 Firstly the community and the people working on Krita. They are very involved and makes it into something that has to be generated naturally. It's not just some company slowly pushing your buttons and they really try to make things better. But I also love the functions and the services it provides me which are exactly what I need for what I do professionally.
 
-![](images/20180702-Canine-beast-800.png)
+![](../images/20180702-Canine-beast-800.png)
 
 ### What do you think needs improvement in Krita? Is there anything that really annoys you?
 
@@ -88,7 +88,7 @@ Well, firstly it's free, libre & opensource. How cool is that? I think for me it
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](images/20180311-unreal-bjornament-round-2-800.png)
+![](../images/20180311-unreal-bjornament-round-2-800.png)
 
 I think my most technically advanced illustration would be "the red planet" which I did for round 3 of last year's Unreal Bjornament, a Thunderdome (Mad Max) style tournament for artists run by the amazing artist Bjorn Hurri.
 

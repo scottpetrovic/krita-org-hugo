@@ -13,8 +13,8 @@ Watch the video to see how it will work:
 
 \[embed\]https://www.youtube.com/watch?v=IFKgqhTmM3w\[/embed\]
 
-![](images/Cn3VcEM.png)
+![](../images/Cn3VcEM.png)
 
-![](images/B9DoNBv.png)
+![](../images/B9DoNBv.png)
 
 _Thanks to Paul Geraskin (Mifth) for this video and images :)_

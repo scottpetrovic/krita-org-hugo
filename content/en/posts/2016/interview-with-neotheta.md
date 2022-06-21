@@ -6,7 +6,7 @@ categories:
 coverImage: "Crystal_Cavern.png"
 ---
 
-### ![Monni](images/Monni.png)
+### ![Monni](../images/Monni.png)
 
 ### Could you tell us something about yourself?
 
@@ -20,7 +20,7 @@ Both, I work full-time as an artist right now and hope to continue so!
 
 Is furry a genre? I practice my own styles to draw animals and furries - luckily this is where the most demand for my work is as well. But I've also drawn more cartoony & simplified styles for children's books.
 
-### ![Supernova](images/Supernova.png)Whose work inspires you most -- who are your role models as an artist?
+### ![Supernova](../images/Supernova.png)Whose work inspires you most -- who are your role models as an artist?
 
 My mom draws really well, she got me drawing! After that it's been a blender of many inspirations, they tend to change pretty frequently - except I've always loved cats! I'm more of a role-maker than a taker, so I often do things differently on purpose - it's not always a good thing but probably the reason why I'm currently drawing for a living.
 
@@ -56,7 +56,7 @@ Stability, fast performance, for Linux, well designed for drawing and painting, 
 
 Everything I've drawn in the recent years have been on Krita so it's a difficult pick. My current favorite is a personal drawing of my dragon character in a mystical crystal cavern.
 
-### ![Crystal_Cavern](images/Crystal_Cavern.png)
+### ![Crystal_Cavern](../images/Crystal_Cavern.png)
 
 ### What techniques and brushes did you use in it?
 
@@ -70,4 +70,4 @@ This is my more simple style, first I sketch, then lineart, colour and add textu
 
 I recently made a telegram sticker pack with one sticker to spread word about Krita (when people get my pack they get the Krita sticker too). Feel free to add it to yours too or use in another creative way!
 
-![kritasticker](images/kritasticker.png)
+![kritasticker](../images/kritasticker.png)

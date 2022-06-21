@@ -17,4 +17,4 @@ I started the challenge in February 2015 with two goals: to give people motivati
 
 ## Last month’s winner: "Love at First Flight" by scottyp.
 
-## ![love at first flight](images/love-at-first-flight.jpg)
+## ![love at first flight](../images/love-at-first-flight.jpg)

@@ -9,7 +9,7 @@ More than a year in the making... We proudly present the first pre-alpha version
 
 This "release" includes the latest version of the animation and the instant-preview performance work, plus there are a number of stretch goals from the Kickstarter already available, too. And it is a major upgrade of the core technology that Krita runs on: from Qt4 to Qt5. The latter wasn't something that was a lot of fun, but it's needed to keep Krita code healthy for the future! Whatever may come, we're ready for it!
 
-[![Kiki_Krita_86](images/Kiki_Krita_86.gif)](https://krita.org/wp-content/uploads/2016/01/Kiki_Krita_86.gif)
+[![Kiki_Krita_86](../images/Kiki_Krita_86.gif)](https://krita.org/wp-content/uploads/2016/01/Kiki_Krita_86.gif)
 
 The port to Qt5 meant a complete rewrite of our tablet and display code, which, combined with animation and the instant preview means that Krita is really unstable right now! And that means that we need _you_ to help us test!
 
@@ -17,7 +17,7 @@ Another little project was updating our build-systems for Windows, OSX, and Linu
 
 One of the cool things coming from this system is that for Krita 3.0 we can have portable packages for all three systems! We have [AppImages](http://appimage.org/) for Linux, DMG's for OSX and a portable zip file for 64 bits Windows. Sorry, no 32 bits Windows builds yet...
 
-[![krita3-prealpha](images/krita3-prealpha-1024x621.png)](https://krita.org/wp-content/uploads/2016/01/krita3-prealpha.png)
+[![krita3-prealpha](../images/krita3-prealpha-1024x621.png)](https://krita.org/wp-content/uploads/2016/01/krita3-prealpha.png)
 
 ### Download Instructions
 
@@ -143,6 +143,6 @@ Because our release is so fresh and fragile, we are, for once not going to ask y
 
 With that in mind, it shouldn't be surprising that we don't recommend using this version for production work! Right now, Krita is in the "may eat your cat"-stage... But it is sure fun to play with!
 
-[![DanceGirl_SEQ_small](images/DanceGirl_SEQ_small.gif)](https://krita.org/wp-content/uploads/2016/01/DanceGirl_SEQ_small.gif)
+[![DanceGirl_SEQ_small](../images/DanceGirl_SEQ_small.gif)](https://krita.org/wp-content/uploads/2016/01/DanceGirl_SEQ_small.gif)
 
 (Animations created by [Achille](http://akill-blazard.blogspot.fr/), thanks!)

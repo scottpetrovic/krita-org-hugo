@@ -6,7 +6,7 @@ categories:
 coverImage: "family.jpeg"
 ---
 
-### ![mascot-training](images/mascot-training.jpeg)
+### ![mascot-training](../images/mascot-training.jpeg)
 
 ### Could you tell us something about yourself?
 
@@ -20,7 +20,7 @@ Both, but after having children I paint mostly professionally. I still have sket
 
 I'm working mostly in portraits, character designs, concept art and illustration. People call me specially for portraits/illustrations for wedding invitations and family drawings. Another genre that I work with as a favorite is illustrating Catholic themes. My faith is always portrayed in my personal works.
 
-### ![fatima](images/fatima.jpeg)
+### ![fatima](../images/fatima.jpeg)
 
 ### Whose work inspires you most -- who are your role models as an artist?
 
@@ -32,7 +32,7 @@ And I have lots of artists I admire that work with digital painting. Some of the
 
 As a Brazilian, my role model in my Country is the artist Maurício de Sousa. He has been an inspiration for me since I was a toddler. I love comics. Oh, I love Will Eisner also. Well.... I love lots of artists Did I mention I like manga too?
 
-### ![wrapunzel](images/wrapunzel.jpeg)
+### ![wrapunzel](../images/wrapunzel.jpeg)
 
 ### How and when did you get to try digital painting for the first time?
 
@@ -48,7 +48,7 @@ In 2013 I started using social media to post free drawings, and got a new tablet
 
 I work mostly with digital media because it's easy to correct problems, the client can ask for changes without making me do everything from scratch again, and because I've never actually learned how to paint with real paint (even if I tried hard in College -- with no result).
 
-![hindu](images/hindu.jpeg)
+![hindu](../images/hindu.jpeg)
 
 I like the opportunity digital painting gives me to share my work and get commissions from anywhere. I've done commissions for USA and Germany and had lot of feedback about my free drawings from several countries!
 
@@ -66,7 +66,7 @@ Krita seemed to me very similar to Photoshop. It took several months to get used
 
 It's great software, and I love that such a great project has been made free software (of course there are paid versions, but the free one is the most popular). All functionalities and features are fantastic and work so well for  the digital artist. But what I admire the most is the fact that the team is so available to answer questions, and work so hard to make Krita better and better. My husband is a software engineer and I know how much work it is to build a program, how much time you spend on it, how many nights you lose due to the project deadline, and how great it is to hear the feedback from people who use your app and help you to make it better. If all human beings had this inner good will, so many good things would happen in the world. God bless the Krita Foundation.
 
-![youth](images/youth.jpeg)
+![youth](../images/youth.jpeg)
 
 ### What do you think needs improvement in Krita? Is there anything that really annoys you?
 
@@ -80,7 +80,7 @@ It is high-quality open-source software. Runs in my dear Kubuntu. That's happine
 
 I'm always drawing something new, and the newest drawings are always the best ones, because we learn something every day. I don't know if I can pick only one drawing! Mmmmm... maybe the portrait I made for a family of a dear friend in 2015, the first real digital painting I made, is still my favourite. The result was awesome, I was so proud of myself when I finished it and my friend loved it. Happiness everywhere.\*
 
-![family](images/family.jpeg)
+![family](../images/family.jpeg)
 
 ### What techniques and brushes did you use in it?
 

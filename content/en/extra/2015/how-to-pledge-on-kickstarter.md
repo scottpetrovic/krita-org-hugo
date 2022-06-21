@@ -3,11 +3,11 @@ title: "Kickstarterでの出資方法"
 date: "2015-05-04"
 ---
 
-![](images/how-to-back-1.jpg)
+![](../images/how-to-back-1.jpg)
 
 **ステップ1：** Kickstarterは英語版のサイトしかありませんので全てのスクリーンショットは英語のものになります。Google Chromeを使っているなら、ページを右クリックして「XXX(自国語)に翻訳」をクリックして機械翻訳をかけることができます。これでこの手順が少し簡単になるかもしれません。[KritaのKickstarterのページ](http://www.kickstarter.com/)へと移動し、「Back This Project（このプロジェクトを支援する）」ボタンをクリックしてください
 
-![](images/how-to-back-2.jpg)
+![](../images/how-to-back-2.jpg)
 
 **ステップ2：投資金額（Pledge Amount）を入力する** 投資したい金額（Pledge Amount）を入力し、投資報酬（reward）を選択します。輸送費が含まれる投資報酬を選択した場合、上乗せの輸送費で自分の国も含める必要が出てくることになります。
 
@@ -16,7 +16,7 @@ date: "2015-05-04"
 3. 自分の住んでいる国を選択します
 4. 「Continue to next step（次のステップに進む）」をクリックしてください
 
-![](images/sign-up-3.jpg)
+![](../images/sign-up-3.jpg)
 
 **ステップ3：Kickstarterアカウントへログインする** Facebookのアカウントを持っているならそれを使ってKickstarterにログインすることができます。Facebookのアカウントを持っておらず、Kickstarterのアカウントも持っていない場合は新しくKickstarterアカウントを作る必要があります。
 
@@ -27,7 +27,7 @@ date: "2015-05-04"
 5. Re-enter Password（パスワード再入力）
 6. 「Sign me up（登録）」をクリックしてください
 
-![](images/how-to-back-3.jpg)
+![](../images/how-to-back-3.jpg)
 
 **ステップ4：支払いの詳細を入力する**
 

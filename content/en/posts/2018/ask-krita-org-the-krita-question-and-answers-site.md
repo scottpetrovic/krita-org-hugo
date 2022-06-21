@@ -7,7 +7,7 @@ categories:
 
 With the help of the awesome KDE sysadmin team, Scott Petrovic has created [https://ask.krita.org](https://ask.krita.org) -- the Krita Question and Answers site.
 
-[![](images/ask.krita_.org_.png)](https://ask.krita.org)
+[![](../images/ask.krita_.org_.png)](https://ask.krita.org)
 
 In the past couple of years, Krita has become more and more popular. With over a million downloads a year, there are now so many users that it's become impossible to answer every question for the developers. The [forum](https://forum.kde.org/krita), [bugzilla](https://bugs.kde.org/buglist.cgi?quicksearch=krita&list_id=1567676), [reddit](http://www.reddit.com/r/krita), [twitter](https://twitter.com/Krita_Painting) -- there are too many places where people ask questions that have often been answered before. Nobody reads a plain old [FAQ](https://docs.krita.org/en/KritaFAQ.html) anymore, after all.
 

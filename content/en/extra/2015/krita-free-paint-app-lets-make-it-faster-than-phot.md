@@ -58,6 +58,9 @@ ImagineFX likes Krita so much, they awarded it 5 out of 5 and Artists Choice!
 
 <iframe src="https://d2pq0u4uni88oo.cloudfront.net/assets/003/686/853/72ffa49b1571d1277d91f4567d1a4cd4_h264_high.mp4" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
+{{< video-player src="../images/Video-for-store_final-30fps.mp4" type="video/mp4">}}
+
+
 Kritaのブラシを皆さんがどれほど気に入ってくださっているかもずっと我々の耳に届いています。本当そうですよね！そのブラシを使って夢の手描き2Dアニメーションを作れるようになると想像してみてください。大プロジェクトです！でも楽しみですよね？あとはコードを書くだけなのです！
 
 単に皆さんの描いた絵をフレームからフレームへアニメーションさせるだけではありません。全てのレイヤーとプロパティをタイムライン上で制御できるようになります！フィルタレイヤー、トランスフォーム(変形)マスク、フィルレイヤー、クローン、透過マスクも…これが生み出す可能性を想像してみてください！

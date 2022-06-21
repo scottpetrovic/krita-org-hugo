@@ -5,7 +5,7 @@ categories:
   - "artist-interview"
 ---
 
-### ![](images/ForbiddenFruit-800.jpg)
+### ![](../images/ForbiddenFruit-800.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -19,7 +19,7 @@ I'm most definitely a hobbyist, since I haven't done any professional commission
 
 I'm most comfortable when doing caricatures and comics; in the latter I can also infuse my story-telling abilities, the little there are. I prefer to illustrate living things; people, animals and nature itself. I'm not exactly keen on drawing in-animate objects, though I'm learning to force myself out of this comfort zone. I like to keep things simple and clean, or at least I try my best not to get lost in time-consuming detailing. Guess that's one argument I can use as to why I prefer using simple black background on most of my works...
 
-### ![](images/amadeus-800.jpg)Whose work inspires you most -- who are your role models as an artist?
+### ![](../images/amadeus-800.jpg)Whose work inspires you most -- who are your role models as an artist?
 
 I mostly draw (clever, eh?) influence and inspiration from animation, comics and video game art. I'm hesitant to drop any names because I don't really have role models per se, and I tend to find pretty much any artist's work interesting and inspiring. I guess as a Finn I could mention Tove Jansson and Mauri Kunnas. Jansson is of course famous for creating the Moomins, but she was also an accomplished artist and writer in her own right. Kunnas is a well-loved artist best known for his children's books - pretty much every child in Finland has read at least one of his stories. In my opinion he's also one of the greatest illustrators this country has to offer.
 
@@ -35,7 +35,7 @@ If we don't count MS Paint doodles, I think my first real try at digital paintin
 
 Nothing? I mean, they are completely different working methods, and I still paint traditionally. Nevertheless, I've started to slowly leer towards digital painting, since it's much easier to control your work and you can experiment more without the fear of ruining something irreversibly (especially when it comes to inking comics and other drawings). While it's arguable whether digital painting is more cost-efficient than traditional methods in the long run, I think it's at least less painful to start working with; you only need to set up your computer and programs ready, while with traditional painting you need to take out easel, canvas, gesso, colours, brushes, pencils? you get the idea. Furthermore, in my case where I don't have a separate studio I have to find and clear a space in my apartment to set all that stuff up. Hassle, hassle!
 
-![](images/buccaneer-800.jpg)
+![](../images/buccaneer-800.jpg)
 
 ### How did you find out about Krita?
 
@@ -49,7 +49,7 @@ I guess I'm still languishing in my first impression, because I haven't been abl
 
 Like I mentioned above, I find the interface very easy to use. I also love the fact the community is so alive, and you can find answers to just about any dilemma. All in all, Krita is a magnificent tool for making 2d artwork.
 
-### ![](images/BLF_Jotunn-800.jpg)
+### ![](../images/BLF_Jotunn-800.jpg)
 
 ### What do you think needs improvement in Krita? Is there anything that really annoys you?
 
@@ -61,7 +61,7 @@ Krita is the only digital painting software I use. Being open source is probably
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](images/megantereon-800.jpg)
+![](../images/megantereon-800.jpg)
 
 Not much to choose from, but nevertheless, I'd say Megantereon, which was my first serious Krita artwork that I actually managed to finish. The main reason why I like it so much is simply because I had no initial planning; I took my Wacom, opened Krita and started doodling "something tiger-like". After an hour or so, I began to realise there might be more to it, and continued working. The first version had plain fur, simplistic ear and lifeless green eye. I published it on deviantart.com, but wasn't happy with the result, and later on decided to tweak the cat a bit. The fur got more detailed with stripes and spots, and I completely overhauled both the ear and the eye. The final result is what you see here, and I quickly replaced my previous attempt with this better version. I also like Megantereon as it neatly represents my interests (wildlife, history) and my preferred style (stylized, semi-realistic).
 

@@ -3,7 +3,7 @@ title: "Krita 4.0 - Información General."
 date: "2018-03-22"
 ---
 
-[![](images/kiki_4.0_sm-1-1024x463.png)](https://krita.org/wp-content/uploads/2018/03/kiki_4.0_sm-1.png)
+[![](../images/kiki_4.0_sm-1-1024x463.png)](https://krita.org/wp-content/uploads/2018/03/kiki_4.0_sm-1.png)
 
 # Krita 4.0 Información general
 
@@ -30,7 +30,7 @@ Video creado por Owly Owlet
 
 Krita 3.x uso el formato del "OpenDocument Graphics" ODG, para los vectores, éste formato es originario de los documentos de escritura los cuales no son practicos para el uso en diseño gráfico, ademas éste formato no funciona adecuadamente en programas tales como  [Inkscape](https://www.inkscape.org). En Krita 4.x se han reconstruido completamente las herramientas de vectores usando el formato SVG, el cual está estandarizado por W3C, mismo que es compatible con muchos programas, ésto abre las posibilidades de una intercomunicación operacional entre Krita y otros programas. Krita usa la versión SVG 1.2, pero eventualmente la versión SVG 2 sera implementada.
 
-![](images/vector-tools.gif)
+![](../images/vector-tools.gif)
 
 Ademas de el formato, se han incorporado nuevas funciones:
 
@@ -54,7 +54,7 @@ Una de las funciones que no se logró terminar para la version 4.0 es el llenado
 - Las capas de vectores se pueden exportar directamente a documentos SVG.
 - El clic a la derecha en una capa de vectores produce un menú mas apropiado y con mas funcionamiento dedicado a los vectores.
 
-![](images/vector-library.gif)
+![](../images/vector-library.gif)
 
 ## Nueva Herramienta de Texto
 
@@ -62,7 +62,7 @@ Durante el Kickstarter del 2016 se costeo la tarea de hacer una nueva herramient
 
 Para mayor información de como funciona ésta nueva herramienta, visita el manual (en ingles): [The text tool](https://docs.krita.org/Text_Tool).
 
-![](images/text-tools.gif)
+![](../images/text-tools.gif)
 
 Some of the changes and things you can do with the new text tools
 
@@ -82,17 +82,17 @@ Documentos sobre [el controlador de Python](https://docs.krita.org/Introduction_
 
 Se pude seleccionar cuales scripts estarán activados, el gestor es parte de la ventana principal de configuración de Krita.
 
-Al usar este controlador, se pueden añadir muchas de las funciones que la comunidad a pedido, Krita viene con una serie de scripts los cuales sirven como ejemplo de lo que se puede realizar al usar Python. Al crear esta serie, se estableció también un API propio de Krita.![](images/python-plugin-manager.png)
+Al usar este controlador, se pueden añadir muchas de las funciones que la comunidad a pedido, Krita viene con una serie de scripts los cuales sirven como ejemplo de lo que se puede realizar al usar Python. Al crear esta serie, se estableció también un API propio de Krita.![](../images/python-plugin-manager.png)
 
 ### Nuevas funciones con el uso de Python
 
-![](images/ten-brushes.jpg)**Diez pinceles** - Se pude asignar diez atajos de teclado a diez pinceles en especifico, simplemente se hace un clic en el pincel deseado o el mismo se puede arrastrar a uno de los espacios disponibles. Y por supuesto, el script se pude abrir directamente y modificar al gusto propio. (se requiere conocimiento en programación de Python para ésto)
+![](../images/ten-brushes.jpg)**Diez pinceles** - Se pude asignar diez atajos de teclado a diez pinceles en especifico, simplemente se hace un clic en el pincel deseado o el mismo se puede arrastrar a uno de los espacios disponibles. Y por supuesto, el script se pude abrir directamente y modificar al gusto propio. (se requiere conocimiento en programación de Python para ésto)
 
-![](images/scripter.png)**La terminal de comando para los scripts** - Los scripts se pueden poner a prueba mientras se usa Kritac. El editor de Python está equipado con un enfoque de sintaxis y un pequeño probador de errores (debugger). Creación de Eliakin Almeida durante su proyecto en el "Google Summer fo Code 2017".
+![](../images/scripter.png)**La terminal de comando para los scripts** - Los scripts se pueden poner a prueba mientras se usa Kritac. El editor de Python está equipado con un enfoque de sintaxis y un pequeño probador de errores (debugger). Creación de Eliakin Almeida durante su proyecto en el "Google Summer fo Code 2017".
 
-![](images/quick-settings-docker.gif)**Panel de ajustes rápidos** - Con éste panel se puede cambiar de manera rapida el tamaño, la opacidad y el flujo de los pinceles, con una serie de valores predefinidos. Elaborador por Wolthera.
+![](../images/quick-settings-docker.gif)**Panel de ajustes rápidos** - Con éste panel se puede cambiar de manera rapida el tamaño, la opacidad y el flujo de los pinceles, con una serie de valores predefinidos. Elaborador por Wolthera.
 
-![](images/comic-book-manager.png)**Administrador de historietas** - Este controlador posee una gran cantidad de opciones para administrar y organizar los proyectos para la creación de historietas. Creado por Wolthera, nos muestra de manera ejemplar como se puede usar Python en scripts en linea, tal como abrir, guardar, cortar, modificar y procesar en conjunto. Inclusive incluye formatos tales como CBZ, EPUB y ACBF. Los documentos mismos de Python usados en este script contienen bastantes explicaciones para ayudar a los principiantes en ellos a aprender su estructura básica.
+![](../images/comic-book-manager.png)**Administrador de historietas** - Este controlador posee una gran cantidad de opciones para administrar y organizar los proyectos para la creación de historietas. Creado por Wolthera, nos muestra de manera ejemplar como se puede usar Python en scripts en linea, tal como abrir, guardar, cortar, modificar y procesar en conjunto. Inclusive incluye formatos tales como CBZ, EPUB y ACBF. Los documentos mismos de Python usados en este script contienen bastantes explicaciones para ayudar a los principiantes en ellos a aprender su estructura básica.
 
 ## Herramienta mascara de colorear
 
@@ -106,7 +106,7 @@ Ya no se tiene que esperar a que krita guarde un documento a cada momento para v
 
 ## Nuevo formato de paletas de colores y nuevo panel de las mismas
 
-![](images/krita_4_0_palette.png)
+![](../images/krita_4_0_palette.png)
 
 El panel de paletas de colores en krita 3 solo podía mostrar sRGB de 8bit, ya que fue diseñado mucho tiempo atras cuando algo mayor era demasiado ambicioso. En Krita 4 se ha creado un nuevo formato: KPL, el cual puede mostrar y guardar todos los colores que Krita misma puda usar. Éste formato te permite ademas el agrupar colores. El documento es hecho de un formato ZIP combinado con un documento XML.
 
@@ -122,7 +122,7 @@ El panel se ha inovado con las siguientes funciones:
 
 Se ha rediseñado la ventana del editor de pinceles, ésto lo hace mucho mejor y mas fácil de usar. Se ha incorporado un espacio donde se pude ver una vista previa de el trazo del pincel de acuerdo a los cambios de los parámetros, esto facilita en gran manera la creación y modificación de los pinceles. Nota: los motores de pinceles figuras (shapes) y rápido (quick) no poseen vista previa dado limitaciones técnicas.
 
-![](images/live-preview.gif)
+![](../images/live-preview.gif)
 
 - Los pinceles se pueden renombrar fácilmente.
 - Al cambiar y guardar un pincel, su icono original permanece por defecto.
@@ -140,13 +140,13 @@ Ademas, también se ha incluido la propiedad de umbral de la vista previa instan
 
 ## Nueva capacidad del tamaño del pincel
 
-![](images/max-brush-size.png)
+![](../images/max-brush-size.png)
 
 En Krita 3, el limite del tamaño del pincel es de 1,000px, En Krita 4, se puede incrementar el limite hasta 10,000px. Es necesario tomar en cuenta que éste tamaño es bastante "pesado" de procesar, se requiere una computadora bastante potente para tal ejecución.
 
 ## Mascara de pincel
 
-![](images/waterpaint.gif)
+![](../images/waterpaint.gif)
 
 Se ha implementado la capacidad de añadir mas de una punta a cada pincel, la idea comenzó como "pinceles apilados" y fue una de las funciones extras logradas gracias al Kickstarter, con ésta función se puede incrementar la cantidad de efectos del pincel, no solo con una punta encimada, si no ademas con otros parámetros tales como "modos de mezclado". Éste ejemplo muestra un modo de mezclado tipo "screen" para la creación de un efecto de acuarela. Para mayor información ver el manual (en ingles): [manual](https://docs.krita.org/Masked_Brush).
 
@@ -156,11 +156,11 @@ Se han actualizado los pinceles que vienen por defecto con Krita. Se ha puesto u
 
 El set completo original de Krita 3 se puede descargar en [share.krita.org](https://share.krita.org/p/1206895/).
 
-![](images/new-brush-presets.png)
+![](../images/new-brush-presets.png)
 
 ## Cuadriculado de Pixel
 
-![](images/pixel-grid-example.gif)
+![](../images/pixel-grid-example.gif)
 
 Andrew Kamakin ah añadido esta nueva función, que al aumentar el lienzo a mas de 800%, se muestra un cuadriculado que ayuda a percibir cada pixel. Tanto el color del cuadriculado como el porcentaje de aumento pueden ser configurados en la ventana de configuración de Krita.
 
@@ -170,11 +170,11 @@ The zoom percentage and color can be conigured in the Settings area.
 
 Ahora se puede especificar el angulo y espacio de cada eje para su uso de manera isométrica. El cuadriculado tiene la opción para cambiar de isométrico a rectangular y viceversa, ademas de la habilidad de cambiar el color y estilo del mismo, 'estos controles se encuentran en el panel de cuadriculado y guías.
 
-![](images/isometric-grid.gif)
+![](../images/isometric-grid.gif)
 
 ## Mejoras en la paleta emergente
 
-![](images/popup-palette-improvements.gif)
+![](../images/popup-palette-improvements.gif)
 
 - Nuevo control para enfocar (agrandar y disminuir el lienzo.
 - Nuevo control para rotar el lienzo.
@@ -186,7 +186,7 @@ Ahora se puede especificar el angulo y espacio de cada eje para su uso de manera
 - Ahora se puede cambiar el color y la opacidad de los asistentes.
 - El guardar y abrir asistentes funciona mucho mejor.
 
-![](images/assistants-opacity.gif)
+![](../images/assistants-opacity.gif)
 
 ## Mejoras en los filtros
 
@@ -197,19 +197,19 @@ Ahora se puede especificar el angulo y espacio de cada eje para su uso de manera
 
 ## Habilidad del cambio de tamaño de los iconos en el panel de pinceles
 
-![](images/resize-icons.gif)
+![](../images/resize-icons.gif)
 
 Ahora es posible cambiar el tamaño de los iconos de los pinceles directamente desde su panel. Ademas ahora puedes apreciar el tamaño del pincel cuando se activa la "vista detallada".
 
 ## Mejores advertencias en el guardado de documentos
 
-![](images/krita_4_0_file_information_warning.png)
+![](../images/krita_4_0_file_information_warning.png)
 
 En muchas ocasiones, los usuarios tratan de guardar los documentos en formatos incorrectos, lo cual resulta en la perdida de información tal como capas o la profundidad de los canales de color, (por ejemplo el guardar el documento en ves de exportar en PNG o JPG). En Krita 4.0 se ha implementado una advertencia la cual informara al usuario al momento de guardar documentos cuales características se perderán en el formato elegido, como medida de seguridad, el dialogo ofrece la oportunidad de guardar de manera paralela, en el formato KRA, el cual guarda todos los aspectos del documento.
 
 ## Nuevo color disponible para la interfaz
 
-![](images/darker-theme.jpg)
+![](../images/darker-theme.jpg)
 
 Para los que gustan de colores mas obscuros.
 
@@ -323,7 +323,7 @@ Para los que gustan de colores mas obscuros.
 
  
 
-![](images/boudewjin-40-github.png) **#1 Boudewjin Rempt** (IRC: boud)
+![](../images/boudewjin-40-github.png) **#1 Boudewjin Rempt** (IRC: boud)
 
 - Director del proyecto
 - Programador principal de Krita
@@ -331,98 +331,98 @@ Para los que gustan de colores mas obscuros.
 - Creador de la herramienta de texto, del uso de Python en Krita y del API
 - Creador del script de los "diez pinceles"
 
-![](images/dmitry-40-github.png) **#2 Dmitry Kazakov** (IRC: dmitryK)
+![](../images/dmitry-40-github.png) **#2 Dmitry Kazakov** (IRC: dmitryK)
 
 - Programador principal de Krita
 - Desarrollador de las herramientas de vectores, texto y mascaras de pinceles
 - Desarrollador de el uso de procesadores múltiples en Krita
 - Desarrollador del "guardado discreto" y de la mascara de colorear
 
-![](images/wolthera-40-github.png) **#3 Wolthera van Hövell tot Westerflier ** (IRC: wolthera) ★ Voluntaria
+![](../images/wolthera-40-github.png) **#3 Wolthera van Hövell tot Westerflier ** (IRC: wolthera) ★ Voluntaria
 
 - Programadora y creadora de los scripts: Administrador de historietas, Paleta de colores y Ajustes rapidos
 - Desarrolladora del creador del creador de puntas, del editor de texto, Python API y del filtro de detección de bordes
 - Contribuyente principal del manual
 - Consultado en los foros
 
-![](images/scott-40-github.png) **#4 Scott Petrovic** (IRC: scottyp2) ★ Voluntario
+![](../images/scott-40-github.png) **#4 Scott Petrovic** (IRC: scottyp2) ★ Voluntario
 
 - Diseño visual de las herramientas de vectores, de texto, y editor de pinceles
 - Desarrollador del editor de pinceles, de los asistentes de dibujo, del dialogo de documentos y de la ventana de configuraciones
 - Administrador y diseñador de la pagina oficial de Krita: krita.org
 
-![](images/alvin-40-github.png) **#5 Alvin Wong** (IRC: windragon) ★ Voluntario
+![](../images/alvin-40-github.png) **#5 Alvin Wong** (IRC: windragon) ★ Voluntario
 
 - Desarrollador del uso de tabletas digitales en Windows tales como Surface Pro
 - Desarrollador de la compatibilidad con ANGLE para un mejor desempeño Windows
 - Colaborador con la versión de Windows incluyendo la "version diaria"
 
-![](images/frederick-40-github.png) **#6 Frederic Gladhorn** (IRC: fregl) ★ Voluntario
+![](../images/frederick-40-github.png) **#6 Frederic Gladhorn** (IRC: fregl) ★ Voluntario
 
 - Desarrollador en la mejora del rendimiento en el uso de la memoria
 
-![](images/timothee-40-github.png) **#7 Timothee Giet** (IRC: animtim) ★ Voluntario
+![](../images/timothee-40-github.png) **#7 Timothee Giet** (IRC: animtim) ★ Voluntario
 
 - Desarrollador y creador de iconos para los diálogos, motores de pincel y herramientas
 - Organizador de elementos SVG usados por Krita
 
-![](images/allen-40-github.png) **#8 Allen Marshall** (IRC: animtim) ★ Voluntario
+![](../images/allen-40-github.png) **#8 Allen Marshall** (IRC: animtim) ★ Voluntario
 
 - Contribuidor de un nuevo algoritmo para un mejor pincel de aire
 
-![](images/eliakin-40-github.png) **#9 Eliakin Costa** (IRC: eliakincosta) ★ Voluntario
+![](../images/eliakin-40-github.png) **#9 Eliakin Costa** (IRC: eliakincosta) ★ Voluntario
 
 - Estudiante del Google Summer of Code
 - Programador y desarrollador de varios scripts de Python
 - Desarrollador del API
 
-![](images/david-40-github.png) **#10 David Revoy** (IRC: deevad)
+![](../images/david-40-github.png) **#10 David Revoy** (IRC: deevad)
 
 - Creador y administrador del nuevo juego de pinceles
 
 ## Arte hecho con Krita
 
-![](images/mod.png) MarrHero
+![](../images/mod.png) MarrHero
 
-![](images/scoiattolottolo1.png) Elena Pollastri
+![](../images/scoiattolottolo1.png) Elena Pollastri
 
-![](images/Dibujo-N°20.png) graffted1
+![](../images/Dibujo-N°20.png) graffted1
 
-![](images/5-20170913-hippo.png) Jeremy Fries
+![](../images/5-20170913-hippo.png) Jeremy Fries
 
-![](images/summer-A3.png) johan jaccob
+![](../images/summer-A3.png) johan jaccob
 
-![](images/vampik-copy.jpg) Dorota Krzyżosiak
+![](../images/vampik-copy.jpg) Dorota Krzyżosiak
 
-![](images/gorillaSCR.png) kitsune09
+![](../images/gorillaSCR.png) kitsune09
 
-![](images/Earth-chan.jpg) Gelpat Lucas
+![](../images/Earth-chan.jpg) Gelpat Lucas
 
-![](images/robot.png) Tomas Marek
+![](../images/robot.png) Tomas Marek
 
-![](images/PTP09J1.png) Matteo Pescarin
+![](../images/PTP09J1.png) Matteo Pescarin
 
-![](images/kinetics_1015_72dpi_rgb_v2.png) Mauricio Hunt
+![](../images/kinetics_1015_72dpi_rgb_v2.png) Mauricio Hunt
 
-![](images/bg1_1_wip6.png) Noitibmar Tibbs
+![](../images/bg1_1_wip6.png) Noitibmar Tibbs
 
-![](images/tribalFace.jpeg) Rakesh Chakraborty
+![](../images/tribalFace.jpeg) Rakesh Chakraborty
 
-![](images/Owl_wide.jpeg) Shannen McMorrighan
+![](../images/Owl_wide.jpeg) Shannen McMorrighan
 
-![](images/kiki4x.png) Ramskulls Art
+![](../images/kiki4x.png) Ramskulls Art
 
-![](images/153-paint.png) Răzvan Rădulescu
+![](../images/153-paint.png) Răzvan Rădulescu
 
-![](images/DV6fPpfXcAEoJH5.jpg) Rositsa 'roz' Zaharieva
+![](../images/DV6fPpfXcAEoJH5.jpg) Rositsa 'roz' Zaharieva
 
-![](images/waves-storm.png) runend artworks
+![](../images/waves-storm.png) runend artworks
 
-![](images/death_sylviaritter_by_sylviaritter-dbqgaeq.png) Sylvia Ritter
+![](../images/death_sylviaritter_by_sylviaritter-dbqgaeq.png) Sylvia Ritter
 
-![](images/IMG_0116.jpg) Toby Willsmer
+![](../images/IMG_0116.jpg) Toby Willsmer
 
-![](images/carrot-deevad.jpg) David Revoy
+![](../images/carrot-deevad.jpg) David Revoy
 
 ## También puedes apoyarnos
 

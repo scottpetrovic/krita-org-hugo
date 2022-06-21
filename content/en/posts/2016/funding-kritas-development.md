@@ -15,7 +15,7 @@ So, what's coming in, and what's going out?
 
 In:
 
-[![krita-foundation-income-20152016](images/krita-foundation-income-20152016.png)](https://krita.org/wp-content/uploads/2016/05/krita-foundation-income-20152016.png)
+[![krita-foundation-income-20152016](../images/krita-foundation-income-20152016.png)](https://krita.org/wp-content/uploads/2016/05/krita-foundation-income-20152016.png)
 
 - Kickstarter: last year's kickstarter resulted in about 35,000 euros. (Which explains this year's goal of 30,000, which I'm sure we're going to make!)
 - Monthly donations through the development fund: about 350 euros per month, 4200 euros per year
@@ -29,7 +29,7 @@ So, we have a yearly income of about 60.000 euros. Not bad for a free software p
 
 Now for spending the money -- always fun!
 
-[![krita-foundationoutgo-20152016](images/krita-foundationoutgo-20152016.png)](https://krita.org/wp-content/uploads/2016/05/krita-foundationoutgo-20152016.png)
+[![krita-foundationoutgo-20152016](../images/krita-foundationoutgo-20152016.png)](https://krita.org/wp-content/uploads/2016/05/krita-foundationoutgo-20152016.png)
 
 - Sponsored development: for Dmitry and me together, that's about 42,000 a year. Yes, we're cheap. And if you're a commercial user of Krita and need something developed, contact us!
 - Supporting our volunteers: there are some volunteers in our community who spend an inordinate amount of time on Krita, for instance, preparing and sending out all kickstarter rewards. Dutch law allows us to give those volunteers a little something , and that comes to about 3000 euros a year.

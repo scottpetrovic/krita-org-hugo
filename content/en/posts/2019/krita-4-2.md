@@ -15,7 +15,7 @@ En comparación con la versión beta, se han añadido otras 30 entradas a la lis
 
 Nuestra imagen del comienzo de Krita ha sido actualizada, ¡Gracias a Tyson Tan por el nuevo diseño!
 
-[![](images/electrichearts_20190316_kiki_a_sm-2.png)](https://krita.org/wp-content/uploads/2019/05/electrichearts_20190316_kiki_a_sm-2.png)
+[![](../images/electrichearts_20190316_kiki_a_sm-2.png)](https://krita.org/wp-content/uploads/2019/05/electrichearts_20190316_kiki_a_sm-2.png)
 
 ## Únete a la comunidad y ayuda a otro usuarios de Krita como tu
 

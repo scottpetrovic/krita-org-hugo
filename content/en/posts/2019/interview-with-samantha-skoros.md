@@ -6,7 +6,7 @@ categories:
 coverImage: "weatherwitch-800.png"
 ---
 
-### ![](images/weatherwitch-800.png)
+### ![](../images/weatherwitch-800.png)
 
 ### Could you tell us something about yourself?
 
@@ -20,7 +20,7 @@ A complete hobbyist. I actually only started drawing maybe a year ago, so I’m 
 
 I’m so new to this I don’t even know if I know how to answer this. I mean I guess I mostly work in portraits? I’m trying to get better at drawing buildings and scenes. I’d love to get into comics at some point but my skill level just isn’t quite there yet.
 
-![](images/Leather-jacket-800.png)
+![](../images/Leather-jacket-800.png)
 
 ### Whose work inspires you most -- who are your role models as an artist?
 
@@ -30,7 +30,7 @@ I love seeing all sorts of art on twitter, I follow a lot of digital and traditi
 
 About a year ago I decided I really wanted to get into drawing. It was always something I wanted to do but just never took that leap. But the time I got there, I realized doing traditional art would be hard simply because we don’t have a lot of space in our home. The house is filled with yarn, fabric, leather, pets, and kid toys. There just wasn't space for another hobby so I realized digital art would be the only way for me to do this thing. So my partner found me a refurbished Wacom pen tablet and I just fell in love with it.
 
-![](images/demon-knight-800.png)
+![](../images/demon-knight-800.png)
 
 ### What makes you choose digital over traditional painting?
 
@@ -40,7 +40,7 @@ The biggest thing for me is the space it saves. But also, boy, do I absolutely l
 
 So when I first got my pen tablet, I was looking at a few programs. I knew I wasn’t going to mess with anything expensive like PS, but I still wanted a good program. Krita was actually the first thing that I found and it just worked perfectly for everything I needed and it was super user friendly. I had people recommend other programs but honestly I just fell in love with Krita and didn’t even bother looking at anything else.
 
-![](images/Lucas-800.jpg)
+![](../images/Lucas-800.jpg)
 
 ### What was your first impression?
 
@@ -60,7 +60,7 @@ It’s layout is very user friendly and intuitive. I never have to look long for
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](images/demonic-800.png)
+![](../images/demonic-800.png)
 
 Oh that’s a hard one. I don’t know that I have a favorite one, per say, but I do love all of the demons I draw. I think I just like drawing horns on people and blacking out their eyes. My body of work though is small so it’s hard to pick a favorite when my style keeps changing and evolving.
 

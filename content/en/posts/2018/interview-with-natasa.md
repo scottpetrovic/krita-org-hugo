@@ -5,7 +5,7 @@ categories:
   - "artist-interview"
 ---
 
-### ![](images/Persephone.jpg)
+### ![](../images/Persephone.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -19,7 +19,7 @@ I've been working on off professionally, did some book covers, children's book i
 
 The picture has to tell a story, that's all I really look into. Other than that I just pick what feels right each time.
 
-![](images/Minotaur.jpg)
+![](../images/Minotaur.jpg)
 
 ### Whose work inspires you most -- who are your role models as an artist?
 
@@ -55,7 +55,7 @@ It's a very professional freeware program. I very much support what that stands 
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](images/Anansi.jpg)
+![](../images/Anansi.jpg)
 
 I don't like to dwell on older pieces you can see all their mistakes after they're done, but I'd say Anansi, the Spider. I learned a lot working on that piece.
 

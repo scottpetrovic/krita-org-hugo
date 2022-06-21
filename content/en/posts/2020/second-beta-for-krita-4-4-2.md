@@ -28,7 +28,7 @@ Compared to the [first beta](https://krita.org/en/item/first-beta-of-krita-4-4-2
 
 There are also six new brushes by Ramon Miranda:
 
-[![](images/rgba_brushes.png)](https://krita.org/wp-content/uploads/2020/12/rgba_brushes.png)
+[![](../images/rgba_brushes.png)](https://krita.org/wp-content/uploads/2020/12/rgba_brushes.png)
 
 ## Download
 

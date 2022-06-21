@@ -7,7 +7,7 @@ Comics with Krita author Timothée Giet is back with his second training DVD: Se
 
 https://www.youtube.com/watch?v=D2pTWGc2-GU
 
-![](images/secrets-of-krita-box-art.png)
+![](../images/secrets-of-krita-box-art.png)
 
 **Secrets of Krita - DVD** (Now for only **€14,95**, from €29,95)
 
@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=D2pTWGc2-GU
 
 [Get Secrets of Krita](https://gum.co/iIno?wanted=true)
 
-![](images/secrets-of-krita-box-art.png)
+![](../images/secrets-of-krita-box-art.png)
 
 **Secrets of Krita - Download** (Now for only **€14,95**, from €29,95)  
   

@@ -39,7 +39,7 @@ But here's a _teaser_ screenshot of of a layer style on a _vector_ layer (layer 
 
  
 
-[![layerstyle](images/layerstyle-1024x314.png)](https://krita.org/wp-content/uploads/2015/04/layerstyle.png)
+[![layerstyle](../images/layerstyle-1024x314.png)](https://krita.org/wp-content/uploads/2015/04/layerstyle.png)
 
 We hope the loading and saving will be ready in time for 2.9.3!
 

@@ -6,7 +6,7 @@ categories:
 coverImage: "cellist.png"
 ---
 
-![](images/raspberry.png)
+![](../images/raspberry.png)
 
 ### Could you tell us something about yourself?
 
@@ -20,7 +20,7 @@ I'm a professional graphic artist. Although, sometimes I get carried away drawin
 
 I work in various genres: fantasy, cartoons, conceptual, children's illustration. Among these genres, my favorite is fantasy.
 
-### ![](images/dragon-woman.png)
+### ![](../images/dragon-woman.png)
 
 ### Whose work inspires you most -- who are your role models as an artist?
 
@@ -34,7 +34,7 @@ For the first time I tried digital painting at the university, where I studied e
 
 I think prefer working with digital painting because it is more dynamic and provides more freedom.
 
-### ![](images/spring.png)
+### ![](../images/spring.png)
 
 ### How did you find out about Krita?
 
@@ -48,7 +48,7 @@ It was very easy to start working in Krita. I fell in love with it almost immedi
 
 I like the big set of brushes and filters. And above all I like stability.
 
-### ![](images/badger.png)
+### ![](../images/badger.png)
 
 ### What do you think needs improvement in Krita? Is there anything that really annoys you?
 
@@ -60,7 +60,7 @@ Krita has one of the most convenient interface and tool sets for working with il
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](images/cellist.png)
+![](../images/cellist.png)
 
 It is very difficult to choose only one project. From my recent works I would pick the Cellist, because I like to work in the fantasy genre and monochrome colors.
 

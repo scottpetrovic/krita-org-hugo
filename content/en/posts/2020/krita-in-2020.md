@@ -17,7 +17,7 @@ With these releases came improved brush outlines while painting, new features fo
 
 ### Bugs
 
-[![](images/bugs_2020-1024x135.png)](https://krita.org/wp-content/uploads/2020/12/bugs_2020.png)
+[![](../images/bugs_2020-1024x135.png)](https://krita.org/wp-content/uploads/2020/12/bugs_2020.png)
 
 Still, [bugzilla is a disaster area](https://valdyas.org/fading/hacking/krita-hacking/nightmares-and-bugs/). We get too many bug reports that are actually user support requests, but apart from that, it's a never ending stream of things that need to be cleaned up. Check the link if you want to read about the nightmares...
 
@@ -27,7 +27,7 @@ And we coded... A _lot_. Over all the branches, there were 5486 commits in 2020.
 
 You can test all of that in the nightly builds for Windows, Linux and macOS: [KDE's binary factory](https://binary-factory.kde.org/) certainly has been the single most important thing for improving our development process! Though the move to gitlab also did wonders for our productivity.
 
-[![https://invent.kde.org](images/invent-1024x361.png)](https://invent.kde.org/graphics/krita/)
+[![https://invent.kde.org](../images/invent-1024x361.png)](https://invent.kde.org/graphics/krita/)
 
 The resource rewrite project still isn't done, though pretty much everything is in place. It is taking a lot of work to convert all the places where resources (like brushes, gradients, presets) are used to the new system. And as a project, it turns out it's simply too _large_. We decided to change too many things in one big refactoring and, frankly, it's motivation-sapping especially in a year that's already hard on everyone. And yes, we also mentioned that [already last year](https://krita.org/en/item/krita-in-2019-and-2020/). The 2020 February sprint was intended to be a kick-off for a concerted attack on the resource system with four people working on until it was done, but then came March...
 
@@ -41,13 +41,13 @@ Compared to 2019, we have almost twice the number of downloads **4,856,435** dow
 
 We started sponsoring Ramon Miranda to publish regular videos on [Krita's youtube channel](https://www.youtube.com/channel/UCkIccKaHDGA8lYVmUerLhag). The goal is to make a dozen videos a year:
 
-[![](images/youtube-1024x957.png)](https://www.youtube.com/channel/UCkIccKaHDGA8lYVmUerLhag)
+[![](../images/youtube-1024x957.png)](https://www.youtube.com/channel/UCkIccKaHDGA8lYVmUerLhag)
 
 And in addition to videos, Ramon has created resources like brush presets and templates, [all freely downloadable](https://files.kde.org/krita/extras/)!
 
 Maybe the biggest success of the year was the way Raghukamath's [krita-artists.org](https://krita-artists.org) initiative has taken off. Fifty-thousand posts now, hundreds of active users and really interesting discussions about Krita's user interface, about writing plugins in Python, about art -- and importantly, it's finally a place where people support each other.
 
-### [![krita-artists website](images/krita-artists-1024x894.png)](https://krita-artists.org)
+### [![krita-artists website](../images/krita-artists-1024x894.png)](https://krita-artists.org)
 
 ### Money
 

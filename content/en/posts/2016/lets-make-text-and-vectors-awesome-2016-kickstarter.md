@@ -13,14 +13,14 @@ Krita's text tool used to be shared with the rest of KOffice, later Calligra. It
 
 Now is the time to join us and make it possible to create an awesome text tool, one that is really suitable to what you need text for in Krita: real typographic and artistic control, support for various languages, for translations, for scripts from all over the world. One integrated text tool that is easy to use, puts you in control and can be extended over the years with new features.
 
-[![texteditor-mock](images/texteditor-mock-1024x777.jpg)](https://krita.org/wp-content/uploads/2016/05/texteditor-mock.jpg)
+[![texteditor-mock](../images/texteditor-mock-1024x777.jpg)](https://krita.org/wp-content/uploads/2016/05/texteditor-mock.jpg)
 
 The second topic is vector graphics. It's related to the text tool, since both are vector layer features. Currently, our vector graphics are defined in the OpenDocument Graphics format, which is fine for office applications, but not great for artwork. There's already a start for supporting the SVG standard instead, and now's the time to finish the job! And once we're SVG to the core, we can start improving the usability of the vector tools themselves, which also suffer from having been designed to work in a word processor, spreadsheet or presentation application. Now that Krita is no longer part of a suite of office applications, we can really focus on making all the tools suitable for artists! Let's make working with vector art great!
 
-[![FlyingKonqui-animtim](images/FlyingKonqui-animtim-1024x682.png)](https://krita.org/wp-content/uploads/2016/05/FlyingKonqui-animtim.png)
+[![FlyingKonqui-animtim](../images/FlyingKonqui-animtim-1024x682.png)](https://krita.org/wp-content/uploads/2016/05/FlyingKonqui-animtim.png)
 
 And of course, there are a bunch of stretch goals, ranging from small ones to a really big stretch goal, Python scripting. Check out the kickstarter page for a full list!
 
-[![support-krita-2016-3](images/support-krita-2016-3-1024x132.png)](http://www.krita.org/2016kickstarter)
+[![support-krita-2016-3](../images/support-krita-2016-3-1024x132.png)](http://www.krita.org/2016kickstarter)
 
 One of the fun parts of backing a kickstarter project are the rewards. For a Krita kickstarter, these are mostly small, fun things to remember a great campaign by. But we're trying to do something special this year! After the kickstarter is funded, we will commission Krita artists from all over the world to create art for us that we will use in various rewards!

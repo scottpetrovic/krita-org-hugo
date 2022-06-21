@@ -6,7 +6,7 @@ categories:
 coverImage: "dragonemergingfromwater.jpg"
 ---
 
-![](images/LoveOctopus-notext.jpg)
+![](../images/LoveOctopus-notext.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -16,7 +16,7 @@ My name is Danielle Williams. I’m a writer, an illustrator, and a fan of Krita
 
 I’ve been paid for my work before and I use my art as covers for my ebooks, so technically I guess I am a professional…but I often feel like a hobby artist in my heart because of my desire to improve my skill.
 
-![](images/Gingersnap-notext.jpg)
+![](../images/Gingersnap-notext.jpg)
 
 ### What genre(s) do you work in?
 
@@ -32,7 +32,7 @@ On the ‘net side: Ursula Vernon, Makani, TheMinttu, Don Seegmiller, NibbledPen
 
 ... I’m forgetting lotsa folks, ha. No single one is my idol, though. I’m like a magpie—I pick out shinies wherever I see ‘em!
 
-### ![](images/whatthecatbroughtbacknotext.png)
+### ![](../images/whatthecatbroughtbacknotext.png)
 
 ### How and when did you get to try digital painting for the first time?
 
@@ -48,7 +48,7 @@ Other people’ve found workarounds, I know, but I’m still not comfortable wit
 
 Oh, and C: space considerations. Art supplies take up space!
 
-### ![](images/frenchies-notext.jpg)
+### ![](../images/frenchies-notext.jpg)
 
 ### How did you find out about Krita?
 
@@ -58,7 +58,7 @@ Some fifteen years after buying Photoshop CS2, it was finally glitching and refu
 
 "Oo, pretty interface. Wait, why won’t this brush make a mark?!"
 
-![](images/PurrfectChristmas-artonly.jpg)
+![](../images/PurrfectChristmas-artonly.jpg)
 
 ### What do you love about Krita?
 
@@ -84,7 +84,7 @@ That’s easy! The beautiful modern interface, and the COMMUNITY. The community 
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](images/theheroesofhoundsmouth-artonly-web.jpg)
+![](../images/theheroesofhoundsmouth-artonly-web.jpg)
 
 Ooh, that’s a toughie. I’ll pick the cover for my Armello fanfic The Heroes of Houndsmouth. It’s just so dang dramatic, even in greyscale, and I tackled a lot of different things in it, especially textures: teeth, fire, metal scratches, fur.
 
@@ -94,7 +94,7 @@ It’s been a couple years so I’m not exactly sure. I remember using a brush l
 
 Oh, and I used the LUT management trick (see video link above) while painting in color to make the values \*smoochy finger-kiss thing\* MWAH! I really love that trick.
 
-![](images/stoneseekerscover-web-artonly.jpg)
+![](../images/stoneseekerscover-web-artonly.jpg)
 
 ### Where can people see more of your work?
 

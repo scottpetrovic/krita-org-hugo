@@ -6,7 +6,7 @@ categories:
 coverImage: "3E1EF91E3C85497BB91DAEE1C2B37132.jpg"
 ---
 
-![](images/5856C61244A24A0DA83E1300EB8D2FB3.jpg)
+![](../images/5856C61244A24A0DA83E1300EB8D2FB3.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -30,7 +30,7 @@ Dav Pilkey created the Dog Man series. It told the story of a police dog who was
 
 I wanted to merge those two stories into one, so that's what I did. It may not be the same, but it can teach us more than just being brave or a friend to strangers.
 
-![](images/780D3BC8AE4244CA9B11CBBBEBDD41C6.jpg)
+![](../images/780D3BC8AE4244CA9B11CBBBEBDD41C6.jpg)
 
 ### How and when did you get to try digital painting for the first time?
 
@@ -54,7 +54,7 @@ The list showed mostly pay-to-use programs such as Photoshop and Procreate. But 
 
 At first, it wasn't easy. But since it let me customize everything to my will, I got used to it very quickly.
 
-![](images/7EE68823D8B4416A8EFE1732B2D61EFC.jpg)
+![](../images/7EE68823D8B4416A8EFE1732B2D61EFC.jpg)
 
 ### What do you love about Krita?
 
@@ -70,7 +70,7 @@ I'm not sure. I guess I would just say it's better than Microsoft Paint.
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-I think my best bet would be "Duncan Loves Laina". ![Duncan loves Laina!](images/9058DEE56B83413BB264A5883B7C5671.jpg) It shows how much Duncan loves his best friend Laina, even if she's an adult and much taller than him.
+I think my best bet would be "Duncan Loves Laina". ![Duncan loves Laina!](../images/9058DEE56B83413BB264A5883B7C5671.jpg) It shows how much Duncan loves his best friend Laina, even if she's an adult and much taller than him.
 
 ### What techniques and brushes did you use in it?
 

@@ -7,7 +7,7 @@ date: "2014-02-16"
 
 The Muses DVD contains about five hours of detail-packed instruction, covering the whole process from setting up Krita to printing a finished work of art. The DVD isn't just about using Krita's interface, though, it's a complete creative course. The DVD is spanish-spoken with English and Spanish subtitles.
 
-![](images/DVDbox KRITA dvd Muses vol2_sm.png)
+![](../images/DVDbox KRITA dvd Muses vol2_sm.png)
 
 Get a digital version of the DVD instantly through Gumroad:
 

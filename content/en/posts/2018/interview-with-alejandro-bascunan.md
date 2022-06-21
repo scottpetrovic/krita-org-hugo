@@ -6,7 +6,7 @@ categories:
 coverImage: "bluehair.png"
 ---
 
-![](images/japan_girl.png)
+![](../images/japan_girl.png)
 
 ### Could you tell us something about yourself?
 
@@ -24,7 +24,7 @@ I paint mainly portraits, that's what I like the most. I like drawing people of 
 
 My biggest inspiration is definitely [Ayami Kojima](https://www.creativeuncut.com/profile_kojima.html). Her art is a wonderful mix of beauty and horror that I simply love. My other biggest inspiration is also a Japanese artist, [Yoshitaka Amano](http://www.elevenland.com/amano/amano.php3). His use of color, shapes and lively brushstrokes are just wonderful.
 
-![](images/latgirl2.png)
+![](../images/latgirl2.png)
 
 ### How and when did you get to try digital painting for the first time?
 
@@ -38,7 +38,7 @@ It’s cleaner and faster especially when it comes to posting artwork online, it
 
 I found out about it when I was specifically looking for drawing and painting software that could run on Linux because I was about to make the change from Windows 10 to Linux but the only thing holding me back was the program that I would use to draw. Then I stumbled upon Krita and gave it a try and well, the rest is history.
 
-### ![](images/beard.png)
+### ![](../images/beard.png)
 
 ### What was your first impression?
 
@@ -48,7 +48,7 @@ I was amazed by the amount of tools and cool features it had: the liquify tool, 
 
 I don't know what to say, other than that its a solid program. It has every tool a 2d artist needs and more! Also it gets updated and new features are added all the time, that's amazing! And the fact that it’s free makes it easy for me to recommend it to other people.
 
-### ![](images/smile.png)
+### ![](../images/smile.png)
 
 ### What do you think needs improvement in Krita? Is there anything that really annoys you?
 
@@ -60,7 +60,7 @@ Out of all the tools I've used I've found the brush engine in Krita is the best.
 
 ### If you had to pick one favorite of all your work done in Krita so far, what would it be, and why?
 
-![](images/bluehair.png)
+![](../images/bluehair.png)
 
 The one with the man with blue hair (I don't name my paintings). I really like how it turned out, I like the colors, the blending and obviously the man himself, the ambiguous look in his eyes and smile, that you don't really know what he is thinking, I love that.
 
@@ -72,7 +72,7 @@ Nothing fancy really, first I did a small sketch with the pencil tool, once I wa
 
 My [Instagram account](https://www.instagram.com/ale.bascu.art/), and my [Twitter account](https://twitter.com/alembascu) that I created a few weeks ago.
 
-![](images/sis.png)
+![](../images/sis.png)
 
 ### Anything else you'd like to share?
 

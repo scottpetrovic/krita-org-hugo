@@ -6,7 +6,7 @@ categories:
 coverImage: "GoldenDragon_CAS.jpg"
 ---
 
-### [![Web](images/GoldenDragon_CAS.jpg)](https://krita.org/wp-content/uploads/2015/11/GoldenDragon_CAS.jpg)
+### [![Web](../images/GoldenDragon_CAS.jpg)](https://krita.org/wp-content/uploads/2015/11/GoldenDragon_CAS.jpg)
 
 ### Could you tell us something about yourself?
 

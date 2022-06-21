@@ -6,7 +6,7 @@ coverImage: "park3-800.jpg"
 
 Today we've got a guest article by John Gholson. John is an artist who is currently working on a big project -- an [illustrated children's book](http://www.book.gqbum.com). As far as we know, it's the first time an artist is using krita to illustate a whole children's book project. So, over to John!
 
-[![park3](images/park3-800.jpg)](https://krita.org/wp-content/uploads/2015/02/park3.jpg)
+[![park3](../images/park3-800.jpg)](https://krita.org/wp-content/uploads/2015/02/park3.jpg)
 
 Hi! I'm John Gholson Jr -- and I am creating [a children's book](http://www.book.gqbum.com) together with my friend Margo Candelario, a seasoned author and poet. She's doing the writing, and I'm doing the artwork! The colouring of the book is done 100% with Krita. I discovered Krita while looking for open source alternatives to the usual illustration software like Corel Painter or Photoshop. Krita was a very fun discovery -- and moreover, Krita fits the theme of our book: solutions can be right in front of you or just a few steps away. Other themes of our book are exploration and adventure!
 

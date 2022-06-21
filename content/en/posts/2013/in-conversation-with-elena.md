@@ -8,7 +8,7 @@ coverImage: "elena-thumbnail.jpeg"
 
 Hello readers, today we are sharing a short interview with Elena, from Italy, who is a Computer Engineer by profession and a painter by hobby. She is learning anatomy at present and she is loaded with an amazing spirit to learn more. She is also collaborating with us for the Krita Shop on zazzle. Click on "read more" to read the entire conversation with this amazing budding artist!
 
-![](images/colazione_isola_volante.jpeg)
+![](../images/colazione_isola_volante.jpeg)
 
 Hi Elena, Would you like to tell us something about yourself?
 

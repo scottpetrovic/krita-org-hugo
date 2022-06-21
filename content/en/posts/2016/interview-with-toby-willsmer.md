@@ -6,7 +6,7 @@ categories:
 coverImage: "terminator800.jpg"
 ---
 
-![rip-the-gasworks](images/rip-the-gasworks.jpg)
+![rip-the-gasworks](../images/rip-the-gasworks.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -56,7 +56,7 @@ You can really get a feel of live painting when you use it. It's almost like you
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![terminator800](images/terminator800.jpg)This. It changes but at the moment this Terminator graphic novel style cover is my favourite. As I did it as a black and white ink drawing in Krita first, then coloured a year later.
+![terminator800](../images/terminator800.jpg)This. It changes but at the moment this Terminator graphic novel style cover is my favourite. As I did it as a black and white ink drawing in Krita first, then coloured a year later.
 
 ### What techniques and brushes did you use in it?
 

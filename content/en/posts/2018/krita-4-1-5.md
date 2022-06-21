@@ -7,7 +7,7 @@ categories:
 
 Apenas al poco tiempo de la distribución de la versión 4.1.3, ponemos a disposición la versión de krita 4.1.5, esto en gran parte dado al desafortunado accidente con el controlador TIFF. Sin embargo esta versión viene con mucho mas que una pequeña compostura, ya que estamos celebrando la ultima semana de nuestro evento de recaudación de fondos con un encuentro bastante productivo aquí en Deventer, Holanda.
 
-[![](images/2018-fundraiser-hero2.png)](https://krita.org)
+[![](../images/2018-fundraiser-hero2.png)](https://krita.org)
 
 Entre lo que se puede encontrar en nuestro paquete tenemos mejoras en la escala de las pantallas de alta fidelidad tipo "Retina", ademas de la siguiente lista:
 

@@ -17,11 +17,11 @@ Speaking of [**Google Summer of Code**](https://summerofcode.withgoogle.com/arch
 
 And in 2019 there will be another edition of the Google Summer of Code. While it's not certain, of course, that KDE will participate again, we've already [put up some ideas for projects students could work on. They are quite challenging, so take a look](https://community.kde.org/GSoC/2019/Ideas)! And if you're a student and are interested, now is the time to get to know our developer community!
 
-[![](images/2018-fundraiser-hero2.png)](https://krita.org/wp-content/uploads/2018/09/2018-fundraiser-hero2.png)
+[![](../images/2018-fundraiser-hero2.png)](https://krita.org/wp-content/uploads/2018/09/2018-fundraiser-hero2.png)
 
 We also had a [**succesful fundraiser**](https://krita.org/en/fundraising-2018-campaign/). We didn't use Kickstarter this time, so it was pretty [hard to actually drive traffic to the fundraiser](https://mail.kde.org/pipermail/kde-community/2018q4/004976.html). On the other hand, what with Kickstarter's cut, the actual net result was pretty much the same as with the 2016 fundraiser. We got about seven to eight months of development funded!
 
-[![](images/busy.png)](https://krita.org/wp-content/uploads/2018/12/busy.png)Our community has grown as well. Krita gets downloaded almost **two million times** a year -- and that's just from our own website. There's the Windows Store, there's the rejuvenated Steam Store, community-driven flatpak, Windows download sites and Linux distributions being more and more up-to-date.
+[![](../images/busy.png)](https://krita.org/wp-content/uploads/2018/12/busy.png)Our community has grown as well. Krita gets downloaded almost **two million times** a year -- and that's just from our own website. There's the Windows Store, there's the rejuvenated Steam Store, community-driven flatpak, Windows download sites and Linux distributions being more and more up-to-date.
 
 As the Krita core team, we love interacting with our users, but it's honestly getting too much for half a dozen people, who also want to do some coding! So we've got a new [Questions and Answers](https://ask.krita.org) website -- though the idea there was that it would turn into a community of Krita users helping each other, and that hasn't happened yet!
 

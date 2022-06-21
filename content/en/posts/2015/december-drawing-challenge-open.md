@@ -7,4 +7,4 @@ You're all invited to join [John's monthly drawing challenge](https://forum.kde.
 
 Here's last month winner!
 
-\[caption id="attachment\_2658" align="alignnone" width="720"\][![Waiting, by Elenav](images/waiting1_by_relenette-d9fj2sx.png)](https://krita.org/wp-content/uploads/2015/12/waiting1_by_relenette-d9fj2sx.png) Waiting, by Elenav\[/caption\]
+\[caption id="attachment\_2658" align="alignnone" width="720"\][![Waiting, by Elenav](../images/waiting1_by_relenette-d9fj2sx.png)](https://krita.org/wp-content/uploads/2015/12/waiting1_by_relenette-d9fj2sx.png) Waiting, by Elenav\[/caption\]

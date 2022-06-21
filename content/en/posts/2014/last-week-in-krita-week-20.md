@@ -31,13 +31,13 @@ With this in mind I present you the products of this week’s hard work.
 
 In Mirror mode the axis is now represented by a line. Axis display has two icons, one to show the type of mirror, vertical or horizontal, and a second one to edit the axis position by clicking and dragging.
 
-[![Mirror axis canvas editable](images/sm_w20_mirror-axis-edit_thumb.jpg)](https://krita.org/wp-content/uploads/2014/05/sm_w20_mirror-axis-edit.jpg)
+[![Mirror axis canvas editable](../images/sm_w20_mirror-axis-edit_thumb.jpg)](https://krita.org/wp-content/uploads/2014/05/sm_w20_mirror-axis-edit.jpg)
 
 ### Add Background color to Palette
 
 Palette now shows both Foreground and Background colors.
 
-![Palette fg/bg colors](images/sm_w20_palette-fgbg.jpg)
+![Palette fg/bg colors](../images/sm_w20_palette-fgbg.jpg)
 
 This work also adjusted the overall size and proportion of the palette elements to allow bigger preset icons, help recognize selected presets and provide more comfortable usage.
 
@@ -45,7 +45,7 @@ This work also adjusted the overall size and proportion of the palette elements 
 
 Boudewijn Rempt has been busy providing a better experience on the resource manager. Aside from the many code optimizations and code clean up, boud worked to stabilize the manager to work seamlessly with Krita md5 tags internals. Also he coded a new dialog to make and export resource bundles. A previously manual labor, assembling brush presets, patterns sets, texture packs, brush tips sets; will be automatized with this new feature, making the task of sharing resources a breeze.
 
-[![Bundle creator dialog](images/sm_w20_bundle-dialog_thumb.jpg)](https://krita.org/wp-content/uploads/2014/05/sm_w20_bundle-dialog_thumb.jpg) [![Resource manager ui tweaks](images/sm_w20_resource-manager_thumb.jpg)](https://krita.org/wp-content/uploads/2014/05/sm_w20_resource-manager.jpg)
+[![Bundle creator dialog](../images/sm_w20_bundle-dialog_thumb.jpg)](https://krita.org/wp-content/uploads/2014/05/sm_w20_bundle-dialog_thumb.jpg) [![Resource manager ui tweaks](../images/sm_w20_resource-manager_thumb.jpg)](https://krita.org/wp-content/uploads/2014/05/sm_w20_resource-manager.jpg)
 
 ## Krita Sketch and Gemini
 

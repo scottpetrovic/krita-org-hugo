@@ -43,7 +43,7 @@ Yes, the Krita Foundation offers support for Krita through the [development fund
 
 The most awesome way of getting started with Krita is to get the [Muses training DVD](https://krita.org/item/muses/) by Ramon Miranda! Nearly five hours of instruction by a professional artist, all for just € 32,50. Get your copy today and support the Krita Foundation:
 
-   ![](images/pixel.gif)If you come from Photoshop, check out our [Krita for Photoshop Users guide](http://files.kde.org/krita/marketing/IntroductiontoKritaforusercomingfromPs.pdf)!
+   ![](../images/pixel.gif)If you come from Photoshop, check out our [Krita for Photoshop Users guide](http://files.kde.org/krita/marketing/IntroductiontoKritaforusercomingfromPs.pdf)!
 
 ### Who and what is Kiki?
 

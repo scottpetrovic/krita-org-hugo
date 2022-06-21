@@ -48,7 +48,7 @@ The brushes and the interface, definitely. I also like that it's not bloated lik
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be?
 
-A really creepy portrait of one of my anthro characters as a human. Kind of. [![14.08.21.vaughan...again.sighsmall](images/14.08.21.vaughan...again_.sighsmall.png)](https://krita.org/wp-content/uploads/2014/10/14.08.21.vaughan...again_.sighsmall.png)
+A really creepy portrait of one of my anthro characters as a human. Kind of. [![14.08.21.vaughan...again.sighsmall](../images/14.08.21.vaughan...again_.sighsmall.png)](https://krita.org/wp-content/uploads/2014/10/14.08.21.vaughan...again_.sighsmall.png)
 
 ### What is it that you like about it? What brushes did you use in it?
 

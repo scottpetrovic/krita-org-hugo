@@ -9,7 +9,7 @@ A bit later than planned -- after a year and a half of isolation meeting people 
 
 This release also includes a reworked GPU accelerated canvas: especially on HiDPI screens and on macOS Krita should perform much better.
 
-\[caption id="attachment\_12343" align="aligncenter" width="1024"\][![](images/electrichearts_20201224A_kiki_c1_1080P-1024x512.png)](https://krita.org/wp-content/uploads/2021/08/electrichearts_20201224A_kiki_c1_1080P.png) The new splash screen, by Tyson Tan\[/caption\]
+\[caption id="attachment\_12343" align="aligncenter" width="1024"\][![](../images/electrichearts_20201224A_kiki_c1_1080P-1024x512.png)](https://krita.org/wp-content/uploads/2021/08/electrichearts_20201224A_kiki_c1_1080P.png) The new splash screen, by Tyson Tan\[/caption\]
 
 These are the most important fixes since Beta 1:
 
@@ -81,7 +81,7 @@ These are the most important fixes since Beta 1:
 
 We will continue fixing issues that come in from testing the beta and the nightly builds so we can release a solid Krita 5. Please consider supporting Krita's development through the [development fund](https://fund.krita.org/):
 
-[![](images/devfund-1024x346.png)](https://fund.krita.org)
+[![](../images/devfund-1024x346.png)](https://fund.krita.org)
 
 ## Download
 

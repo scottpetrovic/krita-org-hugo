@@ -6,7 +6,7 @@ categories:
 coverImage: "tiny-dragon.png"
 ---
 
-![](images/tiny-dragon.png)
+![](../images/tiny-dragon.png)
 
 ### Could you tell us something about yourself?
 
@@ -24,7 +24,7 @@ I prefer fantasy most of all and anything that’s not entirely realistic. It ha
 
 I’m a huge fan of Bill Tiller’s work for The Curse of Monkey Island, A Vampyre Story and Duke Grabowski, Mighty Swashbuckler! Other than him I’m following countless other artists on social networks and use their work to get inspired. Also, as a member of a bunch of art groups I see great artworks from artists I’ve never heard of every single day and that’s also a huge inspiration.
 
-![](images/material-1.png)
+![](../images/material-1.png)
 
 ### How and when did you get to try digital painting for the first time?
 
@@ -46,7 +46,7 @@ My first impression was just WOW. I thought "OMG, it’s SO similar to Photoshop
 
 Exactly what I mentioned above. I’m still kind of a newbie with Krita so there’s not so much to tell but I’m sure I’m yet to discover a lot more to love as time goes by.
 
-### ![](images/isometrichna-vyzrojdenska-kyshta-1_003-1700.png)
+### ![](../images/isometrichna-vyzrojdenska-kyshta-1_003-1700.png)
 
 ### What do you think needs improvement in Krita? Is there anything that really annoys you?
 

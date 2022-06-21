@@ -9,4 +9,4 @@ As you know, [Timothée received an Akdemy Award!](http://krita.org/item/167-thi
 
 Ramón Miranda has sent us the PDF of his slides: [Krita Training Volume 2: Muses](http://kritawebshopblog.files.wordpress.com/2013/07/krita-training-vol2-muses.pdf) for you to enjoy!
 
-![](images/akademy_website_header_3.png)
+![](../images/akademy_website_header_3.png)

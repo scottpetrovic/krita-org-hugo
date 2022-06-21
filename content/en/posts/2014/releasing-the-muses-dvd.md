@@ -5,7 +5,7 @@ date: "2014-02-11"
 
 After quite a bit of delay, we can now announce the final release of the Muses Krita Training DVD by Ramon Miranda! Today UPS dropped two big boxes full of lovely DVD's!
 
-![](images/muses_box_sm.png)
+![](../images/muses_box_sm.png)
 
 And that means that tonight I'll be busy pasting address on envelopes to send out all the pre-ordered DVD's. Thanks guys, thanks so much for supporting Krita and for being so patient!
 

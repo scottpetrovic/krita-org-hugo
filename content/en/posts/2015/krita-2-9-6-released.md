@@ -24,7 +24,7 @@ Now, when you applied a transform or crop, and directly afterwards click on the 
 
 The final of the big new features must be that the tool-options can now be put into the toolbar:
 
-[![tool options in the toobar](images/2015-06-26_screenshot_002.png)](https://krita.org/wp-content/uploads/2015/07/2015-06-26_screenshot_002.png)
+[![tool options in the toobar](../images/2015-06-26_screenshot_002.png)](https://krita.org/wp-content/uploads/2015/07/2015-06-26_screenshot_002.png)
 
 By default it's still a docker, but you can configure it in _settings->configure Krita->general_. You can also easily summon this menu with the '\\' key!
 

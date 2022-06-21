@@ -5,7 +5,7 @@ categories:
   - "artist-interview"
 ---
 
-\[caption id="attachment\_9859" align="aligncenter" width="800"\][![](images/underground-cult-800.png)](https://krita.org/wp-content/uploads/2019/11/underground-cult.png) Note: The pictures in this post are large and intricate. Click on any picture to see it full size!\[/caption\]
+\[caption id="attachment\_9859" align="aligncenter" width="800"\][![](../images/underground-cult-800.png)](https://krita.org/wp-content/uploads/2019/11/underground-cult.png) Note: The pictures in this post are large and intricate. Click on any picture to see it full size!\[/caption\]
 
 ### Could you tell us something about yourself?
 
@@ -15,7 +15,7 @@ My name is Bryan Wong. I am a physics undergraduate who is trying to become a ga
 
 I am working on my own game, so I mainly use Krita to work on game assets. Since paintings are not really necessary, I am only hobby artist in paintings. I am more familiar with making game assets, and I cannot call myself professional since I am just starting out.
 
-[![](images/heavy-armor-set-concept-art-800.png)](https://krita.org/wp-content/uploads/2019/11/heavy-armor-set-concept-art.png)
+[![](../images/heavy-armor-set-concept-art-800.png)](https://krita.org/wp-content/uploads/2019/11/heavy-armor-set-concept-art.png)
 
 ### What genre(s) do you work in?
 
@@ -27,7 +27,7 @@ I followed many YouTubers to start learning digital art. I think most of the You
 
 ### How and when did you get to try digital painting for the first time?
 
-The first time I tried digital painting was when I needed a menu screen for my game. And the painting was very ugly, no surprise. I was not using Krita at that time. I decided to improve my art. I checked a lot of discussions from different communities and a lot of them pointed me to Krita. So I downloaded it and gave it a try. I would say it was the real first time I tried making a digital painting. Eventually I made what I needed with Krita. [![](images/new-alien-capital-800.png)](https://krita.org/wp-content/uploads/2019/11/new-alien-capital.png)
+The first time I tried digital painting was when I needed a menu screen for my game. And the painting was very ugly, no surprise. I was not using Krita at that time. I decided to improve my art. I checked a lot of discussions from different communities and a lot of them pointed me to Krita. So I downloaded it and gave it a try. I would say it was the real first time I tried making a digital painting. Eventually I made what I needed with Krita. [![](../images/new-alien-capital-800.png)](https://krita.org/wp-content/uploads/2019/11/new-alien-capital.png)
 
 ### What makes you choose digital over traditional painting?
 
@@ -41,7 +41,7 @@ I found Krita by reading a lot of discussions. A lot of them claimed that Krita 
 
 My first impression was a bit confused when I ran Krita. And I guess this is normal when one tries something new with a lot of functions inside. I just read the Krita manual and watch YouTube to learn how to use the program. It was easy and quite intuitive.
 
-[![](images/mountainscape-800.png)](https://krita.org/wp-content/uploads/2019/11/mountainscape.png)
+[![](../images/mountainscape-800.png)](https://krita.org/wp-content/uploads/2019/11/mountainscape.png)
 
 ### What do you love about Krita?
 
@@ -65,7 +65,7 @@ Krita has everything I need. Krita was the first program I tried that has everyt
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-[![](images/titlePicture-800.png)](https://krita.org/wp-content/uploads/2019/11/titlePicture.png)
+[![](../images/titlePicture-800.png)](https://krita.org/wp-content/uploads/2019/11/titlePicture.png)
 
 This was the first time I finally made a distant view. I finally understood how to create a giant space in the picture. My first cityscape that actually works. My first painting that most of my friends loved.
 

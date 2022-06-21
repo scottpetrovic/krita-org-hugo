@@ -8,11 +8,11 @@ coverImage: "promo-screen-02.png"
 
 Over the past months, Ramon Miranda, known for [his wonderful introduction to digital painting, Muses](https://gum.co/SZZDI?wanted=true), has worked on creating a complete new brush preset bundle: Digital Atelier. Not only does this contain over **fifty** new brush presets, more than **thirty** new brush tips and **twenty** patterns and surfaces.
 
-[![](images/promo-screen-02-1024x336.png)](https://krita.org/wp-content/uploads/2018/09/promo-screen-02.png)
+[![](../images/promo-screen-02-1024x336.png)](https://krita.org/wp-content/uploads/2018/09/promo-screen-02.png)
 
 There is almost **two** **hours** of in-depth video tutorial, working you through the process of creating new brush presets.
 
-[![](images/promo-screen-01-1024x336.png)](https://krita.org/wp-content/uploads/2018/09/promo-screen-01.png)
+[![](../images/promo-screen-01-1024x336.png)](https://krita.org/wp-content/uploads/2018/09/promo-screen-01.png)
 
 Ramon has gone deep here! The goal was to create painterly brushes: achieving the look and feel of oil paint, pastel or water colors. Ramon did a lot of research and experimentation and it has paid off handsomely:
 
@@ -31,7 +31,7 @@ Brush pack:
 - Thirteen Pastel brush presets.
 - Fourteen Watercolor brush presets.
 - Thirty-four new PNG and five new SVG brush tips.
-- Twenty 512x512 paper surfaces and patterns.[![](images/patterns-for-Atelier-1024x724.png)](https://krita.org/wp-content/uploads/2018/09/patterns-for-Atelier.png) [![](images/surfaces-for-Atelier-1024x724.png)](https://krita.org/wp-content/uploads/2018/09/surfaces-for-Atelier.png)
+- Twenty 512x512 paper surfaces and patterns.[![](../images/patterns-for-Atelier-1024x724.png)](https://krita.org/wp-content/uploads/2018/09/patterns-for-Atelier.png) [![](../images/surfaces-for-Atelier-1024x724.png)](https://krita.org/wp-content/uploads/2018/09/surfaces-for-Atelier.png)
 
 Tutorial Videos:
 

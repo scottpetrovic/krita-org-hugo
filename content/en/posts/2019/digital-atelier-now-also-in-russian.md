@@ -11,8 +11,8 @@ Thanks to the hard work of Maria Malakhova ([https://vk.com/owly.owlet](https://
 
 Not only does this contain over **fifty** new brush presets, more than **thirty** new brush tips and **twenty** patterns and surfaces.
 
-[![](images/promo-screen-02-1024x336.png)](https://krita.org/wp-content/uploads/2018/09/promo-screen-02.png)
+[![](../images/promo-screen-02-1024x336.png)](https://krita.org/wp-content/uploads/2018/09/promo-screen-02.png)
 
 There is almost **two** **hours** of in-depth video tutorial, working you through the process of creating new brush presets.
 
-[![](images/promo-screen-01-1024x336.png)](https://krita.org/wp-content/uploads/2018/09/promo-screen-01.png)
+[![](../images/promo-screen-01-1024x336.png)](https://krita.org/wp-content/uploads/2018/09/promo-screen-01.png)

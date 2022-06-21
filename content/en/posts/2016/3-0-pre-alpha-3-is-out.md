@@ -30,7 +30,7 @@ We removed the Grid Tool... And created a new grid docker that exposes all the g
 
  
 
-[![gridsguidessnapping](images/gridsguidessnapping-1024x569.png)](https://krita.org/wp-content/uploads/2016/03/gridsguidessnapping.png) ... To be replaced by the Snap Settings pop-up(on shift+S)!
+[![gridsguidessnapping](../images/gridsguidessnapping-1024x569.png)](https://krita.org/wp-content/uploads/2016/03/gridsguidessnapping.png) ... To be replaced by the Snap Settings pop-up(on shift+S)!
 
 ### Snapping
 
@@ -47,11 +47,11 @@ There are two new export filters:
 
 Turn your greyscale artwork into color with a gradient map filter.  This wasn't planned to be done, but we had a surprise special guest hacker Spencer Brown who submitted this feature out of the blue! Thank you Spencer! For the future, we want to make it possible to use the Gradient Map filter as a filter layer, but that isn't possible yet.
 
-![gradientmapfilter](images/gradientmapfilter-1024x635.png)
+![gradientmapfilter](../images/gradientmapfilter-1024x635.png)
 
 ### The "Greater" Blending Mode
 
-[![greaterblendmode](images/greaterblendmode.gif)](https://krita.org/wp-content/uploads/2016/03/greaterblendmode.gif) Nicolas Guttenberg implemented the "Greater" blending mode to make it easier to create semi-transparent strokes.
+[![greaterblendmode](../images/greaterblendmode.gif)](https://krita.org/wp-content/uploads/2016/03/greaterblendmode.gif) Nicolas Guttenberg implemented the "Greater" blending mode to make it easier to create semi-transparent strokes.
 
 ### Move Tool
 
@@ -61,7 +61,7 @@ There are still known bugs in the move tool, but it also got a really nice addit
 
 The Crop tool, Assistant editing tool and the Straight line tool got an improved user interface, and the Straight line tool's on-canvas preview has been improved as well.
 
-[![Screenshot from 2016-03-12 18-15-58](images/Screenshot-from-2016-03-12-18-15-58-1024x691.png)](https://krita.org/wp-content/uploads/2016/03/Screenshot-from-2016-03-12-18-15-58.png)
+[![Screenshot from 2016-03-12 18-15-58](../images/Screenshot-from-2016-03-12-18-15-58-1024x691.png)](https://krita.org/wp-content/uploads/2016/03/Screenshot-from-2016-03-12-18-15-58.png)
 
 ### More...
 

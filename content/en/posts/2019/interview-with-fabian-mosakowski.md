@@ -6,7 +6,7 @@ categories:
 coverImage: "Aquamarine-Apprentice-800.png"
 ---
 
-### ![](images/Aquamarine-Apprentice-800.png) Could you tell us something about yourself?
+### ![](../images/Aquamarine-Apprentice-800.png) Could you tell us something about yourself?
 
 My name is Fabian Mosakowski and I'm an aspiring illustrator living in France. I'm currently working on my portfolio creating an illustrated fantasy tale called "If Only Blood Was Red". It deals with what's left of humans thriving to survive in a land that doesn't welcome them.
 
@@ -18,7 +18,7 @@ Currently as a hobby artist. I made a few comissions for close relatives but I'd
 
 Mainly fantasy as it's the narrative thread of my project but I also mix it with dark art, another genre I really enjoy, to fit the story atmosphere. I also occasionnally work in vectorial or comic book style for lighter projects.
 
-![](images/Miniature-Franck-800.png)
+![](../images/Miniature-Franck-800.png)
 
 ### Whose work inspires you most -- who are your role models as an artist?
 
@@ -32,7 +32,7 @@ The first time I painted on screen was in September 2017 when I entered a video 
 
 I think digital medium offers me the opportunity to be more organized and cautious when drawing. I tend to get very messy and insecure on paper whereas on screen, you can rely on guardrails such as layers and CTRL+Z ;)
 
-![](images/Temple-Appeaser-800.png)
+![](../images/Temple-Appeaser-800.png)
 
 ### How did you find out about Krita?
 
@@ -46,7 +46,7 @@ At first sight, I was really confused about how to use the interface as I never 
 
 I especially enjoy the fact that Krita never imposed me technical constraints. Whether it's a texture, a pattern or a special effect, there is always the perfect brush or technique to achieve it. Once you managed to isolate every tool, it becomes much more intuitive to modify brushes, mix them and add filters.
 
-![](images/Officer-Jennett-800.png)
+![](../images/Officer-Jennett-800.png)
 
 ### What do you think needs improvement in Krita? Is there anything that really annoys you?
 
@@ -58,7 +58,7 @@ To be honest, except Inkscape for the vectorial drawing, I never used any other 
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](images/Dead-Blood-Duchess-800.png)
+![](../images/Dead-Blood-Duchess-800.png)
 
 It would be "Madame de Visembaut, Dead-Blood Duchess". I really enjoyed working on atmospherical lights and clothes patterns like the victorian lace dress. This character needed a really specific setting, reflecting her leader status, her occult abilities and the faction state of mind.
 
@@ -74,7 +74,7 @@ For the lighting, I also used the Soft Light SVG blending mode which is really u
 
 I'd to be glad to introduce them to my project storyline here: [http://www.fabianmosakowski.com/if-only-blood-was-red/](http://www.fabianmosakowski.com/if-only-blood-was-red/) From there, they can access my gallery portfolio :)
 
-![](images/Scorched-Blade-of-the-Firecoast-800.png)
+![](../images/Scorched-Blade-of-the-Firecoast-800.png)
 
 ### Anything else you'd like to share?
 

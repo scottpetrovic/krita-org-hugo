@@ -13,7 +13,7 @@ It is also for those who would like to animate without breaking the bank. This c
 
 Lastly, this course can also be purchased as a lesson plan for any instructor who wishes to teach animation to their students. Whether you are interested in animation yourself, or you are a teacher at an art school/program and are seeking teaching materials, this course will provide you with valuable insight.
 
-\[video width="1920" height="1080" mp4="https://krita.org/wp-content/uploads/2021/11/andria.mp4"\]\[/video\]
+\[video width="1920" height="1080" mp4="../images/andria.mp4"\]\[/video\]
 
 Twinimation Studios was founded by instructors Andria and Arneisha Jackson. Andria and Arneisha are MFA graduates who've studied animation for 7 years and are now ready to share their professional knowledge with the world. You will be able to learn different styles of animation, character design, environment design, illustration, 3D modeling, film creation and so much more from the comfort of your own home and at your own pace! The student is free to choose how quickly they want to learn, in which order they'd like to handle their lessons, and so on.
 

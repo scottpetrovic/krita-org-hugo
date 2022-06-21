@@ -6,7 +6,7 @@ categories:
 coverImage: "daily-digger2-800.jpg"
 ---
 
-### ![](images/daily-digger2-800.jpg)
+### ![](../images/daily-digger2-800.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -20,7 +20,7 @@ As my full time job I’m a Concept Artist in the video game industry, I spend a
 
 Mostly on props, vehicles, toys, mechanical things and environments in my comfort zone. Generally whatever the job requires though in my day to day. Everything is interesting, and drawing is drawing whatever the subject or style.
 
-![](images/15-800.png)
+![](../images/15-800.png)
 
 ### Whose work inspires you most -- who are your role models as an artist?
 
@@ -46,7 +46,7 @@ I found the brush engine stood out to me over competing programs. It felt and st
 
 I love that Krita is accessible to all of the creative community, I love how versatile/customizable it is and how high quality it is and continues to be as it’s improved over the years!
 
-![](images/1-800.jpeg)
+![](../images/1-800.jpeg)
 
 ### What do you think needs improvement in Krita? Is there anything that really annoys you?
 
@@ -58,7 +58,7 @@ For me personally I’ve found the brush engine more forgiving than other pieces
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](images/16-800.png)
+![](../images/16-800.png)
 
 Ooh always a tough one haha. Of the recent work I’ve done in Krita that I can share I’d say the car thumbnails for my Masters project are my favourite. To me they represent breaking through to a level of confidence in my professional work I’d not experienced to that level previously.
 

@@ -5,7 +5,7 @@ date: "2014-01-18"
 
 This week, we made a lot of progress on the road towards the 2.8 release of Krita, which is expected around the end of this month. There are still a number of bugs that we really want to address, of course, but Krita is getting very polished and stable now!
 
-![](images/krita-28b2.png)
+![](../images/krita-28b2.png)
 
 Important changes since the first beta, released in December are:
 

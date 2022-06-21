@@ -21,7 +21,7 @@ Again, as part of his sponsored work by the Krita Foundation, Dmitry took the le
 
 The result? Even at small zoom levels, the high-quality scaling option gives beautiful and fast results!
 
-![](images/krita_high_quality_filtering.png)
+![](../images/krita_high_quality_filtering.png)
 
 (Image by [Timothee Giet](http://timotheegiet.com/) -- view separately to see it properly)
 
@@ -55,6 +55,6 @@ While much of the work on Krita is done by enthousiastic volunteers, the Krita F
 
 <table><tbody><tr><td><input type="hidden" name="on0" value="Krita Development Funding">Krita Development Funding</td></tr><tr><td><select name="os0"><option value="Bronze">Bronze : €5,00 EUR - monthly</option> <option value="Sliver">Sliver : €10,00 EUR - monthly</option> <option value="Gold">Gold : €25,00 EUR - monthly</option> <option value="Platinum">Platinum : €100,00 EUR - monthly</option> <option value="Diamond">Diamond : €250,00 EUR - monthly</option></select></td></tr></tbody></table>
 
-  ![](images/pixel.gif)
+  ![](../images/pixel.gif)
 
 And if you are a professional Krita user, either individually or in a VFX studio setting, remember that KO GmbH offers commercial support for Krita, too. Check out the [Krita Studio website](http://www.kritastudio.com) for more information!

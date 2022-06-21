@@ -6,7 +6,7 @@ categories:
 coverImage: "lini800.jpg"
 ---
 
-[![lini800](images/lini800.jpg)](https://krita.org/wp-content/uploads/2015/04/linifull.jpg)
+[![lini800](../images/lini800.jpg)](https://krita.org/wp-content/uploads/2015/04/linifull.jpg)
 
 ### Could you tell us something about yourself?
 

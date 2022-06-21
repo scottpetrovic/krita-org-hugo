@@ -3,7 +3,7 @@ title: "Help the Libre Graphics Meeting"
 date: "2014-01-27"
 ---
 
-![](images/lgm_2014_header_dark.png)
+![](../images/lgm_2014_header_dark.png)
 
 The [Libre Graphics Meeting](http://libregraphicsmeeting.org/2014/) is _the_ conference for free and open source graphics.  Artists, users, developers, designers, contributors of all kinds, of many different projects get together once a year. It is a unique conference because users and developers play an equally important role!
 

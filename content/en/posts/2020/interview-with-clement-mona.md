@@ -6,7 +6,7 @@ categories:
 coverImage: "back-home-800.jpg"
 ---
 
-### ![](images/back-home-800.jpg)
+### ![](../images/back-home-800.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -20,7 +20,7 @@ I paint professionally but it is important to me to also make a lot of personal 
 
 I love Science-Fiction and fantasy and anything relative to alternative worlds, and anything relative to legends, tales... I particularly love ghost stories and old castle ruins... I also love nature and I spend a lot of time in the forest, observing the wildlife.
 
-![](images/breathe-800.jpg)
+![](../images/breathe-800.jpg)
 
 ### Whose work inspires you most -- who are your role models as an artist?
 
@@ -34,7 +34,7 @@ I actually painted on a computer for the first time in the 90s with a program ca
 
 I actually do both but for professional work it is much easier to go digital, because you can do retakes and deliver your work much more easily.
 
-![](images/giant-statue-800.jpg)
+![](../images/giant-statue-800.jpg)
 
 ### How did you find out about Krita?
 
@@ -48,7 +48,7 @@ I loved how intuitive Krita is, I handled the program very fast, more over my Wa
 
 I love how fast I can paint with Krita. Also, the brush customisation is very nice and complete.
 
-![](images/dungeon-800.jpg)
+![](../images/dungeon-800.jpg)
 
 ### What do you think needs improvement in Krita? Is there anything that really annoys you?
 
@@ -62,7 +62,7 @@ It is a complete and reliable solution for digital painting, almost it is very l
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](images/refugees-800.jpg)
+![](../images/refugees-800.jpg)
 
 My favorite work so far is probably "Refugees" I learned a lot doing this one, I have tried to make a crowd with minimal details, I tried to find the essence of what makes a crowd looks like a crowd.
 

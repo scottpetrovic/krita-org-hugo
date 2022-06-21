@@ -37,7 +37,7 @@ This release contains the following fixes:
 - Fix importing bundles on Android
 - Work around issues with file permissions not being set correctly by ChromeOS
 
-![](images/2021-11-16_kiki-piggy-bank_krita5.png) Krita is a free and open source project. Please consider supporting the project by [joining the development fund](https://fund.krita.org), [donating](https://krita.org/en/support-us/donations/) or by [buying training videos!](https://krita.org/en/shop/) With your support, we can keep the core team working on Krita full-time.
+![](../images/2021-11-16_kiki-piggy-bank_krita5.png) Krita is a free and open source project. Please consider supporting the project by [joining the development fund](https://fund.krita.org), [donating](https://krita.org/en/support-us/donations/) or by [buying training videos!](https://krita.org/en/shop/) With your support, we can keep the core team working on Krita full-time.
 
 ## Download
 

@@ -8,7 +8,7 @@ coverImage: "owly_800.jpg"
 
  
 
-### ![](images/owly_800.jpg)
+### ![](../images/owly_800.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -22,7 +22,7 @@ Art is my hobby, but I wish I could become a professional artist someday. For no
 
 My art usually is more cartoony-like. I like fantasy world, fairy tales with medieval clothes, castles and magical creatures.
 
-![](images/sorceress_800.jpg)
+![](../images/sorceress_800.jpg)
 
 ### Whose work inspires you most -- who are your role models as an artist?
 
@@ -58,7 +58,7 @@ It has so many cool features and tools, so flexible when it comes to brush setti
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](images/sleepingbeauty_800.jpg) I think this was the first one decent enough. When I drew it, I thought that I was finally getting somewhere.
+![](../images/sleepingbeauty_800.jpg) I think this was the first one decent enough. When I drew it, I thought that I was finally getting somewhere.
 
 ### What techniques and brushes did you use in it?
 

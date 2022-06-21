@@ -6,7 +6,7 @@ categories:
 coverImage: "dahveriacitystreet.jpg"
 ---
 
-### ![](images/dahveriacitystreet.jpg)
+### ![](../images/dahveriacitystreet.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -20,7 +20,7 @@ Currently I do only personal work, but I will look for some freelance job in the
 
 I work mainly in science fiction - I'm creating an original world. I like to try various things, from creatures to landscapes and architecture. There are so many things to design in this world.
 
-### ![](images/ganamera.jpg)
+### ![](../images/ganamera.jpg)
 
 ### Whose work inspires you most -- who are your role models as an artist?
 
@@ -60,7 +60,7 @@ The amount of convenience is very high compared to other programs. The amount of
 
 ### If you had to pick one favourite of all your work done in Krita so far,  what would it be, and why?
 
-![](images/vatiy-nisha.jpg)
+![](../images/vatiy-nisha.jpg)
 
 It's hard to pick a favourite. I think this, because I challenged myself in this picture and they are my original character, which I like a lot.
 

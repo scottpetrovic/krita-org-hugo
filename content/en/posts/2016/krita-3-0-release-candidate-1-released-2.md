@@ -9,7 +9,7 @@ tags:
 
 Krita3.0のリリースがさらに近づいています。アニメーションツール、インスタントプレビューを含むQt5ベースの初めてのバージョンになります! 今日のリリース候補版には、これまでのベータに比べて数多くの修正と改善が含まれています。アニメーションとインスタントプレビューは去年の [Kickstarterプロジェクトの成功](https://www.kickstarter.com/projects/krita/krita-free-paint-app-lets-make-it-faster-than-phot)による資金で可能になりました。 そして今、[3度目となるKickstarterキャンペーンを実施しています。今年のメイントピックは素晴らしいテキストツールとベクターツールキットです。](https://www.kickstarter.com/projects/krita/krita-2016-lets-make-text-and-vector-art-awesome) 1週間で、既に半分まで来ています!
 
-[![support-krita-2016-3](images/support-krita-2016-3-1024x132.png)](https://www.kickstarter.com/projects/krita/krita-2016-lets-make-text-and-vector-art-awesome)
+[![support-krita-2016-3](../images/support-krita-2016-3-1024x132.png)](https://www.kickstarter.com/projects/krita/krita-2016-lets-make-text-and-vector-art-awesome)
 
 一番大きい新機能は、疑う余地もなく、手書きアニメーションのサポートでしょう。この夏にはJouni Pentikäinenがさらにアニメーションツールの改善の作業を続けますが、現状でもしっかりとしたツールセットになっています。下の動画チュートリアルでは、WoltheraがKickstarterストレッチゴールのアニメーションヘッダー(炎テキストアニメーション)を作った手順について説明をしています:
 

@@ -11,7 +11,7 @@ https://youtu.be/a-CY4hmkg\_I
 
 La nueva imagen de presentación de Krita 4.0 creada por Tyson Tan, muestra a Kiki entre las flores del árbol de ciruela chino, esta versión estaba en planes de lanzamiento desde el año pasado, pero dado los conflictos fiscales se tubo que retrasar bastante, sin embargo Krita, al igual que el ciruelo chino, presenta las mejores flores solo después de un intenso invierno.
 
-[![](images/kiki_4.0_sm-1-1024x463.png)](https://krita.org/wp-content/uploads/2018/03/kiki_4.0_sm-1.png)
+[![](../images/kiki_4.0_sm-1-1024x463.png)](https://krita.org/wp-content/uploads/2018/03/kiki_4.0_sm-1.png)
 
 ### Información general
 
@@ -23,15 +23,15 @@ Entre los cambios mas destacados se tiene las herramientas de SVG y texto, así 
 
 - Herramienta y capa tipo mascara de coloreado. [Mas información en el manual](https://docs.krita.org/Colorize_Mask), (en ingles)
 
-[![](images/colorize-mask.png)](https://krita.org/wp-content/uploads/2018/02/colorize-mask.png)
+[![](../images/colorize-mask.png)](https://krita.org/wp-content/uploads/2018/02/colorize-mask.png)
 
 - Mascaras de Pincel: duplica las puntas y algunos de los parámetros de cada pincel para un resultado de efectos mas interesantes.
 
-[![](images/waterpaint.gif)](https://krita.org/wp-content/uploads/2018/02/waterpaint.gif)
+[![](../images/waterpaint.gif)](https://krita.org/wp-content/uploads/2018/02/waterpaint.gif)
 
 - Nuevo juego de pinceles: Se ha creado un nuevo conjunto de los pinceles originales de Krita, este nuevo juego ahora viene como paquete "bundle", ademas que el juego anterior también esta disponible, solo se requiere que se active en el administrador de recursos.
 
-[![](images/bundles.png)](https://krita.org/wp-content/uploads/2018/03/bundles.png)
+[![](../images/bundles.png)](https://krita.org/wp-content/uploads/2018/03/bundles.png)
 
 ### Problemas presentes en esta version
 
@@ -93,4 +93,4 @@ Las firmas están [aquí](http://download.kde.org/unstable/krita/3.1.3-beta.1).
 
 Krita es un programa no solo de código libre si no ademas está a disposición de manera gratuita, éste proyecto solo es posible gracias a las donaciones hechas por nuestros usuarios, por favor considera la posibilidad de ayudarnos con una [donación](https://krita.org/en/support-us/donations/) o comprando [videos instructivos o nuestro libro de arte Made With Krita](https://krita.org/es/item/krita-3-2-0/%22https://krita.org/en/support-us/shop), solo con tu ayuda podremos mantener a nuestro pequeño grupo desarrollando Krita en tiempo completo, ¡Gracias!
 
-\[caption id="attachment\_6455" align="aligncenter" width="1024"\][![](images/Krita4_Alegoric_final-1024x507.png)](https://krita.org/wp-content/uploads/2018/03/Krita4_Alegoric_final.png) Por Ramon Miranda\[/caption\]
+\[caption id="attachment\_6455" align="aligncenter" width="1024"\][![](../images/Krita4_Alegoric_final-1024x507.png)](https://krita.org/wp-content/uploads/2018/03/Krita4_Alegoric_final.png) Por Ramon Miranda\[/caption\]

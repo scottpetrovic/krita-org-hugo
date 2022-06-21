@@ -6,7 +6,7 @@ categories:
 coverImage: "foxy800.png"
 ---
 
-### [![foxy800](images/foxy800.png)](https://krita.org/wp-content/uploads/2015/09/FOXY-FOXY.png)
+### [![foxy800](../images/foxy800.png)](https://krita.org/wp-content/uploads/2015/09/FOXY-FOXY.png)
 
 ### Could you tell us something about yourself?
 
@@ -24,7 +24,7 @@ Actually my role model, not totally as an artist, but it's [Scott Cawthon](http:
 
 As per my thinking i am kind of good at painting and art stuff, even my parents and friends say so, and I loved to do everything i could do on any gadget. I had this bored feeling with a pencil and a paper, so I started digital painting! It's fun to use Krita!
 
-[![profile800](images/profile800.png)](https://krita.org/wp-content/uploads/2015/09/profile-help.png)
+[![profile800](../images/profile800.png)](https://krita.org/wp-content/uploads/2015/09/profile-help.png)
 
 ### What do you love about Krita?
 

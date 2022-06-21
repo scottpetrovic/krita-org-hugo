@@ -6,7 +6,7 @@ categories:
 coverImage: "Beowulf_and_Dragon800.jpg"
 ---
 
-![beowulf_and_grendel800](images/Beowulf_and_Grendel800.jpg)
+![beowulf_and_grendel800](../images/Beowulf_and_Grendel800.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -78,7 +78,7 @@ I think that the brush engines are by far Krita's strongest point. Followed by P
 
 It would be one of a few pieces I recently made for a card game, unfortunately I can't yet publish them. So for now I'd say I'm quite happy with a set of illustrations I made for the an album of podcasts based on the legend of Beowulf.
 
-### ![beowulf_and_grendel800](images/Beowulf_and_Grendel800.jpg)
+### ![beowulf_and_grendel800](../images/Beowulf_and_Grendel800.jpg)
 
 ### What techniques and brushes did you use in it?
 

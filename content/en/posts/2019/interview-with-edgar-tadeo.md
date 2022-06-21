@@ -6,7 +6,7 @@ categories:
 coverImage: "lara800.png"
 ---
 
-### ![](images/lara800.png)
+### ![](../images/lara800.png)
 
 ### Could you tell us something about yourself?
 

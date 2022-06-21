@@ -15,7 +15,7 @@ Please note that:
 
 If you find a new issue, please consult this [draft document on reporting bugs](https://phabricator.kde.org/T7492) before reporting an issue. After the 4.0 release more than 150 bugs were reported, but most of those reports were duplicates, requests for help or just not useful at all. This puts a heavy strain on the developers and makes it harder to actually find time to improve Krita. Please be helpful!
 
-[![](images/kiki_4.0_sm-1-1024x463.png)](https://krita.org/wp-content/uploads/2018/03/kiki_4.0_sm-1.png)
+[![](../images/kiki_4.0_sm-1-1024x463.png)](https://krita.org/wp-content/uploads/2018/03/kiki_4.0_sm-1.png)
 
 ## Improvements
 

@@ -5,7 +5,7 @@ date: "2016-05-31"
 
 Today the Krita team releases Krita 3.0, the Animation Release. Wrapping up a year of work, this is a really big release: animation support integrated into Krita's core, Instant Preview for better performance painting and drawing with big brushes on big canvases, ported to the latest version of the Qt platform and too many bigger and smaller new features and improvements to mention!
 
-[![krita-3.0](images/krita-3.0-1024x559.png)](https://krita.org/wp-content/uploads/2016/05/krita-3.0.png)
+[![krita-3.0](../images/krita-3.0-1024x559.png)](https://krita.org/wp-content/uploads/2016/05/krita-3.0.png)
 
 Many of the new features were funded by the [2015 Kickstarter campaign](https://www.kickstarter.com/projects/krita/krita-free-paint-app-lets-make-it-faster-than-phot?ref=users). A big thank-you to all our backers! The remaining stretch goals will be released with Krita 3.1, later this year. And don't forget that we've still got seven days in the current [kickstarter campaign](https://www.kickstarter.com/projects/krita/krita-2016-lets-make-text-and-vector-art-awesome), We're nearly funded, so there should still be time to reach some stretch goals this year, too!
 

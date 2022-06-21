@@ -9,6 +9,6 @@ The people **who have pre-ordered** will have a compensation: A signed drawing
 
 [Here](http://www.youtube.com/watch?v=7AvM6GBaFOo&feature=youtu.be) is the video where he explains it, you can see the **screenshots** of the project starting from **minute 3.05**.
 
-![](images/intro-screen-_intro.jpg)
+![](../images/intro-screen-_intro.jpg)
 
 {beremote}http://www.youtube.com/watch?v=7AvM6GBaFOo&feature=youtu.be{/beremote}

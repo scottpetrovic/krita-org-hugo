@@ -9,7 +9,7 @@ Thanks to the hard work of Ivan Yossi and KDE system admin Ben Cooksley, we've g
 
 [Nightly builds](https://binary-factory.kde.org/job/Krita_Nightly_MacOS_Build/) are created once a day from the freshest code in our git repository. They are a great way to track development: see the latest features taking shape and enjoy the latest bug fixes. And the newest bugs as as well, of course: nightly builds are not meant to be used for production work.
 
-[![](images/nightlies_macos-fs8.png)](https://binary-factory.kde.org/job/Krita_Nightly_MacOS_Build/)
+[![](../images/nightlies_macos-fs8.png)](https://binary-factory.kde.org/job/Krita_Nightly_MacOS_Build/)
 
 Note that the [macOS nightly builds](https://binary-factory.kde.org/job/Krita_Nightly_MacOS_Build/) are not signed: Apple's expensive and idiosyncratic ideas about how binaries should be signed mean that KDE as an organization cannot sign binaries, so the Krita maintainer, Boudewijn Rempt, has to do that with his personal developer certificate, on his personal Macbook Pro, and that would add a manual step to the process.
 

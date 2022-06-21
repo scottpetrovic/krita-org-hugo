@@ -7,7 +7,7 @@ categories:
 
 This will be the first Krita release since [the big sprint](https://krita.org/en/item/krita-2019-sprint/). We're aiming to do monthly bugfix releases again from now on! But we also want to cut down on the regressions that come with rapid development so we're making beta releases again. Please help the team out and check these beta releases for bugs and regressions. Right there in the welcome screen is a link to a survey where you can give your feedback:
 
-[![](images/survey-1024x587.png)](https://krita.org/wp-content/uploads/2019/08/survey.png)The survey idea is new -- we want to get your impressions of what we're about to release. If it works, we'll be refining the surveys.
+[![](../images/survey-1024x587.png)](https://krita.org/wp-content/uploads/2019/08/survey.png)The survey idea is new -- we want to get your impressions of what we're about to release. If it works, we'll be refining the surveys.
 
 What's new in 4.2.6?
 

@@ -5,7 +5,7 @@ categories:
   - "news"
 ---
 
-![gaq-vol1-banner-800](images/gaq-vol1-banner-800.jpg)
+![gaq-vol1-banner-800](../images/gaq-vol1-banner-800.jpg)
 
 _(Guest post by Nathan Lovato)_
 

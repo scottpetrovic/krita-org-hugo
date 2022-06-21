@@ -6,7 +6,7 @@ categories:
 coverImage: "fig.-Find-the-Sacred-in-Humanity.jpg"
 ---
 
-![](images/fig.-Find-the-Sacred-in-Humanity.jpg)
+![](../images/fig.-Find-the-Sacred-in-Humanity.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -30,13 +30,13 @@ Worst experience of my entire teeenager all nighters! Heheh. I didn't know how t
 
 ### What makes you choose digital over traditional painting?
 
-![](images/fig.-Character-Design-Model-Sheet-C.jpg)
+![](../images/fig.-Character-Design-Model-Sheet-C.jpg)
 
 I don't, it is binary, I can choose to paint either traditional or digital.
 
 I've been working on my art in three very different ways: the first one aims for beauty, perfection, even if impossible to reach. The closest I've got was on two pieces, Find the Sacred in Humanity (the featured image) - traditional painting of singer [Julie Wein](http://juliewein.com/), and a 2D Digital Portrait of a Civilian Baby. The second way is pure entertainment, that’s the one all done on Krita, where I give life to Character Design Model Sheets producing industry material, which then can be adapted and shared in games and movies as long as for non-commercial uses. And the third is Underground Zine Publishing (this one is under the WTFPL, a very permissive license for artistic works that offers a great degree of freedom).
 
-![](images/fig.-2D-Digital-Portrait-of-a-Civilian-Baby.jpg)
+![](../images/fig.-2D-Digital-Portrait-of-a-Civilian-Baby.jpg)
 
 ### How did you find out about Krita?
 
@@ -62,7 +62,7 @@ Let me stretch this a little bit. Imagine a world where almost more than half of
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](images/fig.-catman.png) "Catman" (face closeup). Because I did it all with only one brush, and only kept using two features: the X key to switch fore to background brush color and the hold Ctrl + click to sample colors, witch makes the Block\_brush preset kick ass.
+![](../images/fig.-catman.png) "Catman" (face closeup). Because I did it all with only one brush, and only kept using two features: the X key to switch fore to background brush color and the hold Ctrl + click to sample colors, witch makes the Block\_brush preset kick ass.
 
 ### Where can people see more of your work?
 

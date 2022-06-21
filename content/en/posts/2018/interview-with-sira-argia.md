@@ -6,7 +6,7 @@ categories:
 coverImage: "razan.jpg"
 ---
 
-![](images/clientAnC6.jpg)
+![](../images/clientAnC6.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -32,7 +32,7 @@ Then 2016. That's the first time I tried digital painting because I just bought 
 
 ### What makes you choose digital over traditional painting?
 
-I am not in the position that I have to choose between digital or traditional painting, because if there's a teacher, I really need to learn all of them. The reasons why I am doing digital painting at this moment is that iI can find tutorials everywhere on the internet and it's easy to practice because I have the monitor and the digital pen for digital painting. Besides, I am working as a freelance artist and every client asks for digital raw files. ![](images/razan.jpg)
+I am not in the position that I have to choose between digital or traditional painting, because if there's a teacher, I really need to learn all of them. The reasons why I am doing digital painting at this moment is that iI can find tutorials everywhere on the internet and it's easy to practice because I have the monitor and the digital pen for digital painting. Besides, I am working as a freelance artist and every client asks for digital raw files. ![](../images/razan.jpg)
 
 ### How did you find out about Krita?
 
@@ -58,7 +58,7 @@ I've never used other painting programs for a long time except Krita. So I don't
 
 Here's my character who is called Seira. Still my favourite because this is the first time I didn't pick any palette colors from the internet and I started to understand about "source light" in the digital painting.
 
-![](images/seira.jpg)
+![](../images/seira.jpg)
 
 ### What techniques and brushes did you use in it?
 

@@ -5,7 +5,7 @@ categories:
   - "news"
 ---
 
-![Krita brushes banner 800](images/Krita-brushes-banner-800.jpg)
+![Krita brushes banner 800](../images/Krita-brushes-banner-800.jpg)
 
 Nathan Lovato tells us about new brushes he has on offer:
 

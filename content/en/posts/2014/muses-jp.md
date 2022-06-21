@@ -9,7 +9,7 @@ categories:
 
 Muses DVDはKritaの設定から完成した作品をプリントアウトするまでの全工程をカバーした5時間の盛りだくさんの解説となっています。このDVDはKritaのインターフェースを使うことだけではなく、創作の過程全体を解説してくれます。DVDの音声はスペイン語、字幕は英語及びスペイン語です。
 
-![](images/DVDbox%20KRITA%20dvd%20Muses%20vol2_sm.png)
+![](../images/DVDbox%20KRITA%20dvd%20Muses%20vol2_sm.png)
 
 皆さんからの要望に応じて、DL版も発売されています。価格はDVD版と同じです。Musesの売り上げはKritaの開発の支援となります！
 

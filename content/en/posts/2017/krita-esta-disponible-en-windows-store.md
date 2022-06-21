@@ -9,7 +9,7 @@ Tiempo atrás, estuvimos en contacto con miembros de un equipo de Microsoft el c
 
  
 
-[![Get](images/app-windows-blue.png)](https://www.microsoft.com/store/apps/9n6x57zgrw96?ocid=badge)
+[![Get](../images/app-windows-blue.png)](https://www.microsoft.com/store/apps/9n6x57zgrw96?ocid=badge)
 
 El mostrar Krita en éste medio nos permite el ser vistos por muchas mas personas ademas de producir ganancias para el proyecto tal como:
 

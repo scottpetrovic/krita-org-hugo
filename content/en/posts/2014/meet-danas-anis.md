@@ -22,7 +22,7 @@ My colleagues at the studio were surprised that I would go with open-source tool
 
 It's a pity that print design isn't well-supported in Linux. There isn't a big choice of software to do print.Basically only Scribus supports CMYK the right way, when it comes to graphic design. I wish Inkscape had true support for CMYK, because that is most likely to be thebest pick for vector graphics. But its CMYK support is half baked, which is a killer thing. And here comes Krita with good CMYK color support, which makes me wonder how it works with vector shapes I will do experiments with that once I finish my current big project in Krita.
 
-![](images/mur-kiss-miau-birthday-001b.jpeg)
+![](../images/mur-kiss-miau-birthday-001b.jpeg)
 
 Seeing how successfully I am using Krita for my big project, we decided to do some experiments on behalf of the Bstudija studio. I don't really remember what triggered us to do it. But at the studio our team decided to come up with a character for greeting cards that we would sell for clients or at the post office. My colleague Virginijus and I worked on creating a strong conception of a character. We wrote down some figure points for the character and did a lot of sketching. Whatever we did, we eventually came out at a kitten every time. And then we thought, why not a cat? Cats are loved by most people and a cat is a figure with almost limitless forms of expression. And so our thinking resulted in the idea of a grumpy cat that would have a base shape like a kind of upside-down bucket. The cat would always be shown from the front and would embody various specialties and situations, every time with a similar grumpy cat face, only different scenarios around it.
 

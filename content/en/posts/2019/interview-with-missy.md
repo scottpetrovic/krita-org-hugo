@@ -6,7 +6,7 @@ categories:
 coverImage: "CelestialGoldfish_800.png"
 ---
 
-### ![](images/Unicorn_Centaur_800.png)
+### ![](../images/Unicorn_Centaur_800.png)
 
 ### Could you tell us something about yourself?
 
@@ -20,13 +20,13 @@ I suppose it depends as what someone defines as 'hobby'. My job requires use of 
 
 I really like creatures and monsters, non human stuff. Lately I've been on a bit of a fantasy kick, but I don't think I can really settle on just one genre. I like to experiment with them all!
 
-![](images/mermaidlineart_800.png)
+![](../images/mermaidlineart_800.png)
 
 ### Whose work inspires you most -- who are your role models as an artist?
 
 This one is hard. I don't have any specific role model, I just like certain aspects of other artists whether it be how they approach a specific subject, or portray something in their art. I keep a good healthy mix of artists I follow who inspire me. A few would be Chris Sanders, Danny Mac, Madeleine-Scott Spencer, Bruce Timm, Creature Box...the list goes on.
 
-### ![](images/FemaleDemon_800.jpg)
+### ![](../images/FemaleDemon_800.jpg)
 
 ### How and when did you get to try digital painting for the first time?
 
@@ -44,7 +44,7 @@ I never used Photoshop to paint, I used Corel Painter. My version was becoming o
 
 IT ACTUALLY WORKS!
 
-### ![](images/MermaidNecklace_800.png)
+### ![](../images/MermaidNecklace_800.png)
 
 ### What do you love about Krita?
 
@@ -60,7 +60,7 @@ Programs I truly support revolve around one thing: community. When a software pa
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](images/CelestialGoldfish_800.png)
+![](../images/CelestialGoldfish_800.png)
 
 As of late probably my Celestial Goldfish. I watch a lot, and I mean A LOT, of fish hobby videos. A goldfish seller posted a photo of that cute little guy and naturally I had to take it and exaggerate it. I don't even own goldfish! If anyone ever needs a weird expression to inspire them goldfish have a million of them.
 

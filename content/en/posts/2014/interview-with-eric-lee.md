@@ -62,4 +62,4 @@ I used just about every brush I could. There are so many great brushes and varia
 
 Attached are a bunch of pieces I have all done completely in Krita.
 
-![](images/ericlee-baloo.png) ![](images/ericlee-kid.png) ![](images/ericlee-fighter.png) ![](images/ericlee-robot.png)
+![](../images/ericlee-baloo.png) ![](../images/ericlee-kid.png) ![](../images/ericlee-fighter.png) ![](../images/ericlee-robot.png)

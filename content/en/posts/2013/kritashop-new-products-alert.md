@@ -7,8 +7,8 @@ This weekend we have loaded the [Kritashop](http://www.zazzle.com/kritashop) wit
 
 We'd love to hear back from you guys. Let us know what you'd like to see more of in Kritashop! Below are the snapshots of a few of the new products -
 
- ![Demon Buster](images/Enrico1.png "Demon Buster")
+ ![Demon Buster](../images/Enrico1.png "Demon Buster")
 
-![Mother Nature](images/Enrico3.png "Mother Nature")
+![Mother Nature](../images/Enrico3.png "Mother Nature")
 
-     ![Krita Icon Tee](images/krita-icon-tee.png "Krita Icon Tee")
+     ![Krita Icon Tee](../images/krita-icon-tee.png "Krita Icon Tee")

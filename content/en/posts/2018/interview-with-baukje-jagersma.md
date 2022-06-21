@@ -5,7 +5,7 @@ categories:
   - "artist-interview"
 ---
 
-![Source of infinity](images/source_of_infinity_800.png)
+![Source of infinity](../images/source_of_infinity_800.png)
 
 ### Could you tell us something about yourself?
 
@@ -33,7 +33,7 @@ Probably when I first discovered Deviantart. I was already familiar with GIMP, w
 
 I feel like traditional has more limitations and can get messy. In digital you can easily pick any color you like, or undo something that doesn’t work. For me it just works a lot faster.
 
-![Forest elf and her kitty](images/forest_elf_and_her_kitty_800.png)
+![Forest elf and her kitty](../images/forest_elf_and_her_kitty_800.png)
 
 ### How did you find out about Krita?
 
@@ -59,7 +59,7 @@ Kinda mentioned it earlier already, it has a lot to offer which makes it fun to 
 
 Probably one of my few non-illustrative works. I really wanted to try out the animation tool so I decided to try out a run cycle. I had little knowledge of animating beforehand- but I like how the animation and design turned out in the end.
 
-![Tiger run cycle animation](images/tiger_run_cycle.gif)
+![Tiger run cycle animation](../images/tiger_run_cycle.gif)
 
 ### What techniques and brushes did you use in it?
 

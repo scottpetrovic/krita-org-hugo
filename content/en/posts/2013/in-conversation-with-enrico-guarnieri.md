@@ -10,7 +10,7 @@ We also had a chance to have a conversation with Enrico Guarnieri from Italy, a 
 
 Enrico is also working with us on the Krita Webshop. Together, we will bring you a lot of new merchandise designs on the webshop in coming months! For now, enjoy reading the interview below! The image below is his krita artwork named "Metamorphosis"
 
-![](images/metamorphosis.jpg "Metamorphosis")
+![](../images/metamorphosis.jpg "Metamorphosis")
 
 Hi Enrico! Can you tell us something about yourself? Currently I'm a freelance illustrator/concept designer. I started my career as cartoon animator assistant and I’ve a professional EU certification in "comic and 2d animation". 
 

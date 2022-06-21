@@ -8,7 +8,7 @@ categories:
 
 Coming hot on the heels of Krita 4.1.3, which had an unfortunate accident to the TIFF plugin, we're releasing Krita 4.1.5 today! There's a lot more than just that fix, though, since we're currently celebrating the last week of the Krita Fundraiser by having a _very_ productive development sprint in Deventer, the Netherlands.
 
-[![](images/2018-fundraiser-hero2.png)](https://krita.org)
+[![](../images/2018-fundraiser-hero2.png)](https://krita.org)
 
 There are some nice highlights as well, like much improved support for scaling on hi-dpi or retina screens. But here's a full list of more than fifty fixes:
 

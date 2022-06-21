@@ -27,7 +27,7 @@ This release includes the following major new features:
 
 And there are a host of bug fixes, of course, and improvements to the rendering performance and more features. **Read the [full release notes](https://krita.org/en/krita-4-1-release-notes/) to discover what's new in Krita 4.1!**
 
-\[caption id="attachment\_7657" align="aligncenter" width="500"\][![](images/krita_41-1024x1024.png)](https://krita.org/wp-content/uploads/2018/06/krita_41.png) Image by RJ Quiralta\[/caption\]
+\[caption id="attachment\_7657" align="aligncenter" width="500"\][![](../images/krita_41-1024x1024.png)](https://krita.org/wp-content/uploads/2018/06/krita_41.png) Image by RJ Quiralta\[/caption\]
 
 ## Note!
 
