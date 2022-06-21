@@ -29,7 +29,7 @@ Los cuales están orientados a la creación de pinturas de estilo tradicional:
 - Se a agregado una nueva ventana de dialogo la que te permite copiar información de tu sistema para reportar errores de código.
 - Hemos agregado la herramienta de "parche inteligente" o "Smart Patch Tool" en ingles, la cual solo estaba planeada para la versión 4.x.
 
-https://youtu.be/jI87VzDtkPY
+{{< youtube jI87VzDtkPY >}}
 
 - l filtro de difuminado Gaussian, ahora puede usar centros de 1000 pixeles en diámetro.
 

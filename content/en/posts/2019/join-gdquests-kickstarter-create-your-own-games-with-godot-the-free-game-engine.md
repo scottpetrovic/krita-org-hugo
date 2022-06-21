@@ -7,7 +7,7 @@ categories:
 
 Nathan Lovato, the author of the [Brushes for Illustrators and Concept Artists](https://gumroad.com/l/krita-brushes-for-game-artists) Krita brush preset pack and many Krita tutorials is running [a kickstarter to create a new course on creating games with free software](https://www.kickstarter.com/projects/gdquest/create-your-own-games-with-godot-the-free-game-eng). He's also sponsoring a developer to work on Krita
 
-https://youtu.be/qjUOdxP\_L\_s
+{{< youtube qjUOdxP_L_s >}}
 
 Here's what Nathan says:
 

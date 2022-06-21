@@ -7,7 +7,7 @@ date: "2018-06-13"
 
 Krita 4.1 is the second feature release in the Krita 4 series and is released only three months after 4.0. But there is still a heap of interesting new things and improvements to check out!
 
-https://youtu.be/N6oHLuICrHM
+{{< youtube N6oHLuICrHM >}}
 
 ## Note!
 

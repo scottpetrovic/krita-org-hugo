@@ -11,7 +11,7 @@ There's a whole new set of brush presets that evoke watercolor painting. There's
 
 Watch Ramon Miranda's introduction to Krita 4.3 and [check out the release notes for all the details](/krita-4-3-release-notes/)!
 
-https://youtu.be/VTlh2KhkOM4
+{{< youtube VTlh2KhkOM4 >}}
 
 ## Download
 

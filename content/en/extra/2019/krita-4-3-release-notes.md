@@ -11,7 +11,7 @@ Krita 4.3.0, coming a year after the release of Krita 4.2.0, is packed with new 
 
 This release also contains the work of the 2019 Google Summer of Code projects. Sharaf Zaman has worked on porting Krita to Android, and the first beta (based on Krita 4.2.9) has entered the Google Play Store for Chrome OS and Android tablets. Krita 4.3.0 will be there as the second beta: until we're happy with the state of Krita on Android it will remain in the beta channel. Tusooa Zhu has rewritten Krita's undo system, and _that_ made it possible to add a snapshot docker. And Kuntal Majumder has added a brand new magnetic selection tool.
 
-https://youtu.be/VTlh2KhkOM4
+{{< youtube VTlh2KhkOM4 >}}
 
 ## Android
 

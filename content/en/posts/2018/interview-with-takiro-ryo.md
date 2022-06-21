@@ -18,7 +18,7 @@ At the moment I'm more of a hobby artist, I sometimes do commissions for private
 
 ![](../images/nyaaas_lickable_paws.png)
 
-[_Timelapse of this painting_](https://youtu.be/tjTwyvMEPs0)
+{{< youtube tjTwyvMEPs0 >}}
 
 ### What genre(s) do you work in?
 
@@ -36,7 +36,7 @@ As for my ideas, I get them mostly from fantasy movies and series, the novels an
 
 ![](../images/sightseeing_flight.png)
 
-[_Timelapse of this painting_](https://youtu.be/1add1PDIQR0)
+{{< youtube 1add1PDIQR0 >}}
 
 ### How and when did you get to try digital painting for the first time?
 

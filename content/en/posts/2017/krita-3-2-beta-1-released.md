@@ -25,7 +25,7 @@ These brushes are good for create a strong painterly look:
 - There is a new dialog from where you can copy and paste relevant information about your system for bug reports.
 - We've integrated the Smart Patch tool that was previously only in the 4.0 pre-alpha builds!
 
-https://youtu.be/jI87VzDtkPY
+{{< youtube jI87VzDtkPY >}}
 
 - The Gaussian Blur filter now can use kernels up to 1000 pixels in diameter
 

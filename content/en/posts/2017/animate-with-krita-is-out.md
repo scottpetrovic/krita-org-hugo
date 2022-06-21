@@ -5,7 +5,7 @@ date: "2017-03-21"
 
 Timothée Giet has finished his latest training course for Krita. In three parts, Timothée introduces the all-new animation feature in Krita. Animation was introduced in Krita 3.0, last year and is already used by people all over the world, for fun and for real work.
 
-https://youtu.be/Cp0gN0aADUE
+{{< youtube Cp0gN0aADUE >}}
 
 Animation in Krita is meant to recreate the glory days of hand-drawn animation, with a modern twist. It's not a flash substitute, but allows you to pair Krita's awesome drawing capabilities with a frame-based animation approach.
 

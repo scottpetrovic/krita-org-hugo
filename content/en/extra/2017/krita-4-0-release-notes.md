@@ -20,7 +20,7 @@ For 4.0, Tyson Tan has again created an awesome Kiki image. The Chinese plum blo
 
 [![](../images/kiki_4.0_sm-1-1024x463.png)](https://krita.org/wp-content/uploads/2018/03/kiki_4.0_sm-1.png)
 
-https://youtu.be/OXvHHJUyBDg
+{{< youtube OXvHHJUyBDg >}}
 
 Video by Owly Owlet
 

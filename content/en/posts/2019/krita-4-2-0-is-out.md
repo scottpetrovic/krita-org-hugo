@@ -7,7 +7,7 @@ categories:
 
 Today we're releasing Krita 4.2.0. This is a big release, with over a thousand bugs fixed and exciting new functionality like support for HDR displays.
 
-\[embed width="800" height="550"\]https://youtu.be/ZbnQn6h5q0g\[/embed\]
+{{< youtube ZbnQn6h5q0g >}}
 
 Compared to the last [beta,](/item/krita-4-2-0-beta-released/) there have been over 30 bug fixes. New in Krita 4.2.0 is updated support for drawing tablets, support for HDR monitors on Windows, an improved color palette docker, scripting API for animation, color gamut masking, improved selection handling, much nicer handling of the interaction between opacity and flow and much, much, much more.
 

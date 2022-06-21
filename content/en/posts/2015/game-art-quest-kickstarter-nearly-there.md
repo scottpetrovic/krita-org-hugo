@@ -9,7 +9,7 @@ It’s Tuesday today, so it’s time for a new Krita tutorial. In this video, yo
 
 There are 3 bigger features that we will focus on next week: the tangent normal brush, the beta brush preview and the animation tools.
 
-https://youtu.be/PIKfrqk09Hk
+{{< youtube PIKfrqk09Hk >}}
 
 Over the next few weeks, you will get free tutorials on both Tuesdays and Thursdays [on the Gdquest Youtube channel](https://www.youtube.com/c/gdquest). On Tuesdays, we will talk about application specific topics. Just like today. And on the next 3 Thursdays, we will talk about environment art, user interface and monster design. Those 3 tutorials will give you a sense of what you will find in the Game Art Quest training series.
 

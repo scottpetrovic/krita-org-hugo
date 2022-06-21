@@ -19,7 +19,7 @@ There is a complete new airbrush system, developed by Allen Marshall, that repla
 
 Eugene Ingerman has added a healing brush tool. Just select the sticky plaster icon in the toolbox, and paint over the area you want to be patched out!
 
-https://youtu.be/jI87VzDtkPY
+{{< youtube jI87VzDtkPY >}}
 
 There is a new system for saving images that should be much safer than the old one, and that warns you when saving to a format that will lose you data.
 

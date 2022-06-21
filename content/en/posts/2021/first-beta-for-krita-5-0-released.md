@@ -9,7 +9,7 @@ categories:
 
 Today, the Krita team releases the first beta for Krita 5.0. Krita 5.0 is a major release, with a lot of new features and a lot of changes.
 
-\[caption id="attachment\_12343" align="aligncenter" width="1024"\][![](../images/electrichearts_20201224A_kiki_c1_1080P-1024x512.png)](https://krita.org/wp-content/uploads/2021/08/electrichearts_20201224A_kiki_c1_1080P.png) The new splash screen, by Tyson Tan\[/caption\]
+![](../images/electrichearts_20201224A_kiki_c1_1080P-1024x512.png) The new splash screen, by Tyson Tan
 
 First some **warnings**:
 

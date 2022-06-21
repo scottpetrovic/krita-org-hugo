@@ -7,7 +7,7 @@ Later than planned, here's Krita 3.2.0! With the new G'Mic-qt plugin integration
 
 [Read the full release notes for more information!](/release-notes-for-krita-3-2/). Here's [GDQuest's](http://gdquest.com/) video introducing 3.2.0:
 
-https://youtu.be/f9K48jXml4s
+{{< youtube f9K48jXml4s >}}
 
 Note: the gmic-qt plugin is not available on OSX. Krita now ships with a pre-built [gmic-qt plugin](https://github.com/c-koi/gmic-qt) on Windows and the Linux AppImage. If you have tested the beta or release candidate builds, you might need to [reset your configuration](https://docs.krita.org/KritaFAQ#Resetting_Krita_configuration).
 

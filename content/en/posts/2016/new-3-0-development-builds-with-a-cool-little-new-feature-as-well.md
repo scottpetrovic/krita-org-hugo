@@ -9,7 +9,7 @@ In the meantime, Dmitry published an [article on Geektimes](https://geektimes.ru
 
 Since we could implement it without adding new strings, Dmitry took half a day off from bug fixing and added it! And David Revoy let himself be inspired by Cezanna and produced this introduction video:
 
-https://youtu.be/bbL7qeVAaC8
+{{< youtube bbL7qeVAaC8 >}}
 
 And then, among other things, we fixed the application icon on Windows, fixed issues with translations on Windows, fixed issues with the color picker, finished the [Spriter scml export](https://brashmonkey.com/) plugin, worked around some bugs in Qt that made popups and dialogs show on the wrong monitor, made sure author and title info gets saved to PNG images, fixed display artefacts when using Instant Preview, fixed the direction of the fade, distance and time brush engine sensors, fixed reading the random offset parameter in brush engines, improved custom shortcut handling and fixed some crashes. Oh, and we fixed the [Krita Lime repository builds for Ubuntu 16.04](https://launchpad.net/~dimula73/+archive/ubuntu/krita), so you can replace the ancient 2.9.7 build Ubuntu provides with a shiny 2.9.11
 

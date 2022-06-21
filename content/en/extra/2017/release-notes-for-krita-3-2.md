@@ -7,7 +7,7 @@ date: "2017-07-17"
 
 There are numerous bug fixes and some very cool new features since Krita 3.1.4. Check out [GDQuest](http://gdquest.com/)'s overview video below with all the changes:
 
-https://youtu.be/f9K48jXml4s
+{{< youtube f9K48jXml4s >}}
 
 ### G'MIC Plugin
 
@@ -23,7 +23,7 @@ You can now paint with your fingers. This was in Krita 2.8, but was lost when we
 
 Clean up and remove elements you don't want. This was previously going to be in Krita 4.0, but we managed to get it in this release! Check out the demo below. The tool is in the toolbox with its own set of tool options.
 
-https://youtu.be/jI87VzDtkPY
+{{< youtube jI87VzDtkPY >}}
 
 ### New Brush Presets
 

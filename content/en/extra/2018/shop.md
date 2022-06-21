@@ -81,7 +81,7 @@ Comics with Krita author Timothée Giet is back with his second training DVD: Se
 
 [Get Secrets of Krita](https://gum.co/bDeXV?wanted=true)
 
-\[embed width="100%"\]https://youtu.be/Cp0gN0aADUE\[/embed\]
+{{< youtube Cp0gN0aADUE >}}
 
 Training: Animate with Krita (Download)
 

@@ -7,7 +7,7 @@ categories:
 
 Here's our second update on the state of Krita 5. We’re bringing you these updates to show what’s going on in Krita and why it’s a good idea to join the [Krita development fund](https://fund.krita.org)!  There are already more than 100 members of the dev fund! But let's have some excitement first. The new smudge brush engine landed in Krita's master branch last week, the culmination of months of work by Dmitry Kazakov and Peter Schatz:
 
-https://youtu.be/D0Lv5gWvu94
+{{< youtube D0Lv5gWvu94 >}}
 
 If you want to give this a try, download one of the [Krita Next nightly builds](/download/krita-desktop/). There's also a [zip file with the presets](https://files.kde.org/krita/extras/RGBA-wet.zip) Ramon created for testing the new engine! Now, take care! These are development builds, so make a backup of [Krita's settings](https://docs.krita.org/en/KritaFAQ.html#resetting-krita-configuration) and of [the resources folder](https://docs.krita.org/en/KritaFAQ.html#where-are-my-resources-stored). Have fun!
 
@@ -15,7 +15,7 @@ Last week was also the week Halla gave a [presentation on funding Krita developm
 
 We also [released the results](/item/huion-and-krita-competition-winners/) of the contest we organized together with Huion. That was really fun, and [there were so many awesome submissions](https://krita-artists.org/c/contest-games-collab/four-seasons-journey-of-leon-kiki/30)!
 
-\[caption id="attachment\_12051" align="aligncenter" width="1024"\][![](../images/competition_1-1024x724.jpg)](https://krita.org/wp-content/uploads/2021/05/competition_1-scaled.jpg) Watch out Leon!\[/caption\]
+![](../images/competition_1-1024x724.jpg) Watch out Leon!
 
 Now for the work that landed since our last update. It was mostly a bug fix week, where 21 authors have pushed 90 commits to master and 97 commits to all branches -- we have been nicely busy!
 

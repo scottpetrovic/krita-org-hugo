@@ -8,7 +8,7 @@ categories:
 
 Three months after the release of Krita 4.0, we're releasing Krita 4.1!
 
-https://youtu.be/N6oHLuICrHM
+{{< youtube N6oHLuICrHM >}}
 
 This release includes the following major new features:
 

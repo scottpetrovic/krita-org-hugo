@@ -9,17 +9,17 @@ We're getting closer and closer to releasing Krita 3.0, the first version of Kri
 
 The biggest new feature is no doubt support for hand-drawn animation. This summer, Jouni Pentikäinen will continue improving the animation tools, but it's already a solid toolset. Here's a video tutorial where Wolthera shows how she created the animated headers for this year's Kickstarter stretch goals:
 
-https://youtu.be/NnxbhYSLAsE
+{{< youtube NnxbhYSLAsE >}}
 
 And here is another demonstration by Wolthera showing off the Instant Preview feature, which makes it possible to use big brushes on big canvases. It may take a bit more memory, but it gives a huge speed boost:
 
-https://youtu.be/lEXnpwIL45Y
+{{< youtube lEXnpwIL45Y >}}
 
 Apart from Instant Preview, Animation, Qt5-support, Krita 3.0 will have a number of Kickstarter stretch goals, like improved layer handling, improved shortcuts, the tangent normal brush, and great colorspace selector, guides, a grids and guides docker, snapping to grids and guides, improved shortcut palette, gradient map filter and much, much, much more. And we'll be sure to fix more issues before we present the final release.
 
 So check out the review prepared by [Nathan Lovato](http://gdquest.com/), while we're preparing the full release announcement:
 
-https://youtu.be/k51OK2PlTz4
+{{< youtube k51OK2PlTz4 >}}
 
 ### Release Candidate 3 Improvements
 

@@ -11,7 +11,7 @@ The last day of the year... So, let's look back a bit. First off: none of the Kr
 
 So, what did we do? In the first place, we made four releases: [Krita 4.2.9](/item/krita-4-2-9-released/), [4.3.0](/item/krita-4-3-0-released/), [4.4.0](/item/krita-4-4-0-released/) and [4.4.1](/item/krita-4-4-1-released/), and now we're working on [4.4.2](/item/second-beta-for-krita-4-4-2/). Krita came to ChromeOS and Android, too!
 
-https://youtu.be/VTlh2KhkOM4
+{{< youtube VTlh2KhkOM4 >}}
 
 With these releases came improved brush outlines while painting, new features for the color smudge brush, watercolor brush presets, new filters, extended scripting support, the snapshot docker, a magnetic selection tool, new fill layers, new features for the pixel brush engine, mesh gradients, mesh transforms, improvements to the gradients -- and much, much more, as well as hundreds of bug fixes.
 

@@ -16,7 +16,7 @@ There is almost **two** **hours** of in-depth video tutorial, working you throug
 
 Ramon has gone deep here! The goal was to create painterly brushes: achieving the look and feel of oil paint, pastel or water colors. Ramon did a lot of research and experimentation and it has paid off handsomely:
 
-https://youtu.be/oMyorAEgBfE
+{{< youtube oMyorAEgBfE >}}
 
 ### When?
 

@@ -16,7 +16,7 @@ But experiment with it, test it, check it out! There are lots of new things in t
 
 **Masks and Selections**. We've done a lot of work on improving working with masks and selections. Some of that work has already landed in Krita 4.1.3, but there's more to come. Ranging from making it easier to paint selections masks, to a new way of moving and transforming selections, to performance improvements all round. The "select opaque" function has received new options.
 
-https://youtu.be/gWv--Do9L0E
+{{< youtube gWv--Do9L0E >}}
 
 **Gamut masks**. A much-demanded new feature, gamut masks mask out part of the color selector. A [technique described by James Gurney](http://gurneyjourney.blogspot.com/2011/09/part-1-gamut-masking-method.html), this helps you to use color in a harmonious way. You can create new masks and edit existing masks right inside Krita. The masks now work with both the artistic and the advanced color selector. Rotating masks over the color selector is possible as well!
 
@@ -46,11 +46,11 @@ But we're not done yet! We intend to release Krita 4.2 this year, in December, b
 
 This isn't in the preview yet, but here are a couple of things that our UX expert, Scott, is working on. First, the **brush editor** is being redesigned. As you can see from the video, it's being condensed, and that's because we also want to make it possible to dock it as a panel in one of the dock areas of Krita, or have it floating free, possibly on another monitor.
 
-https://youtu.be/2hWPzNFPIxY
+{{< youtube 2hWPzNFPIxY >}}
 
 Then, the **text tool**'s UI is being revamped. While Dmitry is working on making the text tool more reliable, Scott is working on making it nicer to use:
 
-https://youtu.be/pNsifPZJsjw
+{{< youtube pNsifPZJsjw >}}
 
 Michael's Summer of Code work hasn't been merged yet, but we fully intend to do that before the release. This will improve the stability of working with color palettes and make it possible to save palettes in your .kra Krita project file.
 

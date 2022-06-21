@@ -8,7 +8,7 @@ categories:
 
 Today we're releasing Krita 4.0! A major release with major new features and improvements: improved vector tools, SVG support, a new text tool, Python scripting and much, much, much more!
 
-https://youtu.be/a-CY4hmkg\_I
+{{< youtube a-CY4hmkg_I >}}
 
 The new splash screen for Krita 4.0, created by Tyson Tan, shows Kiki among the plum blossoms. We had wanted to release Krita 4 last year already, but [trials and tribulations](/item/krita-foundation-update/) caused considerable delays. But, like the plum blossoms that often bloom most vibrantly when it's coldest, we have overcome, and Krita 4 is now ready!
 

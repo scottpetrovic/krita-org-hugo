@@ -7,7 +7,7 @@ date: "2018-08-22"
 
 Krita 4.2 has been [released on May 29th, 2019](/item/krita-4-2-0-is-out/). While the core team focused on stability and performance, this release also includes many new features and the performance work and the work on handling palettes done during the 2018 Google Summer of Code. Join us for the ride!
 
-\[embed width="800" height="550"\]https://youtu.be/ZbnQn6h5q0g\[/embed\]
+{{< youtube ZbnQn6h5q0g >}}
 
 ## Updated Tablet Support for Windows, Linux and macOS
 
@@ -17,13 +17,11 @@ We finally managed to bring together the code we wrote for supporting tablets on
 
 ## HDR Painting
 
- 
-
-\[embed width="700" height="800"\]https://www.youtube.com/watch?v=Uy\_22vFu1R0\[/embed\]
+{{< youtube Uy_22vFu1R0 >}}
 
 HDR Animation created in Krita by Agata Cacko
 
-\[embed width="700" height="800"\]https://youtu.be/V\_0ocw1H3vs?t=51\[/embed\]
+{{< youtube V_0ocw1H3vs >}}
 
 Krita at CES2019
 
@@ -58,7 +56,7 @@ The left axis on the graph is time in milliseconds. You can see the painting ope
 
 ## Animation Python API
 
-https://youtu.be/VsYGtPXgJIg
+{{< youtube VsYGtPXgJIg >}}
 
 Control and create customized workflows that deal with animations.
 

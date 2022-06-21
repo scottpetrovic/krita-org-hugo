@@ -7,7 +7,7 @@ categories:
 
 Here's our first update on how the work for Krita 5 is going!We're bringing you these updates to show what's going on in Krita and why it's a good idea to join [Krita development fund](https://fund.krita.org)! But first a short video by Ramon Miranda showing one the new features in Krita 5: the painting recorder. The painting recorder was created by Shi Yan and improved by Dmitry Utkin. Eoin O'Neill is sponsored to improve the interaction with ffmpeg. Also, looks at the nice new icons created by Timothee Giet!
 
-https://youtu.be/a0uxM\_bQOnU
+{{< youtube a0uxM_bQOnU >}}
 
 This is the last month when we can still add new features. From June 1st, it'll be bug fixing only. Not all features start with sponsored developers: many new features are coded by volunteers. Our sponsored developers then work with the volunteers to get the features ready. So here's what got in last week:
 

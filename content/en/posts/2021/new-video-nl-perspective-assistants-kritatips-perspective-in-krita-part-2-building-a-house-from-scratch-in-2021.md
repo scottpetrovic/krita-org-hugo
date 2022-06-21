@@ -5,4 +5,4 @@ date: "2021-05-03"
 
 We've got a new video in our channel! Ramon shares his technique on creating a house using Krita's perspective tools:
 
-https://www.youtube.com/watch?v=VK7SRJcrU00
+{{< youtube VK7SRJcrU00 >}}

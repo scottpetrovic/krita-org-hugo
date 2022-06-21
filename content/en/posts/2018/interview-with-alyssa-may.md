@@ -60,7 +60,9 @@ I think the open source nature of it is a big component, but on a daily use basi
 
 ### What techniques and brushes did you use in it?
 
-There weren't any particularly fancy techniques or brushes used. I like to keep it simple and sketch out my composition, broadly block in color, then progressively refine, layering in and collapsing down chunks of painting until things are reasonably polished and cohesive. To pull it off, I used my staple brushes (hard round and standard blender) for the brunt of the painting, then some more specific texture build-up brushes for hair, clouds, particles, and the like. A time lapse of the whole process is up on my YouTube channel ([https://youtu.be/phPrPgK5DYQ](https://youtu.be/phPrPgK5DYQ)).
+There weren't any particularly fancy techniques or brushes used. I like to keep it simple and sketch out my composition, broadly block in color, then progressively refine, layering in and collapsing down chunks of painting until things are reasonably polished and cohesive. To pull it off, I used my staple brushes (hard round and standard blender) for the brunt of the painting, then some more specific texture build-up brushes for hair, clouds, particles, and the like. A time lapse of the whole process is up on my YouTube channel 
+
+{{< youtube phPrPgK5DYQ >}}
 
 ### Where can people see more of your work?
 

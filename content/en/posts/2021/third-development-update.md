@@ -11,11 +11,12 @@ Here is a fun article on how Carl Schwan adapted the fund.blender.org codebase f
 
 Ramon discusses the new resource system this time. It's not a terribly glittering subject, but it's really important and pretty much the reason we're calling Krita 5, Krita 5. We've been working on it for _years_, with the main developers involved being Halla and Agata. It makes working with resources a lot less glitchy and it also means Krita starts a lot faster, since we're not loading all brushes, brush presets, patterns and so on on start-up. And the from-the-ground up redesign gives us a solid basis for further extensions and improvements.
 
-https://youtu.be/Hjc575p9kOU
+{{< youtube Hjc575p9kOU >}}
 
 Now for what we've been doing in the past week. This weeks super exciting development is by sponsored developer Agata. She is working on something we're calling "local assistants" now.  Until now, an assistant would cover the whole Krita image. With this change, you can limit an assistant to any rectangle. The feature should land soon enough to be in Krita 5. Here's a video made by David Revoy to show off:
 
-\[video width="1920" height="1080" mp4="https://krita.org/wp-content/uploads/2021/05/local\_assistants.mp4"\]\[/video\]
+{{< video-player src="https://krita.org/wp-content/uploads/2021/05/local_assistants.mp4" type="video/mp4" >}}
+
 
 Now, let's go for the rest...
 

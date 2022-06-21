@@ -11,7 +11,7 @@ It’s time for a new [Krita fundraiser!](/fundraising-2018-campaign/) Our goal 
 
 This year, we want to take a step back, look at we’ve achieved, and take stock of what got broken, what didn’t quite make the grade and what got forgotten. In short, we want to fix bugs, make Krita more stable and bring more polish and shine to all those features you all have made possible!
 
-https://youtu.be/10KBEbAtl00
+{{< youtube 10KBEbAtl00 >}}
 
 We're not using Kickstarter this year. Already in 2016, Kickstarter [felt like a tired formula](https://valdyas.org/fading/kde/the-2016-kickstarter/). We're also not going for a fixed amount of funding this year: every 3500 euros funds one month of work, and we'll spend that time on fixing bugs, improving features and adding polish.
 

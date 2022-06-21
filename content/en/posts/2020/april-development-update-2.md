@@ -23,7 +23,7 @@ But we've been working so hard on fixing bugs, that all of us want a bit of a ch
 
 One of the features we're working on goes under the code-name "RGBA Brushes". Starting with [the work of Peter Schatz](https://invent.kde.org/kde/krita/-/merge_requests/277), Ramon Miranda and Dmitry are creating something rather fun. You can read all about it on [Krita Artists](https://krita-artists.org/t/use-alpha-channel-in-brush-tips-or-add-an-overlay-tip/4147). I'll let Ramon show it!
 
-https://youtu.be/BMQzJ5n6LPE
+{{< youtube BMQzJ5n6LPE >}}
 
 Talking of [Krita Artists](https://krita-artists.org/)... This discussion site, set-up and managed by Raghukamath, is getting more and more popular. It's now the first place anyone should go who has a question, who wants to show off their artwork, or who wants to discuss possible new features for Krita.
 

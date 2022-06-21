@@ -11,7 +11,7 @@ We promised Digital Atelier would be available in the Krita Shop after the succe
 
 There are fifty great brush presents, more than thirty brush tips, twenty paper textures and almost twohours of in-depth video tutorial, working you through the process of creating new brush presets.
 
-https://youtu.be/oMyorAEgBfE
+{{< youtube oMyorAEgBfE >}}
 
 Digital Atelier sells for 39,95 euros, ex VAT.
 
