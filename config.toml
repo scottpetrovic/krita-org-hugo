@@ -90,3 +90,11 @@ defaultContentLanguage = 'en'
     title = 'Krita Site(TW)'
     flagIconLocation = 'images/language-icons/taiwan.svg'
     weight = 5
+
+    [languages.jp]
+    contentDir = 'content/jp'
+    languageName = 'Japanese'
+    languageDirection =  'ltr'
+    title = 'Krita Site(JP)'
+    flagIconLocation = 'images/language-icons/japan.svg'
+    weight = 6
