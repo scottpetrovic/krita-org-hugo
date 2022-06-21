@@ -3,7 +3,7 @@ title: "Krita 3.0 BETA builds out!"
 date: "2016-04-27"
 ---
 
-We have spent the last 20 days making over 80 fixes in Krita since the last Alpha build. We have decided it is time to enter the Beta phase! Furthermore, we've also spent time on improving our [Windows builds](https://krita.org/item/new-krita-3-0-windows-builds/).  This should fix all the scary G'Mic crashes on Windows.
+We have spent the last 20 days making over 80 fixes in Krita since the last Alpha build. We have decided it is time to enter the Beta phase! Furthermore, we've also spent time on improving our [Windows builds](/posts/new-krita-3-0-windows-builds/).  This should fix all the scary G'Mic crashes on Windows.
 
 ### Notable Fixes
 
@@ -27,7 +27,7 @@ We had intended to get 3.0 ready before the next kickstarter, but we feel its mo
 
 ### Known Issues
 
-We're fixing bugs like crazy, but there are still a [number of known bugs](https://bugs.kde.org/buglist.cgi?bug_severity=critical&bug_severity=grave&bug_severity=major&bug_severity=crash&bug_severity=normal&bug_severity=minor&bug_status=UNCONFIRMED&bug_status=CONFIRMED&bug_status=ASSIGNED&bug_status=REOPENED&list_id=1348442&product=krita&query_format=advanced). Please help us by testing this beta release and checking whether those bugs are still valid! [Bug triaging](https://krita.org/item/ways-to-help-krita-bug-triaging/) is an awesome way of becoming part of our community.
+We're fixing bugs like crazy, but there are still a [number of known bugs](https://bugs.kde.org/buglist.cgi?bug_severity=critical&bug_severity=grave&bug_severity=major&bug_severity=crash&bug_severity=normal&bug_severity=minor&bug_status=UNCONFIRMED&bug_status=CONFIRMED&bug_status=ASSIGNED&bug_status=REOPENED&list_id=1348442&product=krita&query_format=advanced). Please help us by testing this beta release and checking whether those bugs are still valid! [Bug triaging](/posts/ways-to-help-krita-bug-triaging/) is an awesome way of becoming part of our community.
 
 ### Download
 

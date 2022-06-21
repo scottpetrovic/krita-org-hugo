@@ -83,17 +83,17 @@ The Experimental **Color Slider docker** was a heeded request for HSV sliders in
 
 **Opacity & Flow separation** - Now you can finally separate opacity and flow, which leads to finer control over both.
 
-**Locked brush settings** -> [Read more.](https://krita.org/item/introducing-dirty-presets-locked-brush-settings-and-cumulative-undo-in-krita-2-9/)
+**Locked brush settings** -> [Read more.](/posts/introducing-dirty-presets-locked-brush-settings-and-cumulative-undo-in-krita-2-9/)
 
-**Dirty Presets** -> [Read more.](https://krita.org/item/introducing-dirty-presets-locked-brush-settings-and-cumulative-undo-in-krita-2-9/)
+**Dirty Presets** -> [Read more.](/posts/introducing-dirty-presets-locked-brush-settings-and-cumulative-undo-in-krita-2-9/)
 
 ### Selection Improvements
 
 [![krita_29_selection_ovelay](../images/krita_29_selection_ovelay.png)](https://krita.org/wp-content/uploads/2015/02/krita_29_selection_ovelay.png)
 
-![](../images/kickstarter-logo.png) Direct painting and transforming on the **global selection mask**. The Brush selection tool was removed because painting on the Global Selection Mask is much more versatile. -> [Read more](https://krita.org/item/how-to-select-areas-with-the-paintbrush-in-krita-2-9/)
+![](../images/kickstarter-logo.png) Direct painting and transforming on the **global selection mask**. The Brush selection tool was removed because painting on the Global Selection Mask is much more versatile. -> [Read more](/posts/how-to-select-areas-with-the-paintbrush-in-krita-2-9/)
 
-![](../images/kickstarter-logo.png) **Colored overlay display option**. -> [Read more .](https://krita.org/item/how-to-select-areas-with-the-paintbrush-in-krita-2-9/).
+![](../images/kickstarter-logo.png) **Colored overlay display option**. -> [Read more .](/posts/how-to-select-areas-with-the-paintbrush-in-krita-2-9/).
 
  **![](../images/kickstarter-logo.png) Transparency Mask Improvements** - You can now separate out alpha channels into transparency masks.
 
@@ -169,7 +169,7 @@ The Experimental **Color Slider docker** was a heeded request for HSV sliders in
 
 ### Dockers
 
-Advanced Color Selector - Now with HSI and HSY' selectors in the main shape as well as the MyPaint shade selector. A cleaned up UI, and HDR functionality! Compositions docker - Polished to include updating and renaming compositions. Layer Docker - You can now select multiple layers with CTRL or SHIFT, or isolate a layer with ALT+left mouse click. Palette Docker - You can now add palettes and change the swatch size with CTRL+scroll. Undo history docker - Cumulative undo was one of the fruits from Mohit's Google Summer of Code. -> [Read more.](https://krita.org/item/introducing-dirty-presets-locked-brush-settings-and-cumulative-undo-in-krita-2-9/)
+Advanced Color Selector - Now with HSI and HSY' selectors in the main shape as well as the MyPaint shade selector. A cleaned up UI, and HDR functionality! Compositions docker - Polished to include updating and renaming compositions. Layer Docker - You can now select multiple layers with CTRL or SHIFT, or isolate a layer with ALT+left mouse click. Palette Docker - You can now add palettes and change the swatch size with CTRL+scroll. Undo history docker - Cumulative undo was one of the fruits from Mohit's Google Summer of Code. -> [Read more.](/posts/introducing-dirty-presets-locked-brush-settings-and-cumulative-undo-in-krita-2-9/)
 
 ### Miscellaneous
 

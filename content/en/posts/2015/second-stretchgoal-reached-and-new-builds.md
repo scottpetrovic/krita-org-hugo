@@ -9,7 +9,7 @@ Oh -- and check out [Wolthera's updated brush packs](https://forum.kde.org/viewt
 
 We've had a really busy week. We already gave you an idea of our latest test-build on Monday, but we had to hold back because of the revived crash file recovery wizard on windows... that liked to crash. But it's fixed now, and we've got new builds for you!
 
-So what is exactly new in this build? Especially interesting are all the improvements to PSD import/export support. Yesterday [we learned that Katarzyna uses PSD as her working format when working with Krita](https://krita.org/item/krita-comes-to-discworld/) \-- we still don't recommend that, but it's easier now!
+So what is exactly new in this build? Especially interesting are all the improvements to PSD import/export support. Yesterday [we learned that Katarzyna uses PSD as her working format when working with Krita](/posts/krita-comes-to-discworld/) \-- we still don't recommend that, but it's easier now!
 
 \[caption id="attachment\_2001" align="alignnone" width="952"\][![Check the pass-through switch in the group layer entry in the layerbox!](../images/passthtrough.png)](https://krita.org/wp-content/uploads/2015/05/passthtrough.png) Check the pass-through switch in the group layer entry in the layerbox!\[/caption\]
 

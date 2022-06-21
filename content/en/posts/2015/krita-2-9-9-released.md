@@ -22,7 +22,7 @@ The ninth semi-monthly bug fix release of Krita is out! Upgrade now to get the f
 - Another exiv2-related jpeg saving fix.
 - Add a new dark pass-through icon.
 
-Go to the [Download page](https://krita.org/download/krita-desktop/) to get the freshest Krita! (And don't forget to check out [Scott's book](https://krita.org/item/new-krita-book-release-and-giveaway/), or [Animtim's latest training DVD](https://krita.org/item/secrets-of-krita-the-third-krita-training-dvd/) either!)
+Go to the [Download page](https://krita.org/download/krita-desktop/) to get the freshest Krita! (And don't forget to check out [Scott's book](/posts/new-krita-book-release-and-giveaway/), or [Animtim's latest training DVD](/posts/secrets-of-krita-the-third-krita-training-dvd/) either!)
 
 ### Krita Next
 

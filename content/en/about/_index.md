@@ -21,6 +21,6 @@ From 2004 to 2009, Krita was strongly focusing on being a generic image manipula
 
 From 2009 onwards, the [Krita project started funding community members](http://dot.kde.org/2009/12/02/krita-team-seeking-sponsorship-take-krita-next-level) to work on Krita by way of student jobs, in addition to development funded through Google Summer of Code. This experiment has resulted in a huge jump in stability and performance.
 
-In 2012, the Krita community [created the Krita Foundation](https://krita.org/item/announcing-the-krita-foundation/ "Announcing the Krita Foundation"), to provide more support for development.
+In 2012, the Krita community [created the Krita Foundation](/posts/announcing-the-krita-foundation/ "Announcing the Krita Foundation"), to provide more support for development.
 
 \[caption id="" align="alignleft" width="304"\]![Cyrille and Boudewijn - 2008.](../images/krita-history-screen.jpg "Photograph by Alexandre Prokoudine") Photograph by Alexandre Prokoudine\[/caption\]

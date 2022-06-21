@@ -3,13 +3,13 @@ title: "3.0 Pre-alpha 3 is out!"
 date: "2016-03-14"
 ---
 
-Today was an important day for the Krita project! We entered _feature freeze_! That means that from now on until the release of Krita 3.0, which is planned for April 27th, we won't be working on adding new features, but we'll be fixing bugs, fixing bugs and fixing more bugs! If you want to help us identify and triage bugs, read this article: "[Ways to Help Krita: Bug Triaging](https://krita.org/item/ways-to-help-krita-bug-triaging/)". It's the first of what's intended to be a series of reference articles on ways to help Krita grow and become better and better.
+Today was an important day for the Krita project! We entered _feature freeze_! That means that from now on until the release of Krita 3.0, which is planned for April 27th, we won't be working on adding new features, but we'll be fixing bugs, fixing bugs and fixing more bugs! If you want to help us identify and triage bugs, read this article: "[Ways to Help Krita: Bug Triaging](/posts/ways-to-help-krita-bug-triaging/)". It's the first of what's intended to be a series of reference articles on ways to help Krita grow and become better and better.
 
 Since Krita 3.0 is frozen, we know exactly which Kickstarter and Stretch Goal features will be in this release, and which features will be in the 3.1 and following releases. Krita 3.0 will have: Instant Preview, Animation Support, Rulers and Guides, Grid Docker, layer multi-selection handling improvements, loading and saving Gimp brushes as images, and a completely revamped layer management panel! As an extra, originally not part of the Kickstarter Stretch Goals, snapping to guides and grids has also been implemented! Work has already started on the on-canvas brush settings editor (HUD), stacked brushes brush engine and the lazy brush or (anime coloring) tool.
 
 And additionally, Krita 3.0 has been ported to Qt5, which was in itself a huge task, much bigger than we had even imagined. We intend to make Krita 3 fully supported on OSX, too, but that still needs a lot of work. And there are a ton of features that weren't part of the Kickstarter, of course. Volunteers from all over the world have been adding cool new stuff. We're really dreading writing the full release announcement for April!
 
-Anyway... Here are the highlights compared to the last [pre-alpha build](https://krita.org/item/krita-2-9-11-and-the-second-3-0-alpha-build/):
+Anyway... Here are the highlights compared to the last [pre-alpha build](/posts/krita-2-9-11-and-the-second-3-0-alpha-build/):
 
 ### Improved Layer Docker
 

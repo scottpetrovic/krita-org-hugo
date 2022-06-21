@@ -23,7 +23,7 @@ The most awesome way of getting started with Krita is to get the Muses training 
 
    ![](../images/pixel.gif)](http://store.steampowered.com/app/280680) 
 
-[Or](http://store.steampowered.com/app/280680) [check out the awesome trailer](https://krita.org/item/muses-dvd-trailer-released/)
+[Or](http://store.steampowered.com/app/280680) [check out the awesome trailer](/posts/muses-dvd-trailer-released/)
 
 # Why is Krita part of the Calligra Suite?  
 ![](../images/Underline2.png)

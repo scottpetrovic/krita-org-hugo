@@ -57,7 +57,7 @@ Training: Secrets of Krita (DVD)
 
 Now just **€14,95**, from €29,95.
 
-Comics with Krita author Timothée Giet is back with his second training DVD: Secrets of Krita. Ten chapters covering topics like brush settings, layer handling, transformations and more! In depth and in detail. The DVD is English spoken with English subtitles. [Read more about it](https://krita.org/item/secrets-of-krita-the-third-krita-training-dvd/)!
+Comics with Krita author Timothée Giet is back with his second training DVD: Secrets of Krita. Ten chapters covering topics like brush settings, layer handling, transformations and more! In depth and in detail. The DVD is English spoken with English subtitles. [Read more about it](/posts/secrets-of-krita-the-third-krita-training-dvd/)!
 
 [Get Secrets of Krita](https://gum.co/iIno?wanted=true)
 
@@ -77,7 +77,7 @@ Training: Secrets of Krita (Download)
 
 Now just **€14,95**, from €29,95
 
-Comics with Krita author Timothée Giet is back with his second training DVD: Secrets of Krita. Ten chapters covering topics like brush settings, layer handling, transformations and more! In depth and in detail. The DVD is English spoken with English subtitles. [Read more](https://krita.org/item/secrets-of-krita-the-third-krita-training-dvd/)!
+Comics with Krita author Timothée Giet is back with his second training DVD: Secrets of Krita. Ten chapters covering topics like brush settings, layer handling, transformations and more! In depth and in detail. The DVD is English spoken with English subtitles. [Read more](/posts/secrets-of-krita-the-third-krita-training-dvd/)!
 
 [Get Secrets of Krita](https://gum.co/bDeXV?wanted=true)
 

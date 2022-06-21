@@ -20,7 +20,7 @@ A short overview of new features compared to Krita 2.9:
 
 Krita 3.0 is also based on Qt 5 and the KF5 Framework libraries.
 
-Since the last [development build](https://krita.org/item/3-0-pre-alpha-3-is-out/), we focused on fixing bugs and improving performance.
+Since the last [development build](/posts/3-0-pre-alpha-3-is-out/), we focused on fixing bugs and improving performance.
 
 There are some changes and improvements that we made outside of the mountain of fixes that were done. This is a list of improvements since the last pre-alpha that was released.
 
@@ -46,7 +46,7 @@ We also removed the print and print preview options; printing in Krita has never
 
 ### Known Issues
 
-We're fixing bugs like crazy, but there are still a [number of known bugs](https://bugs.kde.org/buglist.cgi?bug_severity=critical&bug_severity=grave&bug_severity=major&bug_severity=crash&bug_severity=normal&bug_severity=minor&bug_status=UNCONFIRMED&bug_status=CONFIRMED&bug_status=ASSIGNED&bug_status=REOPENED&list_id=1348442&product=krita&query_format=advanced). Please help us by testing this alpha release and checking whether those bugs are still valid! [Bug triaging](https://krita.org/item/ways-to-help-krita-bug-triaging/) is an awesome way of becoming part of our community.
+We're fixing bugs like crazy, but there are still a [number of known bugs](https://bugs.kde.org/buglist.cgi?bug_severity=critical&bug_severity=grave&bug_severity=major&bug_severity=crash&bug_severity=normal&bug_severity=minor&bug_status=UNCONFIRMED&bug_status=CONFIRMED&bug_status=ASSIGNED&bug_status=REOPENED&list_id=1348442&product=krita&query_format=advanced). Please help us by testing this alpha release and checking whether those bugs are still valid! [Bug triaging](/posts/ways-to-help-krita-bug-triaging/) is an awesome way of becoming part of our community.
 
 ### Download
 
