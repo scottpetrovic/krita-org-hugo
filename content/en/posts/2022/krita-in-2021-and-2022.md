@@ -11,7 +11,11 @@ We also launched the [Krita Dev Fund](https://fund.krita.org/), based on Blender
 
 ### Releases
 
-\[video width="1920" height="1080" mp4="https://krita.org/wp-content/uploads/2021/12/Video-for-store\_final-30fps.mp4"\]\[/video\]
+https://krita.org/wp-content/uploads/2021/12/Video-for-store_final-30fps.mp4
+
+
+{{< video-player src="https://krita.org/wp-content/uploads/2021/12/Video-for-store_final-30fps.mp4" type="video/mp4">}}
+
 
 Last year, 2021, was, of course the [year of the Krita 5 release](https://krita.org/en/item/krita-5-0-released/)! We also released from Krita 4.4.2 all the way through to Krita 4.4.8, so it was a busy year. With the release of 4.4.5 we said we wouldn't do another 4.4 release, but we did...
 
