@@ -64,7 +64,7 @@ I have not used many programs before I can across Krita. But the thing that jump
 
 ![](images/Saladin’s-White-Wolf-800.png)
 
-That is hard to say, but in a pinch I would say the one titled “Saladin’s White Wolf”. I was really happy how the background came out, it was also the one to be picked out and promoted by Bungie on their twitter.
+That is hard to say, but in a pinch I would say the one titled "Saladin’s White Wolf". I was really happy how the background came out, it was also the one to be picked out and promoted by Bungie on their twitter.
 
 ### What techniques and brushes did you use in it?
 

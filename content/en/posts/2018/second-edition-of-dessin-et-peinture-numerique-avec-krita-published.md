@@ -5,7 +5,7 @@ categories:
   - "news"
 ---
 
-Last month French publisher D-Booker released the 2nd edition of Timothée Giet's book “Dessin et peinture numérique avec Krita”.
+Last month French publisher D-Booker released the 2nd edition of Timothée Giet's book "Dessin et peinture numérique avec Krita".
 
 [![](images/Timo-KritaBookV2.jpg)](https://krita.org/wp-content/uploads/2018/11/Timo-KritaBookV2.jpg)
 

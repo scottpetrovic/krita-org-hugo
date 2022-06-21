@@ -38,7 +38,7 @@ I made the switch to Linux in early 2016, finding out that Sai and CS6 wouldn’
 
 ### What was your first impression?
 
-I was like “Wow, this is a lot to take in and learn.” I’m still trying to figure out everything! There’s so many buttons I’m still unsure on what they do, I am just a simpleton!
+I was like "Wow, this is a lot to take in and learn." I’m still trying to figure out everything! There’s so many buttons I’m still unsure on what they do, I am just a simpleton!
 
 ### What do you love about Krita?
 

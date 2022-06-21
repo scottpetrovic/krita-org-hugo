@@ -214,7 +214,7 @@ Huion（フイオン）のマスコット（Alex Truman作）
 
 我々は10年にわたってKritaの開発を続け、このアプリケーションを便利なものにし続けてしました。
 
-Krita財団は既に5つのプロジェクトのスポンサーを務め、成功を収めてきました：Lukáš Tvrdýの2.4リリースのための開発作業（「KritaをDavid Revoyが使えるものに」）、Timothee Gietによる「Kritaで漫画」トレーニングDVD、Ramon Mirandaの”Muses” training DVD、そしてDmitry Kazakovがスポンサーからの資金援助を受けて行ったKrita 2.8、2.9の開発です。
+Krita財団は既に5つのプロジェクトのスポンサーを務め、成功を収めてきました：Lukáš Tvrdýの2.4リリースのための開発作業（「KritaをDavid Revoyが使えるものに」）、Timothee Gietによる「Kritaで漫画」トレーニングDVD、Ramon Mirandaの"Muses" training DVD、そしてDmitry Kazakovがスポンサーからの資金援助を受けて行ったKrita 2.8、2.9の開発です。
 
 2014年度のKickstarterも成功を収めました。我々は2.9.0でその全てを実装しましたが一つだけ出来なかったものがありました。Photoshop式のレイヤースタイルは今週に実装されます。
 

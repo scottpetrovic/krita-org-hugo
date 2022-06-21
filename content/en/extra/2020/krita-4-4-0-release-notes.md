@@ -155,7 +155,7 @@ To learn about the new scripting APIs, or learn how to script with Krita in gene
 - Fix applying invert filter on transparency masks ([Bug 422805](https://bugs.kde.org/show_bug.cgi?id=422805))
 - Make Smart Patch Tool consider active selection ([Bug 420219](https://bugs.kde.org/show_bug.cgi?id=420219))
 - Lens blur: Map between translated and untranslated strings in filter config ([Bug 422999](https://bugs.kde.org/show_bug.cgi?id=422999))
-- Fix “Shrink from image border” wrapping ([Bug 402196](https://bugs.kde.org/show_bug.cgi?id=402196))
+- Fix "Shrink from image border" wrapping ([Bug 402196](https://bugs.kde.org/show_bug.cgi?id=402196))
 - Fix border selection to generate non-fuzzy edges ([Bug 395673](https://bugs.kde.org/show_bug.cgi?id=395673))
 - Fix Screen Fetch Logic Crash in KoToolBox that was triggered by vertical monitors.
 - Parent the resource manager window ([Bug 423097](https://bugs.kde.org/show_bug.cgi?id=423097))

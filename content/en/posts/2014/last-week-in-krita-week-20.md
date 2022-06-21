@@ -21,7 +21,7 @@ With this in mind I present you the products of this week’s hard work.
 - Partially fix [#333917](https://bugs.kde.org/show_bug.cgi?id=333917): Added extensive tablet debugging on Windows. (Dmitry Kazakov)
 - Worked [#333843](https://bugs.kde.org/show_bug.cgi?id=333843): Added more extensive tablet debugging on X11. (Dmitry Kazakov)
 - FIX Linux [#331358](https://bugs.kde.org/show_bug.cgi?id=331358): Fix tablet stylus rotation in Linux. The Windows fix will be worked shortly after. (Dmitry Kazakov)
-- FIX [#334204](https://bugs.kde.org/show_bug.cgi?id=334204): Handling tablet events when “Pan/Scroll” mode is assigned to a button. (Dmitry Kazakov)
+- FIX [#334204](https://bugs.kde.org/show_bug.cgi?id=334204): Handling tablet events when "Pan/Scroll" mode is assigned to a button. (Dmitry Kazakov)
 - Fix crash on open/create file. (Timothée Giet)
 - FIX [#332367](https://bugs.kde.org/show_bug.cgi?id=332367): Add actions provided by KisLayerBox to the global action collection. This adds some missing actions to the keyboard configuration list. (Dmitry Kazakov)
 - FIX [#334508](https://bugs.kde.org/show_bug.cgi?id=334508): Fix pixel-alignment of the Rectangle and Ellipse tools. (Dmitry Kazakov)
@@ -51,7 +51,7 @@ Boudewijn Rempt has been busy providing a better experience on the resource mana
 
 Arjen Hiemstra and Dan Leinir Turthra Jensen have been busy fixing bugs and polishing Sketch and Gemini interface mostly. A new feature is the ability to see the mirror axis and adjust it using on screen ui buttons. These controls were also ported to Gemini and main Krita.
 
-- Gemini: FIX [#334381](https://bugs.kde.org/show_bug.cgi?id=334381): Hide the “open existing as new” action. (Arjen Hiemstra)
+- Gemini: FIX [#334381](https://bugs.kde.org/show_bug.cgi?id=334381): Hide the "open existing as new" action. (Arjen Hiemstra)
 
 ## Code cleanup and optimizations.
 

@@ -28,7 +28,7 @@ Unfortunately I don't have the comfort of choosing what I want to illustrate. I 
 
 The best decision of which scene or characters to put on the cover can only be made if I know the story so whenever I have a chance to read a book I take it. Being a fan of reading myself, I know how important it is for the cover to reflect the story inside; especially with a series like the Terry Pratchett Discworld novels. I was already a huge Terry Pratchett fan, so that wasn't a problem.
 
-When choosing a scene to paint I usually try to analyse where the main focus of the story is. Very often I am tempted to paint a scene that would look amazing on the cover but I catch myself in time and remind myself that this particular scene, though amazing, wouldn't really sell the story. So I choose the one that will do it better and will also resonate with the title. For example with “Guards, Guards” the only reasonable choice was to paint the Guards running away from a dragon they were trying to track down. Nothing else would really fit.
+When choosing a scene to paint I usually try to analyse where the main focus of the story is. Very often I am tempted to paint a scene that would look amazing on the cover but I catch myself in time and remind myself that this particular scene, though amazing, wouldn't really sell the story. So I choose the one that will do it better and will also resonate with the title. For example with "Guards, Guards" the only reasonable choice was to paint the Guards running away from a dragon they were trying to track down. Nothing else would really fit.
 
 [![Guards Guards z napisami Katarzyna Oleska](images/Guards-Guards-z-napisami-Katarzyna-Oleska.jpg)](https://krita.org/wp-content/uploads/2015/05/Guards-Guards-z-napisami-Katarzyna-Oleska.jpg)
 
@@ -54,7 +54,7 @@ Things that could be improved: when I overwrite a brush preset I cannot keep the
 
 ### Can you give a quick overview of your workflow?
 
-Sure. I actually prepared a short video that shows how I work. It's a sketch for Terry Pratchett's “Wyrd Sisters”. I used the older version of Krita back then but the workflow remains the same.
+Sure. I actually prepared a short video that shows how I work. It's a sketch for Terry Pratchett's "Wyrd Sisters". I used the older version of Krita back then but the workflow remains the same.
 
 \[embed\]https://www.youtube.com/watch?v=pZzfQf\_I7ws\[/embed\]
 

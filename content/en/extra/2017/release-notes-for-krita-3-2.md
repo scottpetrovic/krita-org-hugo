@@ -47,7 +47,7 @@ We added Radian's brush set to Krita's default brushes. These brushes are good 
 - Some cleanups when handling OpenGL
 - Show a clearer error when loading the wintab32.dll file fails on Windows
 - Fix a regression where bezier tools couldn’t close the curve and couldn’t create a second curve
-- Fixes for working with multiple windows in subwindow mode where one of the documents is set to “stays on top”
+- Fixes for working with multiple windows in subwindow mode where one of the documents is set to "stays on top"
 - Fix resetting the Level of Detail cache when changing the visibility of a layer: this fixes an issue where after changing the visibility of a layer, the color picker would pick from an older version of the layer.
 - Save the last used folder in the Reference Images Docker
 - Don’t create nested autosave documents.

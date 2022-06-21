@@ -3,17 +3,17 @@ title: "The Muses Preset Pack"
 date: "2013-09-10"
 ---
 
-[Last time](http://krita.org/item/hairy-brushes), we went through the options for the versatile and expressive hairy brushes. This time, we’ll discuss the brush set I’ve created for the “Muses” training DVD. Creating the brush set has been an enriching experience. Together with David Revoy and Timothee Giet, we created a standard for brush sets -- and we have also created a SVG library with modular vector icons that are easy to adapt and use.  Check out [Vasco Basque’s brush set](http://vascobasque.wordpress.com/2013/09/08/krita-modular-brushset-v1-0/), too.
+[Last time](http://krita.org/item/hairy-brushes), we went through the options for the versatile and expressive hairy brushes. This time, we’ll discuss the brush set I’ve created for the "Muses" training DVD. Creating the brush set has been an enriching experience. Together with David Revoy and Timothee Giet, we created a standard for brush sets -- and we have also created a SVG library with modular vector icons that are easy to adapt and use.  Check out [Vasco Basque’s brush set](http://vascobasque.wordpress.com/2013/09/08/krita-modular-brushset-v1-0/), too.
 
 So, without further ado: the Krita Training Vol.2: Muses Brush Set is here! The DVD is coming along nicely, and **the contents will be on the printer on Monday 30 of September!**
 
 Krita makes it really easy to create brush presets and if we don’t take care, we’ll create hundreds of presets. Managing so many presets is rather more difficult than 42, the number of presets of this pack. It pays to be selective!
 
-This pack cover the basic necessities for the most painting projects. The set I created for  “Muses” was created made to complement the default set and also to be compatible with another packs, like [David Revoy’s pack](http://www.davidrevoy.com/article180/krita-brushkit-v3). Although both packs have some things in common, I think that they complement each other very well. Each has some functionality that isn’t present in the other.
+This pack cover the basic necessities for the most painting projects. The set I created for  "Muses" was created made to complement the default set and also to be compatible with another packs, like [David Revoy’s pack](http://www.davidrevoy.com/article180/krita-brushkit-v3). Although both packs have some things in common, I think that they complement each other very well. Each has some functionality that isn’t present in the other.
 
 The Muses Pack focuses on providing a rich and varied painting experience with a traditional look.
 
-The set is designed for being used with tablet. It’s not necessary to have a tablet but I don’t recommend using a mouse because some presets can work in a unexpected ways because they use sensors like pressure or tilt. For the best experience, use a tablet that has tilt since  some presets use the “Ascension” parameter.
+The set is designed for being used with tablet. It’s not necessary to have a tablet but I don’t recommend using a mouse because some presets can work in a unexpected ways because they use sensors like pressure or tilt. For the best experience, use a tablet that has tilt since  some presets use the "Ascension" parameter.
 
 **Contents of the set:**
 
@@ -31,7 +31,7 @@ The colors of the squares are only for differentiating the parts,  they don't h
 
 \- Ink & Fx: In principle, this presets aren’t for inking comics (for that see the presets created by Timothee Giet), they are for doing studies or fast sketches. We can emulate the markers technique very easily.![](https://lh5.googleusercontent.com/KGlkFCeX09_B7noj0MXvLag9QiWBAOS1kAs3Zv7Mz7HmYlZAZHf36pc2AcBzEQ-eRiWcZvFLCca9fRpjPGoCWo4ZtDpOBP6bvvQ-jFs4Lr5B0R6DK0e562J0)
 
-\- Oils & water: I use this presets for creating the brushstrokes of wet paint, for giving the painting the look and feel of oil paint and gouache. They create expressive effects and they are fast but I don’t recommend the using them at really big sizes: you can easily saturate the resources of even a beefy computer. They use the “ascension” sensor for the color-rate.
+\- Oils & water: I use this presets for creating the brushstrokes of wet paint, for giving the painting the look and feel of oil paint and gouache. They create expressive effects and they are fast but I don’t recommend the using them at really big sizes: you can easily saturate the resources of even a beefy computer. They use the "ascension" sensor for the color-rate.
 
 ![](https://lh3.googleusercontent.com/r0mBZFEJXRRSePfJ1OF4dzD4LpmpKU7s2CKP4r8YhlZO8p1Te4cd7WsPyNbxwFYEBkAdo77bqRDuAHoG2ObvJYjjOqlTBcJLBQYEWoOCFX6HOPvoEAwlXZvn)
 
@@ -41,7 +41,7 @@ The colors of the squares are only for differentiating the parts,  they don't h
 
 ![](https://lh5.googleusercontent.com/2brrLD5iR3ASuKHyj_M6xoTIzr9QIiaCWuobWEPsB93Sgp-Te-TSrS0ABHWpHMvaUWYd2g8FC07AWRhKhz2y1xFYY3mzfFQepC5sh3EnCycSEcVHyhwWnEM9Tw)
 
-\- Hair Brush Pack Bonus: If you have installed “Hairy presets set” you can create brush strokes where you can see a pattern of lines that simulate the hairs of the brush. Read my [first post for all the details](http://krita.org/item/188-hairy-brushes).
+\- Hair Brush Pack Bonus: If you have installed "Hairy presets set" you can create brush strokes where you can see a pattern of lines that simulate the hairs of the brush. Read my [first post for all the details](http://krita.org/item/188-hairy-brushes).
 
   ![](https://lh5.googleusercontent.com/Rvgt-rG1vBXcqb2JE0kIvBCV2HpQ17nq6pTZKCDVmHyENEeCsseqdCR4XXOaUfbM1n0xMbVSm9a5HQHtxsExvYibU3omK8ZQpmEhhDiFHJVB1cMfhOWiDa16lg)
 

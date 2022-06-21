@@ -40,11 +40,11 @@ I admire David Revoy's and Ramon Miranda's work so I was curious when I saw both
 
 ### What was your first impression?
 
-As a professional illustrator I've worked almost with every application available on the market. Every application has its own special tools and most of the time I was jumping from one application to another. Krita was like using at least four of my favourite applications in one. Everything was in the right place. Very intuitive workflow. So my main feeling was like: “wow, these guys must be artists, they know what I want.” After a short time I formatted my Windows laptop and I installed Linux Mint just to focus on Krita.
+As a professional illustrator I've worked almost with every application available on the market. Every application has its own special tools and most of the time I was jumping from one application to another. Krita was like using at least four of my favourite applications in one. Everything was in the right place. Very intuitive workflow. So my main feeling was like: "wow, these guys must be artists, they know what I want." After a short time I formatted my Windows laptop and I installed Linux Mint just to focus on Krita.
 
 ### What do you love about Krita?
 
-Krita has all you need to start and finish your artwork in one program. The brush engine is superb! The stabilizer is incredible! I'm in love with the pop up menu! The transform tool is unique! The “E” button is so handy ! The symmetry and multi brush tool is a must have!
+Krita has all you need to start and finish your artwork in one program. The brush engine is superb! The stabilizer is incredible! I'm in love with the pop up menu! The transform tool is unique! The "E" button is so handy ! The symmetry and multi brush tool is a must have!
 
 So I could make a list of at least a hundred things that I really like. But the most important is that I enjoy using it. And this alone makes me more productive by using Krita.
 

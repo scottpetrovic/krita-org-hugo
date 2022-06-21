@@ -61,10 +61,10 @@ Rotating, Zooming and Mirroring canvas will now trigger a nice message at the to
 - FIX [#335298](https://bugs.kde.org/show_bug.cgi?id=335298): Fix cut and paste error. (Boudewijn Rempt)
 - Implement internet updates for [G'MIC](http://gmic.sourceforge.net/) (Compile G’MIC with zlib dependency). (Lukáš Tvrdý)
 - FIX [#331358](https://bugs.kde.org/show_bug.cgi?id=331358): Fixed rotation tablet sensor on Windows and make rotation on Linux be consistent with rotation on Windows. (Dmitry Kazakov)
-- FIX [#331694](https://bugs.kde.org/show_bug.cgi?id=331694): Add another exr mimetype “x-application/x-extension-exr”, to make the exr system more robust. (Boudewijn Rempt)
+- FIX [#331694](https://bugs.kde.org/show_bug.cgi?id=331694): Add another exr mimetype "x-application/x-extension-exr", to make the exr system more robust. (Boudewijn Rempt)
 - FIX [#316859](https://bugs.kde.org/show_bug.cgi?id=316859): Fix Chalk brush paint wrong colors on saturation ink depletion. (Dmitry Kazakov)
 - Index Colors Filter: Add option to reduce the color count. (Manuel Riecke)
-- Fix “modifier + key” canvas input shortcuts not working. (Arjen Hiemstra)
+- Fix "modifier + key" canvas input shortcuts not working. (Arjen Hiemstra)
 - FIX [#325928](https://bugs.kde.org/show_bug.cgi?id=325928): Allow to lock the state of the dockers. (Boudewijn Rempt)
 - Reduce size of mirror handles and other minor tweaks to the mirror axis handles. (Arjen Hiemstra)
 - Let the user select a 1px brush with a shortcut. (Dmitry Kazakov)
@@ -79,7 +79,7 @@ Rotating, Zooming and Mirroring canvas will now trigger a nice message at the to
 
 ### Code cleanup and optimizations.
 
-Following previous week’s efforts, Boudewijn Rempt kept improving the code efficiency on many aspects of the code. With the hard work of Dmitry Kazakov, Stuart Dickson, Lukáš Tvrdý and Sven Langkamp the code is kept evolving, from ensuring compilation on systems with QT 4.7 or disabling some portions of QT if the version is too old (to make Krita work in many distros), updating [G'MIC](http://gmic.sourceforge.net/) version to 1.5.9.0, improving OpenGL crash detection, and renaming brushes to “brush tips” to avoid user confusion between presets and brushes, now brush tips.
+Following previous week’s efforts, Boudewijn Rempt kept improving the code efficiency on many aspects of the code. With the hard work of Dmitry Kazakov, Stuart Dickson, Lukáš Tvrdý and Sven Langkamp the code is kept evolving, from ensuring compilation on systems with QT 4.7 or disabling some portions of QT if the version is too old (to make Krita work in many distros), updating [G'MIC](http://gmic.sourceforge.net/) version to 1.5.9.0, improving OpenGL crash detection, and renaming brushes to "brush tips" to avoid user confusion between presets and brushes, now brush tips.
 
 ### Krita Sketch and Gemini
 

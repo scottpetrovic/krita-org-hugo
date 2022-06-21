@@ -24,11 +24,11 @@ Almost entirely portraits showing women, just like the old masters. I tried some
 
 ### Whose work inspires you most -- who are your role models as an artist?
 
-David Revoy is one of my role models, he is one of the reasons why I started to paint digitally. Back  in 2013 I saw one of his time lapse videos, “Lezard”. He did that crazy Stuff with alchemy and suddenly had something to work with. So I bought a cheap Aiptek and started to draw with MyPaint  and all my drawings where awful. I switched back to traditional for a couple of months and eventually got back to digital. I read a lot of books, watched a lot of tutorials and started to listen to people who know what they are doing, like Matt from ctrlpaint.com. My whole mindset about drawing was just wrong. My standards were too high, I had almost no knowledge about volume, light, shade, surfaces and wanted to create awesome art. I started to drew basic props like mugs, cans or just textured balls. Then I discovered gesture drawing and with it some new techniques like “drawing with the bean”.
+David Revoy is one of my role models, he is one of the reasons why I started to paint digitally. Back  in 2013 I saw one of his time lapse videos, "Lezard". He did that crazy Stuff with alchemy and suddenly had something to work with. So I bought a cheap Aiptek and started to draw with MyPaint  and all my drawings where awful. I switched back to traditional for a couple of months and eventually got back to digital. I read a lot of books, watched a lot of tutorials and started to listen to people who know what they are doing, like Matt from ctrlpaint.com. My whole mindset about drawing was just wrong. My standards were too high, I had almost no knowledge about volume, light, shade, surfaces and wanted to create awesome art. I started to drew basic props like mugs, cans or just textured balls. Then I discovered gesture drawing and with it some new techniques like "drawing with the bean".
 
 ### What makes you choose digital over traditional painting?
 
-If you draw digitally you tend to take more risks, because you know you can make mistakes without destroying your whole image. And I just like the fact that you can waste a lot of “high quality” paper and colour without paying a single cent for it.
+If you draw digitally you tend to take more risks, because you know you can make mistakes without destroying your whole image. And I just like the fact that you can waste a lot of "high quality" paper and colour without paying a single cent for it.
 
 [![swatch800](images/swatch800.png)](https://krita.org/wp-content/uploads/2015/10/swatch.png)
 
@@ -38,7 +38,7 @@ If I remember correctly I've known about Krita since 2005, I guess, when I used 
 
 ### What was your first impression?
 
-I really had trouble making it work, because “vc” is detecting my CPU wrong. I was able to fix that by editing the qmake macro files. So my first impression was: this is so much slower than GIMP and MyPaint. Earlier Krita was just to complicated for me, it has so many layer-modes, I had no idea what to do with all those brushes and all my colours looked like mud (hello gamma corrected colour profiles)
+I really had trouble making it work, because "vc" is detecting my CPU wrong. I was able to fix that by editing the qmake macro files. So my first impression was: this is so much slower than GIMP and MyPaint. Earlier Krita was just to complicated for me, it has so many layer-modes, I had no idea what to do with all those brushes and all my colours looked like mud (hello gamma corrected colour profiles)
 
 ### What do you love about Krita?
 
@@ -58,7 +58,7 @@ My recent one which I made for Nellwyn, I had so much fun in drawing it.  It's 
 
 ### What techniques and brushes did you use in it?
 
-The coffee-technique, grab a cup or 10 and start drawing. I block a lot, and rarely use the classic line art. I think it's called chiaroscuro, you can find that in the book “The Artist's Complete Guide to DRAWING THE HEAD” by William L. Maughan. I almost never use the Airbrush-Brushes in Krita, because they destroy skin structure and makes people look like plastic dolls. I used the brush kit 7 by David Revoy for this. Detail and the digital sketch brush are my best friends.
+The coffee-technique, grab a cup or 10 and start drawing. I block a lot, and rarely use the classic line art. I think it's called chiaroscuro, you can find that in the book "The Artist's Complete Guide to DRAWING THE HEAD" by William L. Maughan. I almost never use the Airbrush-Brushes in Krita, because they destroy skin structure and makes people look like plastic dolls. I used the brush kit 7 by David Revoy for this. Detail and the digital sketch brush are my best friends.
 
 [![squid_1-800](images/squid_1-800.jpg)](https://krita.org/wp-content/uploads/2015/10/squid_1.jpg)
 

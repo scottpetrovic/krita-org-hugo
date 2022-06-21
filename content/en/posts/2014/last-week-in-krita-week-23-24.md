@@ -44,7 +44,7 @@ Dmitry in particular, aside from the many bugs fixed, enhanced the stroke smooth
 - FIX [#332773](https://bugs.kde.org/show_bug.cgi?id=332773): Add option to disable touch capabilities of the Wacom tablets on canvas only mode. To activate, in kritarc, please add disableTouchOnCanvas=true. (Dmitry Kazakov)
 - FIX [#335048](https://bugs.kde.org/show_bug.cgi?id=335048): Rename stable category to Brush engines. (Sven Langkamp)
 - Created new cursors for Exposure/Gamma gestures. (David Revoy)
-- Fix “Move layer into group” icon design. (Timothée Giet)
+- Fix "Move layer into group" icon design. (Timothée Giet)
 - Fix file dialog filter types and use native dialogs when possible. (Boudewijn Rempt)
 - Tweak mirror axes display and default position of move handles. (Arjen Hiemstra)
 

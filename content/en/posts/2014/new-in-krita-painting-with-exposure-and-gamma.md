@@ -17,7 +17,7 @@ Krita has two methods of rendering the image on screen: internal and using Open 
 
 1. Internal. In this mode the image data is converted into the display profile that the user configured in Settings->Color Management dialog. It ensures that all the colors of the image color space are displayed correctly on screen.  To use this mode you need to:
     1. Generate an icc profile for your monitor using any hardware device available on market
-    2. Load the “Video Card Gamma Table” part of the generated profile (vcgt icc tag) into the LUT of your video card. You can use ‘xcalib’ to do that.
+    2. Load the "Video Card Gamma Table" part of the generated profile (vcgt icc tag) into the LUT of your video card. You can use ‘xcalib’ to do that.
     3. Choose the profile in Settings->Color Management dialog
 2. Open Color IO mode. In this mode Krita does not do any internal color correction for the displayed image. Instead it passes raw image data to the OCIO engine, which handles the color conversions and color proofing itself. To configure OCIO pipeline one should either:
     1. Get the [configuration here](http://opencolorio.org/configurations/index.html).
@@ -34,7 +34,7 @@ Landscape by Wolthera van Hövell tot Westerflier
 
 ### Using Exposure and Gamma for painting
 
-Now when using Open Color IO engine (even in “Internal” mode) one can paint on the image, switching the exposure levels on the fly. Just press ‘Y’ key and drag your mouse upward or downward and the amount of light will either increase or decrease! Creation of High Dynamic Range images never have been so easy! This feature can be used for prototyping the scenes that are going to have dynamic light, for example:
+Now when using Open Color IO engine (even in "Internal" mode) one can paint on the image, switching the exposure levels on the fly. Just press ‘Y’ key and drag your mouse upward or downward and the amount of light will either increase or decrease! Creation of High Dynamic Range images never have been so easy! This feature can be used for prototyping the scenes that are going to have dynamic light, for example:
 
 A bomb has been blown. The scene becomes filled with light! surely enough, the shadow areas are now becoming well-lightened areas with lots of details!
 

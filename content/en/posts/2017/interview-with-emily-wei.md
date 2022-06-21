@@ -40,11 +40,11 @@ That said, I do love traditional art. There's nothing quite like the feeling of 
 
 ### How did you find out about Krita?
 
-I don't really remember, actually! I think I might've seen a thread about it on Neopets or a post on tumblr. It was some time after the Kickstarter for Krita 3.0 ended, and the “faster than Photoshop” part of the campaign despite all the tools the program offered had me intrigued.
+I don't really remember, actually! I think I might've seen a thread about it on Neopets or a post on tumblr. It was some time after the Kickstarter for Krita 3.0 ended, and the "faster than Photoshop" part of the campaign despite all the tools the program offered had me intrigued.
 
 ### What was your first impression?
 
-“Wow! This is almost just like Photoshop!” The UI is very similar, haha.
+"Wow! This is almost just like Photoshop!" The UI is very similar, haha.
 
 ### What do you love about Krita?
 
@@ -70,7 +70,7 @@ And again, the brushes are great.
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-Probably “No”!
+Probably "No"!
 
 ![](images/20170911_web_waytooemily_no.jpg)
 

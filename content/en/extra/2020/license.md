@@ -25,7 +25,7 @@ What you create with Krita is your sole property. All your artwork  is free for
 
 That means that Krita can be used commercially by artists, by scientists for research, and by students in educational institutions.
 
-Krita's GNU GPL license guarantees you this freedom. Nobody is ever permitted to take it away, in contrast to trial or “educational” versions of commercial software that will forbid your work in commercial situations.
+Krita's GNU GPL license guarantees you this freedom. Nobody is ever permitted to take it away, in contrast to trial or "educational" versions of commercial software that will forbid your work in commercial situations.
 
 ### Privacy and Internet Access
 

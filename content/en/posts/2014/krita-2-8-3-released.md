@@ -22,5 +22,5 @@ The third monthly bugfix release for Krita 2.8 is out! [Download your Windows in
 - Fix painting grid on lower zoom levels. (bug 333234)
 - Fix a triangular brush outline for a 1-pixel brush. (bug 334408)
 - Fix pixel-alignment of the Rectangle and Ellipse tools, perform alignment exactly how the user expects. (bug 334508)
-- Make layer actions such as “Delete the layer or mask” listed in the in Configure Shortcuts dialog. (bug 332367)
-- Fix handling a tablet when “Pan/Scroll” mode is assigned to a button. Note: Wacom’s “Pan/Scroll” feature supports only vertical wheel scroll, so using usual Middle-button panning is recommended. (bug 334204)
+- Make layer actions such as "Delete the layer or mask" listed in the in Configure Shortcuts dialog. (bug 332367)
+- Fix handling a tablet when "Pan/Scroll" mode is assigned to a button. Note: Wacom’s "Pan/Scroll" feature supports only vertical wheel scroll, so using usual Middle-button panning is recommended. (bug 334204)

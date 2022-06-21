@@ -72,7 +72,7 @@ So many things …
 
 2\. I can map shortcuts to any key, not some stupid combination of ctrl button or function buttons. This is very important for lefties. I end up with a very efficient workflow.
 
-3\. It’s light and runs on Linux. So I could restore some old computers nobody wanted because “Windows takes 15 minutes to start” and make them into decent working stations.
+3\. It’s light and runs on Linux. So I could restore some old computers nobody wanted because "Windows takes 15 minutes to start" and make them into decent working stations.
 
 4\. You can talk to the devs directly. It’s not like some gigantic monolith you can only undergo. In fact it feels like a close community.
 

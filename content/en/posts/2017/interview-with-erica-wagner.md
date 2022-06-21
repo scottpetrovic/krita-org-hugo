@@ -34,7 +34,7 @@ I have endless resources to use. Don’t get me wrong, I enjoy traditional drawi
 
 ### How did you find out about Krita?
 
-In late 2015, I searched in Google “Free Alternatives to Paint Tool Sai”. At the time, I was downloading all kinds of programs and just playing around in them so see which ones I liked. A website called Alternitateto.net popped up with results of different programs to use instead of Paint Tool Sai. I tried three or four different programs, one of them being Krita.
+In late 2015, I searched in Google "Free Alternatives to Paint Tool Sai". At the time, I was downloading all kinds of programs and just playing around in them so see which ones I liked. A website called Alternitateto.net popped up with results of different programs to use instead of Paint Tool Sai. I tried three or four different programs, one of them being Krita.
 
 ### What was your first impression?
 

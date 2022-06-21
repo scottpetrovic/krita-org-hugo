@@ -48,7 +48,7 @@ Well. 1.6.3 and 2.0 gave me huge headaches, for the slowness, crashes and the li
 
 ### **What is the thing you like the most about Krita?**
 
-In the first place, that is a very flexible program, its configurability makes it very convenient to adapt to the type of technique or result wanted. Then its variety of brushes is very useful, as is the fact that each painting engine has a lot of configuration options. It is  also what I call a “direct” app: it has filters, selections and other features that are there and can be used for photo editing or general treatment of the image, but don’t disturb the work for drawing, they are there but don’t  impede the concentration when painting.
+In the first place, that is a very flexible program, its configurability makes it very convenient to adapt to the type of technique or result wanted. Then its variety of brushes is very useful, as is the fact that each painting engine has a lot of configuration options. It is  also what I call a "direct" app: it has filters, selections and other features that are there and can be used for photo editing or general treatment of the image, but don’t disturb the work for drawing, they are there but don’t  impede the concentration when painting.
 
 ### **What do you think needs improvement in Krita?**
 

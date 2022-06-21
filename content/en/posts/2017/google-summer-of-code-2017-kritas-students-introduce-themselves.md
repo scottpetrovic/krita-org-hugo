@@ -7,7 +7,7 @@ This year, four students, from three separate continents, will participate, with
 
 ### Aniketh Girish: Integrate Krita With share.krita.org
 
-I'm Aniketh Girish. I’m a first-year Computer Science and Engineering student pursuing my bachelor’s from Amrita University. I’m an active member of the FOSS club in our university (FOSS@Amrita). I started contributing to KDE in September 2016. I was selected for Season of KDE(KDE-SoK) 2016-17, in which I worked on the project Kstars. I was invited as a speaker for KDE India Conference 2017 in IIT Guwahati, where I gave a talk on the topic “Object tracking using OpenCV and Qt”. I have also contributed to other projects of KDE like Konsole, KIO and several more.
+I'm Aniketh Girish. I’m a first-year Computer Science and Engineering student pursuing my bachelor’s from Amrita University. I’m an active member of the FOSS club in our university (FOSS@Amrita). I started contributing to KDE in September 2016. I was selected for Season of KDE(KDE-SoK) 2016-17, in which I worked on the project Kstars. I was invited as a speaker for KDE India Conference 2017 in IIT Guwahati, where I gave a talk on the topic "Object tracking using OpenCV and Qt". I have also contributed to other projects of KDE like Konsole, KIO and several more.
 
 My project for GSoC 2017 aims to integrate share.krita.org with our Krita application. I intend to accomplish this project using the Open Collaboration Services called libattica. I will create a user friendly GUI for it as well.
 

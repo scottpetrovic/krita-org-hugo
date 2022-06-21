@@ -142,4 +142,4 @@ We resolved more than 150 bugs for this release. Here's a highlight of the most 
         - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE\_Factory/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_Factory/)
 - Windows and OSX
     - The [download page](https://krita.org/download/krita-desktop/ "Krita Desktop") has been updated, so check out the new builds. If you don’t want to use the MSI installer, go to [files.kde.org](http://files.kde.org/krita) for the portable zip-file based version of Krita for Windows.
-    - You can also get the latest version of [Krita on Steam](http://store.steampowered.com/app/280680), using the “Desktop29″ option in the Beta channel! Steam users get updates automatically.
+    - You can also get the latest version of [Krita on Steam](http://store.steampowered.com/app/280680), using the "Desktop29″ option in the Beta channel! Steam users get updates automatically.

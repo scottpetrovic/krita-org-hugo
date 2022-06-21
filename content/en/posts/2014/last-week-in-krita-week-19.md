@@ -48,7 +48,7 @@ Gmic offers around 250 different filters to use. Finding them by space memory is
 - Add tooltip functionality to Button. (Arjen Hiemstra)
 - FIX [#331341](https://bugs.kde.org/show_bug.cgi?id=331341): Drop down the panel from the handle instead of moving the handle. (Arjen Hiemstra)
 - Add support for adding an offset to items added to MouseTracker. (Arjen Hiemstra)
-- FIX [#333779](https://bugs.kde.org/show_bug.cgi?id=333779): Set the URL for new images to “New Image.kra”. (Arjen Hiemstra)
+- FIX [#333779](https://bugs.kde.org/show_bug.cgi?id=333779): Set the URL for new images to "New Image.kra". (Arjen Hiemstra)
 - Keep the views presets constantly in sync. (Dan Leinir Turthra Jensen)
 
 ## Code cleanup and optimizations
@@ -58,7 +58,7 @@ Gmic offers around 250 different filters to use. Finding them by space memory is
 - Fix loading aco profiles. (Boudewijn Rempt)
 - Fix KisDlgFilter to always show the name of the currently selected filter. (Friedrich W. H. Kossebau)
 - Make current filter gettable in KisFilterSelectorWidget. (Friedrich W. H. Kossebau)
-- Add “:” after all labels in the filter settings UI. (Friedrich W. H. Kossebau)
+- Add ":" after all labels in the filter settings UI. (Friedrich W. H. Kossebau)
 - Refactoring and fixing resource manager code bugs about creation, install and uninstall. (Victor Lafon)
 - Convert AppData to 0.6 format, to avoid translation clutter: Matthias Klumpp krita/krita.appdata.xml
 - Remove spurious export clause. (Boudewijn Rempt)

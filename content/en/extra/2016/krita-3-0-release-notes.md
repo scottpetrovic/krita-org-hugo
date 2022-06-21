@@ -98,7 +98,7 @@ We spent a long time discussing the most important parts to managing layers and 
 
 [![greaterblendmode](images/greaterblendmode.gif)](https://krita.org/wp-content/uploads/2016/03/greaterblendmode.gif)
 
-- **Added “Greater” blending mode** - change the way you paint on transparent layers (example shown to the side)! Made by Nicolas Guttenberg's dedicated tinkering!
+- **Added "Greater" blending mode** - change the way you paint on transparent layers (example shown to the side)! Made by Nicolas Guttenberg's dedicated tinkering!
 - **GBR and GIH import/export** - Gimp's brush format can now be saved and opened directly by Krita. You don't have to rely on the make-brush menu in the predefined brush-tab.
 - **Move Tool Improvements** - Move layer content with arrow keys, and configure the increments in all important unit-sizes!
 - **True luminance in the advanced selector** - The HSY space color pickers are now linearised before their luma is crunched. The Gamma can be manually configured, making this picker possible to give true luminosity!

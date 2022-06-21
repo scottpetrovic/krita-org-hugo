@@ -24,7 +24,7 @@ I like to make neat atmospheric illustrations, usually it’s fantasy inspired w
 
 ### Whose work inspires you most -- who are your role models as an artist?
 
-I think I can name two – Mike Azevedo and Craig Mullins. I like Mike’s colors and light work so much, he definitely knows how to make it awesome. He was one of the artists who inspired me a lot from the start of my art journey. Craig – digital art pioneer who managed to keep progressing and experimenting for so many years. I’d say I like his “philosophy”, his way to do things, his way to think.
+I think I can name two – Mike Azevedo and Craig Mullins. I like Mike’s colors and light work so much, he definitely knows how to make it awesome. He was one of the artists who inspired me a lot from the start of my art journey. Craig – digital art pioneer who managed to keep progressing and experimenting for so many years. I’d say I like his "philosophy", his way to do things, his way to think.
 
 ### How and when did you get to try digital painting for the first time?
 
@@ -36,11 +36,11 @@ Colors, all of them! It’s easy to mess with, easy to experiment. I like good t
 
 ### How did you find out about Krita?
 
-From a comment on some entertainment site. It was something like “hey, there is also Krita, it can do the same things as SAI and even more, plus it’s free”.
+From a comment on some entertainment site. It was something like "hey, there is also Krita, it can do the same things as SAI and even more, plus it’s free".
 
 ### What was your first impression?
 
-“Whoa, so many buttons! I’m gonna press them all”
+"Whoa, so many buttons! I’m gonna press them all"
 
 ### What do you love about Krita?
 
@@ -58,11 +58,11 @@ The best balance between comfort and functionality. There are a few cool Photosh
 
 ![](images/34-4.jpg)
 
-I tend to hate any of my artwork if it is more than 1-3 months old but there are a couple of exceptions. The Kiki painting I made for the artbook “[Made with Krita](https://krita.org/en/item/made-with-krita-2016-the-krita-artbook/)” is one of them. I used a bunch of new tricks in here and probably made a few good choices by accident.
+I tend to hate any of my artwork if it is more than 1-3 months old but there are a couple of exceptions. The Kiki painting I made for the artbook "[Made with Krita](https://krita.org/en/item/made-with-krita-2016-the-krita-artbook/)" is one of them. I used a bunch of new tricks in here and probably made a few good choices by accident.
 
 ### What techniques and brushes did you use in it?
 
-I used [my own brush pack](https://forum.kde.org/viewtopic.php?f=274&t=137532), many brushes “inspired” by some Photoshop brushpack from pro artists. There was't a single brush that satisfied me so I had to learn brush creation magic :)
+I used [my own brush pack](https://forum.kde.org/viewtopic.php?f=274&t=137532), many brushes "inspired" by some Photoshop brushpack from pro artists. There was't a single brush that satisfied me so I had to learn brush creation magic :)
 
 As I said, I like Mullins’s philosophy: more looking, more thinking, less painting. I usually trying to do as much as I can with as few strokes as I can. But I like to experiment as well. If there are so many techniques, why should I use only one? Try everything, break all rules! Learn from mistakes and especially learn from successful experiments.
 

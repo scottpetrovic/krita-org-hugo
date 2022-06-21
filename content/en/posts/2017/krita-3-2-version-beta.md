@@ -15,7 +15,7 @@ Como toda versión beta, ésta no está lista al cien por ciento, existen errore
 
 ### Novedades
 
-- Krita 3.2 usara ahora el nuevo controlador o “plugin” de efectos “gmic-qt” creado por los desarrolladores del proyecto [G'Mic](http://gmic.eu/) con los que continuamos colaborando en la creación de versiones que puedan funcionar correctamente en Windows, OSX y en la mayoría de Linux. Este controlador reemplazará completamente el antiguo “gimic”.
+- Krita 3.2 usara ahora el nuevo controlador o "plugin" de efectos "gmic-qt" creado por los desarrolladores del proyecto [G'Mic](http://gmic.eu/) con los que continuamos colaborando en la creación de versiones que puedan funcionar correctamente en Windows, OSX y en la mayoría de Linux. Este controlador reemplazará completamente el antiguo "gimic".
 - Se ha añadido una nueva serie de pinceles creados por Radian.
 
 [![](images/new_brushes-478x1024.jpg)](https://krita.org/wp-content/uploads/2017/07/new_brushes.jpg)
@@ -25,9 +25,9 @@ Los cuales están orientados a la creación de pinturas de estilo tradicional:
 [![](images/kiki_with_new_brushes_by_rad.jpg)](https://krita.org/wp-content/uploads/2017/07/kiki_with_new_brushes_by_rad.jpg)
 
 - Ahora se puede controlar la visibilidad y bloqueo de las capas mediante atajos de teclado.
-- e ha mejorado el pincel de “clon”.
+- e ha mejorado el pincel de "clon".
 - Se a agregado una nueva ventana de dialogo la que te permite copiar información de tu sistema para reportar errores de código.
-- Hemos agregado la herramienta de “parche inteligente” o “Smart Patch Tool” en ingles, la cual solo estaba planeada para la versión 4.x.
+- Hemos agregado la herramienta de "parche inteligente" o "Smart Patch Tool" en ingles, la cual solo estaba planeada para la versión 4.x.
 
 https://youtu.be/jI87VzDtkPY
 
@@ -38,7 +38,7 @@ https://youtu.be/jI87VzDtkPY
 Las correcciones mas destacadas son:
 
 - Habilidad de pintar con el dedo en pantalla táctil, ésta función se puede activar en la ventana de ajustes.
-- Aun que no se garantiza ésta corrección en todos y cada uno de los sistemas que usan OpenCL, se ha removido la “linea verde” que delinea el tamaño del pincel en la pantalla.
+- Aun que no se garantiza ésta corrección en todos y cada uno de los sistemas que usan OpenCL, se ha removido la "linea verde" que delinea el tamaño del pincel en la pantalla.
 - Se ha mejorado la estabilidad del programa en general.
 - La ventana para abrir y guardar documentos se ha mejorado, ahora debe de seleccionar mejor que carpeta abrir, que nombre predispone y que tipo de archivo se está usando.
 
@@ -68,7 +68,7 @@ En Windows, si se encuentran con cierres del programa inesperados, favor de segu
 
 (En ocasiones Firefox trata el enlace como texto, para descargar el paquete simplemente has un click a la derecha en el mismo enlace.)
 
-En Ubuntu puedes instalar el “snap” de ésta versión. Ademas puedes usar el repositorio [Krita Lime PPA](https://launchpad.net/~kritalime/+archive/ubuntu/ppa) en Ubuntu y sus derivados.
+En Ubuntu puedes instalar el "snap" de ésta versión. Ademas puedes usar el repositorio [Krita Lime PPA](https://launchpad.net/~kritalime/+archive/ubuntu/ppa) en Ubuntu y sus derivados.
 
 #### OSX
 

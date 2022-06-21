@@ -45,7 +45,7 @@ With all that said I'm still keeping my paints and brushes!
 
 ### How did you find out about Krita?
 
-A friend of mine back East who is really into Open Source does digital painting from time to time. He knew I was dissatisfied with Painter X and CS so he recommended Krita. Painter wasn't particularly intuitive and CS, while OK, I wanted something different. Just because something is popular doesn't mean it's the right fit for everyone. So then I asked him where I could get Krita. He said to me “Open Source. Just download it. From their site”. I was like “it couldn't be that simple”. But it was. I installed it and I was hooked.
+A friend of mine back East who is really into Open Source does digital painting from time to time. He knew I was dissatisfied with Painter X and CS so he recommended Krita. Painter wasn't particularly intuitive and CS, while OK, I wanted something different. Just because something is popular doesn't mean it's the right fit for everyone. So then I asked him where I could get Krita. He said to me "Open Source. Just download it. From their site". I was like "it couldn't be that simple". But it was. I installed it and I was hooked.
 
 ### ![](images/Stesia.png)
 
@@ -79,7 +79,7 @@ Over time I have collected a set of brushes that I use frequently. They consist 
 
 ### Where can people see more of your work?
 
-You can see my work in print. A comic book called “After The Gold Rush” has an illustration of mine featured in issue #4. It was created in Krita. I also have a site redacesmedia.com, you can reach me there!
+You can see my work in print. A comic book called "After The Gold Rush" has an illustration of mine featured in issue #4. It was created in Krita. I also have a site redacesmedia.com, you can reach me there!
 
 ![](images/prince_trib.png)
 

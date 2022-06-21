@@ -48,7 +48,7 @@ It was very intuitive. It had a UI that I had very few difficulties with.
 
 ### What do you love about Krita?
 
-I really really liked the responsiveness of the brushes. With other applications I was experiencing a “flatness” from the tablet I use to the results I wanted on screen, Krita's brushes just feel more supple. The ability to customize the interface and brushes was also a huge plus.
+I really really liked the responsiveness of the brushes. With other applications I was experiencing a "flatness" from the tablet I use to the results I wanted on screen, Krita's brushes just feel more supple. The ability to customize the interface and brushes was also a huge plus.
 
 ### What do you think needs improvement in Krita? Is there anything that really annoys you?
 

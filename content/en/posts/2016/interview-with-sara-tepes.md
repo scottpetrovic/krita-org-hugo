@@ -28,7 +28,7 @@ Traditional painters include John Singer Sargent, John William Waterhouse, Claud
 
 ### How and when did you get to try digital painting for the first time?
 
-I used to read a bunch of ”How to Draw Manga” books which discussed basic digital art with cell shading.  I started digital painting in 2011 when I was 12 with this old, crappy photo effect program. It basically had an airbrush feature and a select tool and paint bucket. It was super simplistic and wasn’t even meant for digital painting, but I really wanted to digitally color in the manga drawings I was doing at the time.
+I used to read a bunch of "How to Draw Manga" books which discussed basic digital art with cell shading.  I started digital painting in 2011 when I was 12 with this old, crappy photo effect program. It basically had an airbrush feature and a select tool and paint bucket. It was super simplistic and wasn’t even meant for digital painting, but I really wanted to digitally color in the manga drawings I was doing at the time.
 
 ### What makes you choose digital over traditional painting?
 
@@ -40,7 +40,7 @@ When I got a new computer, I was looking for free digital painting software. I w
 
 ### What was your first impression?
 
-I was curious about the program but I didn’t like the brush blending. At the time, all the “painterly” brushes had color blending and it annoyed me a lot. Thank God that’s not the case with the program right now!
+I was curious about the program but I didn’t like the brush blending. At the time, all the "painterly" brushes had color blending and it annoyed me a lot. Thank God that’s not the case with the program right now!
 
 ### What do you love about Krita?
 
@@ -52,7 +52,7 @@ The ONLY thing that I don’t like about Krita is that it doesn’t have a freeh
 
 ### If you had to pick one favorite of all your work done in Krita so far, what would it be, and why?
 
-Probably “Red Dress”. I love the backlighting and the vibrant red highlights. I really have to focus on how colors are affected by light, and I think I did a pretty good job with this one. ![Red Dress](images/Red-Dress.jpg)
+Probably "Red Dress". I love the backlighting and the vibrant red highlights. I really have to focus on how colors are affected by light, and I think I did a pretty good job with this one. ![Red Dress](images/Red-Dress.jpg)
 
 ### What techniques and brushes did you use in it?
 

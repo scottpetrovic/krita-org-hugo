@@ -53,7 +53,7 @@ A guide for posting artwork for contest on krita-artists.org:
 
 - ![](images/image-1.png) **Step 1** Visit the [https://krita-artists.org](https://krita-artists.org/c/contest-games-collab/four-seasons-journey-of-leon-kiki/30) website. If you don't already have an account you will need to sign up first.
 - ![](images/image-2.png) **Step 2** Click on the _"+ New Topic" button_ on the Homepage to create a topic/entry for your artwork on the website.
-- ![](images/image-3.png) **Step 3** Fill in the title of your artwork and choose _"Four Seasons Journey of Leon & KiKi"_ from the category drop-down. This is a subcategory of the “Contest Games and Collaboration” category.
+- ![](images/image-3.png) **Step 3** Fill in the title of your artwork and choose _"Four Seasons Journey of Leon & KiKi"_ from the category drop-down. This is a subcategory of the "Contest Games and Collaboration" category.
 - ![](images/image-4.png) **Step 4** Write a few lines describing your artwork and the process you used to create it. If your artwork is a tribute to or has been inspired by public intellectual property, give the reference(s). If your artwork is a tribute and you don't give a reference, that may lead to it being identified as plagiarism.
 - ![](images/image-5.png) **Step 5** Drag and drop your artwork into the post editor, or click on the Upload button in the editor to add your artwork.
 - ![](images/image-6.png) **Step 6** Once the artwork is uploaded and the preview looks good, click the _"+ Create Topic"_ button to post your artwork.
@@ -81,7 +81,7 @@ By submitting your work to the contest, you grant permission to Huion and Krita 
 3. Quality of artistic composition and overall design (30%)
 4. Overall impression (10%)
 
-**Q:** Can I report an artwork if I find it plagiarizes someone else's artwork? **A:** As we stated, entries must be the original work of the applicant(s), in the sense that it must be designed after the official start date. Participants shall not copy or misappropriate others' works. Once found, the violator will be disqualified immediately and bear all the consequences. If you find an entry that copies or misappropriates another person's work, you can report it to contest@huion.com using the subject “Misappropriate Entry Report” and provide following information:
+**Q:** Can I report an artwork if I find it plagiarizes someone else's artwork? **A:** As we stated, entries must be the original work of the applicant(s), in the sense that it must be designed after the official start date. Participants shall not copy or misappropriate others' works. Once found, the violator will be disqualified immediately and bear all the consequences. If you find an entry that copies or misappropriates another person's work, you can report it to contest@huion.com using the subject "Misappropriate Entry Report" and provide following information:
 
 1. The artwork’s info (title, artist name, etc.)
 2. The original artwork that the entry misappropriates/steals/copies

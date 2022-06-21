@@ -6,8 +6,8 @@ date: "2015-05-04"
 ![](images/how-to-back-1.jpg)
 
 **Step 1: Back the KickStarter Page**  
-Kickstarter only has an English website, so all screenshots will be in English. If you use Google Chrome, you might be able to right click on the pages and click “Translate to xxx”. This will make these steps much easier.  
-Visit the [KickStarter page](http://www.kickstarter.com) and click the “Back This Project" button
+Kickstarter only has an English website, so all screenshots will be in English. If you use Google Chrome, you might be able to right click on the pages and click "Translate to xxx". This will make these steps much easier.  
+Visit the [KickStarter page](http://www.kickstarter.com) and click the "Back This Project" button
 
 ![](images/how-to-back-2.jpg)
 
@@ -17,7 +17,7 @@ Enter your pledge amount and select a reward. If you select a reward that involv
 1. Select your amount in dollars
 2. Select the reward below. Your amount will be at or above the reward.
 3. Select your country
-4. Click “Continue to next step”
+4. Click "Continue to next step"
 
 ![](images/sign-up-3.jpg)
 

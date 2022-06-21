@@ -26,7 +26,7 @@ My favorite genre is landscape/scenery painting. I also enjoy genre painting, es
 
 ### Whose work inspires you most -- who are your role models as an artist?
 
-[Richard Schmid](https://www.richardschmid.com/)'s work is the most important influence in my art. Usually, artists have a dominant quality that talks the loudest when we see their work. With Schmid though, everything is there. From his expressive brushwork, eye-catching “lost and found” edges and color harmony to incredible lighting and storytelling it just “clicks” with me. Sometimes, when I have a painting problem of any kind (color, composition or simply direction) I just open my Schmid reference folder and see how he solved it.
+[Richard Schmid](https://www.richardschmid.com/)'s work is the most important influence in my art. Usually, artists have a dominant quality that talks the loudest when we see their work. With Schmid though, everything is there. From his expressive brushwork, eye-catching "lost and found" edges and color harmony to incredible lighting and storytelling it just "clicks" with me. Sometimes, when I have a painting problem of any kind (color, composition or simply direction) I just open my Schmid reference folder and see how he solved it.
 
 Other traditional artists close to Schmid in influence are [John Sargent](https://www.johnsingersargent.org/), [Anders Zorn](https://www.anderszorn.org/), [Edgar Payne](https://edgarpaynefineart.com/), [Isaac Levitan](http://isaak-levitan.ru/good.php), [Shoji Kawamori](https://www.animenewsnetwork.com/encyclopedia/people.php?id=31), [Ryo Hirata](https://www.goodreads.com/author/show/8127939.Ryo_Hirata), [Clyde Aspevig](https://www.clydeaspevig.com/), [Mark Boedges](https://www.markboedges.com/), [Jeremy Lipking](https://lipking.com/), [Kazuo Oga](https://gurneyjourney.blogspot.com/2011/02/kazuo-oga.html), [Makoto Kobayashi](https://en.wikipedia.org/wiki/Makoto_Kobayashi_(artist)), [John Harris](http://www.alisoneldred.com/divisionJohnHarris-Illustration-1.html)…
 
@@ -48,7 +48,7 @@ Like in most cases, all the awesome software I found about is a solution to a pa
 
 ### What was your first impression?
 
-I started using Krita just as a “helper” tool. After a couple of weeks of getting used to it and learning what it can do, I decided to replace Photoshop.
+I started using Krita just as a "helper" tool. After a couple of weeks of getting used to it and learning what it can do, I decided to replace Photoshop.
 
 Krita is since then my main tool for all digital painting related: concept art, texture painting, promotional art and freelance/commissions.
 
@@ -74,7 +74,7 @@ I like how Krita is focused on making digital painting and animation workflow be
 
 ![](images/ShibuyaCrossing-800.jpg)
 
-Definitely my most recent photo study, “Shibuya Crossing”. It is one of the most challenging pieces I’ve done so far, both in the amount of details and how much I’ve learned about painting figures in a relation to space and light.
+Definitely my most recent photo study, "Shibuya Crossing". It is one of the most challenging pieces I’ve done so far, both in the amount of details and how much I’ve learned about painting figures in a relation to space and light.
 
 ### What techniques and brushes did you use in it?
 

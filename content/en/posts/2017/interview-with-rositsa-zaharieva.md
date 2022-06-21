@@ -40,7 +40,7 @@ I think I first got to know about Krita from David Revoy on Twitter some years a
 
 ### What was your first impression?
 
-My first impression was just WOW. I thought “OMG, it’s SO similar to Photoshop but has all these features in addition and it’s FREE!” I was really impressed that I could do all that I was used to do in Photoshop but in a native Linux application and free of charge.
+My first impression was just WOW. I thought "OMG, it’s SO similar to Photoshop but has all these features in addition and it’s FREE!" I was really impressed that I could do all that I was used to do in Photoshop but in a native Linux application and free of charge.
 
 ### What do you love about Krita?
 

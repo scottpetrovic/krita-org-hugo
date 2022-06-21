@@ -25,7 +25,7 @@ In other news. Somsubhra, developer of Krita Animation spin, has added, aside ma
 
 ### This week’s new features:
 
-- Implemented “Delayed Stroke” feature for brush smoothing. (Dmitry Kazakov)
+- Implemented "Delayed Stroke" feature for brush smoothing. (Dmitry Kazakov)
 - Edit Selection Mask. (Dmitry Kazakov)
 - Add import/export for r8 and r16 heightmaps, extensions .r8 and .r16. (Boudewijn Rempt)
 - Add ability to zoom and sync for resource item choosers (Ctrl + Wheel). (Sven Langkamp)
@@ -62,7 +62,7 @@ In other news. Somsubhra, developer of Krita Animation spin, has added, aside ma
 A new way of creating smooth controlled lines. The new Stabilizer smooth mode works using both the distance of the stroke and the speed. It uses 3 important options that can be described as follows:
 
 - **Distance:** The less distance the weaker the stabilization force.
-- **Delay:** When activated, it adds a halo around the cursor. This area is defined as a “Dead Zone”, no stroke is made while the cursor is inside it. Very useful when you need to create a controlled line with explicit angles in it. The Pixel value defines the size of the halo.
+- **Delay:** When activated, it adds a halo around the cursor. This area is defined as a "Dead Zone", no stroke is made while the cursor is inside it. Very useful when you need to create a controlled line with explicit angles in it. The Pixel value defines the size of the halo.
 - **Finish line:** If switched off, line rendering will stop in the spot it was when the pen lifted. Otherwise, it will draw the missing gap between the current brush position and the cursor last location.
 
 ### Multiselection
@@ -72,7 +72,7 @@ Developers have been working to re implement working on multiple layers. This ti
 - Drag and drop from on location to another
 - Drag and drop layers inside a group
 - Click the erase layer button to remove all selected layers
-- Go to “Layer -> Merge selected layers” to merge.
+- Go to "Layer -> Merge selected layers" to merge.
 
 This first implementation allows a much more faster workflow when dealing with many layers. However it is still necessary to use groups to make some actions, like transform, on multiple layers.
 
@@ -80,7 +80,7 @@ This first implementation allows a much more faster workflow when dealing with m
 
 ### Edit selection mask (global selection)
 
-To activate go to Selection menu and turn on “Show global Selection Mask”.
+To activate go to Selection menu and turn on "Show global Selection Mask".
 
 When activated all global selections will appear in the layer stacks as local selection do. You can deactivate the selection, hide or edit using any available tool, like transform, brushes or filters.
 

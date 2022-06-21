@@ -5,7 +5,7 @@ categories:
   - "uncategorized-jp"
 ---
 
-“Muses”はKrita財団がリリースする2番目のKrita教材DVDです。Muses DVDはスペインのアーティストでKrita以外にもGIMP Paint Studioプロジェクトなどにもかかわっている[Ramon Miranda](http://www.ramonmiranda.com/)さんが製作しています。
+"Muses"はKrita財団がリリースする2番目のKrita教材DVDです。Muses DVDはスペインのアーティストでKrita以外にもGIMP Paint Studioプロジェクトなどにもかかわっている[Ramon Miranda](http://www.ramonmiranda.com/)さんが製作しています。
 
 Muses DVDはKritaの設定から完成した作品をプリントアウトするまでの全工程をカバーした5時間の盛りだくさんの解説となっています。このDVDはKritaのインターフェースを使うことだけではなく、創作の過程全体を解説してくれます。DVDの音声はスペイン語、字幕は英語及びスペイン語です。
 

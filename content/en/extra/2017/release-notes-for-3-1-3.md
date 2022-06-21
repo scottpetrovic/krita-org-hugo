@@ -63,7 +63,7 @@ Krita 3.1.3 is mainly a bug fix release with some new features. Every user is st
 - Fix activating next/previous layer shortcut for layer groups which are invisible
 - New icon for transform from pivot point
 - Show layer color labels in timeline docker
-- Use the name of the filter when creating a filter mask from the filter dialog instead of “effect”
+- Use the name of the filter when creating a filter mask from the filter dialog instead of "effect"
 - Don’t cover startup dialogs (for instance, for the pdf import filter) with the splash screen
 - Fix a race condition that made the a transform mask with a liquify transformation unreliable
 - Fix canvas blackouts when using the liquify tool at a high zoom level

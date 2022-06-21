@@ -27,7 +27,7 @@ Next: advanced options:
     
 - Most of them use Bristle options/Mouse Pressure. This parameter uses the speed of the brushtroke to increase the size. I found it interesting, because we can make more detailed things as we paint slower.
     
-- All of them use a bit of Shear parameter to avoid the “superstraight” effect on bristles
+- All of them use a bit of Shear parameter to avoid the "superstraight" effect on bristles
     
 - Also some of these new presets use the Ascension with a not common ramp. This ramp is useful to constrain the amount of degrees you can rotate your hand before the brush start to rotate and covers the Left and Right rotation. You only have to modify the corners points to make this behavior more sensitive.
     
@@ -40,15 +40,15 @@ Contents:There are 6 presets that can be clearly identified. I designed them to 
 
 Hairy\_Details: An easy to use detailing brush. You can see how the size changes if you go faster. Combined with different pressures and speed you get a lot of variety in your brushtrokes. Great to create edges and little details with slow speed.
 
-Hairy\_Large: To make backgrounds and cover large areas. It uses “ascension” to make it more versatile.
+Hairy\_Large: To make backgrounds and cover large areas. It uses "ascension" to make it more versatile.
 
-Hairy\_Special\_Blender: Not a common blender! It “paints”, but only with the color that is below the direct contact point of the stylus: it smears that color around using the opacity controlled by pressure. Sounds weird? Just give it a try! The hairy special blender uses the “ascension” feature to make it more random and versatile. As you change the wrist angle we change the “grainy” direction so we can create “rare” patterns if we want. You'll need a tablet that support tilt to experience the feature, of course. If you apply low pressure, you'll achieve a really nice kind of blending with a nice, soft grainy effect.
+Hairy\_Special\_Blender: Not a common blender! It "paints", but only with the color that is below the direct contact point of the stylus: it smears that color around using the opacity controlled by pressure. Sounds weird? Just give it a try! The hairy special blender uses the "ascension" feature to make it more random and versatile. As you change the wrist angle we change the "grainy" direction so we can create "rare" patterns if we want. You'll need a tablet that support tilt to experience the feature, of course. If you apply low pressure, you'll achieve a really nice kind of blending with a nice, soft grainy effect.
 
 Hairy\_Squared: This is a Squared Type brush. It can be use as a generic brush for mid size areas. And with not too much effects on parameters to make it controllable with a good predictable result like a classical bristle brush.
 
-Hairy\_Tapered: Creates a tapered brushtroke. You'll get the best results if you combine pressure with a fast, “gestured” stroke. Moving slowly makes it usable for details, like edges. Low pressure but fast movement is useful to cover mid size areas like a glazing with semi translucent brushtrokes.
+Hairy\_Tapered: Creates a tapered brushtroke. You'll get the best results if you combine pressure with a fast, "gestured" stroke. Moving slowly makes it usable for details, like edges. Low pressure but fast movement is useful to cover mid size areas like a glazing with semi translucent brushtrokes.
 
-Hairy\_Texture: Creates a textured look – a bit like a sponge. The user can control this effect with bristle options/random offset. Be careful with this value. Bigger values can decrease performance – but still fun to experiment with. You can modify the Density parameter on the Brush nib to make the “spider-web” look less visible. The “density” controls the amount of the brush visible parts. Another tweak: you can vary the “density” bar on the bristle options/density
+Hairy\_Texture: Creates a textured look – a bit like a sponge. The user can control this effect with bristle options/random offset. Be careful with this value. Bigger values can decrease performance – but still fun to experiment with. You can modify the Density parameter on the Brush nib to make the "spider-web" look less visible. The "density" controls the amount of the brush visible parts. Another tweak: you can vary the "density" bar on the bristle options/density
 
 # How to install:
 

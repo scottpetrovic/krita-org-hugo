@@ -38,7 +38,7 @@ I found out about Krita when I bought a graphic tablet and I was looking for an 
 
 ### What was your first impression?
 
-My first impression of this program was “Wow, it is really good, very handy and intuitive”.
+My first impression of this program was "Wow, it is really good, very handy and intuitive".
 
 ### What do you love about Krita?
 

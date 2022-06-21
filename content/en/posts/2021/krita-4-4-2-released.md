@@ -224,7 +224,7 @@ For all downloads:
 
 ### Key
 
-The Linux appimage and the source .tar.gz and .tar.xz tarballs are signed. You can retrieve the public key with gpg: “gpg –recv-key 7468332F”. The signatures are [here](https://download.kde.org/stable/krita/4.4.2/) (filenames ending in .sig).
+The Linux appimage and the source .tar.gz and .tar.xz tarballs are signed. You can retrieve the public key with gpg: "gpg –recv-key 7468332F". The signatures are [here](https://download.kde.org/stable/krita/4.4.2/) (filenames ending in .sig).
 
 ## Support Krita
 

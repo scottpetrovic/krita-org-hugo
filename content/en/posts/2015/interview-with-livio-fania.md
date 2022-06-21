@@ -46,7 +46,7 @@ Two elements I really love: 1) The favourite presets docker which pops up with r
 
 ### What do you think needs improvement in Krita? Is there anything that really annoys you?
 
-I think that selections are not intuitive at all and could be improved. When dealing with complex selections, it is time-consuming to check the selecting mode in the option tab (replace, intersect, subtract) and proceed accordingly. Especially considering that by default the selecting mode is the same you had when you used the tool last time (but in the meantime you probably forgot it). I think it would be much better if every time a selection tool is taken, it would be be in “normal” mode by default, and then one can switch to a different modes by pressing Ctrl/Shift.
+I think that selections are not intuitive at all and could be improved. When dealing with complex selections, it is time-consuming to check the selecting mode in the option tab (replace, intersect, subtract) and proceed accordingly. Especially considering that by default the selecting mode is the same you had when you used the tool last time (but in the meantime you probably forgot it). I think it would be much better if every time a selection tool is taken, it would be be in "normal" mode by default, and then one can switch to a different modes by pressing Ctrl/Shift.
 
 ### What sets Krita apart from the other tools that you use?
 
@@ -58,7 +58,7 @@ Krita is by far the most complete digital painting tool developed on Linux. It i
 
 ### What techniques and brushes did you use in it?
 
-As i said, I like to have limited presets. In this illustration I mostly used the “pastel\_texture\_thin” brush which is part of the default set of brushes in Krita. I love its texture and the fact that it is pressure sensitive. Also, I applied a global bitmap texture on an overlay layer.
+As i said, I like to have limited presets. In this illustration I mostly used the "pastel\_texture\_thin" brush which is part of the default set of brushes in Krita. I love its texture and the fact that it is pressure sensitive. Also, I applied a global bitmap texture on an overlay layer.
 
 ### Where can people see more of your work?
 

@@ -22,7 +22,7 @@ My favorite genre would be cartoon art. Childhood cartoons, such as Scooby-Doo, 
 
 ### Whose work inspires you most -- who are your role models as an artist?
 
-By far, works from the people at Disney, Pixar, Dreamworks and the like have been my inspiration. In terms of specific people, this is a bit tough. Here are a few I can think of at the moment: I really admire Wenqing Yan (Yuumei) on DeviantArt for the powerful messages in her art; David Revoy's works are absolutely gorgeous as well (I actually recently discovered his comic “Pepper & Carrot” from Krita interviews!); and Kurt Papstein is also a big inspiration – his creature/alien sculpts are out of this world!
+By far, works from the people at Disney, Pixar, Dreamworks and the like have been my inspiration. In terms of specific people, this is a bit tough. Here are a few I can think of at the moment: I really admire Wenqing Yan (Yuumei) on DeviantArt for the powerful messages in her art; David Revoy's works are absolutely gorgeous as well (I actually recently discovered his comic "Pepper & Carrot" from Krita interviews!); and Kurt Papstein is also a big inspiration – his creature/alien sculpts are out of this world!
 
 ### How and when did you get to try digital painting for the first time?
 

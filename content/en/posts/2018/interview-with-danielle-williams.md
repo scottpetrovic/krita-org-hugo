@@ -56,7 +56,7 @@ Some fifteen years after buying Photoshop CS2, it was finally glitching and refu
 
 ### What was your first impression?
 
-“Oo, pretty interface. Wait, why won’t this brush make a mark?!”
+"Oo, pretty interface. Wait, why won’t this brush make a mark?!"
 
 ![](images/PurrfectChristmas-artonly.jpg)
 
@@ -90,7 +90,7 @@ Ooh, that’s a toughie. I’ll pick the cover for my Armello fanfic The Heroes 
 
 ### What techniques and brushes did you use in it?
 
-It’s been a couple years so I’m not exactly sure. I remember using a brush like the current “Ink 1 Precision” or “Ink 2 Fineliner” to do the whiskers and keep the fur texture sharper. I also laid a free metal texture on a layer over the shield, then used a transparency layer (applied to the metal texture layer) to erase the metal where I didn’t want it (such as in the flames). Transparency layers are your friends!
+It’s been a couple years so I’m not exactly sure. I remember using a brush like the current "Ink 1 Precision" or "Ink 2 Fineliner" to do the whiskers and keep the fur texture sharper. I also laid a free metal texture on a layer over the shield, then used a transparency layer (applied to the metal texture layer) to erase the metal where I didn’t want it (such as in the flames). Transparency layers are your friends!
 
 Oh, and I used the LUT management trick (see video link above) while painting in color to make the values \*smoochy finger-kiss thing\* MWAH! I really love that trick.
 

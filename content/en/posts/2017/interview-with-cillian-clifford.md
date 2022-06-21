@@ -26,7 +26,7 @@ A wide range of artists, often not particular people but more their combined eff
 
 ### How and when did you get to try digital painting for the first time?
 
-My first time doing some sort of “digital painting” was when I was about 16-17. I did the graphics design work for a board game a team of us were working on for a school enterprise project, using the free graphics software Paint.net and a mouse. It took ages. However the project ended up taking off and we ended up in the final stage of the competition. After that was over (we didn’t win) I decided digital art might be something to seriously invest in and bought a graphics tablet. For a couple of years I made unimaginably terrible art and in 2015 I decided to shut down my DeviantArt account and start fresh on a new account, with my new style. This was about when I found Krita, I believe.
+My first time doing some sort of "digital painting" was when I was about 16-17. I did the graphics design work for a board game a team of us were working on for a school enterprise project, using the free graphics software Paint.net and a mouse. It took ages. However the project ended up taking off and we ended up in the final stage of the competition. After that was over (we didn’t win) I decided digital art might be something to seriously invest in and bought a graphics tablet. For a couple of years I made unimaginably terrible art and in 2015 I decided to shut down my DeviantArt account and start fresh on a new account, with my new style. This was about when I found Krita, I believe.
 
 ### What makes you choose digital over traditional painting?
 
@@ -36,7 +36,7 @@ Secondly, I can do it anywhere. In my bedroom with a Ugee graphics monitor and m
 
 Thirdly, the tech involved. So not only am I able to emulate any media that exists in traditional art with various software, I can also work on art styles that aren’t even possible with traditional. As well as this, functions like undo, zooming in and out of the canvas, layers and blending modes, gradients and bucket fill, the list goes on and on.
 
-I can happily say I never want to “go back” to traditional painting even though I was never any good at it in the first place.
+I can happily say I never want to "go back" to traditional painting even though I was never any good at it in the first place.
 
 ### How did you find out about Krita?
 

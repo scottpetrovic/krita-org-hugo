@@ -12,7 +12,7 @@ coverImage: "sylvia-ritter.jpg"
 
 I’m a digital painter, illustrator, concept artist and game developer, currently living in Dresden, Germany.
 
-In January 2008 I started drawing and painting regularly. I went from fineliner drawings to vector art, pencil drawings, sculpting, papercuts, linocuts, fabric design, oil/acrylic paintings, fabric design, typography until I finally found my preferred medium. In 2010 my apprenticeship at a photographer agency ended and I started to work on my art full-time. The same year my husband and I also successfully crowdfunded the creative commons music album “paniq - Beyond Good and Evil”. I created the cover and booklet art and my husband composed the music. In May 2012 we founded our company “duangle” and started another crowdfunding campaign for our game in development “NOWHERE”, a hardcore alien life simulator.
+In January 2008 I started drawing and painting regularly. I went from fineliner drawings to vector art, pencil drawings, sculpting, papercuts, linocuts, fabric design, oil/acrylic paintings, fabric design, typography until I finally found my preferred medium. In 2010 my apprenticeship at a photographer agency ended and I started to work on my art full-time. The same year my husband and I also successfully crowdfunded the creative commons music album "paniq - Beyond Good and Evil". I created the cover and booklet art and my husband composed the music. In May 2012 we founded our company "duangle" and started another crowdfunding campaign for our game in development "NOWHERE", a hardcore alien life simulator.
 
 ### Do you paint professionally or as a hobby artist?
 
@@ -34,7 +34,7 @@ My husband is a musician and programmer. He licensed all his work under creative
 
 ### Have you worked for any FOSS project or contributed in some way?
 
-We, duangle, are currently developing an open source game engine “Liminal” for no-static-assets procedural games, using C and LuaJIT:[https://bitbucket.org/duangle/liminal\_lua/src](https://bitbucket.org/duangle/liminal_lua/src). My husband is doing the programming and I’m an alpha tester. ;-)
+We, duangle, are currently developing an open source game engine "Liminal" for no-static-assets procedural games, using C and LuaJIT:[https://bitbucket.org/duangle/liminal\_lua/src](https://bitbucket.org/duangle/liminal_lua/src). My husband is doing the programming and I’m an alpha tester. ;-)
 
 ### How did you find out about Krita?
 
@@ -42,7 +42,7 @@ A friend mentioned Krita in 2010, claiming that it was the best open source alte
 
 ### What was the first thing you made with it?
 
-I had a pencil sketch in my sketchbook, scanned it and added some color. The result is on my deviantArt page - “Study No.80”: [http://faith303.deviantart.com/art/study-no-80-361827667](http://faith303.deviantart.com/art/study-no-80-361827667).
+I had a pencil sketch in my sketchbook, scanned it and added some color. The result is on my deviantArt page - "Study No.80": [http://faith303.deviantart.com/art/study-no-80-361827667](http://faith303.deviantart.com/art/study-no-80-361827667).
 
 ### What do you love about Krita?
 
@@ -58,7 +58,7 @@ More features and possibilities.
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be?
 
-Not an easy task. I’m the worst critic. One of my favorites is “Keeper of Secrets”.
+Not an easy task. I’m the worst critic. One of my favorites is "Keeper of Secrets".
 
 ### What is it that you like about it? What brushes did you use in it?
 
@@ -84,4 +84,4 @@ Facebook: [https://www.facebook.com/pages/Sylvia-Ritter-Artist/242134975862592](
 
 Patreon: [http://www.patreon.com/sylviaritter](http://www.patreon.com/sylviaritter)
 
-More information about our indie game “NOWHERE” on [http://www.duangle.com/nowhere](http://www.duangle.com/nowhere).
+More information about our indie game "NOWHERE" on [http://www.duangle.com/nowhere](http://www.duangle.com/nowhere).

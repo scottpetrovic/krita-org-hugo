@@ -67,7 +67,7 @@ I mostly used the default brushes in Krita called Basic 2 opacity to make the in
 
 ### Where can people see more of your work?
 
-On my website [raghukamath.com](https://raghukamath.com) and other portfolio sites and galleries. I post with “raghukamath” as my username.
+On my website [raghukamath.com](https://raghukamath.com) and other portfolio sites and galleries. I post with "raghukamath" as my username.
 
 ### Anything else you'd like to share?
 

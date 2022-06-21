@@ -34,7 +34,7 @@ About three years ago, when I was trying to use my new Wacom Intuos tablet for p
 
 ### What makes you choose digital over traditional painting?
 
-Let me describe it like this: “The Undo-Time Machine -- the great digital button”. Beside the ability to make changes in illustrations easily, I found its benefit when I tried to work with authors and they asked me to make changes that I couldn't have made in traditional painting without redoing the illustration from scratch.
+Let me describe it like this: "The Undo-Time Machine -- the great digital button". Beside the ability to make changes in illustrations easily, I found its benefit when I tried to work with authors and they asked me to make changes that I couldn't have made in traditional painting without redoing the illustration from scratch.
 
 ### How did you find out about Krita?
 

@@ -34,15 +34,15 @@ I’ve been drawing digitally since March 2017, so almost a year now. My husband
 
 ### What makes you choose digital over traditional painting?
 
-The freedom you have with digital art. With traditional painting you have to learn not only the basics of how to draw: perspective, light, color… You also have to learn how to work with different tools: pencils, markers, watercolor, acrylic paint, oil paint and so on. And it’s harder to fix your mistakes when you are just learning. And when you draw digitally, you have the magic of “Ctrl+Z” and layers. And besides that you can change the color scheme, mirror your image which makes way easier to identify and fix your proportion and color mistakes. You just have to find the software you are comfortable to paint with and you are good to go.
+The freedom you have with digital art. With traditional painting you have to learn not only the basics of how to draw: perspective, light, color… You also have to learn how to work with different tools: pencils, markers, watercolor, acrylic paint, oil paint and so on. And it’s harder to fix your mistakes when you are just learning. And when you draw digitally, you have the magic of "Ctrl+Z" and layers. And besides that you can change the color scheme, mirror your image which makes way easier to identify and fix your proportion and color mistakes. You just have to find the software you are comfortable to paint with and you are good to go.
 
 ### How did you find out about Krita?
 
-It was Age of Asparagus' [“Krita meets Bob Ross” tutorials](https://www.youtube.com/channel/UCkKFLSJjYtKNdFy3P7Q-CAA). They are awesome and really helped me to learn how to use Krita and not to be afraid of it. (https://www.youtube.com/channel/UCkKFLSJjYtKNdFy3P7Q-CAA)
+It was Age of Asparagus' ["Krita meets Bob Ross" tutorials](https://www.youtube.com/channel/UCkKFLSJjYtKNdFy3P7Q-CAA). They are awesome and really helped me to learn how to use Krita and not to be afraid of it. (https://www.youtube.com/channel/UCkKFLSJjYtKNdFy3P7Q-CAA)
 
 ### What was your first impression?
 
-Before Krita I used FireAlpaca a bit, which is fine software too, especially for a beginner. So, switching to Krita after FireAlpaca was a bit scary, you know that “so many buttons” kind of thing.
+Before Krita I used FireAlpaca a bit, which is fine software too, especially for a beginner. So, switching to Krita after FireAlpaca was a bit scary, you know that "so many buttons" kind of thing.
 
 ### What do you love about Krita?
 

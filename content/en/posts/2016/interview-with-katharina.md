@@ -52,7 +52,7 @@ By now I am really proud when I can lecture clueless people about the benefits o
 
 ### What do you love about Krita?
 
-I love the professionality of Krita. It really does not need to hide behind the big guys in business. You can use your photoshop or whatever brushes and formats and many more, there is no "Meh, that brush is not made by us, you can't use it!“. The user interface is smart and chic, the brushes work smooth and I never had any problems with my hardware. It simply combines everything I need, without the need to check a manual too often. It feels effortless to use it! And also it is nice to find other Krita artists randomly on the internet, it is always a nice way to start a conversation.
+I love the professionality of Krita. It really does not need to hide behind the big guys in business. You can use your photoshop or whatever brushes and formats and many more, there is no "Meh, that brush is not made by us, you can't use it!". The user interface is smart and chic, the brushes work smooth and I never had any problems with my hardware. It simply combines everything I need, without the need to check a manual too often. It feels effortless to use it! And also it is nice to find other Krita artists randomly on the internet, it is always a nice way to start a conversation.
 
 ### What do you think needs improvement in Krita? Is there anything that really annoys you?
 

@@ -60,7 +60,7 @@ I like the Kickstarter campaigns and the fact that we, users, can choose some of
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-“Mediterranean migrant tragedy” … because it´s a drawing I had in mind for a long time. It´s one of my first illustrations 100% done with Krita.
+"Mediterranean migrant tragedy" … because it´s a drawing I had in mind for a long time. It´s one of my first illustrations 100% done with Krita.
 
 ### What techniques and brushes did you use in it?
 

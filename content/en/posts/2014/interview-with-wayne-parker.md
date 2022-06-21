@@ -14,7 +14,7 @@ My name is Wayne Parker. I'm a professional illustrator from Virginia Beach, VA,
 
 ### Do you paint professionally or as a hobby artist?
 
-Well, both. My main job is pretty boring as I do illustrations for the government, but I also work freelance and do commissions whenever I have the time to do so. I'm also working on a personal IP titled “The Notorious Disciples” which I'll be finishing up on this year.
+Well, both. My main job is pretty boring as I do illustrations for the government, but I also work freelance and do commissions whenever I have the time to do so. I'm also working on a personal IP titled "The Notorious Disciples" which I'll be finishing up on this year.
 
 ### When and how did you end up trying digital painting for the first time?
 
