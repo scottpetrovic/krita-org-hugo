@@ -9,7 +9,7 @@ categories:
 
 **请前往此网站加入新版 Krita 开发基金：[fund.krita.org](https://fund.krita.org)**
 
-\[caption id="attachment\_11996" align="aligncenter" width="850"\][![](/images/posts/2021/landing-page-banner.png)](https://fund.krita.org) Krita 新版开发基金需要你的支持\[/caption\]
+[![](/images/posts/2021/landing-page-banner.png)](https://fund.krita.org) Krita 新版开发基金需要你的支持
 
 ### 加入步骤
 

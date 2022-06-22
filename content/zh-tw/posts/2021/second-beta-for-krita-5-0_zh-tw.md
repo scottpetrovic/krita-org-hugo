@@ -9,7 +9,7 @@ categories:
 
 這次測試版本亦包含了對硬體圖形加速畫布的改進，尤其是在 macOS 上或者在使用高解析度 (High-DPI) 螢幕時的畫布效能應比以往有著非常大的提昇。
 
-\[caption id="attachment\_12343" align="aligncenter" width="1024"\][![](/images/posts/2021/electrichearts_20201224A_kiki_c1_1080P-1024x512.png)](https://krita.org/wp-content/uploads/2021/08/electrichearts_20201224A_kiki_c1_1080P.png) 由 Tyson Tan 繪畫創作的新版啟動畫面影像\[/caption\]
+[![](/images/posts/2021/electrichearts_20201224A_kiki_c1_1080P-1024x512.png)](https://krita.org/wp-content/uploads/2021/08/electrichearts_20201224A_kiki_c1_1080P.png) 由 Tyson Tan 繪畫創作的新版啟動畫面影像
 
 以下列出了繼推出 Beta 1 之後所作出的各項修正和改進： （譯者按：由於內容眾多而人力資源有限，故此段落不作完整翻譯，保留英文原文。）
 

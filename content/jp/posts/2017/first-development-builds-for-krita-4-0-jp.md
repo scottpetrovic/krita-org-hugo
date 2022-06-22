@@ -41,7 +41,7 @@ https://youtu.be/jI87VzDtkPY
 
 Pythonプラグインは既にマージされ、いつでもテストに入れる状態にあります、しかし、これについては別の問題にぶち当たりました：Kritaのスクリプトに必要なPythonとPythonモジュールをどうやってバンドルするのか未だに解明できていないのです。対応しているLinuxシステムからKritaをビルドした時は上手くいくのですが、Windows及びOSXではまだ全くビルドが出来ていません。**これについてもし何か心当たりがあれば、ぜひ我々に連絡をお願いします！**
 
-\[caption id="attachment\_5377" align="alignnone" width="1003"\][![](/images/posts/2017/scripter.png)](https://krita.org/wp-content/uploads/2017/06/scripter.png) Scripter―Eliakin Costaによって開発されたKrita付属の簡易スクリプタ\[/caption\]
+[![](/images/posts/2017/scripter.png)](https://krita.org/wp-content/uploads/2017/06/scripter.png) Scripter―Eliakin Costaによって開発されたKrita付属の簡易スクリプタ
 
 #### ダウンロード
 

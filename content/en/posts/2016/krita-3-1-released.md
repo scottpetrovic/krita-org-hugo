@@ -67,4 +67,4 @@ The Linux appimage and the source tarbal are signed. You can load the public key
 
 If you want to see what others can do with Krita, get [**Made with Krita 2016**](/item/made-with-krita-2016-the-krita-artbook/), the first Krita artbook, now available for pre-order!
 
-\[caption id="attachment\_4645" align="alignleft" width="217"\][![Made with Krita 2016](/images/posts/2016/cover_small-217x300.png)](https://krita.org/wp-content/uploads/2016/12/cover_small.png) Made with Krita 2016\[/caption\]
+[![Made with Krita 2016](/images/posts/2016/cover_small-217x300.png)](https://krita.org/wp-content/uploads/2016/12/cover_small.png) Made with Krita 2016

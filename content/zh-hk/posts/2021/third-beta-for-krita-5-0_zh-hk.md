@@ -9,7 +9,7 @@ categories:
 
 （順帶一提，就喺啱啱推出 Beta 3 冇耐之後，「Krita Plus」測試版本已經多咗幾項修正……）
 
-\[caption id="attachment\_12343" align="aligncenter" width="1024"\][![](/images/posts/2021/electrichearts_20201224A_kiki_c1_1080P-1024x512.png)](https://krita.org/wp-content/uploads/2021/08/electrichearts_20201224A_kiki_c1_1080P.png) 由 Tyson Tan 繪畫創作嘅新版啟動畫面圖片\[/caption\]
+[![](/images/posts/2021/electrichearts_20201224A_kiki_c1_1080P-1024x512.png)](https://krita.org/wp-content/uploads/2021/08/electrichearts_20201224A_kiki_c1_1080P.png) 由 Tyson Tan 繪畫創作嘅新版啟動畫面圖片
 
 ![](/images/posts/2021/2021-11-16_kiki-piggy-bank_krita5.png) Krita 係自由、免費同開源嘅專案。請考慮[向 Krita 發展基金捐款](https://fund.krita.org)或者[購買教學影片](https://krita.org/en/shop/)支持我哋啦！有你哋嘅支持，我哋先可以俾核心開發者全職為 Krita 工作。
 

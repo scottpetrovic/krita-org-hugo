@@ -64,4 +64,4 @@ Para todas las descargas:
 
 Si quieres ver los que es posible hacer con Krita , compra el libro [**Made with Krita 2016**](https://krita.org/en/item/made-with-krita-2016-the-krita-artbook/), el primer libro de arte hecho con el programa, ya está disponible para ordenarlo, tu compra ayuda economicamente a la Fundación Krita, ¡Gracias!
 
-\[caption id="attachment\_4645" align="alignleft" width="217"\][![Made with Krita 2016](/images/posts/2016/cover_small-217x300.png)](https://krita.org/wp-content/uploads/2016/12/cover_small.png) Made with Krita 2016\[/caption\]
+[![Made with Krita 2016](/images/posts/2016/cover_small-217x300.png)](https://krita.org/wp-content/uploads/2016/12/cover_small.png) Made with Krita 2016

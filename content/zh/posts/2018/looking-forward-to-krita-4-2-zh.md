@@ -8,7 +8,7 @@ categories:
 
 在大家的通力协作下，我们终于可以为大家带来 Krita 4.2 的预览版本了！请留意这是一个开发途中的版本，比起稳定版本会有更多的问题，使用时请做好准备以防丢失数据。我们还计划在下周发布 Krita 4.1.4。
 
-\[caption id="attachment\_8252" align="aligncenter" width="850"\][![](/images/posts/2018/2018-fundraiser-hero2.png)](https://krita.org) 请支持 Krita 2018 年的开发筹款活动！\[/caption\]
+[![](/images/posts/2018/2018-fundraiser-hero2.png)](https://krita.org) 请支持 Krita 2018 年的开发筹款活动！
 
 虽然预览版本会比较不稳定，但它也具备大量的改动和新功能。我们邀请你放胆一试，帮助我们进行测试和反馈所遇到的问题！当然，还有更多 Krita 4.2 计划内的新特性还在开发途中，它们尚未在这一预览版本中实现。下面我们将会为大家详细讲解 Krita 4.2 的新特性展望。
 

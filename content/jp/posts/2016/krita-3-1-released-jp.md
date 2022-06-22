@@ -61,4 +61,4 @@ Ubuntu App Storeのベータチャンネルからスナップイメージが利�
 
 Kritaが実際にどんなことが出来るか見てみたいなら、**[Made with Krita 2016](https://krita.org/jp/item/made-with-krita-2016-the-krita-artbook-jp/)**はどうでしょうか？これはKritaの画集としては最初のものであり、現在事前予約を受付中です！
 
-\[caption id="attachment\_4645" align="alignleft" width="217"\][![Made with Krita 2016](/images/posts/2016/cover_small-217x300.png)](https://krita.org/wp-content/uploads/2016/12/cover_small.png) Made with Krita 2016\[/caption\]
+[![Made with Krita 2016](/images/posts/2016/cover_small-217x300.png)](https://krita.org/wp-content/uploads/2016/12/cover_small.png) Made with Krita 2016

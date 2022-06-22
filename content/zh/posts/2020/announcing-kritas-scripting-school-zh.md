@@ -11,7 +11,7 @@ Krita 在很久以前曾经加入过脚本编程支持，但当时项目知名�
 
 为了解决这个问题，Scott Petrovic，Krita 的 UX 设计师和网站运维负责人，为我们带来了全新的 [Krita 脚本编程教学网站](https://scripting.krita.org/lessons/introduction)：
 
-\[caption id="attachment\_10885" align="aligncenter" width="1024"\][![scripting.krita.org](/images/posts/2020/Screenshot_20200804_135635-1024x658.png)](https://scripting.krita.org/lessons/introduction) Krita 脚本编程网站“Scripting with Krita”首页\[/caption\]
+[![scripting.krita.org](/images/posts/2020/Screenshot_20200804_135635-1024x658.png)](https://scripting.krita.org/lessons/introduction) Krita 脚本编程网站“Scripting with Krita”首页
 
 该网站提供了各种各样的脚本编程教学，手把手地传授如何创建脚本、运行脚本、使用 Krita 脚本编程 API、如何开发插件，并全面介绍了你可以通过脚本编程调用的各种操作和图标资源。
 

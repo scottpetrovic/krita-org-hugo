@@ -60,7 +60,7 @@ Krita is really rich software. You can imitate the traditional materials, but al
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-\[caption id="attachment\_7821" align="aligncenter" width="800"\]![](/images/posts/2018/lake_house.jpg) "Lake house"\[/caption\]
+![](/images/posts/2018/lake_house.jpg) "Lake house"
 
 This work combines architecture and nature, it was a nice challenge working on the design of the house and the composition.
 

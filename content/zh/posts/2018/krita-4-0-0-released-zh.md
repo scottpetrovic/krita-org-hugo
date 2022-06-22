@@ -92,4 +92,4 @@ Linux 的 AppImage 软件包和源代码 Tar 压缩包都已签名。你可以�
 
 Krita 是一个自由、免费、开源的软件项目。请通过[捐款](https://krita.org/en/support-us/donations/)、[购买教学材料和画册](https://krita.org/en/support-us/shop)等方式资助我们。有了你的资助，我们才能保持核心开发团队为项目全职工作。
 
-\[caption id="attachment\_6455" align="aligncenter" width="1024"\][![](/images/posts/2018/Krita4_Alegoric_final-1024x507.png)](https://krita.org/wp-content/uploads/2018/03/Krita4_Alegoric_final.png)作者 Ramon Miranda\[/caption\]
+[![](/images/posts/2018/Krita4_Alegoric_final-1024x507.png)](https://krita.org/wp-content/uploads/2018/03/Krita4_Alegoric_final.png)作者 Ramon Miranda

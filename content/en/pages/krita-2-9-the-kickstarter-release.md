@@ -11,14 +11,14 @@ Without that support, whether through direct donations, Steam sales, the Kicksta
 
 And now, stay with us for a whirlwind tour of Krita 2.9's new major features:
 
-\[caption id="attachment\_1643" align="aligncenter" width="300"\][![Speedpaint landscape by  Raghavendra Kamath](/images/pages/raghukamath_landscape-300x212.png)](https://krita.org/wp-content/uploads/2015/02/raghukamath_landscape.png) Speedpaint landscape by Raghavendra Kamath\[/caption\]
+[![Speedpaint landscape by  Raghavendra Kamath](/images/pages/raghukamath_landscape-300x212.png)](https://krita.org/wp-content/uploads/2015/02/raghukamath_landscape.png) Speedpaint landscape by Raghavendra Kamath
 
-\[caption id="attachment\_1644" align="aligncenter" width="225"\][![Pirate by Comhorse (http://www.comhorse.com)](/images/pages/comhorse_image2-225x300.jpg)](https://krita.org/wp-content/uploads/2015/02/comhorse_image2.jpg) Pirate by Comhorse  
-(http://www.comhorse.com)\[/caption\]
+[![Pirate by Comhorse (http://www.comhorse.com)](/images/pages/comhorse_image2-225x300.jpg)](https://krita.org/wp-content/uploads/2015/02/comhorse_image2.jpg) Pirate by Comhorse  
+(http://www.comhorse.com)
 
-\[caption id="attachment\_1647" align="aligncenter" width="300"\][!["Between Worlds" by Mira-Maia Kyyrö (http://neko-maya.fi/)](/images/pages/betweenworlds_nekomaya-300x190.png)](https://krita.org/wp-content/uploads/2015/02/betweenworlds_nekomaya.png) "Between Worlds" by Mira-Maia Kyyrö (http://neko-maya.fi/)\[/caption\]
+[!["Between Worlds" by Mira-Maia Kyyrö (http://neko-maya.fi/)](/images/pages/betweenworlds_nekomaya-300x190.png)](https://krita.org/wp-content/uploads/2015/02/betweenworlds_nekomaya.png) "Between Worlds" by Mira-Maia Kyyrö (http://neko-maya.fi/)
 
-\[caption id="attachment\_1659" align="aligncenter" width="300"\][!["Fairies" by Elias Silveira (http://www.flickr.com/photos/elias_ilustracao_design)](/images/pages/Krita_Fairy01-300x212.jpeg)](https://krita.org/wp-content/uploads/2015/02/Krita_Fairy01.jpeg) "Fairies" by Elias Silveira (http://www.flickr.com/photos/elias\_ilustracao\_design)\[/caption\]
+[!["Fairies" by Elias Silveira (http://www.flickr.com/photos/elias_ilustracao_design)](/images/pages/Krita_Fairy01-300x212.jpeg)](https://krita.org/wp-content/uploads/2015/02/Krita_Fairy01.jpeg) "Fairies" by Elias Silveira (http://www.flickr.com/photos/elias\_ilustracao\_design)
 
 ### View your images in a new perspective with multiple documents!
 
@@ -157,13 +157,13 @@ The Experimental **Color Slider docker** was a heeded request for HSV sliders in
 
 **Export Fixes and Additions** - Save 16-bit grayscale images to tiff, jpeg and ppm. r16 and r8 heightmaps are supported.
 
-\[caption id="attachment\_1582" align="aligncenter" width="300"\][![by Tou Omiya](/images/pages/14157847317_6d6a562a2d_k-300x249.jpg)](https://krita.org/wp-content/uploads/2015/02/14157847317_6d6a562a2d_k.jpg) by Tou Omiya\[/caption\]
+[![by Tou Omiya](/images/pages/14157847317_6d6a562a2d_k-300x249.jpg)](https://krita.org/wp-content/uploads/2015/02/14157847317_6d6a562a2d_k.jpg) by Tou Omiya
 
-\[caption id="attachment\_1576" align="aligncenter" width="216" class=" "\][![Flourish by Oksana Kharitionova](/images/pages/flourish_v2_2500-216x300.png)](https://krita.org/wp-content/uploads/2015/02/flourish_v2_2500.png) _Flourish_ by Oksana Kharitionova\[/caption\]
+[![Flourish by Oksana Kharitionova](/images/pages/flourish_v2_2500-216x300.png)](https://krita.org/wp-content/uploads/2015/02/flourish_v2_2500.png) _Flourish_ by Oksana Kharitionova
 
-\[caption id="attachment\_1642" align="aligncenter" width="300"\][![Wasteland Magic by Kateryna Herasymenko](/images/pages/Wasteland-magic-300x212.jpeg)](https://krita.org/wp-content/uploads/2015/02/Wasteland-magic.jpeg) Wasteland Magic by Kateryna Herasymenko\[/caption\]
+[![Wasteland Magic by Kateryna Herasymenko](/images/pages/Wasteland-magic-300x212.jpeg)](https://krita.org/wp-content/uploads/2015/02/Wasteland-magic.jpeg) Wasteland Magic by Kateryna Herasymenko
 
-\[caption id="attachment\_1580" align="aligncenter" width="238"\][![Firebird by Wolthera(http://wolthera.info)](/images/pages/firebird-238x300.png)](https://krita.org/wp-content/uploads/2015/02/firebird.png) _Firebird_ by Wolthera(http://wolthera.info)\[/caption\]
+[![Firebird by Wolthera(http://wolthera.info)](/images/pages/firebird-238x300.png)](https://krita.org/wp-content/uploads/2015/02/firebird.png) _Firebird_ by Wolthera(http://wolthera.info)
 
 ### Everything Else
 
@@ -179,13 +179,13 @@ Image - Change the image background color. Resource Manager - Allow quick import
 
 Display - You can now turn off layer hover preview, and change the colour of the selection overlay. Color Management - You can now have unique icc profiles PER display on Linux. Krita supports using colord directly. Canvas-input settings - Line Tool, as well as Exposure and Gamma controls have been added.
 
-\[caption id="attachment\_1573" align="aligncenter" style="margin:0px; margin-left:3em;" width="300" class=" "\][![Humphrey Boghart Caricature by Daniel Pinheiro Lima (http://prenudos.com/)](/images/pages/humprey-300x291.jpg)](https://krita.org/wp-content/uploads/2015/02/humprey.jpg) _Humphrey Bogart Caricature_ by Daniel Pinheiro Lima (http://prenudos.com/)\[/caption\]
+[![Humphrey Boghart Caricature by Daniel Pinheiro Lima (http://prenudos.com/)](/images/pages/humprey-300x291.jpg)](https://krita.org/wp-content/uploads/2015/02/humprey.jpg) _Humphrey Bogart Caricature_ by Daniel Pinheiro Lima (http://prenudos.com/)
 
-\[caption id="attachment\_1575" align="aligncenter" width="212" class=" "\][![by  Sioni Lopez](/images/pages/coldoutside-212x300.jpeg)](https://krita.org/wp-content/uploads/2015/02/coldoutside.jpeg) _Cold Outside_ by Sioni Lopez\[/caption\]
+[![by  Sioni Lopez](/images/pages/coldoutside-212x300.jpeg)](https://krita.org/wp-content/uploads/2015/02/coldoutside.jpeg) _Cold Outside_ by Sioni Lopez
 
-\[caption id="attachment\_1574" align="aligncenter" width="225" class=" "\][![by  Andrei Rudenko](/images/pages/tch_8-225x300.jpg)](https://krita.org/wp-content/uploads/2015/02/tch_8.jpg) by Andrei Rudenko\[/caption\]
+[![by  Andrei Rudenko](/images/pages/tch_8-225x300.jpg)](https://krita.org/wp-content/uploads/2015/02/tch_8.jpg) by Andrei Rudenko
 
-\[caption id="attachment\_1572" align="aligncenter" width="248" class=" "\][![Wraith Queen by Marty Kulma (http://kynlo.deviantart.com/gallery/51532782/Krita)](/images/pages/wraith_queen-248x300.jpg)](https://krita.org/wp-content/uploads/2015/02/wraith_queen.jpg) _Wraith Queen_ by Marty Kulma (http://kynlo.deviantart.com/gallery/51532782/Krita)\[/caption\]
+[![Wraith Queen by Marty Kulma (http://kynlo.deviantart.com/gallery/51532782/Krita)](/images/pages/wraith_queen-248x300.jpg)](https://krita.org/wp-content/uploads/2015/02/wraith_queen.jpg) _Wraith Queen_ by Marty Kulma (http://kynlo.deviantart.com/gallery/51532782/Krita)
 
 ## Next...
 

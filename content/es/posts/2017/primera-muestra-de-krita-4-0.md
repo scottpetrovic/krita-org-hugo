@@ -39,7 +39,7 @@ Todo esto ademas de muchos detalles por doquier los cuales puedes encontrar expl
 
 De igual manera ya tenemos la base de el adaptador de Python, el cual estamos poniendo a prueba, tenemos sin embargo un problema con el mismo, no hemos logrado encontrar la manera de juntar Python con sus módulos para lograr que estos funcionen. Ademas solo se ha logrado incorporar el adaptador en Krita para Linux, pero no así para Windows o OSX. **Si tienes experiencia y te gustaría ayudar con estos problemas, por favor contáctanos, ¡Gracias!**
 
-\[caption id="attachment\_5377" align="alignnone" width="1003"\][![](/images/posts/2017/scripter.png)](https://krita.org/wp-content/uploads/2017/06/scripter.png) The Scripter -- ad-hoc scripting in Krita, created by Eliakin Costa.\[/caption\]
+[![](/images/posts/2017/scripter.png)](https://krita.org/wp-content/uploads/2017/06/scripter.png) The Scripter -- ad-hoc scripting in Krita, created by Eliakin Costa.
 
 #### Descargas
 

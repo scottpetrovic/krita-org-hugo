@@ -28,7 +28,7 @@ Dash it, 30 euros down the drain.
 
 Next, we got an old Genius tablet and installed Windows 7. And bingo! A crash, and the same suspicious values in the tablet log. Now we're talking! Unfortunately, the crash happened right inside the "Genius" wintab driver. Either we're using the Wintab API wrong, or Genius implemented it wrong, but we cannot see the code. This is what Dmitry was looking at now:
 
-\[caption id="attachment\_3354" align="alignnone" width="1024"\][![Gibberish...](/images/posts/2016/disassembly-1024x576.png)](https://krita.org/wp-content/uploads/2016/06/disassembly.png) Gibberish...\[/caption\]
+[![Gibberish...](/images/posts/2016/disassembly-1024x576.png)](https://krita.org/wp-content/uploads/2016/06/disassembly.png) Gibberish...
 
 But it gave the hint we needed. It _is_ a bug in the Wintab driver, and we are guessing that since all these drivers give us the same weird context information, they all share the same codebase, come from the same manufacturer in fact, and have the same bug.
 

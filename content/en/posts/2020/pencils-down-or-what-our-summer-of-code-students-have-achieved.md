@@ -19,7 +19,7 @@ But the main work was, of course, creating the new fill layer type, making Krita
 
 Hugely impressive work, and real fun to play with. Everything is already in the nightly builds, too, and will be available in Krita 4.4 which we'll release in September! You can also read Amyspark's [report,](https://community.kde.org/GSoC/2020/StatusReports/LeonardoEmanuelSegovia) or head over to the manual:
 
-\[caption id="attachment\_10913" align="aligncenter" width="1024"\][![](/images/posts/2020/1096px-SeExpr_manual_1-1024x840.jpg)](https://docs.krita.org/en/tutorials/seexpr.html) SeExpr Manual\[/caption\]
+[![](/images/posts/2020/1096px-SeExpr_manual_1-1024x840.jpg)](https://docs.krita.org/en/tutorials/seexpr.html) SeExpr Manual
 
 ## Integrating the MyPaint Brush Engine in Krita
 
@@ -41,11 +41,11 @@ Ashwin has prepared a [report](https://community.kde.org/GSoC/2020/StatusReports
 
 **Saurabh Kumar** implemented storyboard functionality for Krita. This includes a docker to manage the storyboard, piggy-backing on Krita's animation feature to switch the canvas between boards and exporting the storyboards to SVG and PDF -- including specifying a layout .
 
-\[caption id="attachment\_10957" align="aligncenter" width="601"\][![](/images/posts/2020/Storyboard_custom_options.png)](https://krita.org/wp-content/uploads/2020/09/Storyboard_custom_options.png) Specifying a layout\[/caption\]
+[![](/images/posts/2020/Storyboard_custom_options.png)](https://krita.org/wp-content/uploads/2020/09/Storyboard_custom_options.png) Specifying a layout
 
 You can view just the thumbnail, just the comments, or everything together:
 
-\[caption id="attachment\_10956" align="aligncenter" width="473"\][![](/images/posts/2020/Storyboard_row_mode.png)](https://krita.org/wp-content/uploads/2020/09/Storyboard_row_mode.png) Storyboard docker in row mode\[/caption\]
+[![](/images/posts/2020/Storyboard_row_mode.png)](https://krita.org/wp-content/uploads/2020/09/Storyboard_row_mode.png) Storyboard docker in row mode
 
 And Saurabh has his [report](https://community.kde.org/GSoC/2020/StatusReports/SaurabhKumar) as well.
 
@@ -55,7 +55,7 @@ And Saurabh has his [report](https://community.kde.org/GSoC/2020/StatusReports/S
 
 Of course, the trickiest part was actually rendering the gradients:
 
-\[caption id="attachment\_10919" align="aligncenter" width="296"\][![](/images/posts/2020/Screenshot_2020-07-23_11-46-06.png)](https://krita.org/wp-content/uploads/2020/08/Screenshot_2020-07-23_11-46-06.png) A mesh gradient imported from Inkscape\[/caption\]
+[![](/images/posts/2020/Screenshot_2020-07-23_11-46-06.png)](https://krita.org/wp-content/uploads/2020/08/Screenshot_2020-07-23_11-46-06.png) A mesh gradient imported from Inkscape
 
 The main problems with rendering were due to differences between the 2D graphics libary used to actually paint the pixels, but Sharaf overcame the issues and now Krita renders the mesh gradients just like Inkscape.
 

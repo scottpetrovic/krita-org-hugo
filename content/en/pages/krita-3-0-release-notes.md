@@ -116,7 +116,7 @@ We spent a long time discussing the most important parts to managing layers and 
 
 ### Technology Upgrade
 
-\[caption id="attachment\_3301" align="aligncenter" width="239"\][![848px-Mascot_20140702_konqui-framework](/images/pages/848px-Mascot_20140702_konqui-framework-1.png)](https://krita.org/wp-content/uploads/2016/05/848px-Mascot_20140702_konqui-framework-1.png) Konqui, the KDE mascot by Tyson Tan\[/caption\]
+[![848px-Mascot_20140702_konqui-framework](/images/pages/848px-Mascot_20140702_konqui-framework-1.png)](https://krita.org/wp-content/uploads/2016/05/848px-Mascot_20140702_konqui-framework-1.png) Konqui, the KDE mascot by Tyson Tan
 
 For 3.0, we had the QT5 and KF5 port, but that is not the only thing we changed:
 

@@ -8,7 +8,7 @@ categories:
 
 Everyone is hard at work, and what will become Krita 4.2 is taking shape already. Today we're presenting a preview of Krita 4.2. It's not complete yet, and there **ARE** bugs. More than in the stable release (we'll be doing a 4.1.4 after all next week to clear up some more bugs...), and some might make you lose work.
 
-\[caption id="attachment\_8252" align="aligncenter" width="850"\][![](/images/posts/2018/2018-fundraiser-hero2.png)](https://krita.org) Support Krita! Join the 2018 Fundraiser!\[/caption\]
+[![](/images/posts/2018/2018-fundraiser-hero2.png)](https://krita.org) Support Krita! Join the 2018 Fundraiser!
 
 But experiment with it, test it, check it out! There are lots of new things in there, and we'd love your feedback! There are also quite a few things we're right now working on, that aren't in this preview, but will be in 4.2. And we'll talk about, too!
 

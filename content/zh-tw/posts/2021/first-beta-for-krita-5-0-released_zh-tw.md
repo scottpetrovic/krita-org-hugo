@@ -8,7 +8,7 @@ categories:
 
 今天，Krita 開發團隊推出了 Krita 5.0 的首個 beta 測試版本。Krita 5.0 是一個重大更新，包含了大量的新功能及更動。
 
-\[caption id="attachment\_12343" align="aligncenter" width="1024"\][![](/images/posts/2021/electrichearts_20201224A_kiki_c1_1080P-1024x512.png)](https://krita.org/wp-content/uploads/2021/08/electrichearts_20201224A_kiki_c1_1080P.png) 由 Tyson Tan 繪畫創作的新版啟動畫面影像\[/caption\]
+[![](/images/posts/2021/electrichearts_20201224A_kiki_c1_1080P-1024x512.png)](https://krita.org/wp-content/uploads/2021/08/electrichearts_20201224A_kiki_c1_1080P.png) 由 Tyson Tan 繪畫創作的新版啟動畫面影像
 
 首先是一些**注意事項**：
 

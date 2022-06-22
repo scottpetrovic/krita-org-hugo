@@ -92,4 +92,4 @@ The Linux appimage and the source tarball are signed. You can retrieve the publi
 
 Krita is a free and open source project. Please consider supporting the project with [donations](/support-us/donations/) or by [buying training videos or the artbook!](/support-us/shop) With your support, we can keep the core team working on Krita full-time.
 
-\[caption id="attachment\_6455" align="aligncenter" width="1024"\][![](/images/posts/2018/Krita4_Alegoric_final-1024x507.png)](https://krita.org/wp-content/uploads/2018/03/Krita4_Alegoric_final.png) Artwork by Ramon Miranda\[/caption\]
+[![](/images/posts/2018/Krita4_Alegoric_final-1024x507.png)](https://krita.org/wp-content/uploads/2018/03/Krita4_Alegoric_final.png) Artwork by Ramon Miranda

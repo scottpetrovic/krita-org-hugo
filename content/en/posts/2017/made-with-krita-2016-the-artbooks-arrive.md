@@ -15,6 +15,6 @@ Forty artists from all over the world, working in all kinds of styles and on all
 
 The cover illustration is by Odysseas Stamoglou. The inner artwork features Arrianne Criseyde Pascual, Baukje Jagersma, Beelzy, Chewsome, David Revoy, Enrico Guarnieri, Eric Lee, Filipe Ferreira, Justin Nichol, Kesbet Tree, Livio Fania, Liz de Souza, Matt Preece, Melissa Lipan, Michael Bowling, Mozart Couto, Naghree Greenskin, Neotheta, Nivailis, Paolo Puggioni, R.J. Quiralta, Radian 1, Raghukamath, Ramón Miranda, Reine, Sylvain Boussiron, William Thorup, Elésiane Huve, Amelia Hamrick, Danilo Junior, Ivan Aros, Jennifer Reuter, Karen Kaye Llamas, Lucas Ribeiro, Motion Arc Foundry, Odysseas Stamoglou, Sylvia Ritter, Timothée Giet, Tony Jennison, Tyson Tan, and Wayne Parker.
 
-\[caption id="attachment\_4645" align="aligncenter" width="217"\][![Made with Krita 2016](/images/posts/2017/cover_small-217x300.png)](https://krita.org/wp-content/uploads/2016/12/cover_small.png) Made with Krita 2016\[/caption\]
+[![Made with Krita 2016](/images/posts/2017/cover_small-217x300.png)](https://krita.org/wp-content/uploads/2016/12/cover_small.png) Made with Krita 2016
 
 Made with Krita 2016 is 19,95€ excluding VAT in the European Union, excluding shipping. Shipping is 11.25€ outside the Netherlands and 3.65€ inside the Netherlands.

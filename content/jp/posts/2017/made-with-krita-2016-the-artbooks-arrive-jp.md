@@ -17,6 +17,6 @@ Made with Krita 2016は豪華な本です。作品はどれも素晴らしく、
 
 カバーイラストはOdysseas Stamoglou氏によるもので、画集への参加アーティストはArrianne Criseyde Pascual氏、Baukje Jagersma氏、Beelzy氏、Chewsome氏、David Revoy氏、Enrico Guarnieri氏、Eric Lee氏、Filipe Ferreira氏、Justin Nichol氏、Kesbet Tree氏、Livio Fania氏、Liz de Souza氏、Matt Preece氏、Melissa Lipan氏、Michael Bowling氏、Mozart Couto氏、Naghree Greenskin氏、Neotheta氏、Nivailis氏、Paolo Puggioni氏、R.J. Quiralta氏、Radian 1氏、Raghukamath氏、Ramón Miranda氏、Reine氏、Sylvain Boussiron氏、William Thorup氏、Elésiane Huve氏、Amelia Hamrick氏、Danilo Junior氏、Ivan Aros氏、Jennifer Reuter氏、Karen Kaye Llamas氏、Lucas Ribeiro氏、Motion Arc Foundry氏、Odysseas Stamoglou氏、Sylvia Ritter氏、Timothée Giet氏、Tony Jennison氏、Tyson Tan氏、Wayne Parker氏です。
 
-\[caption id="attachment\_4645" align="aligncenter" width="217"\][![Made with Krita 2016](/images/posts/2017/cover_small-217x300.png)](https://krita.org/wp-content/uploads/2016/12/cover_small.png) Made with Krita 2016\[/caption\]
+[![Made with Krita 2016](/images/posts/2017/cover_small-217x300.png)](https://krita.org/wp-content/uploads/2016/12/cover_small.png) Made with Krita 2016
 
 Made with Krita 2016の価格は送料抜きで19,95€です。送料はオランダ国外で11.25€、オランダ国内で3.65€です。

@@ -19,7 +19,7 @@ There is something extremely exhausting and exhilarating about a real-live meeti
 
 - We discussed the publication of a [Pepper and Carrot](http://www.peppercarrot.com/) book by the Krita Foundation with David Revoy.
 
-\[caption id="attachment\_4233" align="alignnone" width="1024"\][![Pepper loves Kiki!](/images/posts/2016/PepperLovesKiki_001-1024x724.png)](https://krita.org/wp-content/uploads/2016/08/PepperLovesKiki_001.png) Pepper loves Kiki!\[/caption\]
+[![Pepper loves Kiki!](/images/posts/2016/PepperLovesKiki_001-1024x724.png)](https://krita.org/wp-content/uploads/2016/08/PepperLovesKiki_001.png) Pepper loves Kiki!
 
 - We refined the release process and the process by which we take [feature requests](/item/ways-to-help-krita-work-on-feature-requests/) all the way to implemented and released features.
 - Jouni sat together with Steven, the author of this post's sketches and who is also an accomplished animator to go through Krita's animation workflow

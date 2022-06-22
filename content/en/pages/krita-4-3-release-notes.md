@@ -72,7 +72,7 @@ The second feature Carl Olsson created is the new [Palettize filter](https://doc
 
 The [high pass filter](https://docs.krita.org/en/reference_manual/filters/edge_detection.html#gaussian-high-pass), contributed by Miguel Lopez is, among other things, good for making images sharper. It is best applied as a filter layer set to overlay. This filter is especially useful as a final step for images uploaded to social media; the extra sharpness offsets the terrible scaling algorithms used by image hosting sites that make images blurry.
 
-\[caption id="attachment\_10231" align="aligncenter" width="377"\][![Image demonstrating the use of highpass to sharpen the image.](/images/pages/highpass_filter_sharpen.png)](https://krita.org/wp-content/uploads/2020/04/highpass_filter_sharpen.png) Top left: original, top right: high pass, bottom left sharpening with high pass by using the overlay filter, bottom right: a subtler sharpening.\[/caption\]
+[![Image demonstrating the use of highpass to sharpen the image.](/images/pages/highpass_filter_sharpen.png)](https://krita.org/wp-content/uploads/2020/04/highpass_filter_sharpen.png) Top left: original, top right: high pass, bottom left sharpening with high pass by using the overlay filter, bottom right: a subtler sharpening.
 
 ### Other Filter Improvements
 
@@ -109,7 +109,7 @@ The [high pass filter](https://docs.krita.org/en/reference_manual/filters/edge_d
 
 The [GIMP  image hose format (gih)](https://docs.krita.org/en/general_concepts/file_formats/file_gih.html) supports multiple dimensions, so one can have several rows of brushes that can be set to randomness horizontally, and maybe increment vertically. And now Krita's exporter supports this too, thanks to the work by Ivan Yossi!
 
-\[caption id="attachment\_9446" align="aligncenter" width="500"\][![](/images/pages/gih.png)](https://krita.org/wp-content/uploads/2019/06/gih.png) Image showing a multidimension image hose brush. The stamped image alternated between left and right hand, and rotates according to angle.\[/caption\]
+[![](/images/pages/gih.png)](https://krita.org/wp-content/uploads/2019/06/gih.png) Image showing a multidimension image hose brush. The stamped image alternated between left and right hand, and rotates according to angle.
 
 ## Window Handling
 
@@ -131,7 +131,7 @@ It's now possible to take the central canvas area out of the window and put it i
 
 Part of Tusooa's work rewriting Krita's undo system, the [snap shot docker](https://docs.krita.org/en/reference_manual/dockers/snapshot_docker.html) allows you to save certain states of progress into this docker and toggle between them.
 
-\[caption id="attachment\_10235" align="aligncenter" width="809"\][![Animation showing the snapshot docker in action.](/images/pages/krita_4_3_snapshot_docker.gif)](https://krita.org/wp-content/uploads/2020/04/krita_4_3_snapshot_docker.gif) The snapshot docker in action, switching between the different stages of a drawing.\[/caption\]
+[![Animation showing the snapshot docker in action.](/images/pages/krita_4_3_snapshot_docker.gif)](https://krita.org/wp-content/uploads/2020/04/krita_4_3_snapshot_docker.gif) The snapshot docker in action, switching between the different stages of a drawing.
 
 ## Tools
 

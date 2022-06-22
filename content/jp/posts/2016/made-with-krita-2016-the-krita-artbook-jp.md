@@ -9,7 +9,7 @@ tags:
 
 **Made With Krita 2016**の事前注文が開始されました！世界中から40人のアーティストがあらゆる画風であらゆる題材で参加し、Kritaで実際に作られた素晴らしい魅力的な作品が載っています。またこの本にはそれぞれのアーティストの紹介ページも設けられています。
 
-\[caption id="attachment\_4645" align="aligncenter" width="217"\][![Made with Krita 2016](/images/posts/2016/cover_small-217x300.png)](https://krita.org/wp-content/uploads/2016/12/cover_small.png) Made with Krita 2016\[/caption\]
+[![Made with Krita 2016](/images/posts/2016/cover_small-217x300.png)](https://krita.org/wp-content/uploads/2016/12/cover_small.png) Made with Krita 2016
 
 この本は130g、ソフトカバーで印刷は通常の商業用本と同一のものです。カバーイラストはOdysseas Stamoglou氏によるものです。
 

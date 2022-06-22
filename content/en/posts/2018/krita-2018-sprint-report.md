@@ -7,7 +7,7 @@ categories:
 
 This weekend, Krita developers and artists from all around the world came to the sleepy provincial town of Deventer to buy cheese -- er, I mean, to discuss all things Krita related and do some good, hard work! After all, [the best cheese shop](http://www.kaashandel-debrink.nl/) in the Netherlands is located in Deventer. As are the Krita Foundation headquarters! We started on Thursday, and today the last people are leaving.
 
-\[caption id="attachment\_6665" align="aligncenter" width="1024"\][![](/images/posts/2018/2018-05_Krita-sprint_Deventer-1024x345.jpg)](https://krita.org/wp-content/uploads/2018/05/2018-05_Krita-sprint_Deventer.jpg) Image by David Revoy\[/caption\]
+[![](/images/posts/2018/2018-05_Krita-sprint_Deventer-1024x345.jpg)](https://krita.org/wp-content/uploads/2018/05/2018-05_Krita-sprint_Deventer.jpg) Image by David Revoy
 
 Events like these are very important: bringing people together, not just for serious discussions and hacking, but for lunch and dinner and rambling walks makes interaction much easier when we've gone back to our IRC channel, #krita. We didn't have a big sprint in 2017, the last big sprint was in [2016](/item/2016-krita-sprint-day-1/).
 
@@ -41,6 +41,6 @@ There were three people who hadn't attended a sprint before, artist Raghukamath,
 
 And of course, there was time for walks, buying cheese, having lunch at our regular place, [De Rode Kater](http://www.derodekater.nu/), and on Sunday the sun even started shining! And now back to coding!
 
-\[caption id="attachment\_6669" align="aligncenter" width="1024"\][![](/images/posts/2018/rode_kater-1024x529.jpg)](https://krita.org/wp-content/uploads/2018/05/rode_kater.jpg) Image by David Revoy.\[/caption\]
+[![](/images/posts/2018/rode_kater-1024x529.jpg)](https://krita.org/wp-content/uploads/2018/05/rode_kater.jpg) Image by David Revoy.
 
 The 2018 Krita sprint was sponsored by KDE e.V. (travel) and the Krita Foundation (accommodation and food).

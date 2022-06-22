@@ -90,7 +90,7 @@ Work by artists using Krita:
 
 [![A longtail bird sitting on a tree branch.](/images/pages/birdweek-sketch1longtailedtit.png)](/images/pages/birdweek-sketch1longtailedtit.png) by [Christine Garner](https://thimblefolio.com) (CC-BY-NC-ND 4.0)
 
-\[caption id="attachment\_12837" align="aligncenter" width="800"\][![A sphinx cat, the lighting making for an intimate scene](/images/pages/m_coudert_202108010.png)](/images/pages/m_coudert_202108010.png) [\*Matthieu COUDERT (MaKo)\* Designer graphique](https://www.makomatt.com/) (CC-BY)
+[![A sphinx cat, the lighting making for an intimate scene](/images/pages/m_coudert_202108010.png)](/images/pages/m_coudert_202108010.png) [\*Matthieu COUDERT (MaKo)\* Designer graphique](https://www.makomatt.com/) (CC-BY)
 
 [![A teenage girl in a sailor school girl uniform sitting on a concrete wall, enjoying the sunset. She's joined by a tiny white creature wearing a sailor hat.](/images/pages/negeon_renj_20210401test.png)](/images/pages/negeon_renj_20210401test.png) By Negeon Renj (CC-BY-SA)
 

@@ -21,7 +21,7 @@ Siempre es algo extremadamente agotador y a la vez un regocijo el tener una reun
 
 - Se habló acerca de la publicación por la Fundacion Krita de el libro de Pepper&Carrot de David Revoy.
 
-\[caption id="attachment\_4233" align="alignnone" width="1024"\][![Pepper loves Kiki!](/images/posts/2016/PepperLovesKiki_001-1024x724.png)](https://krita.org/wp-content/uploads/2016/08/PepperLovesKiki_001.png) ¡A Pepper le encanta Kiki!\[/caption\]
+[![Pepper loves Kiki!](/images/posts/2016/PepperLovesKiki_001-1024x724.png)](https://krita.org/wp-content/uploads/2016/08/PepperLovesKiki_001.png) ¡A Pepper le encanta Kiki!
 
 - Hemos mejorado el proceso para lanzar nuevas versiones así como para recibir pedidos de nuevas funciones, como son implementadas y añadidas a la versión final.
 - Jouni junto con Steven, autor de los dibujos de éste articulo y quién está ademas bien establecido en cuestiones de animacion, revisaron la rutina de trabajo que se hace en Krita.

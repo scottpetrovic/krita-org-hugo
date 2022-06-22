@@ -7,15 +7,15 @@ categories:
 
 Krita is not widely known in Latin America. In Colombia, we found that people are interested in knowing more about how to use it. This year, in April 2017, the program of the Latin American Free Software Install Fest included a workshop by David Bravo about Krita. The workshop was fully booked and inspired us to create this course.
 
-\[caption id="attachment\_6051" align="aligncenter" width="800"\]![colombia krita course participants](/images/posts/2017/photo_2017-12-09_17-11-31.jpg) Left to right: Mateo Leal, Angie Alzate, David Bravo (teacher), Lina Porras, Lucas Gelves, Juan Pablo Sainea, Javier Gaitán\[/caption\]
+![colombia krita course participants](/images/posts/2017/photo_2017-12-09_17-11-31.jpg) Left to right: Mateo Leal, Angie Alzate, David Bravo (teacher), Lina Porras, Lucas Gelves, Juan Pablo Sainea, Javier Gaitán
 
 During 4 sessions of 3 hours each, David Bravo guided a group of six students through their first steps in Krita, including sketch, canvas, digitalization, lines, curves and brush, light and shadow, digital color, painting and color palette, texture, effects, exporting files for digital media and printing.
 
-\[caption id="attachment\_6050" align="aligncenter" width="800"\]![David Bravo and his drawing](/images/posts/2017/photo_2017-12-09_17-11-30.jpg) David Bravo (front). The projected drawing is his work.\[/caption\]
+![David Bravo and his drawing](/images/posts/2017/photo_2017-12-09_17-11-30.jpg) David Bravo (front). The projected drawing is his work.
 
 This course was made possible by the cooperation of three organizations: Onoma Project, Corre Libre Foundation and Ubuntu Colombia. The cost for the students was about 16 USD; all of the proceeds were donated to the Krita Foundation.
 
-\[caption id="attachment\_6052" align="aligncenter" width="800"\]![Lucas Gelves' work](/images/posts/2017/photo_2017-12-09_17-11-34.jpg) Lucas Gelves teaching himself to draw.\[/caption\]
+![Lucas Gelves' work](/images/posts/2017/photo_2017-12-09_17-11-34.jpg) Lucas Gelves teaching himself to draw.
 
 We think that we can offer an intermediate course in 2018. And of course we want to say thank you to the Krita Foundation for sending gifts for the course students and for staying in touch with us. We hope to cooperate in the near future for future courses!
 

@@ -25,11 +25,11 @@ In August, we'll have another [Krita Sprint](https://community.kde.org/Krita/Spr
 
 So, that's how our community in general works -- but what did we do specifically, since the release? Since 4.2.0, we released 4.2.1 with a bunch of bug fixes already, and the fixing has not abated. Tiar has finished most of the work on making Krita report back any and all failures when saving an image. Dmitry has been fixing some severe issues in the layer stack, GPU canvas and tool handling, Boudewijn has been fixing bugs all over the place and Ivan has been busy with animated brush tips (that is, [Gimp Image Hose](https://gitlab.gnome.org/GNOME/gimp/blob/master/devel-docs/gih.txt) files).
 
-\[caption id="attachment\_9446" align="aligncenter" width="500"\][![](/images/posts/2019/gih.png)](https://krita.org/wp-content/uploads/2019/06/gih.png) Color is random, left and right hands come one after the other, and hand direction  is dependent on drawing direction. Image by Ivan Yossi.\[/caption\]
+[![](/images/posts/2019/gih.png)](https://krita.org/wp-content/uploads/2019/06/gih.png) Color is random, left and right hands come one after the other, and hand direction  is dependent on drawing direction. Image by Ivan Yossi.
 
 Not for 4.2.2, but 4.3 (which should be out in September) are two new features already: the palettize filter by [Carl Olsson](https://twitter.com/not_surt/status/1137609273150623744), still work in progress, but that's fine, 4.3 isn't done yet, and the High Pass filter by Miguel Lopez:
 
-\[caption id="attachment\_9441" align="aligncenter" width="1016"\][![](/images/posts/2019/palettize.jpg)](https://krita.org/wp-content/uploads/2019/06/palettize.jpg) Allows interactively painting in truecolour while viewing matched to palette, with optional pattern-based dithering. Image by Carl Schwan\[/caption\]
+[![](/images/posts/2019/palettize.jpg)](https://krita.org/wp-content/uploads/2019/06/palettize.jpg) Allows interactively painting in truecolour while viewing matched to palette, with optional pattern-based dithering. Image by Carl Schwan
 
 At the [Libre Graphics Meeting, which was attended by Boudewijn, Wolthera and Tiar](/item/krita-at-the-2019-libre-graphics-meeting/), several projects presented the history of their project with cool graphs. Well, since Krita officially turned twenty on June 8th (which we completely forgot to celebrate, because of all the release work), we thought it might be interesting to analyze the history of Krita's codebase a bit as well.
 

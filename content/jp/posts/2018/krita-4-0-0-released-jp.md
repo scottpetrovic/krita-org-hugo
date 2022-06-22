@@ -86,4 +86,4 @@ Linux appimageとソースのtarボールは署名されています。パブリ
 
 Kritaは自由なオープンソースのプロジェクトです。[寄付](https://krita.org/jp/support-us-jp/donations-jp/)や[トレーニングビデオやアートブックの購入](https://krita.org/jp/support-us-jp/shop-jp/)で、プロジェクトを支援することを検討してみてください！皆様の支援によって、コアチームがフルタイムでKritaの開発作業を続けることが可能になります。
 
-\[caption id="attachment\_6455" align="aligncenter" width="1024"\][![](/images/posts/2018/Krita4_Alegoric_final.png)](https://krita.org/wp-content/uploads/2018/03/Krita4_Alegoric_final.png) Artwork by Ramon Miranda\[/caption\]
+[![](/images/posts/2018/Krita4_Alegoric_final.png)](https://krita.org/wp-content/uploads/2018/03/Krita4_Alegoric_final.png) Artwork by Ramon Miranda

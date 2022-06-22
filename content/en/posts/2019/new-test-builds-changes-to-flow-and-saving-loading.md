@@ -13,7 +13,7 @@ Krita needs you! We've new test builds of what will become Krita 4.2. There are 
 
 First, following [two discussions](https://forum.kde.org/viewtopic.php?f=288&t=136165) on [the forum](https://forum.kde.org/viewtopic.php?f=139&t=152017), William Brown created his [very first patch for Krita](https://phabricator.kde.org/D18467). This changes the way flow and opacitiy interact:
 
-\[caption id="attachment\_8897" align="aligncenter" width="1024"\][![](/images/posts/2019/image-1024x768.png)](https://krita.org/wp-content/uploads/2019/01/image.png) Comparison of new and old Flow handling\[/caption\]
+[![](/images/posts/2019/image-1024x768.png)](https://krita.org/wp-content/uploads/2019/01/image.png) Comparison of new and old Flow handling
 
 Now these changes really touch the core of what Krita does, that is painting, so we'd like all of you to go out, download a test build and play with it.
 

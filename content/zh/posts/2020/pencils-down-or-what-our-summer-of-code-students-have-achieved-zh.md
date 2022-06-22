@@ -17,7 +17,7 @@ Amy Spark 的课题不但让 Krita 可以使用 SeExpr 脚本来生成填充图�
 
 SeExpr 脚本填充图层的效果千变万化，可以用来制作各种纹理特效。现在此课题的成果已经包含在每天更新的开发测试版本中，将在 9 月份随 Krita 4.4 版一同正式发布。如果你对课题细节感兴趣，请移步阅读 Amy Spark 的 [课题报告](https://community.kde.org/GSoC/2020/StatusReports/LeonardoEmanuelSegovia)，也可以前往阅读相关的 [参考文档](https://docs.krita.org/zh_CN/reference_manual/layers_and_masks/fill_layer_generators/seexpr.html) (已翻译为中文)：
 
-\[caption id="attachment\_10913" align="aligncenter" width="1024"\][![](/images/posts/2020/1096px-SeExpr_manual_1-1024x840.jpg)](https://docs.krita.org/en/tutorials/seexpr.html) SeExpr 参考文档\[/caption\]
+[![](/images/posts/2020/1096px-SeExpr_manual_1-1024x840.jpg)](https://docs.krita.org/en/tutorials/seexpr.html) SeExpr 参考文档
 
 ## MyPaint 笔刷引擎整合
 
@@ -39,11 +39,11 @@ MyPaint 笔刷引擎整合工程将很快被合并到主分支，并随今年年
 
 **Saurabh Kumar** 为 Krita 开发了分镜头面板。它依托于 Krita 的动画功能，可以随时点击分镜头列表切换画布内容，还可以将分镜头列表按照指定的布局导出为 SVG 或者 PDF 格式。
 
-\[caption id="attachment\_10957" align="aligncenter" width="601"\][![](/images/posts/2020/Storyboard_custom_options.png)](https://krita.org/wp-content/uploads/2020/09/Storyboard_custom_options.png) 指定导出分镜头列表布局\[/caption\]
+[![](/images/posts/2020/Storyboard_custom_options.png)](https://krita.org/wp-content/uploads/2020/09/Storyboard_custom_options.png) 指定导出分镜头列表布局
 
 你可以选择仅查看缩略图或者注释，也可以并列显示所有内容：
 
-\[caption id="attachment\_10956" align="aligncenter" width="473"\][![](/images/posts/2020/Storyboard_row_mode.png)](https://krita.org/wp-content/uploads/2020/09/Storyboard_row_mode.png) 多列竖排布局的分镜头列表\[/caption\]
+[![](/images/posts/2020/Storyboard_row_mode.png)](https://krita.org/wp-content/uploads/2020/09/Storyboard_row_mode.png) 多列竖排布局的分镜头列表
 
 欲知课题详情，请阅读 Saurabh 的 [课题报告](https://community.kde.org/GSoC/2020/StatusReports/SaurabhKumar)。
 
@@ -53,7 +53,7 @@ MyPaint 笔刷引擎整合工程将很快被合并到主分支，并随今年年
 
 此课题最棘手的工作是如何对渐变进行渲染：
 
-\[caption id="attachment\_10919" align="aligncenter" width="296"\][![](/images/posts/2020/Screenshot_2020-07-23_11-46-06.png)](https://krita.org/wp-content/uploads/2020/08/Screenshot_2020-07-23_11-46-06.png) 从 Inkscape 导入的网格渐变\[/caption\]
+[![](/images/posts/2020/Screenshot_2020-07-23_11-46-06.png)](https://krita.org/wp-content/uploads/2020/08/Screenshot_2020-07-23_11-46-06.png) 从 Inkscape 导入的网格渐变
 
 不同的 2D 图形程序库对图形的渲染方式不完全一致，Sharaf 设法克服了这个难题，让 Krita 可以和 Inkscape 以同样的方式渲染网格渐变。
 

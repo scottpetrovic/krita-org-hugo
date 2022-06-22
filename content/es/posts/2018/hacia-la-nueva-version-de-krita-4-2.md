@@ -7,7 +7,7 @@ categories:
 
 El equipo de Krita esta trabajando arduamente en lo que será la nueva versión 4.2. En ésta ocasión presentamos un adelanto de lo que encontrarás en ella. Las descargas no están listas para la distribución publica, y **contienen** errores de código, más aun de los que encontraras en la versión estable y algunos de estos pueden producir la perdida de información en los documentos que se usen, por lo que se avisa el no usarlo para trabajos importantes. (También vamos a distribuir la versión 4.1.4 después de todo, ya que queremos remover algunos errores importantes para los usuarios de ésta serie)
 
-\[caption id="attachment\_8252" align="aligncenter" width="850"\][![](/images/posts/2018/2018-fundraiser-hero2.png)](https://krita.org) ¡Apoyanos en nuestro evento para la recaudación de fondos!\[/caption\]
+[![](/images/posts/2018/2018-fundraiser-hero2.png)](https://krita.org) ¡Apoyanos en nuestro evento para la recaudación de fondos!
 
 La version 4.2 se puede usar sin embargo para probar lo nuevo que vendrá incluido, lo cual es bastante y por lo que esperamos de tus respuestas. Ademas de lo que veras en esta versión de prueba, también habrá otras modificaciones que aun que no se han incluido en ésta, si estarán en la versión estable final.
 

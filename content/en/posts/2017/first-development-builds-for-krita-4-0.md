@@ -39,7 +39,7 @@ We're still working on the new text tool. We got the basics working only last we
 
 The Python plugin has been merged, and is ready for testing, but here we've run into another problem: we haven't been able to figure out yet how to bundle Python and the Python modules for scripting Krita yet. It works fine when building Krita from source on supported Linux systems. We haven't managed to build it on Windows or on OSX yet, at all. **If you can help us with that, please contact us!**
 
-\[caption id="attachment\_5377" align="alignnone" width="1003"\][![](/images/posts/2017/scripter.png)](https://krita.org/wp-content/uploads/2017/06/scripter.png) The Scripter -- ad-hoc scripting in Krita, created by Eliakin Costa.\[/caption\]
+[![](/images/posts/2017/scripter.png)](https://krita.org/wp-content/uploads/2017/06/scripter.png) The Scripter -- ad-hoc scripting in Krita, created by Eliakin Costa.
 
 #### Download
 

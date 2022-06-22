@@ -17,6 +17,6 @@ Cuarenta artistas de todas partes del mundo, creando en diferentes estilos y tem
 
 La portada fue creada por Odysseas Stamoglou. El contenido presenta las obras de Arrianne Criseyde Pascual, Baukje Jagersma, Beelzy, Chewsome, David Revoy, Enrico Guarnieri, Eric Lee, Filipe Ferreira, Justin Nichol, Kesbet Tree, Livio Fania, Liz de Souza, Matt Preece, Melissa Lipan, Michael Bowling, Mozart Couto, Naghree Greenskin, Neotheta, Nivailis, Paolo Puggioni, R.J. Quiralta, Radian 1, Raghukamath, Ramón Miranda, Reine, Sylvain Boussiron, William Thorup, Elésiane Huve, Amelia Hamrick, Danilo Junior, Ivan Aros, Jennifer Reuter, Karen Kaye Llamas, Lucas Ribeiro, Motion Arc Foundry, Odysseas Stamoglou, Sylvia Ritter, Timothée Giet, Tony Jennison, Tyson Tan, y Wayne Parker.
 
-\[caption id="attachment\_4645" align="aligncenter" width="217"\][![Made with Krita 2016](/images/posts/2017/cover_small-217x300.png)](https://krita.org/wp-content/uploads/2016/12/cover_small.png) Made with Krita 2016\[/caption\]
+[![Made with Krita 2016](/images/posts/2017/cover_small-217x300.png)](https://krita.org/wp-content/uploads/2016/12/cover_small.png) Made with Krita 2016
 
 Made with Krita 2016 cuesta 19,95€, mas envío. El envío es de 11.25€ fuera de Holanda y 3.65€ local, incluye VAT en Holanda.

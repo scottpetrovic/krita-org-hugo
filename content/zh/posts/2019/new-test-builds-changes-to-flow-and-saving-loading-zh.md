@@ -11,7 +11,7 @@ categories:
 
 首先请在论坛上了解相关讨论：[其一](https://forum.kde.org/viewtopic.php?f=139&t=152017)、[其二](https://forum.kde.org/viewtopic.php?f=288&t=136165)。根据这两则讨论，William Brown 为 Krita 准备了[他的首个补丁](https://phabricator.kde.org/D18467)。这个补丁改变了流量和不透明度的联动效果：
 
-\[caption id="attachment\_8897" align="aligncenter" width="1024"\][![](/images/posts/2019/image-1024x768.png)](https://krita.org/wp-content/uploads/2019/01/image.png) 上图：新 (new) 旧 (old) 流量 (flow) 和 Opacity (不透明度) 的联动效果对比。\[/caption\]
+[![](/images/posts/2019/image-1024x768.png)](https://krita.org/wp-content/uploads/2019/01/image.png) 上图：新 (new) 旧 (old) 流量 (flow) 和 Opacity (不透明度) 的联动效果对比。
 
 由于上述改动触及了 Krita 的核心功能，我们非常希望大家都能下载测试版检验其效果。
 

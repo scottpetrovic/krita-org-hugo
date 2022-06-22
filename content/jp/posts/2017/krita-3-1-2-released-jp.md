@@ -32,7 +32,7 @@ Krita 3.1.2は2017年2月1日にリリースされました。3.1シリーズの
 
 他の人たちがKritaで何を成し遂げているかを見てみたいのなら、初のKritaのアートブックとなる[**Made with Krita 2016**](https://krita.org/en/item/made-with-krita-2016-the-krita-artbook/)を手に入れましょう。予約開始しています!
 
-\[caption id="attachment\_4645" align="alignleft" width="217"\][![Made with Krita 2016](/images/posts/2017/cover_small-217x300.png)](https://krita.org/wp-content/uploads/2016/12/cover_small.png) Made with Krita 2016\[/caption\]
+[![Made with Krita 2016](/images/posts/2017/cover_small-217x300.png)](https://krita.org/wp-content/uploads/2016/12/cover_small.png) Made with Krita 2016
 
 ### フィードバックをお願いします!
 

@@ -5,7 +5,7 @@ categories:
   - "artist-interview"
 ---
 
-\[caption id="attachment\_9859" align="aligncenter" width="800"\][![](/images/posts/2019/underground-cult-800.png)](https://krita.org/wp-content/uploads/2019/11/underground-cult.png) Note: The pictures in this post are large and intricate. Click on any picture to see it full size!\[/caption\]
+[![](/images/posts/2019/underground-cult-800.png)](https://krita.org/wp-content/uploads/2019/11/underground-cult.png) Note: The pictures in this post are large and intricate. Click on any picture to see it full size!
 
 ### Could you tell us something about yourself?
 

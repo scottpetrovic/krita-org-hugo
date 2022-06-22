@@ -16,11 +16,11 @@ Note: this release also includes a possible fix for [an issue where sometimes mo
 
 Sharaf Zaman's Google Summer of Code project has landed in this release! Compatible with Inkscape, Krita now provides the second independent implementation of SVG Mesh Gradients. Mesh gradients are used on vector objects and can deliver really natural looking results:
 
-\[caption id="attachment\_11416" align="aligncenter" width="1024"\][![Mesh Gradients](/images/posts/2020/Handles-meshgradient-1024x554.png)](https://krita.org/wp-content/uploads/2020/12/Handles-meshgradient.png) Mesh Gradients\[/caption\]
+[![Mesh Gradients](/images/posts/2020/Handles-meshgradient-1024x554.png)](https://krita.org/wp-content/uploads/2020/12/Handles-meshgradient.png) Mesh Gradients
 
 ### Mesh Transform
 
-\[caption id="attachment\_11432" align="aligncenter" width="1168"\][![Image showing how useful mesh transforms can be](/images/posts/2020/krita_4_4_2_mesh_gradients.png)](https://krita.org/wp-content/uploads/2020/12/krita_4_4_2_mesh_gradients.png) Mesh transforms will greatly speed up your concept by allowing complex transformations, such as the half-rounded grate on this window!\[/caption\]
+[![Image showing how useful mesh transforms can be](/images/posts/2020/krita_4_4_2_mesh_gradients.png)](https://krita.org/wp-content/uploads/2020/12/krita_4_4_2_mesh_gradients.png) Mesh transforms will greatly speed up your concept by allowing complex transformations, such as the half-rounded grate on this window!
 
 But the gradients are not the only mesh related feature! This release also sees the first iteration of the mesh-transform. Like the gradient mesh, the mesh transform consists of bezier patches that can be individually shaped to create precise transforms, especially useful for rounded objects. Not shown in the above screenshot: you can optionally show the handles of each bezier curve making up the mesh for even more precision and control!
 
@@ -35,7 +35,7 @@ We're still tweaking this one, but currently the shortcuts are the following:
 
 ### Gradient Fill Layer and new Gradient Editor
 
-\[caption id="attachment\_11434" align="aligncenter" width="1383"\][![Showing the gradient fill layer and the new gradient editor.](/images/posts/2020/krita_4_4_2_new_gradient_editor_and_fill_layer.png)](https://krita.org/wp-content/uploads/2020/12/krita_4_4_2_new_gradient_editor_and_fill_layer.png) The gradient fill layer and the new gradient editor in action.\[/caption\]
+[![Showing the gradient fill layer and the new gradient editor.](/images/posts/2020/krita_4_4_2_new_gradient_editor_and_fill_layer.png)](https://krita.org/wp-content/uploads/2020/12/krita_4_4_2_new_gradient_editor_and_fill_layer.png) The gradient fill layer and the new gradient editor in action.
 
 Deif Lou added a new gradient fill layer type, this one will make it easy to quickly create a variety of gradients non-destructively. With it, he also made an important usability fix: Gradients in Krita could be either segment type, or stop type, with different features each, and different editors each. That could get quite annoying if you were working on a gradient, but you realized you had the wrong type! This is now fixed, as both gradient types can now be edited by the same editor, which also converts between the two.
 
@@ -43,7 +43,7 @@ Deif Lou added a new gradient fill layer type, this one will make it easy to qui
 
 Deif Lou also created a new halftone filter. The old filter was slow and could not be used as a filter mask, and could only show dots.
 
-\[caption id="attachment\_11435" align="aligncenter" width="1528"\][![Our splash screen as filtered by the half tone filter](/images/posts/2020/krita_4_4_2_halftone_filter.png)](https://krita.org/wp-content/uploads/2020/12/krita_4_4_2_halftone_filter.png) The new halftone filter can do per-channel filtering, useful for vintag effects and maybe even printing!\[/caption\]
+[![Our splash screen as filtered by the half tone filter](/images/posts/2020/krita_4_4_2_halftone_filter.png)](https://krita.org/wp-content/uploads/2020/12/krita_4_4_2_halftone_filter.png) The new halftone filter can do per-channel filtering, useful for vintag effects and maybe even printing!
 
 The new filter can handle being applied as filter layer, per-channel filtering, and the pattern itself can be generated with any of the fill layer options, giving endless combinations.
 

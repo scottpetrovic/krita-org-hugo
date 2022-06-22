@@ -7,7 +7,7 @@ categories:
 
 Hace dos semanas que tubimos una muy buena y motivante reunion in Deventer, donde varios miembros del equipo de Krita se juntaron y conocieron. Boud ya nos escribio un [artículo](https://krita.org/en/item/krita-2018-sprint-report) al respecto, por lo que trataremos de evitar repeticion y solo nos enfocaremos en uno de las metas de esta reunion... el corregir los problemas con las tabletas en Mac OS X.
 
-\[caption id="attachment\_7338" align="aligncenter" width="917"\][![](/images/posts/2018/krita_jagged_lines_on_osx.png)](https://krita.org/wp-content/uploads/2018/06/krita_jagged_lines_on_osx.png) Lineas dentadas causadas por la compresión de los eventos de entrada, relacionado con el uso del OpenGL.\[/caption\]
+[![](/images/posts/2018/krita_jagged_lines_on_osx.png)](https://krita.org/wp-content/uploads/2018/06/krita_jagged_lines_on_osx.png) Lineas dentadas causadas por la compresión de los eventos de entrada, relacionado con el uso del OpenGL.
 
 ### Compresión de los eventos de las tabletas
 

@@ -19,6 +19,6 @@ Digital Atelier sells for 39,95 euros, ex VAT.
 
 And we've also created a new [USB-card](https://gumroad.com/products/qQmZf), with the newest stable version of Krita for all OSes. Includes Comics with Krita, Muses, Secrets of Krita and Animate with Krita tutorial packs.
 
-\[caption id="attachment\_8669" align="aligncenter" width="1024"\][![](/images/posts/2018/usbcard-1024x534.jpg)](https://gumroad.com/products/qQmZf) It's in the credit-card format again, which makes it easy to carry Krita with you wherever you go! Besides, this format lets us use the new Krita 4 splash screen by Tyson Tan.\[/caption\]
+[![](/images/posts/2018/usbcard-1024x534.jpg)](https://gumroad.com/products/qQmZf) It's in the credit-card format again, which makes it easy to carry Krita with you wherever you go! Besides, this format lets us use the new Krita 4 splash screen by Tyson Tan.
 
 The usb-card is available in two versions: [as-is, for €29,95](https://gumroad.com/products/thwPJ) and (manually) [updated to the latest version of Krita for €34,95](https://gumroad.com/products/qQmZf/).
