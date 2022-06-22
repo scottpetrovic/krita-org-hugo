@@ -3,8 +3,6 @@ title: "Krita 5.0 Release Notes"
 date: "2021-02-08"
 ---
 
-.row-spacer { margin-top: 2rem; } .post.page img { margin-top: 0; } h2 { margin-top: 3rem; } .videoWrapper { position: relative; height: 0; padding-bottom: 50%; padding-top: 25px; height: 0; margin-bottom: 1rem; } .videoWrapper iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
-
 # Krita 5.0 Release Notes
 
 **Note on File Compatibility with Krita 4.x and Krita 3.x files:**

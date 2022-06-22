@@ -162,9 +162,3 @@ We also have a lot of tutorials that you might find interesting
 - [Speed Painting](https://docs.krita.org/en/tutorials/common_workflows.html#speed-painting-and-conceptualizing)
 - [Inking](https://docs.krita.org/en/tutorials/inking.html)
 - [Saving images for the web](https://docs.krita.org/en/tutorials/saving-for-the-web.html)
-
-<div></div> h3 { font-size: 20rem; } <div></div> .content-container div.row p { padding: 1.0em; }
-
-img.no-boxShadow { box-shadow: none; margin-left: 0; }
-
-.videoWrapper { position: relative; padding-bottom: 26.25%; /\* 16:9 \*/ padding-top: 25px; height: 0; } .videoWrapper iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } <div></div>

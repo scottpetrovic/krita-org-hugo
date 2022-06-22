@@ -3,8 +3,6 @@ title: "Four Seasons of Leon and Kiki: a Drawing Contest"
 date: "2021-01-26"
 ---
 
-.container { background: url('https://krita.org/wp-content/uploads/2021/01/huion-background-wrap-1024x594.jpg') }.content-container.default-template { padding: 0 10% }.content-container img { width: 100%; box-shadow: none }h1, h3 {color: #fff;text-align: center;text-transform: uppercase;font-weight: bold;background: #407ecc;padding: 1rem;margin-bottom: 3rem;}h2 {text-align: center;text-transform: uppercase;font-weight: bold;color: #407ecc;margin: 3.5rem;}.timeline-container { text-align: center;}.timeline-container div { margin-bottom: 2rem; }.timeline-item {font-weight: bold;display: block;background: #5f7df0;border-radius: 6rem;font-size: 1rem;padding: 1.5rem;color: yellow;line-height: 128%;text-transform: uppercase;margin-bottom: 0.5rem;}.center { text-align: center; display: block}.large-text {text-align: center;font-size: 1.4rem;line-height: 2rem;}.guide-steps strong {display: block;text-align: center;font-size: 1.4rem;text-transform: uppercase;color: #0064ff;}
-
 ![](/images/pages/hero-image-1024x491.jpg)
 
 # Contest

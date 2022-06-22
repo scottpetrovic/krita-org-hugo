@@ -7,8 +7,6 @@ date: "2018-05-12"
 
 We always welcome new contributors! Krita is a huge and ambitious project. There is more work than our small core team can handle. The Krita community is very open, welcoming and supportive. No resumé or CV needed! If you've got the enthusiasm, you're all welcome. [Get in contact with us](/about/contact/) if you have any issues getting started.
 
-.section-inset {<br /> padding: 3rem;<br />}<br />
-
 ### Testers
 
 Programmers are going to create bugs and problems as new features get added. Help us make Krita more stable by testing out the newest features.
