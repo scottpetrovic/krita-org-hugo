@@ -9,6 +9,9 @@ baseURL = 'https://krita.org'
 title = 'Digital Painting. Creative Freedom'
 theme = 'krita-org-theme' 
 
+summarylength = 50
+hasCJKLanguage = true # helps summary show less characters with summaryLength
+
 defaultContentLanguage = 'en'
 
 [languages]
