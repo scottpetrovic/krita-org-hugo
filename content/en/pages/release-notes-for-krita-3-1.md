@@ -11,7 +11,7 @@ A quick video overview of all of the major features and fixes that are being sha
 
 ### Full Support for OSX
 
-![krita_texture_bg](../images/krita3osx.jpg)
+![krita_texture_bg](/images/pages/krita3osx.jpg)
 
 Julian Thijssen's Google Summer of code project for 2016 gives us the power to run openGL on OSX! This was the biggest blocker for full OSX support! OpenGL is a special type of code that allows us to use your graphics card for operations like rotating, zooming and panning the canvas. Graphics cards are typically super good at this, meaning it makes the canvas really fast, no matter what kind of image you have before you. Apple devices are super picky about which version of OpenGL they can run, so Julian had to rewrite a part of QT to upgrade it all to openGL 3, ensuring our OSX users can finally enjoy Krita without bizare glitches when navigating!
 
@@ -23,13 +23,13 @@ Finally, you can now export your animations to the following animation formats: 
 
 ### Animation Curves and Opacity
 
-![krita_texture_bg](../images/krita_animation_3_0_2.gif)
+![krita_texture_bg](/images/pages/krita_animation_3_0_2.gif)
 
 Jouni Pentikäinen Google Summer of code project has been merged as well! Its biggest feature is the ground work laid for automated tweening of properties. There is now a animation curves docker to allow making opacity tweens, and we hope to allow transformation mask tweens in the future! [Documentation here.](https://docs.krita.org/Animation_Curves) But that is not all! Other raster like layers like filter layers, fill layers, transparency masks and filter masks can now have their raster content animated, allowing for raster animating transparency or a filter effect! Furthermore, you can now color code frames, which can be used to mark the most important frames in an animation, so you can find them back more easily.
 
 ### New Internal Color Picker
 
-![krita_texture_bg](../images/16-bit-color.png)
+![krita_texture_bg](/images/pages/16-bit-color.png)
 
 Thanks to Wolthera's Google Summer of Code work, Krita now has a new internal color selector for selecting wide-gamut values! This means that you can finally break free from the limited gamut of your screen(sRGB) and use wide gamut spaces. Other features include easy access to the palette and the ability to type in HDR values in floating space without any extra toggles and buttons. You can access this new dialog from the current color patch in the toolbar. Furthermore, the pop-up palette will also grant access to this new selector, if you enable it by adding the popuppalette/usevisualcolorselector=true line to the kritarc configuration file. The other color selector dockers are untouched for now, but hopefully they'll be able to be extended in the same way soon!
 
@@ -41,7 +41,7 @@ In the ever continuing quest for speed on big documents, we developed the quick 
 
 ### Stop-Based Gradient Editor
 
-![krita_texture_bg](../images/stop-based-gradients.png)
+![krita_texture_bg](/images/pages/stop-based-gradients.png)
 
 Sven Langkamp brought us a secret suprise in the form of a stop-based gradient editor! Krita's segment based gradient editor is based on Gimp's model, but the stopbased format is far more common and easier to understand! [See the docs on how to use it.](https://docs.krita.org/Managing_Gradients)
 

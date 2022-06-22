@@ -11,7 +11,7 @@ Check out all of the Krita merchandise and training material! All proceeds go to
 
 <script src="https://gumroad.com/js/gumroad.js"></script>
 
-![](../images/usbcard.jpg)
+![](/images/pages/usbcard.jpg)
 
 USB keycard with Krita (latest) and training
 
@@ -21,7 +21,7 @@ USB keycard with the newest stable version of Krita for all OSes. Includes Comic
 
 [Get USB keycard](https://gumroad.com/l/qQmZf)
 
-![](../images/DA_cover_cropped_1_1.png)
+![](/images/pages/DA_cover_cropped_1_1.png)
 
 Ramon Miranda's Digital Atelier Bundle
 
@@ -31,7 +31,7 @@ All the brushes, brush tips, patterns and surfaces from Digital Atelier.
 
 [Get Digital Atelier Bundle](https://gum.co/ehZUc)
 
-![](../images/DA_cover_cropped_1_1.png)
+![](/images/pages/DA_cover_cropped_1_1.png)
 
 Ramon Miranda's Digital Atelier
 
@@ -41,7 +41,7 @@ A complete new brush preset bundle: Digital Atelier. Not only does this contain 
 
 [Get Digital Atelier](https://gum.co/sFbEb)
 
-![](../images/DA_cover_cropped_1_1.png)
+![](/images/pages/DA_cover_cropped_1_1.png)
 
 Цифровое ателье от Раймона Миранды
 
@@ -51,7 +51,7 @@ A complete new brush preset bundle: Digital Atelier. Not only does this contain 
 
 [Get Digital Atelier](https://gum.co/blCvR)
 
-![](../images/secrets-of-krita-box-art.png)
+![](/images/pages/secrets-of-krita-box-art.png)
 
 Training: Secrets of Krita (DVD)
 
@@ -61,7 +61,7 @@ Comics with Krita author Timothée Giet is back with his second training DVD: Se
 
 [Get Secrets of Krita](https://gum.co/iIno?wanted=true)
 
-![](../images/muses.jpg)
+![](/images/pages/muses.jpg)
 
 Training: Muses (Download)
 
@@ -71,7 +71,7 @@ Five hours of detail-packed instruction, covering the whole process from setting
 
 [Get Muses](https://gum.co/SZZDI?wanted=true)
 
-![](../images/secrets-of-krita-box-art.png)
+![](/images/pages/secrets-of-krita-box-art.png)
 
 Training: Secrets of Krita (Download)
 
@@ -91,7 +91,7 @@ Krita's exciting new animation feature explained by Timothee Giet! Krita 3.0 and
 
 [Get Animate with Krita](https://gum.co/TIso?wanted=true)
 
-![](../images/comics-with-krita.jpg)
+![](/images/pages/comics-with-krita.jpg)
 
 Training: Comics with Krita (Download)
 
@@ -101,7 +101,7 @@ By popular demand. the first training DVD is again available. You could also tor
 
 [Get Comics with Krita](https://gum.co/glye?wanted=true)
 
-![](../images/cover_small.png)
+![](/images/pages/cover_small.png)
 
 Download: Made with Krita 2016
 

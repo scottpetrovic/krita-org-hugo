@@ -11,7 +11,7 @@ No limit to your creativity.
 
 ## Clean and Flexible Interface
 
-![](../images/krita-ui-40.png) [Art by Galaad G](https://www.behance.net/gallery/75168879/Scales-Scoundrels-Comic)
+![](/images/pages/krita-ui-40.png) [Art by Galaad G](https://www.behance.net/gallery/75168879/Scales-Scoundrels-Comic)
 
 An intuitive user interface that stays out of your way. The dockers and panels can be moved and customized for your specific workflow. Once you have your setup, you can save it as your own workspace. You can also create your own shortcuts for commonly used tools.
 
@@ -23,7 +23,7 @@ An intuitive user interface that stays out of your way. The dockers and panels c
 
 ## All the tools you need
 
-![](../images/brush-presets.png)
+![](/images/pages/brush-presets.png)
 
 ### Beautiful Brushes
 
@@ -31,7 +31,7 @@ Over 100 professionally made brushes that come preloaded. These brushes give a g
 
 \> [Learn more](https://docs.krita.org/en/reference_manual/krita_4_preset_bundle.html)
 
-![](../images/brush-stabilizer.png)
+![](/images/pages/brush-stabilizer.png)
 
 ### Brush Stabilizers
 
@@ -39,7 +39,7 @@ Have a shaky hand? Add a stabilizer to your brush to smoothen it out. Krita incl
 
 \> [Learn more](https://docs.krita.org/en/reference_manual/tools/freehand_brush.html)
 
-![](../images/vector-libraries.png)
+![](/images/pages/vector-libraries.png)
 
 ### Vector & Text
 
@@ -47,7 +47,7 @@ Built-in vector tools help you create comic panels. Select a word bubble templat
 
 \> [Learn more](https://docs.krita.org/en/user_manual/vector_graphics.html)
 
-![](../images/brush-engines.jpg)
+![](/images/pages/brush-engines.jpg)
 
 ### Brush Engines
 
@@ -55,7 +55,7 @@ Customize your brushes with over 9 unique brush engines. Each engine has a large
 
 \> [Learn more](https://docs.krita.org/en/reference_manual/brushes/brush_engines.html)
 
-![](../images/wrap-around-mode.jpg)
+![](/images/pages/wrap-around-mode.jpg)
 
 ### Wrap-around mode
 
@@ -63,7 +63,7 @@ It is easy to create seamless textures and patterns now. The image will make ref
 
 \> [Learn more](https://docs.krita.org/en/user_manual/introduction_from_other_software/introduction_from_sai.html#multibrush-mirror-symmetry-and-wrap-around)
 
-![](../images/resource-manager.jpg)
+![](/images/pages/resource-manager.jpg)
 
 ### Resource Manager
 
@@ -86,41 +86,41 @@ Changing your workspace to Animation transforms Krita into an animation studio. 
 
 ## Productivity features
 
-![](../images/drawing-assistants.png)Drawing Assistants
+![](/images/pages/drawing-assistants.png)Drawing Assistants
 
 Use a drawing aid to assist you with vanishing points and straight lines. The Assistant Tool comes with 9 unique assistants to help you make that perfect shape. These tools range from drawing ellipses to creating curvilinear perspective with the Fisheye Point tool. Use multiple assistants at the same time when drawing.
 
 \> [Learn more](https://docs.krita.org/en/user_manual/painting_with_assistants.html)
 
-![](../images/layer-management.png)Layer Management In addition to painting, Krita comes with vector, filter, group, and file layers. Combine, order, and flatten layers to help your artwork stay organized.
+![](/images/pages/layer-management.png)Layer Management In addition to painting, Krita comes with vector, filter, group, and file layers. Combine, order, and flatten layers to help your artwork stay organized.
 
 \> [Learn more](https://docs.krita.org/en/user_manual/layers_and_masks.html)
 
-![](../images/selections.png)Select & Transform Highlight a portion of your drawing to work on. There are additional features that allow you to add and remove from the selection. You can further modify your selection by feathering and inverting it. Paint a selection with the Global Selection Mask.
+![](/images/pages/selections.png)Select & Transform Highlight a portion of your drawing to work on. There are additional features that allow you to add and remove from the selection. You can further modify your selection by feathering and inverting it. Paint a selection with the Global Selection Mask.
 
 \> [Learn more](https://docs.krita.org/en/user_manual/selections.html)
 
-![](../images/color-management.png)Full Color Management Krita supports full color management through LCMS for ICC and OpenColor IO for EXR, allowing you to incorporate Krita into your existing color management pipeline. Or let it be the start of one: Krita comes with a wide variety of icc working space profiles for every need, with a color space browser to visualise and explore them.
+![](/images/pages/color-management.png)Full Color Management Krita supports full color management through LCMS for ICC and OpenColor IO for EXR, allowing you to incorporate Krita into your existing color management pipeline. Or let it be the start of one: Krita comes with a wide variety of icc working space profiles for every need, with a color space browser to visualise and explore them.
 
 \> [Learn more](https://docs.krita.org/en/general_concepts/colors/color_managed_workflow.html)
 
-![](../images/open-gl.png)OpenGL Enhanced Krita takes advantage of OpenGL for some of its operations. With OpenGL enabled, you will see increased canvas rotation and zooming speed. The canvas will also look better when zoomed out. (The Windows version also supports Direct3D 11 in place of OpenGL, via the ANGLE compatibility layer.)
+![](/images/pages/open-gl.png)OpenGL Enhanced Krita takes advantage of OpenGL for some of its operations. With OpenGL enabled, you will see increased canvas rotation and zooming speed. The canvas will also look better when zoomed out. (The Windows version also supports Direct3D 11 in place of OpenGL, via the ANGLE compatibility layer.)
 
 \> [Learn more](https://docs.krita.org/en/reference_manual/preferences/display_settings.html#opengl)
 
-![](../images/psd-support.png) PSD Support Open PSD files that even Photoshop cannot open. Load and save to PSD when you need to take your artwork across different programs.
+![](/images/pages/psd-support.png) PSD Support Open PSD files that even Photoshop cannot open. Load and save to PSD when you need to take your artwork across different programs.
 
 \> [Learn more](https://docs.krita.org/en/general_concepts/file_formats/file_psd.html)
 
-![](../images/hdr-icon.png) HDR Painting Krita is the only dedicated painting application that lets you open, save, edit and author HDR and scene-referred images. Furthermore, with OCIO and OpenEXR support, you can manipulate the view to examine HDR images, and use it in the most cutting edge workflows from the film and visual effects industries.
+![](/images/pages/hdr-icon.png) HDR Painting Krita is the only dedicated painting application that lets you open, save, edit and author HDR and scene-referred images. Furthermore, with OCIO and OpenEXR support, you can manipulate the view to examine HDR images, and use it in the most cutting edge workflows from the film and visual effects industries.
 
 \> [Learn more](https://docs.krita.org/en/reference_manual/hdr_display.html)
 
-![](../images/transform-icon.png)Python Scripting Powerful API for creating your own widgets and extending Krita. With using PyQt and Krita's own API, there are many possibilities. A number of plugins come pre-installed for your reference.
+![](/images/pages/transform-icon.png)Python Scripting Powerful API for creating your own widgets and extending Krita. With using PyQt and Krita's own API, there are many possibilities. A number of plugins come pre-installed for your reference.
 
 \> [Learn more](https://docs.krita.org/en/user_manual/python_scripting.html)
 
-![](../images/training-icon.png) Training Resources In addition to training and educational material found on the Internet, Krita produces its own training material to help you learn all of the tools fast.
+![](/images/pages/training-icon.png) Training Resources In addition to training and educational material found on the Internet, Krita produces its own training material to help you learn all of the tools fast.
 
 \> [Learn more](https://docs.krita.org/en/index.html)
 
@@ -136,19 +136,19 @@ Krita is, and will always be, free software. There is a lot more to learn than t
 
 "a natural painting toolbox, perfect for everyone from artists to cartoonists, and beyond"
 
-![PCGamer logo](../images/pc-gamer-logo.jpg)
+![PCGamer logo](/images/pages/pc-gamer-logo.jpg)
 
 "Krita is a powerful app that any digital creator should at least take a look at"
 
-![Window Central logo](../images/windows-central-logo.png)
+![Window Central logo](/images/pages/windows-central-logo.png)
 
 "Fast, Flexible, and Free Photoshop Alternative Built by Artists"
 
-![Lifehacker logo](../images/lifehacker-logo-white-transparent.png)
+![Lifehacker logo](/images/pages/lifehacker-logo-white-transparent.png)
 
 "Krita gives budding artists and illustrators a pro-level set of tools"
 
-![CNet logo](../images/cnet-logo-png-transparent.png)
+![CNet logo](/images/pages/cnet-logo-png-transparent.png)
 
 ## Still Not Convinced?
 

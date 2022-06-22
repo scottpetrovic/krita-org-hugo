@@ -23,13 +23,13 @@ One of the main things that makes Krita stand out from its rivals is its _non-pr
 
 What a concept, eh? But here's the rub: our grassroots development model means, well... _grassroots funding_.
 
-![](../images/2021-11-16_kiki-piggy-bank_krita5.png)The Krita community is the lifeblood of the project, and without ongoing support from members like you progress would grind to a screeching halt. Thanks to our many contributors over the years Krita has come a long way from its humble beginnings and we don't take that for granted, but in order for us to realize our goal of funding 10 full-time developers to bring Krita to the next level, we seriously need your help. **So, if you can afford to chip in, please consider stepping up to become a member of the Krita Development Fund, join the discussion and get involved.** There's no limit to the Krita we can build together, but we just can't do it without you--it's as simple as that!
+![](/images/pages/2021-11-16_kiki-piggy-bank_krita5.png)The Krita community is the lifeblood of the project, and without ongoing support from members like you progress would grind to a screeching halt. Thanks to our many contributors over the years Krita has come a long way from its humble beginnings and we don't take that for granted, but in order for us to realize our goal of funding 10 full-time developers to bring Krita to the next level, we seriously need your help. **So, if you can afford to chip in, please consider stepping up to become a member of the Krita Development Fund, join the discussion and get involved.** There's no limit to the Krita we can build together, but we just can't do it without you--it's as simple as that!
 
 [**Support our mission by joining the Krita Development Fund today!**](https://fund.krita.org/)
 
  
 
-\[video width="1920" height="1080" mp4="../images/Video-for-store\_final-30fps.mp4"\]\[/video\]
+\[video width="1920" height="1080" mp4="/images/pages/Video-for-store\_final-30fps.mp4"\]\[/video\]
 
 Music provided to us by [Irene Fariña](https://www.instagram.com/irerakmusic/).
 
@@ -39,7 +39,7 @@ Music provided to us by [Irene Fariña](https://www.instagram.com/irerakmusic/).
 
 We have fully rewritten [Krita's handling of resources](https://docs.krita.org/en/reference_manual/resource_management.html) like brush presets, gradients, palettes and more. Before we had a fragile system of models, where we should have been using a proper database, and thus, we are now using an SQLite database as the core of our resource handling. This fixes many bugs with tagging and loading resources as well as a handful of UI problems. It also makes our resource system faster and leaner. Because we are now not loading all resources at once, Krita will now start up quicker, and take up less working memory (from our tests, Krita 5.0 took up 200 mb less RAM!).
 
-![](../images/bundle-manager.png)
+![](/images/pages/bundle-manager.png)
 
 #### New bundle manager and configurable resource locations.
 
@@ -47,7 +47,7 @@ Krita's resource folder used to be hardcoded. Not any more! You can now configur
 
 As well, we now support more resource libraries. We already had our own resource bundle format, but now we also support photoshop layer style libraries and brush libraries. Documents can now also be seen as a place to store resources, and though we only use it for palettes right now, we hope to extend this in the future.
 
-[![Screenshot of the new resource manager.](../images/Manageresources.png)](https://krita.org/wp-content/uploads/2021/07/Manageresources.png)
+[![Screenshot of the new resource manager.](/images/pages/Manageresources.png)](https://krita.org/wp-content/uploads/2021/07/Manageresources.png)
 
 #### New Resource Manager
 
@@ -69,7 +69,7 @@ There was a [Libre Graphics Meeting talk](https://conf.tube/videos/watch/b7b9f48
 
 But not only the 8 bit images got love. For images in 16 and 32 bit, the gradients Krita generates will now be able to use the full scale available. Furthermore, we've made it possible to store wide gamut and unbounded colors using [SVG 1.1 icc-color definitions](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/stop-color), meaning that you can now have radial gradients that contain rec2020 green, or whites that would only be possible in HDR images, bringing the conveniences of the gradient tool to people who work in these higher bit depths. We hope to support CSS 4 color definitions for the stop gradients when [it's draft](https://www.w3.org/TR/css-color-4/) has been completed.
 
-![Comparison of dithered and non-dithered gradients](../images/krita_gradient_dither.png) Comparison of gradients with and without dither, with an extra set of examples with increased contrast to display the difference.
+![Comparison of dithered and non-dithered gradients](/images/pages/krita_gradient_dither.png) Comparison of gradients with and without dither, with an extra set of examples with increased contrast to display the difference.
 
 #### Gradient Editors got an overhaul ([MR 857](https://invent.kde.org/graphics/krita/-/merge_requests/857)).
 
@@ -80,21 +80,21 @@ They are now more cohesive, compact and convenient, with small options left and 
 - New color sorting options
 - Cycle through stops with left and right arrows
 
-![](../images/new-gradient-editor-web.png)
+![](/images/pages/new-gradient-editor-web.png)
 
 #### Faster color management with fast float plugin ([MR 726](https://invent.kde.org/graphics/krita/-/merge_requests/726))
 
 With the [fast float plugin](https://www.littlecms.com/plugin/), the speed of color management improves drastically, especially with 32bit float. This is enabled by default. Color management via LittleCMS enables us to display colors accurately, and is also necessary for professional features like soft proofing and color model support, and is always applied to Krita's view of the image.
 
-![](../images/little-cms-logo.png)
+![](/images/pages/little-cms-logo.png)
 
 Work by artists using Krita:
 
-[![A longtail bird sitting on a tree branch.](../images/birdweek-sketch1longtailedtit.png)](../images/birdweek-sketch1longtailedtit.png) by [Christine Garner](https://thimblefolio.com) (CC-BY-NC-ND 4.0)
+[![A longtail bird sitting on a tree branch.](/images/pages/birdweek-sketch1longtailedtit.png)](/images/pages/birdweek-sketch1longtailedtit.png) by [Christine Garner](https://thimblefolio.com) (CC-BY-NC-ND 4.0)
 
-\[caption id="attachment\_12837" align="aligncenter" width="800"\][![A sphinx cat, the lighting making for an intimate scene](../images/m_coudert_202108010.png)](../images/m_coudert_202108010.png) [\*Matthieu COUDERT (MaKo)\* Designer graphique](https://www.makomatt.com/) (CC-BY)
+\[caption id="attachment\_12837" align="aligncenter" width="800"\][![A sphinx cat, the lighting making for an intimate scene](/images/pages/m_coudert_202108010.png)](/images/pages/m_coudert_202108010.png) [\*Matthieu COUDERT (MaKo)\* Designer graphique](https://www.makomatt.com/) (CC-BY)
 
-[![A teenage girl in a sailor school girl uniform sitting on a concrete wall, enjoying the sunset. She's joined by a tiny white creature wearing a sailor hat.](../images/negeon_renj_20210401test.png)](../images/negeon_renj_20210401test.png) By Negeon Renj (CC-BY-SA)
+[![A teenage girl in a sailor school girl uniform sitting on a concrete wall, enjoying the sunset. She's joined by a tiny white creature wearing a sailor hat.](/images/pages/negeon_renj_20210401test.png)](/images/pages/negeon_renj_20210401test.png) By Negeon Renj (CC-BY-SA)
 
 ## Faster Smudge Brushes & New MyPaint Brush Engine
 
@@ -108,7 +108,7 @@ With the pixel brush now capable of lightness and gradient mapped brush tips, th
 
 [MyPaint's brush engine](https://github.com/mypaint/libmypaint) is known for its interesting experiments in how to think of brushes. Krita had some support for it in the distant past, but we had to remove that plugin. Now, Ashwin has created a new [integration of this engine](https://docs.krita.org/en/reference_manual/brushes/brush_engines/mypaint_engine.html), allowing for MyPaint 1.2 brushes to be loaded into Krita and used for your artworks.
 
-![](../images/new-texture-modes.png)
+![](/images/pages/new-texture-modes.png)
 
 #### New modes for textured brushes ([MR 806](https://invent.kde.org/graphics/krita/-/merge_requests/806)).
 
@@ -118,13 +118,13 @@ Deif Lou has added a variety of new modes for [the texture option](https://docs.
 
 [Our Timeline Docker](https://docs.krita.org/en/reference_manual/dockers/animation_timeline.html) has a new look and a variety of improvements. We've removed the old Animation Docker and moved its core functionality directly onto the Timeline. Also, animations can be paused at any time, pinning layers has been made easier, playback range automatically adapts as key frames are added, and a number of other changes have been made to improve visual clarity and the overall feel of navigation, transport and editing. ([MR 311](https://invent.kde.org/graphics/krita/-/merge_requests/311) [MR 317](https://invent.kde.org/graphics/krita/-/merge_requests/317))
 
-![](../images/animation-50-ui.png)
+![](/images/pages/animation-50-ui.png)
 
 #### Redesigned Animation Curves Docker ([MR 601](https://invent.kde.org/graphics/krita/-/merge_requests/601))
 
 Like the Timeline Docker, [Krita's Curves Docker](https://docs.krita.org/en/reference_manual/dockers/animation_curves.html) has also been updated with an emphasis on improving the overall look and feel of navigation and editing. Value key frames are now easier to edit thanks to the improved mouse controls with axis snapping, and a box for reading and writing the specific value of the selected key frame. The visibility of individual channels can be hidden or soloed. And, new navigation options like zoomable scrollbars as well as "fit to curve" and "fit to channel" buttons make it much easier to move around the new, dynamic graph view.
 
-![](../images/animation-curves-50.png)
+![](/images/pages/animation-curves-50.png)
 
 #### Clone Frames ([MR 469](https://invent.kde.org/graphics/krita/-/merge_requests/469))
 
@@ -142,7 +142,7 @@ What good is a shiny Curves Docker without some new things to animate? Along wit
 
 Community contributor **"KnowZero"** has iterated on **Scott Petrovic**'s feature which allows for [importing videos and animated images](https://docs.krita.org/en/reference_manual/import_animation.html) as Krita animations. This improved importer can be used with an existing document or to create a new document, works with a wider range of formats, and also decreases disk overhead. It's great for studying and rotoscoping! Thank you both!
 
-![The video import dialog.](../images/import_video.png)
+![The video import dialog.](/images/pages/import_video.png)
 
 #### Even More Animation Improvements!
 
@@ -184,27 +184,27 @@ We've put together an updated animation workspace that takes advantage of our mo
 
 Work by artists using Krita:
 
-[![A turn table of a catgirl](../images/loentar_kuro-tt_003.gif)](../images/loentar_kuro-tt_003.gif) by Dmitrii Utkin
+[![A turn table of a catgirl](/images/pages/loentar_kuro-tt_003.gif)](/images/pages/loentar_kuro-tt_003.gif) by Dmitrii Utkin
 
-[![Profile portrait of a horse, painted in a very textured manner.](../images/ramon_horse_power-1024x790.jpg)](../images/ramon_horse_power.jpg) by Ramón Miranda
+[![Profile portrait of a horse, painted in a very textured manner.](/images/pages/ramon_horse_power-1024x790.jpg)](/images/pages/ramon_horse_power.jpg) by Ramón Miranda
 
-[![An anthromorphic cat named Olivia with a yellow-orange dress.](../images/simon_rollins_olivia_s_fall_dress-702x1024.png)](../images/simon_rollins_olivia_s_fall_dress.png) By Simon Rollins (CC-BY-NC-SA)
+[![An anthromorphic cat named Olivia with a yellow-orange dress.](/images/pages/simon_rollins_olivia_s_fall_dress-702x1024.png)](/images/pages/simon_rollins_olivia_s_fall_dress.png) By Simon Rollins (CC-BY-NC-SA)
 
 ## New Storyboarding Tools and Workflow
 
 Thanks to the help of one of our 2020 Google Summer of Code students, **Saurabh "Confifu" Kumar**, Krita now has a Storyboard Docker that can be used to plan the shots and storytelling of complex shorts or films. ([MR 392](https://invent.kde.org/graphics/krita/-/merge_requests/392)). This docker does not just allow you to collect and annotate scenes, but also a wide variety of export options, such as PDF and SVG. There are multiple views you can switch between (screenshot showing the row view).
 
-[![](../images/Storyboard_row_mode.png)](https://krita.org/wp-content/uploads/2020/09/Storyboard_row_mode.png)
+[![](/images/pages/Storyboard_row_mode.png)](https://krita.org/wp-content/uploads/2020/09/Storyboard_row_mode.png)
 
 #### Flexible storyboard export templating
 
 Krita's new storyboard docker has a lot of options for exporting your boards, including the ability to use SVG file data to specify a completely custom layout. This advanced feature means that, with a little work, storyboards that you make in Krita can always be made to fit your project's needs or match existing storyboard paper.
 
-[![Krita default svg storyboard export template](../images/storyboard_export_template-214x300.png)](https://krita.org/wp-content/uploads/2021/11/storyboard_export_template.png)
+[![Krita default svg storyboard export template](/images/pages/storyboard_export_template-214x300.png)](https://krita.org/wp-content/uploads/2021/11/storyboard_export_template.png)
 
 ## User Interface Improvements
 
-[![Krita in the old oxygen style](../images/krita-style-change-1024x533.png)](https://krita.org/wp-content/uploads/2021/08/krita-style-change.png)
+[![Krita in the old oxygen style](/images/pages/krita-style-change-1024x533.png)](https://krita.org/wp-content/uploads/2021/08/krita-style-change.png)
 
 Our icons were last refreshed for 2.9, and over the years a few hiccups had emerged. **Timothée Giet** was hired to give the icon set a good scrubbing, and the UI overall had all sorts of little tweaks done by **Raghavendra Kamath**, **Pedro Reis**, **Scott Petrovic**, **Tom Tom**, **Simon Repp**, **Paul Franz**, **Andrei Rudenko**, **Daniel (Sxnic)**, and **Alvin Wong**.
 
@@ -212,7 +212,7 @@ Our icons were last refreshed for 2.9, and over the years a few hiccups had emer
 
 You now have the option to make the brush editor detach to its own window, or stay as a pop-up from the toolbar. A detached brush editor can be great for brush creators that make frequent tweaks to their brushes and want to see the result. No more having to constantly show the brush editor every time you want to make a change.
 
-![](../images/detach-brush-editor.png)
+![](/images/pages/detach-brush-editor.png)
 
 #### Add option to auto hide controls in overview docker ([MR 739](https://invent.kde.org/graphics/krita/-/merge_requests/739))
 
@@ -232,7 +232,7 @@ This was mid-grey to give an unbiased understanding of the color, but it can now
 
 ## New File Formats with AVIF & WebP
 
-[![Image of a sunset](../images/avif_import_cosmos-1024x425.png)](https://krita.org/wp-content/uploads/2021/08/avif_import_cosmos.png)
+[![Image of a sunset](/images/pages/avif_import_cosmos-1024x425.png)](https://krita.org/wp-content/uploads/2021/08/avif_import_cosmos.png)
 
 This avif is a frame from Cosmos Laundromat, encoded in rec 2100 pq. Krita opens files like these as 32bit float linear images, making them ready to be used with the LUT docker.
 
@@ -258,11 +258,11 @@ A feature request granted, Krita can now save to KRZ, which is a [KRA file](http
 
 Work by artists using Krita:
 
-[![A study of wasps and other insects.](../images/m_coudert_202107015.png)](../images/m_coudert_202107015.png) [\*Matthieu COUDERT (MaKo)\* Designer graphique](https://www.makomatt.com/) (CC-BY)
+[![A study of wasps and other insects.](/images/pages/m_coudert_202107015.png)](/images/pages/m_coudert_202107015.png) [\*Matthieu COUDERT (MaKo)\* Designer graphique](https://www.makomatt.com/) (CC-BY)
 
-[![A mermaid like creature gathering pearls with their tentacles](../images/marina_moroz_The_Gatherer.png)](../images/marina_moroz_The_Gatherer.png) By Marina Moroz (CC BY SA)
+[![A mermaid like creature gathering pearls with their tentacles](/images/pages/marina_moroz_The_Gatherer.png)](/images/pages/marina_moroz_The_Gatherer.png) By Marina Moroz (CC BY SA)
 
-[![Page two and three depicting a younth reading a magic tome in a forest, but getting distracted by a deer.](../images/alex_sabo_Dragon_Caller_Page_02-03.png)](../images/alex_sabo_Dragon_Caller_Page_02-03.png) _Dragon Caller_ Page 2 and 3, Concept and Story by Daniel Rizea Art by Alexandru Sabo
+[![Page two and three depicting a younth reading a magic tome in a forest, but getting distracted by a deer.](/images/pages/alex_sabo_Dragon_Caller_Page_02-03.png)](/images/pages/alex_sabo_Dragon_Caller_Page_02-03.png) _Dragon Caller_ Page 2 and 3, Concept and Story by Daniel Rizea Art by Alexandru Sabo
 
 ## New Tools & Improvements
 
@@ -284,7 +284,7 @@ Another community contributor, **Nabil Maghfur Usman**, has added a brand new 2 
 
 The two-point and vanishing point assistants are designed so their previews and areas you can snap to draw over the whole image. With limit area, two extra handles are added so you can limit the area in which the assistant is effective, which is very useful for comic pages.
 
-![video of candle stick being transformed](../images/instack_transform.gif)
+![video of candle stick being transformed](/images/pages/instack_transform.gif)
 
 #### In-stack transform preview
 
@@ -292,7 +292,7 @@ Our transform tool preview is now composited into the layer stack. Before, Krita
 
 With in-stack transform, the blending modes and overlapping layers are composited on top of the transform preview. This was a feature funded by the Blender Institute.
 
-![Video showing several ellipse being drawn and rotated.](../images/rotate_ellipse.gif)
+![Video showing several ellipse being drawn and rotated.](/images/pages/rotate_ellipse.gif)
 
 #### Rotation ability in the Rectangle and Ellipse Tools ([MR 768](https://invent.kde.org/graphics/krita/-/merge_requests/768))
 
@@ -326,13 +326,13 @@ This was done to distinguish it from the color selection dockers.
 
 Colors can now be dragged and dropped from the Palette Docker to the canvas or Layers Docker. While dropping a color onto the canvas causes the selected area to be filled that that color, dropping a color onto the Layers Docker will create a new [Fill Layer](https://docs.krita.org/en/reference_manual/layers_and_masks/fill_layers.html) containing that color.
 
-![](../images/drop-palette-on-canvas.gif)
+![](/images/pages/drop-palette-on-canvas.gif)
 
 #### Filter Layers by Name ([MR 292](https://invent.kde.org/graphics/krita/-/merge_requests/292))
 
 Our new [layer filter widget](https://docs.krita.org/en/reference_manual/dockers/layers.html) allows you to filter layers by name, on top of color label.
 
-![Layer search in Krita](../images/krita_layer_search.png)
+![Layer search in Krita](/images/pages/krita_layer_search.png)
 
 #### Isolate Active Group ([MR 310](https://invent.kde.org/graphics/krita/-/merge_requests/310))
 
@@ -370,15 +370,15 @@ A feature contributed by **Rebecca Breu**, this lets you paste a URL from which 
 
 Work by artists using Krita:
 
-[![Landscape of a road running parallel to a river, with a line of trees separating them. The setting sun shines through the tree leaves.](../images/Landscape-raghu.png)](../images/Landscape-raghu.png) Study by Raghukamath (CC-BY-SA-4.0)
+[![Landscape of a road running parallel to a river, with a line of trees separating them. The setting sun shines through the tree leaves.](/images/pages/Landscape-raghu.png)](/images/pages/Landscape-raghu.png) Study by Raghukamath (CC-BY-SA-4.0)
 
-[![City-scape showing the front of an apartment, surrounded by plants](../images/wojtryb_cozy_tenement-690x1024.png)](../images/wojtryb_cozy_tenement.png) by [wojtryb](https://www.artstation.com/wojtryb) (CC-BY)
+[![City-scape showing the front of an apartment, surrounded by plants](/images/pages/wojtryb_cozy_tenement-690x1024.png)](/images/pages/wojtryb_cozy_tenement.png) by [wojtryb](https://www.artstation.com/wojtryb) (CC-BY)
 
-[![Depicted are a raccoon dog girl, as well as a set of comic pages where she is the protagonist.](../images/Victor-Ide-Scopacasa-Tanuki-Manga.png)](../images/Victor-Ide-Scopacasa-Tanuki-Manga.png) by Victor Ide Scopacasa
+[![Depicted are a raccoon dog girl, as well as a set of comic pages where she is the protagonist.](/images/pages/Victor-Ide-Scopacasa-Tanuki-Manga.png)](/images/pages/Victor-Ide-Scopacasa-Tanuki-Manga.png) by Victor Ide Scopacasa
 
 ## ...And More!
 
-![](../images/action-menu.gif)
+![](/images/pages/action-menu.gif)
 
 #### Search all Actions pop-up
 

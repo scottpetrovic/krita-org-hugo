@@ -7,7 +7,7 @@ date: "2017-02-07"
 
 One of the biggest additions to Krita 3.0 was the animation feature! Now you can use Krita to create hand-drawn animations, too!
 
-[![](../images/coverSize-246x300.png)](https://krita.org/wp-content/uploads/2017/02/coverSize.png)
+[![](/images/pages/coverSize-246x300.png)](https://krita.org/wp-content/uploads/2017/02/coverSize.png)
 
 And with a new feature, comes a new training DVD. Timothee Giet, who has been animating for longer than Krita has existed, has created "Animate With Krita"! The first part explains the user interface and tools, the second part explains the principles of animation. The third part showcases creating an animation from start to finish.
 

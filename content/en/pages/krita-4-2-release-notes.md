@@ -30,13 +30,13 @@ Krita has been able to work with HDR images since 2005, but it's now possible to
 - Feature - [https://docs.krita.org/en/reference\_manual/hdr\_display.html](https://docs.krita.org/en/reference_manual/hdr_display.html)
 - Background Knowledge - [https://docs.krita.org/en/general\_concepts/colors/scene\_linear\_painting.html](https://docs.krita.org/en/general_concepts/colors/scene_linear_painting.html)
 
-![](../images/intel-logo.png) This work was possible through cooperating with Intel. The work also involved helping these HDR changes get pushed into the development framework Krita uses, Qt. This can allow other applications to take advantange of these features.
+![](/images/pages/intel-logo.png) This work was possible through cooperating with Intel. The work also involved helping these HDR changes get pushed into the development framework Krita uses, Qt. This can allow other applications to take advantange of these features.
 
 ## Improved brush speed performance with vectorization and lock-free programming
 
-![](../images/avx_cgauss_60.gif)
+![](/images/pages/avx_cgauss_60.gif)
 
-![](../images/lockless.png)
+![](/images/pages/lockless.png)
 
 Two of our 2018 Google Summer of Code students sped up Krita with programming techniques called lock-free hashmap for managing the pixel data (Andrey Kamakin) and GPU vectorization  (Ivan Yossi). The lock-free hashmap should improve Krita's speed with multithreading, the chart shows the performance gains based off your CPU core count. Vectorization for the Gaussian and Soft-brush tips optimizes Krita by taking advantage of your processor's ability to do similar calculations really quickly, the gif above showing the speed difference for the gaussian brush tip.
 
@@ -44,7 +44,7 @@ The left axis on the graph is time in milliseconds. You can see the painting ope
 
 ## Improved Color Palette Docker
 
-![](../images/color-palette-improvements.png) An improved color palette from one of our Google Summer of Code students for 2018 -- Michael Zhou. It is more stable as well as some of the following changes:
+![](/images/pages/color-palette-improvements.png) An improved color palette from one of our Google Summer of Code students for 2018 -- Michael Zhou. It is more stable as well as some of the following changes:
 
 1. Instead of an entry-based docker, a rows and column based docker.
 2. It can hold empty entries, which is useful for organizing.
@@ -70,13 +70,13 @@ A couple plugins have already been created that are using some of these function
 
 ## Configure File backups
 
-![](../images/4-2-file-backup-options.png) Options to control how your backups are done. You can even control if you want your backup files to be stored in a different location. These settings are found in the "Configure Krita" main menu under the General section.
+![](/images/pages/4-2-file-backup-options.png) Options to control how your backups are done. You can even control if you want your backup files to be stored in a different location. These settings are found in the "Configure Krita" main menu under the General section.
 
 If you have very large files and are have issues saving, you can enable the Zip64 options.
 
 ## Color Gamut Masking
 
-![](../images/4-2-gamut-mask.png)
+![](/images/pages/4-2-gamut-mask.png)
 
 A new color gamut docker where you can limit your colors shown. New contributor Anna Medonosova has added this. This feature is available with the artistic color selector and the circle advanced color docker displays. Note: The default triangle selector doesn't allow this feature.
 
@@ -84,15 +84,15 @@ You can also rotate the gamut mask by using the slider. Create new masks and edi
 
 ## News about Krita
 
-![](../images/news-widget-splash-screen-2.png) A news widget has been added to the startup screen that allows Krita to fetch the latest news coming from krita.org. Now, if there's something interesting, like a new release, you'll be in the front row! Clicking on a news item will take you to the web page. This is off by default, so you will need to turn it on. Special thanks goes out to Alvin Wong on getting the OpenSSL library included to make this work.
+![](/images/pages/news-widget-splash-screen-2.png) A news widget has been added to the startup screen that allows Krita to fetch the latest news coming from krita.org. Now, if there's something interesting, like a new release, you'll be in the front row! Clicking on a news item will take you to the web page. This is off by default, so you will need to turn it on. Special thanks goes out to Alvin Wong on getting the OpenSSL library included to make this work.
 
 ## Improved Artistic Color Selector
 
-![](../images/improved-artistic-color-selector.png) More options and cleaned up Artistic Color Selector. There is now a "continuous mode" (infinity symbol) that allows you to remove the stepping with certain attributes. Additional options for new gamut masking. Anna Medonosova has added this great feature.
+![](/images/pages/improved-artistic-color-selector.png) More options and cleaned up Artistic Color Selector. There is now a "continuous mode" (infinity symbol) that allows you to remove the stepping with certain attributes. Additional options for new gamut masking. Anna Medonosova has added this great feature.
 
 ## Undo operations with move tool
 
-![](../images/undo-move-feature.gif) Move tool operations are now part part of the undo history. This means you can undo multiple moves in a row while you are using the move tool.
+![](/images/pages/undo-move-feature.gif) Move tool operations are now part part of the undo history. This means you can undo multiple moves in a row while you are using the move tool.
 
 ## Move and transform selections
 
@@ -102,11 +102,11 @@ Easily move, rotate, or transform the selection by itself. You can even edit the
 
 ## Improve display of memory usage
 
-![](../images/image.png) Give a better indication when your computer is running out of memory. This can be useful as well when making an animation and you won't have enough memory to actually render it. This bar already exists in the status bar, but should help warn people better.
+![](/images/pages/image.png) Give a better indication when your computer is running out of memory. This can be useful as well when making an animation and you won't have enough memory to actually render it. This bar already exists in the status bar, but should help warn people better.
 
 ## Overview Docker improvements
 
-![](../images/4-2-rotate-flip.png) Rotate and mirror canvas quickly from the docker. The Overview docker now also better preserves the aspect ratio and doesn't stretch when some layers are hidden.
+![](/images/pages/4-2-rotate-flip.png) Rotate and mirror canvas quickly from the docker. The Overview docker now also better preserves the aspect ratio and doesn't stretch when some layers are hidden.
 
 ## Resize layer thumbnails
 
@@ -116,7 +116,7 @@ There is a new slider on the layers docker that allows you to resize the layer t
 
 ## Multibrush improvements
 
-![](../images/4-2-multi-brush-preview.png) Better preview when showing multiple axes.
+![](/images/pages/4-2-multi-brush-preview.png) Better preview when showing multiple axes.
 
 There is also a new "Copy Translate" mode. This allows you to specify multiple cursors on the screen to paint or draw with at the same time. This is accessed and used through the Tool options like the other modes.
 
@@ -139,13 +139,13 @@ Ctrl + clicking a layer's thumbnail in the layer docker makes a selection of the
 
 ## Sharpness Changes
 
-[![](../images/sharpness_in_motion.gif)](https://krita.org/wp-content/uploads/2019/05/sharpness_in_motion.gif)
+[![](/images/pages/sharpness_in_motion.gif)](https://krita.org/wp-content/uploads/2019/05/sharpness_in_motion.gif)
 
 The sharpness option, which sets a threshold filter on the current brushtip now allows controlling this threshold with pressure, making it easy to create bristle like brushes from any with the pixel brush.
 
 ## Flow/Opacity Changes
 
-[![](../images/flow_opacity_adapt_flow_preset.gif)](https://krita.org/wp-content/uploads/2019/05/flow_opacity_adapt_flow_preset.gif)
+[![](/images/pages/flow_opacity_adapt_flow_preset.gif)](https://krita.org/wp-content/uploads/2019/05/flow_opacity_adapt_flow_preset.gif)
 
 Flow and Opacity now interact more like in other programs. The above gif shows how to adapt a brush which uses the new behaviour to go back to the old behaviour. The new behaviour should make it a lot easier to make delicate strokes. For now you can still go back to using the old behaviour globally by going to Configure Krita → General → Tools → Flow Mode
 

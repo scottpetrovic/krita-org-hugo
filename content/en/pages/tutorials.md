@@ -42,7 +42,7 @@ Brushes and Features
 - [Popup Docker and Favorites](https://www.youtube.com/watch?v=XIsQCGFM8J0)
 - [Digital Color Mixer](https://www.youtube.com/watch?v=iWY7PYSvMIw)
 
-![gdquest](../images/gdquest-long.png)
+![gdquest](/images/pages/gdquest-long.png)
 
 - [Overview of the Animation Toolset in Krita 2.9 Beta](https://www.youtube.com/watch?v=9uvju6sUNJA)
 - [Overview of the Instant Preview beta in Krita 2.9](https://www.youtube.com/watch?v=c9yiBRFQnbo)

@@ -33,11 +33,11 @@ More frame management options with animation: moving frames, adding frames, copy
 
 ### Frame Actions
 
-![](../images/frame-actions.png)
+![](/images/pages/frame-actions.png)
 
 ### **Column Actions (affects multiple layers)**
 
-![](../images/column-actions.png)
+![](/images/pages/column-actions.png)
 
  
 
@@ -45,7 +45,7 @@ More frame management options with animation: moving frames, adding frames, copy
 
 The [timeline](https://docs.krita.org/en/reference_manual/dockers/timeline.html) has been improved to better communicate how long a single frame is running, and when a frame is empty or not.
 
-![](../images/improved-animation-timeline.png)
+![](/images/pages/improved-animation-timeline.png)
 
  
 
@@ -53,7 +53,7 @@ The [timeline](https://docs.krita.org/en/reference_manual/dockers/timeline.html)
 
 Handle larger animations better by offloading the data to your drive instead of keeping all rendered frames in memory. To further assist playing back large animations, the new cache comes with a 'region of interest' setting. When the region of interest is enabled, Krita will only calculate areas that have changed on within the viewed area instead of the entire canvas. You will need both "Use region of interest" and "Limit cached frame size" enabled [in the performance settings](https://docs.krita.org/en/reference_manual/preferences/performance_settings.html#animation-cache) for it to take effect.
 
-![](../images/animation-options.png)
+![](/images/pages/animation-options.png)
 
  
 
@@ -67,7 +67,7 @@ Inspired by how color mixing works in real life, you can now pick a [small amoun
 
 Vanishing points can display reference lines where you can control the density. And you can control the [color of each assistant individually](https://docs.krita.org/en/reference_manual/tools/assistant.html#tool-options), while before all painting assistants shared one and the same color.
 
-![](../images/vanishing-point-assistant.png)
+![](/images/pages/vanishing-point-assistant.png)
 
 ## Python 2 Support and updated packages
 
@@ -103,7 +103,7 @@ The Circular Gaussian and Soft Brush tips are now up to 10 times faster. Ivan Yo
 
 ## Cross Channel Adjustment Filter and color adjustment improvement
 
-![](../images/cross-channel-adjustment.png)
+![](/images/pages/cross-channel-adjustment.png)
 
 The [Cross Channel Adjustment filter](https://docs.krita.org/en/reference_manual/filters/adjust.html#cross-channel-color-adjustment) allow you to 'drive' a color adjustment by another channel. What can you do with this? For instance,
 
@@ -117,7 +117,7 @@ The Color Adjustment (curves) filter also now has support for Hue and Saturation
 
 To make debugging tablet errors easier, we've copied Drawpile's Tablet Tester. This little dialog is accessible from [settings->configure Krita->tablet->tablet tester](https://docs.krita.org/en/reference_manual/preferences/tablet_settings.html#tablet-tester). It allows you to check if Krita can see your tablet at all. If it can't, you can sure you have a driver problem.
 
-![](../images/tablet-tester.png)
+![](/images/pages/tablet-tester.png)
 
  
 
