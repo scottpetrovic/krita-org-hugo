@@ -11,7 +11,7 @@ categories:
 
 **到 [fund.krita.org](https://fund.krita.org) 參與依項活動並成為開發基金嘅一份子吧！**
 
-### [![](images/landing-page-banner.png)](https://fund.krita.org)
+### [![](/images/posts/2021/landing-page-banner.png)](https://fund.krita.org)
 
 ### Krita：建立自社群
 

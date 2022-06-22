@@ -8,7 +8,7 @@ categories:
 
 今天我们为大家带来了 Krita 5.0 公开测试第 5 版。由于 Krita 5.0 beta 3 的 macOS 程序映像构建失败，我们在 beta 3 发布后立即修复了问题并开始构建 beta 4。但在 beta 4 构建途中 Dmitry Kazakov 又修复了一个我们希望能立即投入测试的问题，于是我们决定直接跳过 beta 4，发布 beta 5。
 
-![](images/2021-11-16_kiki-piggy-bank_krita5.png) Krita 是一个自由开源的软件项目，如果条件允许，请考虑通过[捐款](https://fund.krita.org)或[购买视频教程](https://krita.org/en/shop/)等方式为我们提供资金支持，这可以确保 Krita 的核心开发团队成员为项目全职工作。
+![](/images/posts/2021/2021-11-16_kiki-piggy-bank_krita5.png) Krita 是一个自由开源的软件项目，如果条件允许，请考虑通过[捐款](https://fund.krita.org)或[购买视频教程](https://krita.org/en/shop/)等方式为我们提供资金支持，这可以确保 Krita 的核心开发团队成员为项目全职工作。
 
 Krita 5 beta 5 在 beta 3 的基础上的新增了下列程序缺陷修复：
 

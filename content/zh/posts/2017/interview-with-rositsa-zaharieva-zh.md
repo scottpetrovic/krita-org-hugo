@@ -6,7 +6,7 @@ categories:
 coverImage: "tiny-dragon.png"
 ---
 
-![](images/tiny-dragon.png)
+![](/images/posts/2017/tiny-dragon.png)
 
 ### 可以介绍一下你自己吗？
 
@@ -24,7 +24,7 @@ coverImage: "tiny-dragon.png"
 
 我是 Bill Tiller 为 The Curse of Monkey Island 创作的作品的忠实粉丝。我还在追看 A Vampyre Story、Duke Grabowski、Mighty Swashbuckler! 等他的作品。除他之外我还在关注在社交网络上面数不清的作者和他们的作品。我还加入了一些绘画作者的群组，每天都能看到一些我从未听闻的作者们绘制的精美作品。
 
-![](images/material-1.png)
+![](/images/posts/2017/material-1.png)
 
 ### 你是在什么时候，通过什么方式第一次接触到数字绘画的？
 
@@ -46,7 +46,7 @@ coverImage: "tiny-dragon.png"
 
 就像我上面所说的那样。Krita 的功能非常丰富，而我还是一个新手，所以不能马上说清楚。不过我非常肯定我一定会越用越喜欢。
 
-### ![](images/isometrichna-vyzrojdenska-kyshta-1_003-1700.png)
+### ![](/images/posts/2017/isometrichna-vyzrojdenska-kyshta-1_003-1700.png)
 
 ### 你觉得 Krita 还有哪些地方需要改进？它有没有什么特别烦人的地方？
 

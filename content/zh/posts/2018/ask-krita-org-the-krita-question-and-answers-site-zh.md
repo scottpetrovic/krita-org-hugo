@@ -7,7 +7,7 @@ categories:
 
 在 KDE 系统管理员团队的协助下，Scott Petrovic 创建了 [https://ask.krita.org](https://ask.krita.org) —— Krita 问答网站。
 
-[![](images/ask.krita_.org_.png)](https://ask.krita.org)
+[![](/images/posts/2018/ask.krita_.org_.png)](https://ask.krita.org)
 
 在过去的几年里越来越多的人开始使用 Krita，软件的年下载量已经突破百万。我们庞大的用户群也意味着开发人员无法回答用户提出的每个问题，而许多这些问题我们曾经在[论坛](https://forum.kde.org/krita)、 [bugzilla](https://bugs.kde.org/buglist.cgi?quicksearch=krita&list_id=1567676)、[reddit](http://www.reddit.com/r/krita)、[twitter](https://twitter.com/Krita_Painting) 等处进行过回答。我们也发现现在人们不太喜欢在 [FAQ](https://docs.krita.org/en/KritaFAQ.html) 上面寻找答案。
 

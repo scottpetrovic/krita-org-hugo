@@ -29,7 +29,7 @@ Krita 从 5.0 版开始将登录 Apple Store。
 
 我们计划在 2022 年 1 月 10 日起调整在各大软件商店平台上的 Krita 售价。如果你有意趁低价时购买，请抓紧时间。
 
-![](images/2021-11-16_kiki-piggy-bank_krita5.png) Krita 是一个自由开源的软件项目，如果条件允许，请考虑通过[捐款](https://fund.krita.org)或[购买视频教程](https://krita.org/en/shop/)等方式为我们提供资金支持，这可以确保 Krita 的核心开发团队成员为项目全职工作。
+![](/images/posts/2021/2021-11-16_kiki-piggy-bank_krita5.png) Krita 是一个自由开源的软件项目，如果条件允许，请考虑通过[捐款](https://fund.krita.org)或[购买视频教程](https://krita.org/en/shop/)等方式为我们提供资金支持，这可以确保 Krita 的核心开发团队成员为项目全职工作。
 
 ## 下载
 

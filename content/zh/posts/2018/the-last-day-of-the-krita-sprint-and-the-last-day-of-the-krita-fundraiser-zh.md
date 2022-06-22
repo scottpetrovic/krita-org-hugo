@@ -5,21 +5,21 @@ categories:
   - "news-zh"
 ---
 
-[![](images/2018-fundraiser-hero2.png)](https://krita.org)
+[![](/images/posts/2018/2018-fundraiser-hero2.png)](https://krita.org)
 
 我们原本打算每天写一篇通讯，介绍在荷兰代芬特尔阳光明媚的这几天里发生的一切……
 
-[![](images/IMG_8849-200x300.jpg)](https://krita.org/wp-content/uploads/2018/10/IMG_8849.jpg)
+[![](/images/posts/2018/IMG_8849-200x300.jpg)](https://krita.org/wp-content/uploads/2018/10/IMG_8849.jpg)
 
 但我们最后还是没干成。因为我们实在是太忙了！我在撰写这篇通讯的时候还在分拣程序问题呢！我们在这次开发冲刺活动中修复了一百多个问题，这也刺激了更多的人帮助我们测试，于是在这段时间里我们又收到了大约 50 来个新的问题。要处理这么多的事务，不忙才怪呢！
 
-[![](images/bugs_fixed-1.png)](https://krita.org/wp-content/uploads/2018/10/bugs_fixed-1.png)
+[![](/images/posts/2018/bugs_fixed-1.png)](https://krita.org/wp-content/uploads/2018/10/bugs_fixed-1.png)
 
 上图：原开放问题 339 个，近 10 日新增 52 个，了结 101 个，净减少 49 个；原开放愿望 363 个，近 10 日新增 1 个，了结 5 个，净减少 4 个。
 
 在整整一周里，我们触及了 Krita 的众多部件，每一位参加者都分享了自己的经验，让每一个人对于 Krita 代码的了解更加全面。还记得我们[从1999 年便开始编写这些代码了](https://phabricator.kde.org/R37:547279396fd1e263242d8f56263ab05aa32ec1ac)，那时候谁又能想到我们竟然会有每天一百多万的用户呢？
 
-[![](images/team.png)](https://krita.org/wp-content/uploads/2018/10/team.png)
+[![](/images/posts/2018/team.png)](https://krita.org/wp-content/uploads/2018/10/team.png)
 
 在 Krita 的总部我们习惯了一个人为其他两三个人准备伙食，现在我们要给八个人：Wolthera、Irina、Boudewijn、Dmitry、Ivan、Jouni、Emmet 和 Eoin 准备伙食了。这也算是一小挑战。下面我们介绍一下这次活动的日程、菜单和我们处理的程序问题吧！
 
@@ -69,7 +69,7 @@ Dmitry 还推送了最后一组与显示器缩放有关的修复，这意味着�
 
 下午我们出门散步，遇到了代芬特尔的绵羊群，还有它们的牧羊犬。
 
-[![](images/IMG_8914.jpg)](https://krita.org/wp-content/uploads/2018/10/IMG_8914.jpg)
+[![](/images/posts/2018/IMG_8914.jpg)](https://krita.org/wp-content/uploads/2018/10/IMG_8914.jpg)
 
 当晚我们没有自己做饭。我们到 Da Mario (马记餐厅) 和当地的一位 Krita 支持者共进晚餐。
 

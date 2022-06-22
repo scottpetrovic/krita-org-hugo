@@ -17,7 +17,7 @@ https://youtu.be/VTlh2KhkOM4
 
 ### 程序缺陷修复状况
 
-[![](images/bugs_2020-1024x135.png)](https://krita.org/wp-content/uploads/2020/12/bugs_2020.png)
+[![](/images/posts/2021/bugs_2020-1024x135.png)](https://krita.org/wp-content/uploads/2020/12/bugs_2020.png)
 
 2020 年的 Krita 的程序缺陷报告平台依然“[风起云涌](https://valdyas.org/fading/hacking/krita-hacking/nightmares-and-bugs/)”。许多报告实际上不是程序缺陷而是新功能请求，程序缺陷的鉴别和清理工作就像一场没完没了的噩梦，就像是在前面这个链接里 Boud 讲述的故事一样。
 
@@ -27,7 +27,7 @@ https://youtu.be/VTlh2KhkOM4
 
 你可以在 [KDE 的每夜版本自动构建平台](https://binary-factory.kde.org/) 下载到已经启用这些新功能的测试版本——该平台的启用为我们的开发测试流程带来了质的改善。同时 KDE 的开发工作也迁移到了 Gitlab，大幅提高了我们的工作和协作效率。
 
-[![https://invent.kde.org](images/invent-1024x361.png)](https://invent.kde.org/graphics/krita/)
+[![https://invent.kde.org](/images/posts/2021/invent-1024x361.png)](https://invent.kde.org/graphics/krita/)
 
 资源框架的重写工作虽然还没结束，但所有重要的部分都已经大体完成，就差将原本的资源 (笔刷、渐变、图案等预设) 转换至新的系统了。话是这么说，但因为我们企图一次性改变太多东西，以至于实际的工作量远超当初的预想，为本来就已经神经紧绷的团队带来了太大压力。[2019 年如此](https://krita.org/en/item/krita-in-2019-and-2020/)，2020 年也是如此。2 月份的开发冲刺原本是打算开启资源系统重写的最终战役的，不料从 3 月开始世情便开始急转直下，打乱了我们的阵脚。
 
@@ -41,13 +41,13 @@ https://youtu.be/VTlh2KhkOM4
 
 我们在 2020 年开始赞助 Ramon Miranda 在 [Krita 的 Youtube 频道](https://www.youtube.com/channel/UCkIccKaHDGA8lYVmUerLhag) 定期发布教程和介绍视频 (大陆用户需要科学上网)：
 
-[![](images/youtube-1024x957.png)](https://www.youtube.com/channel/UCkIccKaHDGA8lYVmUerLhag)
+[![](/images/posts/2021/youtube-1024x957.png)](https://www.youtube.com/channel/UCkIccKaHDGA8lYVmUerLhag)
 
 除了上述视频外，Ramon 还为 Krita 制作了许多使用的笔刷预设和模板，全部可以[免费下载](https://files.kde.org/krita/extras/)，自由使用！
 
 不过 2020 年社区工作的最大亮点还要数 Raghukamath 发起的 [Krita 国际画师交流论坛](https://krita-artists.org)。截止年底该论坛已有 5 万多帖子，数百名活跃用户，人们围绕着改进 Krita 的软件界面、编写 Python 插件、作品交流等方面进行了许多有趣的讨论。最重要的是——这里终于成为了一处 Krita 用户社区守望相助的场所。
 
-### [![krita-artists website](images/krita-artists-1024x894.png)](https://krita-artists.org)
+### [![krita-artists website](/images/posts/2021/krita-artists-1024x894.png)](https://krita-artists.org)
 
 ### 经费状况
 

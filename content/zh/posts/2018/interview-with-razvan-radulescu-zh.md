@@ -6,7 +6,7 @@ categories:
 coverImage: "floatingislands.png"
 ---
 
-![](images/holiday.png)
+![](/images/posts/2018/holiday.png)
 
 ### 可以介绍一下你自己吗？
 
@@ -14,7 +14,7 @@ coverImage: "floatingislands.png"
 
 ### 你的绘画是专业性质，还是兴趣爱好，或者说两者都有？
 
-我想这个答案应该是在两者之间吧。我现在已经有能力开展美术企划，我会在之后的日子里继续努力。 ![](images/dog.png)
+我想这个答案应该是在两者之间吧。我现在已经有能力开展美术企划，我会在之后的日子里继续努力。 ![](/images/posts/2018/dog.png)
 
 ### 你的绘画风格属于哪些流派？
 
@@ -24,7 +24,7 @@ coverImage: "floatingislands.png"
 
 由于我涉入美术的时间很晚，而且主要领域是在数字绘画，那些知名的大师们对我的影响其实不大。反倒是许多当代的概念美术作者和自由画家成为了我我仰望的对象，包括：[Sparth](https://sparth.artstation.com/)、[Piotr Jabłoński](https://nicponim.artstation.com/)、[Sergey Kolesov](https://peleng.artstation.com/)、[Sinix](https://www.youtube.com/channel/UCUQTqWAaSzhAKRanOpes1nA)、[Simon Stålenhag](http://www.simonstalenhag.se/)、[Viktor Bykov](http://linesandcolors.com/2012/01/05/viktor-bykov/) 等人。他们的绘画风格和使用的技巧大相径庭，这也可以揭示为什么我的作品风格是个“大杂烩”。我一直在努力研究他们的绘画流程并将它们用在我自己的创作之中。
 
-![](images/cat.png)
+![](/images/posts/2018/cat.png)
 
 ### 你是在什么时候，通过什么方式第一次接触到数字绘画的？
 
@@ -34,7 +34,7 @@ coverImage: "floatingislands.png"
 
 大致说来，数字绘画很干净，不像传统绘画那么容易画脏；图层功能相当强大；调整和修改非常方便；还有许多特效可以使用；诸如此类。
 
-![](images/headlights.png)
+![](/images/posts/2018/headlights.png)
 
 ### 你是怎样知道 Krita 的？
 
@@ -44,13 +44,13 @@ coverImage: "floatingislands.png"
 
 刚接触 Krita 的时候我一直在使用 GIMP Paint Studio，当时我真的觉得 GPS 简直不能再好了，所以已经有很多年没有碰过 Photoshop 了。可是用了 Krita 才发现它用来画画实在是太棒了。它的各种工具和许多隐藏起来的闪光点都让我非常满意。我是那种将所有东西都鼓捣一遍的人，于是我很快就发现了 G'MIC 插件、绘画辅助尺、克隆图层等功能。即便是这样我用到的还只是冰山一角。在我看来大多数人都不怎么会用到这些功能，不过我会尝试并记住它们，或许以后能够派上用场。Krita 还支持 Python 脚本编程。作为一个自由开源的替代方案 Krita 能提供的功能实在让人惊艳。
 
-<table><tbody><tr><td><img class="alignnone wp-image-6603" src="images/house-300x234.png" alt="" width="400" height="313"></td><td><img class="wp-image-6606 alignnone" src="images/houseprocess.gif" alt="" width="400" height="313"></td></tr></tbody></table>
+<table><tbody><tr><td><img class="alignnone wp-image-6603" src="/images/posts/2018/house-300x234.png" alt="" width="400" height="313"></td><td><img class="wp-image-6606 alignnone" src="/images/posts/2018/houseprocess.gif" alt="" width="400" height="313"></td></tr></tbody></table>
 
 ### 你喜欢 Krita 的哪些方面？
 
 我最喜欢的一点是 Krita 作为替代方案与 Photoshop、Corel Painter 等“业界标准软件”比较起来毫不逊色。我是自由开源软件思想和运动的坚定支持者，因此 Krita 对于我本人和全世界都有着重要的意义。Krita 正在迅速成为 2D 美术界的 Blender。虽然人们对于换用这些替代方案并不积极，这里当然有熟悉的流程和其他历史原因，但那些刚刚进入这个领域的作者有理由去尝试它们。假以时日，他们之中的某些人会成为专业作者行列的中流砥柱。一年前人们几乎不会提起 Krita，可是随着 4.0 版的发布我觉得人们终于开始注意到它的存在了。LevelUp Facebook 群组是一个具有相当知名度的国际性概念美术作者群组 [https://www.facebook.com/groups/levelup.livestream](https://www.facebook.com/groups/levelup.livestream) 我在那里担任版主，现在时不时都会看到人们提及 Krita，这可以反映出人们关注它的开发并对其未来抱有期待。
 
-![](images/weaponize.png)
+![](/images/posts/2018/weaponize.png)
 
 ### 你觉得 Krita 还有哪些地方需要改进？它有没有什么特别烦人的地方？
 
@@ -62,7 +62,7 @@ coverImage: "floatingislands.png"
 
 ### 你可以挑出一幅你最喜欢的使用 Krita 创作的作品吗？原因是什么？
 
-![](images/floatingislands.png)
+![](/images/posts/2018/floatingislands.png)
 
 应该就是上面这幅画。我最喜欢它的原因是因为它是我用 Krita 创作的第一幅成功的作品。我一开始只是想要研究石块的画法，还有学习 Piotr Jabłoński 的用色和意境。在画面设计上它并没有什么特别之处，但我非常喜欢它的整体感觉。
 
@@ -72,13 +72,13 @@ coverImage: "floatingislands.png"
 
 在技法方面，我主要使用的是比较自然、传统的风格和技巧。我只使用了几个图层来处理前后关系，这样我就不必担心如何移动诸如中间的浮岛和漂浮的石头等物体了。还有一组图层用于处理光线，正如你在树上看到的那样。就是这么多了。
 
-![](images/greeneyes.png)
+![](/images/posts/2018/greeneyes.png)
 
 ### 我们可以在哪里看到更多你的作品呢？
 
 我的一部分作品可以在 [https://razvanc-r.deviantart.com](https://razvanc-r.deviantart.com) 上找到，不过我打算把那些画得比较好的作品移动到 [https://razcore.artstation.com/](https://razcore.artstation.com/) (现在它还是空的) 还有我的个人网站 [https://razcore.art/](https://razcore.art/) 上面。
 
-![](images/desk.png)
+![](/images/posts/2018/desk.png)
 
 人们还可以在这些地方找到我：
 

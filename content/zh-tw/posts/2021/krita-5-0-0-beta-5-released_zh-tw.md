@@ -25,7 +25,7 @@ Krita 5.0 終於正式發佈了！
 
 由 Krita 5.0 起，我們也會開始在 Apple 的 Mac App Store 上發佈 Krita 啊！
 
-![](images/2021-11-16_kiki-piggy-bank_krita5.png) Krita 是自由、免費及開源的專案。請考慮[加入 Krita 發展基金](https://fund.krita.org/)、[損款](https://krita.org/en/support-us/donations/)，或[購買教學影片](https://krita.org/en/shop/)支持我們吧！得到您們的熱心支持，我們才能夠讓核心開發者全職為 Krita 工作。
+![](/images/posts/2021/2021-11-16_kiki-piggy-bank_krita5.png) Krita 是自由、免費及開源的專案。請考慮[加入 Krita 發展基金](https://fund.krita.org/)、[損款](https://krita.org/en/support-us/donations/)，或[購買教學影片](https://krita.org/en/shop/)支持我們吧！得到您們的熱心支持，我們才能夠讓核心開發者全職為 Krita 工作。
 
 ## 下載
 

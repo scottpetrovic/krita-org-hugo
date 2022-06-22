@@ -13,7 +13,7 @@ Krita 4.2.0 的新功能包括但不限于：数位板支持的改进、在 Wind
 
 Tyson Tan (钛山) 也为 Krita 4.2.0 绘制了全新的启动图：
 
-[![](images/electrichearts_20190316_kiki_a_sm-2.png)](https://krita.org/wp-content/uploads/2019/05/electrichearts_20190316_kiki_a_sm-2.png)
+[![](/images/posts/2019/electrichearts_20190316_kiki_a_sm-2.png)](https://krita.org/wp-content/uploads/2019/05/electrichearts_20190316_kiki_a_sm-2.png)
 
 ## Krita 中文翻译近况报告
 

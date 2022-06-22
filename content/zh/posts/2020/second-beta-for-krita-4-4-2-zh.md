@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=DLXWynZT\_8s&feature=youtu.be
 
 Ramon Miranda 为此版软件中提供了 6 组全新笔刷预设：
 
-[![](images/rgba_brushes.png)](https://krita.org/wp-content/uploads/2020/12/rgba_brushes.png)
+[![](/images/posts/2020/rgba_brushes.png)](https://krita.org/wp-content/uploads/2020/12/rgba_brushes.png)
 
 ## 下载
 

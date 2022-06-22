@@ -36,17 +36,17 @@ Krita 资源包括笔尖形状、笔刷预设、渐变和图案预设、工作�
 
 在 Krita 主体一再脱胎换骨的同时，老旧的资源管理系统却被落在了后面。二十几年来我们缝缝补补将就着用，把它的代码搞得乱七八糟。有些程序员认为[重写是不好的习惯](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)，但我们觉得重写是最好的选择。Boudewijn 已经进行了大量的工作，不过它们尚未进入用户视野，你可以在[相关的 Phabricator 任务](https://phabricator.kde.org/T379)中查看详情。我们已经为此进行了周密的计划和长期的讨论。如果一切按计划进行，与资源的标签、添加、移除、更改相关的程序问题将会被一举解决。
 
-[![](images/resource_db_explorer-300x145.png)](https://krita.org/wp-content/uploads/2018/09/resource_db_explorer.png)
+[![](/images/posts/2018/resource_db_explorer-300x145.png)](https://krita.org/wp-content/uploads/2018/09/resource_db_explorer.png)
 
 ### 新功能和小惊喜
 
 Anna Medonosova 开发了一个相当有趣的新功能：色域蒙版。它可以被应用到艺术颜色选择器，也可以对已有的色域蒙版进行编辑。详情可参考 [James Gurney 的博客文章](https://gurneyjourney.blogspot.com/2008/01/color-wheel-masking-part-1.html)。
 
-[![](images/gamut-300x300.png)](https://krita.org/wp-content/uploads/2018/09/gamut.png)
+[![](/images/posts/2018/gamut-300x300.png)](https://krita.org/wp-content/uploads/2018/09/gamut.png)
 
 新增调试日志工具面板，这样 Windows 用户就再也不必与 Debug View 打交道了。
 
-[![](images/log-docker-300x300.png)](https://krita.org/wp-content/uploads/2018/09/log-docker.png)
+[![](/images/posts/2018/log-docker-300x300.png)](https://krita.org/wp-content/uploads/2018/09/log-docker.png)
 
 (图画作者 [Iza Ka](http://LifeFinalEdited.pl))
 

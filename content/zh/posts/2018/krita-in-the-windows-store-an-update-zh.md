@@ -15,21 +15,21 @@ Krita 已经在 Windows Store 上面发行了一段时间了。迄今为止绝�
 
  
 
-[![](images/store_listing-1024x980.png)](https://krita.org/wp-content/uploads/2018/07/store_listing.png)对此，微软认为违反了他们的[应用商店条款第 10.8.5 条](https://docs.microsoft.com/en-us/legal/windows/agreements/store-policies#108-financial-transactions)：
+[![](/images/posts/2018/store_listing-1024x980.png)](https://krita.org/wp-content/uploads/2018/07/store_listing.png)对此，微软认为违反了他们的[应用商店条款第 10.8.5 条](https://docs.microsoft.com/en-us/legal/windows/agreements/store-policies#108-financial-transactions)：
 
-[![](images/Screenshot_20180730_151859.png)](https://krita.org/wp-content/uploads/2018/07/Screenshot_20180730_151859.png)
+[![](/images/posts/2018/Screenshot_20180730_151859.png)](https://krita.org/wp-content/uploads/2018/07/Screenshot_20180730_151859.png)
 
 “你的软件只能通过 Microsoft Store 进行宣传和分发软件。”
 
 然而上述条款是第 10.8 条的一部分：
 
-[![](images/Screenshot_20180730_151934-1024x138.png)](https://krita.org/wp-content/uploads/2018/07/Screenshot_20180730_151934.png)
+[![](/images/posts/2018/Screenshot_20180730_151934-1024x138.png)](https://krita.org/wp-content/uploads/2018/07/Screenshot_20180730_151934.png)
 
 “如果你的软件包含内购、订阅、虚拟货币、扣费功能或获取财务信息，则下述要求将被适用：”
 
 我们觉得很明显，只有在你的软件含有第 10.8 条所述的那些东西时，第 10.8.5 条才会被适用。因此只要你的软件没有那些东西，该条文就不应被适用。然而微软并不这么认为，对于 Krita 项目管理人的提问他们回复如下：
 
-[![](images/mail_microsoft-1024x443.png)](https://krita.org/wp-content/uploads/2018/07/mail_microsoft.png)
+[![](/images/posts/2018/mail_microsoft-1024x443.png)](https://krita.org/wp-content/uploads/2018/07/mail_microsoft.png)
 
 “第 10.8.5 条款依然适用于你的软件。请更新软件的元数据并移除在 Windows Store 之外安装软件的有关 URL。如果那些 URL 不被移除，你的软件将会继续遇到与认证相关的困难。”
 

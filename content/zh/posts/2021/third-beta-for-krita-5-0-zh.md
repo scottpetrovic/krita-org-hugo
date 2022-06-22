@@ -9,9 +9,9 @@ categories:
 
 我们计划在圣诞节之前正式发布 Krita 5，就目前的情况来看，我们还是有信心能如期发布的？
 
-\[caption id="attachment\_12343" align="aligncenter" width="1024"\][![](images/electrichearts_20201224A_kiki_c1_1080P-1024x512.png)](https://krita.org/wp-content/uploads/2021/08/electrichearts_20201224A_kiki_c1_1080P.png) Krita 5.0 的全新启动图，由 Tyson Tan (钛山) 绘制\[/caption\]
+\[caption id="attachment\_12343" align="aligncenter" width="1024"\][![](/images/posts/2021/electrichearts_20201224A_kiki_c1_1080P-1024x512.png)](https://krita.org/wp-content/uploads/2021/08/electrichearts_20201224A_kiki_c1_1080P.png) Krita 5.0 的全新启动图，由 Tyson Tan (钛山) 绘制\[/caption\]
 
-![](images/2021-11-16_kiki-piggy-bank_krita5.png) Krita 是一个自由开源的软件项目，如果条件允许，请考虑通过[捐款](https://fund.krita.org)或[购买视频教程](https://krita.org/en/shop/)等方式为我们提供资金支持，这可以确保 Krita 的核心开发团队成员为项目全职工作。
+![](/images/posts/2021/2021-11-16_kiki-piggy-bank_krita5.png) Krita 是一个自由开源的软件项目，如果条件允许，请考虑通过[捐款](https://fund.krita.org)或[购买视频教程](https://krita.org/en/shop/)等方式为我们提供资金支持，这可以确保 Krita 的核心开发团队成员为项目全职工作。
 
 Krita 5 beta 3 在 beta 2 的基础上的新增了下列程序缺陷修复：
 
@@ -128,7 +128,7 @@ Krita 5 beta 3 在 beta 2 的基础上的新增了下列程序缺陷修复：
 
 我们将继续修复在公开测试版和每日构建版中发现的问题，以确保在发布 Krita 5.0 正式版时程序的可靠性。如果条件允许，请考虑通过 [Krita 开发基金](https://fund.krita.org/)支持我们的工作：
 
-[![](images/devfund-1024x346.png)](https://fund.krita.org)
+[![](/images/posts/2021/devfund-1024x346.png)](https://fund.krita.org)
 
 ## 下载
 

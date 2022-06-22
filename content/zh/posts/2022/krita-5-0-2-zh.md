@@ -39,7 +39,7 @@ Krita 5.0.2 版包括以下程序缺陷修复：
 - 修复了在安卓版中导入资源包。
 - 临时应对 ChromeOS 没有正确设置文件权限时造成的问题。
 
-![](images/2021-11-16_kiki-piggy-bank_krita5.png) Krita 是一个自由开源的软件项目，如果条件允许，请考虑通过[捐款](https://fund.krita.org)或[购买视频教程](https://krita.org/en/shop/)等方式为我们提供资金支持。您的支持可以确保 Krita 的核心开发团队成员能够为 Krita 全职工作。
+![](/images/posts/2022/2021-11-16_kiki-piggy-bank_krita5.png) Krita 是一个自由开源的软件项目，如果条件允许，请考虑通过[捐款](https://fund.krita.org)或[购买视频教程](https://krita.org/en/shop/)等方式为我们提供资金支持。您的支持可以确保 Krita 的核心开发团队成员能够为 Krita 全职工作。
 
 ## 下载
 

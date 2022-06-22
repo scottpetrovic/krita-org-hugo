@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=DLXWynZT\_8s&feature=youtu.be
 
 依個版本亦都加入咗六個 Ramon Miranda 新整嘅筆刷：
 
-[![](images/rgba_brushes.png)](https://krita.org/wp-content/uploads/2020/12/rgba_brushes.png)
+[![](/images/posts/2020/rgba_brushes.png)](https://krita.org/wp-content/uploads/2020/12/rgba_brushes.png)
 
 ## 下載
 

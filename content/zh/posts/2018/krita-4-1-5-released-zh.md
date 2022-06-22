@@ -8,7 +8,7 @@ categories:
 
 在发布 Krita 4.1.3 之后我们发现 TIFF 插件出了问题，所以我们今天紧随其后发布了 4.1.5 版本。不过这一新版并不仅仅修复了那一个问题，还有大量其他修复。这些都是正在荷兰代芬特尔进行的开发冲刺活动的成果，我们以此来庆祝 Krita 2018 年筹款活动进入尾声。
 
-[![](images/2018-fundraiser-hero2.png)](https://krita.org)
+[![](/images/posts/2018/2018-fundraiser-hero2.png)](https://krita.org)
 
 这次更新有许多亮点，如为高分辨率和视网膜屏幕提供大幅改进的界面缩放等，下面是本次更新的详情：
 

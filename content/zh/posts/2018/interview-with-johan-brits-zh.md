@@ -6,7 +6,7 @@ categories:
 coverImage: "Mental-Decay.jpg"
 ---
 
-![](images/Mental-Decay.jpg)
+![](/images/posts/2018/Mental-Decay.jpg)
 
 ### 可以介绍一下你自己吗？
 
@@ -20,7 +20,7 @@ coverImage: "Mental-Decay.jpg"
 
 我的风格相对写实，也不好说我的风格是哪派。我喜欢挑战自己去画新鲜事物。我通常的绘画对象是人和动物这些有生命的对象。
 
-![](images/When-reference-comes-to-life.jpg)
+![](/images/posts/2018/When-reference-comes-to-life.jpg)
 
 ### 哪位作者的作品对你启发最大？你把哪位作者作为你的榜样？
 
@@ -34,7 +34,7 @@ YouTube 频道“Draw with Jazza”的主持人 Jazza。虽然他多数时间都
 
 有很多方面。比如一幅画已经画得差不多了还可以很方便地回头修改，比如你可以撤销一些失误，比如画起画来不容易画脏。再说了我也很喜欢计算机技术，所以数字绘画对我来说是一箭双雕的交易。
 
-![](images/Angry-Elf.jpg)
+![](/images/posts/2018/Angry-Elf.jpg)
 
 ### 你是怎样知道 Krita 的？
 
@@ -48,7 +48,7 @@ Krita 的界面要远比 GIMP 现代化，我坚信软件界面决定第一印�
 
 我喜欢它的界面，喜欢可以用它绘制动画。虽然我只是随手玩玩它的动画功能，但感觉真的非常有意思。Krita 的响应速度很快，而且支持我的数位板，这一点 GIMP 做不到。我还喜欢它的开发人员还在一直改进它，我相信现在遇到的问题日后一定可以得到解决。
 
-![](images/Dwarf.jpg)
+![](/images/posts/2018/Dwarf.jpg)
 
 ### 你觉得 Krita 还有哪些地方需要改进？它有没有什么特别烦人的地方？
 
@@ -60,7 +60,7 @@ Krita 的界面要远比 GIMP 现代化，我坚信软件界面决定第一印�
 
 ### 你可以挑出一幅你最喜欢的使用 Krita 创作的作品吗？原因是什么？
 
-![](images/Ferret-Mount.jpg)
+![](/images/posts/2018/Ferret-Mount.jpg)
 
 一般说来我总是会最喜欢自己最新的一幅作品。但是这幅雪貂坐骑我还是特别喜欢。我尽力营造了景深和我在以往作品里面从未能实现的场景。我在绘画的过程中收获良多，也画得非常愉快。
 

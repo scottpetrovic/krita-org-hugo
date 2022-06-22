@@ -37,7 +37,7 @@ categories:
 - Fix importing bundles on Android
 - Work around issues with file permissions not being set correctly by ChromeOS
 
-![](images/2021-11-16_kiki-piggy-bank_krita5.png) Krita 是自由、免費及開源的專案。請考慮[加入 Krita 發展基金](https://fund.krita.org/)、[損款](https://krita.org/en/support-us/donations/)，或[購買教學影片](https://krita.org/en/shop/)支持我們吧！得到您們的熱心支持，我們才能夠讓核心開發者全職為 Krita 工作。
+![](/images/posts/2022/2021-11-16_kiki-piggy-bank_krita5.png) Krita 是自由、免費及開源的專案。請考慮[加入 Krita 發展基金](https://fund.krita.org/)、[損款](https://krita.org/en/support-us/donations/)，或[購買教學影片](https://krita.org/en/shop/)支持我們吧！得到您們的熱心支持，我們才能夠讓核心開發者全職為 Krita 工作。
 
 ## 下載
 

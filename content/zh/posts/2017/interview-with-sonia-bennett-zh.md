@@ -6,7 +6,7 @@ categories:
 coverImage: "Rosie.png"
 ---
 
-![](images/GirlinARedSari.png)
+![](/images/posts/2017/GirlinARedSari.png)
 
 ### 可以介绍一下你自己吗？
 
@@ -22,7 +22,7 @@ coverImage: "Rosie.png"
 
 ### 哪位作者的作品对你启发最大？你把哪位作者作为你的榜样？
 
-从 Vermeer、Fragonard 等美国和法国的印象派画家，到 Facebook 的 Krita 群组里面的作者，数不清的历史和当代作者们都在为我的创作提供灵感。我来自一个创意十足的家庭，我父亲是启发我绘画的第一人。他在我小时候常常画马给我看，然后我就会试着去照着画。他是一位极具天赋的提琴手，还可以用宽广的音域歌唱。我的母亲喜欢舞蹈，她在剧院舞台上担任导演或者亲自演出，她还精通缝纫而且厨艺过人！我的父母非常注重启发和鼓励我的创作精神。如果不是因为有他们的鼓励，还有全能的上帝为我打开艺术创作之门，让我通过绘画来展现他的荣光，我这一辈子注定只能从事毫无创意可言的乏味工作。 ![](images/Cavern.jpg)
+从 Vermeer、Fragonard 等美国和法国的印象派画家，到 Facebook 的 Krita 群组里面的作者，数不清的历史和当代作者们都在为我的创作提供灵感。我来自一个创意十足的家庭，我父亲是启发我绘画的第一人。他在我小时候常常画马给我看，然后我就会试着去照着画。他是一位极具天赋的提琴手，还可以用宽广的音域歌唱。我的母亲喜欢舞蹈，她在剧院舞台上担任导演或者亲自演出，她还精通缝纫而且厨艺过人！我的父母非常注重启发和鼓励我的创作精神。如果不是因为有他们的鼓励，还有全能的上帝为我打开艺术创作之门，让我通过绘画来展现他的荣光，我这一辈子注定只能从事毫无创意可言的乏味工作。 ![](/images/posts/2017/Cavern.jpg)
 
 ### 你是在什么时候，通过什么方式第一次接触到数字绘画的？
 
@@ -30,7 +30,7 @@ coverImage: "Rosie.png"
 
 ### 为什么你选择了数字绘画而不是传统绘画？
 
-我喜欢数字绘画的干净整洁，也喜欢它无需等待颜料干透的高效率。我也不是不想坚持进行传统绘画，但我家空间不够，而且家里面还有一只以光速搞破坏的小怪兽。我实在无法确保那些脏兮兮的画材不会落入她的魔爪，我也不想一觉醒来发现还没干透的油画上面又多了几个可疑的小手印。=) ![](images/Rosie.png)
+我喜欢数字绘画的干净整洁，也喜欢它无需等待颜料干透的高效率。我也不是不想坚持进行传统绘画，但我家空间不够，而且家里面还有一只以光速搞破坏的小怪兽。我实在无法确保那些脏兮兮的画材不会落入她的魔爪，我也不想一觉醒来发现还没干透的油画上面又多了几个可疑的小手印。=) ![](/images/posts/2017/Rosie.png)
 
 ### 你是怎样知道 Krita 的？
 
@@ -50,7 +50,7 @@ coverImage: "Rosie.png"
 
 ### Krita 和其他你正在使用的工具相比有什么独特之处？
 
-它的感觉非常专业，和其他免费的软件有天渊之别，而且还在不断改进。它的用户界面设计得非常聪明，对用户非常友好，学习和适应起来也很容易。只要你用 Krita 画上几笔，你马上就会明白它的开发人员对绘画作者的想法把握得非常准确。 ![](images/fragonardPractice.png)
+它的感觉非常专业，和其他免费的软件有天渊之别，而且还在不断改进。它的用户界面设计得非常聪明，对用户非常友好，学习和适应起来也很容易。只要你用 Krita 画上几笔，你马上就会明白它的开发人员对绘画作者的想法把握得非常准确。 ![](/images/posts/2017/fragonardPractice.png)
 
 ### 你可以挑出一幅你最喜欢的使用 Krita 创作的作品吗？原因是什么？
 
@@ -66,7 +66,7 @@ coverImage: "Rosie.png"
 
 我把大多数作品发表在社交网站上： [https://www.facebook.com/ArtfulButterfly](https://www.facebook.com/ArtfulButterfly) [https://www.artstation.com/artist/soniabennett](https://www.artstation.com/artist/soniabennett) [https://www.instagram.com/theartfulbutterfly/](https://www.instagram.com/theartfulbutterfly/) [http://graphicker.me/application/works/index/5499](http://graphicker.me/application/works/index/5499)
 
-我还加入了在 Facebook 上面的一个 Krita 群组。群里高手如云，已经有 2000 多名成员，而且还在不断增长。我们时而砥砺切磋，时而胡说八道！ ![](images/dragonfly.png)
+我还加入了在 Facebook 上面的一个 Krita 群组。群里高手如云，已经有 2000 多名成员，而且还在不断增长。我们时而砥砺切磋，时而胡说八道！ ![](/images/posts/2017/dragonfly.png)
 
 ### 你还有其他的事情想要分享吗？
 

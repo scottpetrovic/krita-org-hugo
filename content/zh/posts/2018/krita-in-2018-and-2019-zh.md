@@ -17,11 +17,11 @@ https://youtu.be/a-CY4hmkg\_I
 
 Google Summer of Code 在 2019 年将迎来全新一届的活动。我们现在还不确定 KDE 会不会参与下一届的 GSoC，但我们已经[罗列了一些开发目标供学生们参考](https://community.kde.org/GSoC/2019/Ideas)。这些是颇具挑战性的任务，如果你感兴趣，请尽早和我们的开发人员社区联系！
 
-[![](images/2018-fundraiser-hero2.png)](https://krita.org/wp-content/uploads/2018/09/2018-fundraiser-hero2.png)
+[![](/images/posts/2018/2018-fundraiser-hero2.png)](https://krita.org/wp-content/uploads/2018/09/2018-fundraiser-hero2.png)
 
 我们还举办了[**一场成功的筹款活动**](https://krita.org/en/fundraising-2018-campaign/)。这次我们并没有使用 Kickstarter，所以[很难为筹款活动带来流量](https://mail.kde.org/pipermail/kde-community/2018q4/004976.html)。但另一方面，除去了 Kickstarter 的分成之后，我们筹得的款项与 2016 年的相当接近，能够确保支持七、八个月的开发工作。
 
-### [![](images/busy.png)](https://krita.org/wp-content/uploads/2018/12/busy.png)网站访问统计概况（上图）
+### [![](/images/posts/2018/busy.png)](https://krita.org/wp-content/uploads/2018/12/busy.png)网站访问统计概况（上图）
 
 - 4,292,309 位独立访客
 - 12,416,956 次页面点击，9,726,467 次独立页面点击

@@ -27,4 +27,4 @@ categories:
 - 当前不兼容设备：一般安卓手机
 - 如果你曾经安装过 Sharaf 构建的更早版本或者自行构建、签名并安装过 Krita，请先将它们从所有用户账号下卸载，然后再从 Play Store 安装 Krita。
 
-\[caption id="attachment\_10553" align="aligncenter" width="1024"\][![](images/playstore-1024x846.png)](https://play.google.com/store/apps/details?id=org.krita) Krita on the Play Store\[/caption\]
+\[caption id="attachment\_10553" align="aligncenter" width="1024"\][![](/images/posts/2020/playstore-1024x846.png)](https://play.google.com/store/apps/details?id=org.krita) Krita on the Play Store\[/caption\]

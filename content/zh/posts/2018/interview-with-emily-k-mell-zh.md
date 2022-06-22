@@ -6,7 +6,7 @@ categories:
 coverImage: "skymoot-dragon.jpg"
 ---
 
-### ![](images/skymoot-dragon.jpg)
+### ![](/images/posts/2018/skymoot-dragon.jpg)
 
 ### 可以介绍一下你自己吗？
 
@@ -28,7 +28,7 @@ coverImage: "skymoot-dragon.jpg"
 
 我大概是在几年前的一次美术练习里面第一次使用数字美术工具的。那是一次非常轻松的经历，我只是在给自己常看的一个叫做“Wa Hate Movies”的播客里头的一个烂梗画同人。我当时没有打算认真发展数字绘画方面的能力，但后来我发现自己画得越来越多了。
 
-![](images/charactersplash.jpg)
+![](/images/posts/2018/charactersplash.jpg)
 
 ### 为什么你选择了数字绘画而不是传统绘画？
 
@@ -58,7 +58,7 @@ Krita 的社区支持非常棒，这会为软件的持续改进提供动力。�
 
 ### 你可以挑出一幅你最喜欢的使用 Krita 创作的作品吗？原因是什么？
 
-![](images/TUEpage2.jpg)
+![](/images/posts/2018/TUEpage2.jpg)
 
 我画了这张图来验证用 Krita 绘制网络漫画的可行性。这个实验挺成功的，证明了我可以用 Krita 来讲述我想要的故事。我相信我假以时日，我的画技也会越来越好。
 

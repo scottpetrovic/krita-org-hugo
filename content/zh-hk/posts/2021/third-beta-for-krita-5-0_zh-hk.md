@@ -9,9 +9,9 @@ categories:
 
 （順帶一提，就喺啱啱推出 Beta 3 冇耐之後，「Krita Plus」測試版本已經多咗幾項修正……）
 
-\[caption id="attachment\_12343" align="aligncenter" width="1024"\][![](images/electrichearts_20201224A_kiki_c1_1080P-1024x512.png)](https://krita.org/wp-content/uploads/2021/08/electrichearts_20201224A_kiki_c1_1080P.png) 由 Tyson Tan 繪畫創作嘅新版啟動畫面圖片\[/caption\]
+\[caption id="attachment\_12343" align="aligncenter" width="1024"\][![](/images/posts/2021/electrichearts_20201224A_kiki_c1_1080P-1024x512.png)](https://krita.org/wp-content/uploads/2021/08/electrichearts_20201224A_kiki_c1_1080P.png) 由 Tyson Tan 繪畫創作嘅新版啟動畫面圖片\[/caption\]
 
-![](images/2021-11-16_kiki-piggy-bank_krita5.png) Krita 係自由、免費同開源嘅專案。請考慮[向 Krita 發展基金捐款](https://fund.krita.org)或者[購買教學影片](https://krita.org/en/shop/)支持我哋啦！有你哋嘅支持，我哋先可以俾核心開發者全職為 Krita 工作。
+![](/images/posts/2021/2021-11-16_kiki-piggy-bank_krita5.png) Krita 係自由、免費同開源嘅專案。請考慮[向 Krita 發展基金捐款](https://fund.krita.org)或者[購買教學影片](https://krita.org/en/shop/)支持我哋啦！有你哋嘅支持，我哋先可以俾核心開發者全職為 Krita 工作。
 
 以下係推出咗 Beta 2 之後最值得留意嘅新修正事項： （譯者按：由於內容太多而人力資源有限，因此依段唔做完整嘅翻譯，保留返英文原文。）
 
@@ -128,7 +128,7 @@ categories:
 
 我哋會繼續修正大家喺試用 Beta 同埋 Nightly 測試版本時發現嘅各種問題，以盡力令 Krita 5 正式版發佈嘅時候可以穩定及暢順咁運作。請考慮向 [Krita 發展基金](https://fund.krita.org/)捐款以支持 Krita 嘅開發工作：
 
-[![](images/devfund-1024x346.png)](https://fund.krita.org)
+[![](/images/posts/2021/devfund-1024x346.png)](https://fund.krita.org)
 
 ## 下載
 

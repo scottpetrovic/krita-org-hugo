@@ -7,7 +7,7 @@ categories:
 
 这个周末，来自世界各地的 Krita 开发人员和绘画作者们齐聚在荷兰代芬特尔这个沉闷的偏僻小镇采购本地特产的奶酪……我的意思是为了 Krita 努力工作！不过话说回来，代芬特尔的本地特产奶酪[在荷兰也算是数一数二](http://www.kaashandel-debrink.nl/)。而 Krita 基金会的总部也设在这里。活动在周四开始，最后一位活动参加者则在今天离开。
 
-\[caption id="attachment\_6665" align="aligncenter" width="1024"\][![](images/2018-05_Krita-sprint_Deventer-1024x345.jpg)](https://krita.org/wp-content/uploads/2018/05/2018-05_Krita-sprint_Deventer.jpg) David Revoy 摄影\[/caption\]
+\[caption id="attachment\_6665" align="aligncenter" width="1024"\][![](/images/posts/2018/2018-05_Krita-sprint_Deventer-1024x345.jpg)](https://krita.org/wp-content/uploads/2018/05/2018-05_Krita-sprint_Deventer.jpg) David Revoy 摄影\[/caption\]
 
 像这样能让大家齐聚一堂的活动是非常重要的。团队成员们在进行严肃的讨论和开发工作之余共同进餐、闲谈和散步，这样可以增进友谊，让回到 # Krita IRC 聊天室之后的协作变得更加顺畅。我们在 2017 年没有组织大型的开发冲刺聚会，上次举办这样的大型聚会已经是在 [2016 年](https://krita.org/en/item/2016-krita-sprint-day-1/)了。
 
@@ -41,6 +41,6 @@ categories:
 
 当然，我们也留出了时间来散步、采购本地特产奶酪、在我们的老地方 [De Rode Kater (红猫公饭店)](http://www.derodekater.nu/) 里用餐。到了周日，荷兰六月的天空竟然放晴了！继续写代码吧！
 
-\[caption id="attachment\_6669" align="aligncenter" width="1024"\][![](images/rode_kater-1024x529.jpg)](https://krita.org/wp-content/uploads/2018/05/rode_kater.jpg)David Revoy 摄影\[/caption\]
+\[caption id="attachment\_6669" align="aligncenter" width="1024"\][![](/images/posts/2018/rode_kater-1024x529.jpg)](https://krita.org/wp-content/uploads/2018/05/rode_kater.jpg)David Revoy 摄影\[/caption\]
 
 2018 年度 Krita 开发冲刺聚会的旅行费用由 KDE e.V.赞助；住宿以及餐饮费用由 Krita 基金会赞助。

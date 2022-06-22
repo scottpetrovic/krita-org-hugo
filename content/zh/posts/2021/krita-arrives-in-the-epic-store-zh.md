@@ -9,4 +9,4 @@ Krita 在 Epic 游戏商城正式上架了。Epic 过去曾经通过 [Epic MegaG
 
 Krita 的 Epic 游戏商城版与 Steam、Microsoft Store 版相同，除了能够依托发行平台提供自动更新外，其余功能与官方网站的免费版本完全相同。请将它视作对 Krita 项目的一种捐款形式。
 
-[![](images/epic_store-1024x965.png)](https://www.epicgames.com/store/en-US/p/krita)
+[![](/images/posts/2021/epic_store-1024x965.png)](https://www.epicgames.com/store/en-US/p/krita)

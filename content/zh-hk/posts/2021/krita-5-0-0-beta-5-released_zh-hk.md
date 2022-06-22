@@ -8,7 +8,7 @@ categories:
 
 因為先前 Beta 3 嘅 macOS 版本建置出現咗問題，所以依家我哋推出咗第五個 Beta 測試版本。本來我哋打算推出 Beta 4，只不過當我們正喺度準備建置依個版本嘅時候，Dmitry Kazakov 又再修正咗一個我哋非常希望修正嘅問題，因為咁我哋跳過咗依個版本。
 
-![](images/2021-11-16_kiki-piggy-bank_krita5.png) Krita 係自由、免費同開源嘅專案。請考慮[向 Krita 發展基金捐款](https://fund.krita.org)或者[購買教學影片](https://krita.org/en/shop/)支持我哋啦！有你哋嘅支持，我哋先可以俾核心開發者全職為 Krita 工作。
+![](/images/posts/2021/2021-11-16_kiki-piggy-bank_krita5.png) Krita 係自由、免費同開源嘅專案。請考慮[向 Krita 發展基金捐款](https://fund.krita.org)或者[購買教學影片](https://krita.org/en/shop/)支持我哋啦！有你哋嘅支持，我哋先可以俾核心開發者全職為 Krita 工作。
 
 以下係 Beta 3 之後再修正咗嘅問題：
 

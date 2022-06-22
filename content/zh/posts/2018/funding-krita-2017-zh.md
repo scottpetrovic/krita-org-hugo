@@ -11,7 +11,7 @@ categories:
 
 如果不是两位赞助人雪中送炭，连续数月支持了 Dmitry 和 Boudewijn 为 Krita 所做的工作，我们的项目必定无法挨过 2017 年。他们的援助直接到达个人，并未经过 Krita 基金会，因此他们援助的金额没有反映在下表的数字里。至于 Boudewijn 本人，早在 2016 年时他的技术顾问工作已经让他筋疲力尽，实在无法一边工作一边开发 Krita。于是在 2017 年他辞去了工作，靠积蓄来支持自己进行 Krita 开发。他的资金投入也没有被算进下表的数字里。如果上述的投入全部算进去的话，账本上面“软件开发”一项的数额将要翻上一倍。
 
-[![](images/krita_2017_funding_zh.png)](https://krita.org/wp-content/uploads/2018/05/krita_2017_funding_zh.png)
+[![](/images/posts/2018/krita_2017_funding_zh.png)](https://krita.org/wp-content/uploads/2018/05/krita_2017_funding_zh.png)
 
 Boudewijn 在 2017 年被迫进行贷款，不过在 2018 年 Krita Windows Store 版本的收入进账后就全部还清了。我们在 2017 年还出版了 2016 年版画册，它的印刷费用本已不菲，而发送所需的邮费更是突破天际。最惨的是画册还积压了不少！支出的“捐款”一项反映的是我们对为 Krita 作出了重要贡献的个人进行的捐款。“志愿者”一项反映的是我们在荷兰税法允许的范围内对那些为 Krita 进行了大量志愿工作的个人的资助。
 

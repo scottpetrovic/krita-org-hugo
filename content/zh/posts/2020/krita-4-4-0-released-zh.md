@@ -21,25 +21,25 @@ Krita 的填充图层现在已经支持多线程，将填充操作拆分成多�
 
 ### 图案填充的变形功能
 
-[![](images/krita_4_4_texture_example.png)](https://krita.org/wp-content/uploads/2020/09/krita_4_4_texture_example.png)
+[![](/images/posts/2020/krita_4_4_texture_example.png)](https://krita.org/wp-content/uploads/2020/09/krita_4_4_texture_example.png)
 
 [填充图层在填充图案时](https://docs.krita.org/zh_CN/reference_manual/layers_and_masks/fill_layer_generators/pattern_fill.html) 可以对填充的图案进行变形操作，包括缩放、旋转等。几何形状绘制工具、填充工具中的图案功能也得到了相同的改进。
 
 ### 网点填充
 
-[![](images/fill_layer_screentone_postprocessing.png)](https://krita.org/wp-content/uploads/2020/09/fill_layer_screentone_postprocessing.png)
+[![](/images/posts/2020/fill_layer_screentone_postprocessing.png)](https://krita.org/wp-content/uploads/2020/09/fill_layer_screentone_postprocessing.png)
 
 填充图层新增了 [网点填充](https://docs.krita.org/zh_CN/reference_manual/layers_and_masks/fill_layer_generators/screentone.html) 模式，它可以向图层填充圆点、方点、直线、波浪线等简单的图案，如同黑白漫画中的网点纸一样，也可以用来模拟半调等印刷效果。
 
 ### 多维网格填充
 
-[![](images/multigrid-color-examples.png)](https://krita.org/wp-content/uploads/2020/09/multigrid-color-examples.png)
+[![](/images/posts/2020/multigrid-color-examples.png)](https://krita.org/wp-content/uploads/2020/09/multigrid-color-examples.png)
 
 填充图层新增了 [多维网格填充](https://docs.krita.org/zh_CN/reference_manual/layers_and_masks/fill_layer_generators/multigrid.html) 模式，可以生成包括 [彭罗斯镶嵌图案](https://en.wikipedia.org/wiki/Penrose_tiling) 在内的各种准晶体结构图案。这种填充图案是非周期性的，且在旋转方向上对称，图案中的每个晶格都不会发生重复。本模式的灵感来自后面即将介绍的 SeExpr 填充模式。
 
 ### SeExpr 填充图层
 
-[![](images/1096px-SeExpr_manual_1.jpg)](https://krita.org/wp-content/uploads/2020/08/1096px-SeExpr_manual_1.jpg)
+[![](/images/posts/2020/1096px-SeExpr_manual_1.jpg)](https://krita.org/wp-content/uploads/2020/08/1096px-SeExpr_manual_1.jpg)
 
 迪士尼动画工作室开发的 [SeExpr 表达式语言库](https://docs.krita.org/zh_CN/reference_manual/layers_and_masks/fill_layer_generators/seexpr.html) 已经通过 Amyspark 所负责的谷歌编程之夏工程整合到了 Krita。SeExpr 是一种小型着色器语言，迪士尼动画工作室用它来生成图案等素材。Krita 可以用它来生成填充图层，并且已经内建了一些效果不错的示例预设。
 
@@ -47,7 +47,7 @@ Krita 的填充图层现在已经支持多线程，将填充操作拆分成多�
 
 继 Krita 4.3 版新增的笔尖亮度模式之后，我们又为 4.4 版的笔刷引擎开发了更多的新功能。
 
-[![](images/flowers_gradients_lightness.png)](https://krita.org/wp-content/uploads/2020/09/flowers_gradients_lightness.png)
+[![](/images/posts/2020/flowers_gradients_lightness.png)](https://krita.org/wp-content/uploads/2020/09/flowers_gradients_lightness.png)
 
 上图笔画效果：搭配使用新亮度参数和混合参数 下图笔画效果：使用纹理的效果强度参数来混合渐变映射模式下的笔尖图像和纹理
 
@@ -63,13 +63,13 @@ Krita 的填充图层现在已经支持多线程，将填充操作拆分成多�
 
 对角线拾色条可以同时对当前颜色的亮度和饱和度进行改变。
 
-[![Diagonal lines in MyPaint Color Selector (Shift+M)](images/mypaint_selector_diagonal.png)](https://krita.org/wp-content/uploads/2020/09/mypaint_selector_diagonal.png)
+[![Diagonal lines in MyPaint Color Selector (Shift+M)](/images/posts/2020/mypaint_selector_diagonal.png)](https://krita.org/wp-content/uploads/2020/09/mypaint_selector_diagonal.png)
 
 ## 在 GIMP 渐变和图层样式中实时调用当前颜色
 
 GIMP 渐变格式和图层样式中的[渐变](https://docs.krita.org/zh_CN/reference_manual/resource_management/resource_gradients.html)现在可以实时调用当前的前景色和背景色。相关的几个自带渐变预设已经对此作出调整，可以更轻松地配合前景色和背景色生成光斑等特效。
 
-[![](images/fg_changing_gradients_for_sparkles.png)](https://krita.org/wp-content/uploads/2020/09/fg_changing_gradients_for_sparkles.png)
+[![](/images/posts/2020/fg_changing_gradients_for_sparkles.png)](https://krita.org/wp-content/uploads/2020/09/fg_changing_gradients_for_sparkles.png)
 
 上图为通过 GPS glare 渐变的默认值绘制的径向渐变光斑，不同颜色的光斑反映了绘制时的活动前景色。
 

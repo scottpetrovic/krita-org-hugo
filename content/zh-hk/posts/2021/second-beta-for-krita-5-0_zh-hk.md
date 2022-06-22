@@ -9,7 +9,7 @@ categories:
 
 今次測試版本亦包含咗對硬件圖形加速畫布嘅改進，尤其係喺 macOS 上或者係使用高解析度 (High-DPI) 螢幕時嘅畫布效能應該比以前有好大提升。
 
-\[caption id="attachment\_12343" align="aligncenter" width="1024"\][![](images/electrichearts_20201224A_kiki_c1_1080P-1024x512.png)](https://krita.org/wp-content/uploads/2021/08/electrichearts_20201224A_kiki_c1_1080P.png) 由 Tyson Tan 繪畫創作嘅新版啟動畫面圖片\[/caption\]
+\[caption id="attachment\_12343" align="aligncenter" width="1024"\][![](/images/posts/2021/electrichearts_20201224A_kiki_c1_1080P-1024x512.png)](https://krita.org/wp-content/uploads/2021/08/electrichearts_20201224A_kiki_c1_1080P.png) 由 Tyson Tan 繪畫創作嘅新版啟動畫面圖片\[/caption\]
 
 以下列出咗繼推出 Beta 1 之後所作出嘅大小修正同改進： （譯者按：由於內容太多而人力資源有限，因此依段唔做完整嘅翻譯，保留返英文原文。）
 
@@ -81,7 +81,7 @@ categories:
 
 我哋會繼續修正大家喺試用 Beta 同埋 Nightly 測試版本時發現嘅各種問題，以盡力令 Krita 5 正式版發佈嘅時候可以穩定及暢順咁運作。請考慮向 [Krita 發展基金](https://fund.krita.org/)捐款以支持 Krita 嘅開發工作：
 
-[![](images/devfund-1024x346.png)](https://fund.krita.org)
+[![](/images/posts/2021/devfund-1024x346.png)](https://fund.krita.org)
 
 ## 下載
 

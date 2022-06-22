@@ -9,7 +9,7 @@ Krita 4.3.0 将是 Krita 的下一个大版本更新。我们的开发人员已�
 
 与此同时，Krita 软件、文档、网站的中文版本也将迎来一次全面更新。Krita 全套文档的中文翻译工作已经接近尾声。在完全掌握了软件全部功能设计思路的情况下，中文版的写作指导思想已从“逐字翻译”转向“按照实际条件和语言习惯重新组织语言”，和“对接行业标准软件习惯用词”，力求减轻新老用户的自学难度。使用指南 (文档) 虽然已经接近翻译完毕，但目前尚未完全同步到网站，且同步后的早期可能会有大量条目与软件更新后的状态不符，估计会在今年内陆续修订完毕。在官方网站设计师 Scott Petrovic 的协助下，曾经困扰官方网站中文版的各种技术问题正在被陆续解决，还加入了专门为中文用户准备的各种体贴功能。我们会在现有框架下尽可能创造条件，让 Krita 的中文用户用得更加舒心。
 
-[![Kiki among the waterlilies](images/kiki_4.3.3_sm-1024x512.png)](https://krita.org/wp-content/uploads/2020/05/kiki_4.3.3_sm.png)
+[![Kiki among the waterlilies](/images/posts/2020/kiki_4.3.3_sm-1024x512.png)](https://krita.org/wp-content/uploads/2020/05/kiki_4.3.3_sm.png)
 
 请大家下载体验，并协助我们测试 Krita 4.3.0 的第一个 beta 测试版吧！
 

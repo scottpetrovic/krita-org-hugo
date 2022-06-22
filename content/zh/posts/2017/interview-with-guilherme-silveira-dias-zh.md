@@ -6,7 +6,7 @@ categories:
 coverImage: "fig.-Find-the-Sacred-in-Humanity.jpg"
 ---
 
-![](images/fig.-Find-the-Sacred-in-Humanity.jpg)
+![](/images/posts/2017/fig.-Find-the-Sacred-in-Humanity.jpg)
 
 ### 可以介绍一下你自己吗？
 
@@ -30,13 +30,13 @@ Peleng 的卖力和 Kim Jung Gi 的自然都让我深受启发，我真希望 Gi
 
 ### 为什么你选择了数字绘画而不是传统绘画？
 
-![](images/fig.-Character-Design-Model-Sheet-C.jpg)
+![](/images/posts/2017/fig.-Character-Design-Model-Sheet-C.jpg)
 
 我没有在它们两者之间二选一，我只是在画每张画的时候二选一。
 
 我有三种工作模式：第一种模式是穷尽全部力量追求完美。最接近这个目标的便是封面图的作品 Find the Sacred in Humanity，这是一幅为歌手 [Julie Wein](http://juliewein.com/) 创作的肖像画。还有一张描绘市井小孩的 2D 数字肖像画。第二种模式是画着玩儿，这些作品都是用 Krita 绘制的，我会把业界已有的一些人物设计图拿来参考，基于它们进行二次创作，用非营利性的方式进行发表。第三种模式则是出版地下同人志，用 WTFPL 许可证发布，它是一个非常宽容的许可证，授予使用你的作品的人们尽可能大的权力。
 
-![](images/fig.-2D-Digital-Portrait-of-a-Civilian-Baby.jpg)
+![](/images/posts/2017/fig.-2D-Digital-Portrait-of-a-Civilian-Baby.jpg)
 
 ### 你是怎样知道 Krita 的？
 
@@ -62,7 +62,7 @@ Fernando Michelotti 告诉我有这么一款完全围绕着绘画作者需求打
 
 ### 你可以挑出一幅你最喜欢的使用 Krita 创作的作品吗？原因是什么？
 
-![](images/fig.-catman.png) “猫人” (脸部特写)。因为我只用了一种笔刷、X 键切换前景和背景颜色、Ctrl + 点击选择画布颜色。这可以反映出 Krita 的色块笔刷有多好用。
+![](/images/posts/2017/fig.-catman.png) “猫人” (脸部特写)。因为我只用了一种笔刷、X 键切换前景和背景颜色、Ctrl + 点击选择画布颜色。这可以反映出 Krita 的色块笔刷有多好用。
 
 ### 我们可以在哪里看到更多你的作品呢？
 

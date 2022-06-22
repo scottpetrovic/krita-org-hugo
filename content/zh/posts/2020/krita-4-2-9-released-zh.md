@@ -14,7 +14,7 @@ Krita 团队为大家带来了新版软件，Krita 4.2.9。题外话，我们在
     
     <iframe src="https://www.youtube.com/embed/fyc8-qgxAww" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
     
-- 新加入的开发人员 Saurabh Kumar 为软件添加了 "拆分至本地选区蒙版" 功能：[![Layer Split Dialog](images/Screenshot_20200225_140252.png)](https://krita.org/wp-content/uploads/2020/02/Screenshot_20200225_140252.png)
+- 新加入的开发人员 Saurabh Kumar 为软件添加了 "拆分至本地选区蒙版" 功能：[![Layer Split Dialog](/images/posts/2020/Screenshot_20200225_140252.png)](https://krita.org/wp-content/uploads/2020/02/Screenshot_20200225_140252.png)
 
 我们在本版软件中修复了大量问题……下面列出了其中一部分：
 

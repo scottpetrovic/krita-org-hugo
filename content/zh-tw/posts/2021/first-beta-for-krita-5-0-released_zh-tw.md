@@ -8,7 +8,7 @@ categories:
 
 今天，Krita 開發團隊推出了 Krita 5.0 的首個 beta 測試版本。Krita 5.0 是一個重大更新，包含了大量的新功能及更動。
 
-\[caption id="attachment\_12343" align="aligncenter" width="1024"\][![](images/electrichearts_20201224A_kiki_c1_1080P-1024x512.png)](https://krita.org/wp-content/uploads/2021/08/electrichearts_20201224A_kiki_c1_1080P.png) 由 Tyson Tan 繪畫創作的新版啟動畫面影像\[/caption\]
+\[caption id="attachment\_12343" align="aligncenter" width="1024"\][![](/images/posts/2021/electrichearts_20201224A_kiki_c1_1080P-1024x512.png)](https://krita.org/wp-content/uploads/2021/08/electrichearts_20201224A_kiki_c1_1080P.png) 由 Tyson Tan 繪畫創作的新版啟動畫面影像\[/caption\]
 
 首先是一些**注意事項**：
 
@@ -44,11 +44,11 @@ categories:
 
 **正體中文更動：**在 Krita 5.0，翻譯者為正體中文翻譯作出了不少更動，當中修正了一些不符合一般正體中文慣例的語句或用詞，並為一部份功能重新命名。詳情請參見[正體中文版本的發佈通告](https://krita.org/zh-tw/krita-5-0-release-notes_zh-tw/#trad-chinese-changes)。
 
-[![Krita，在使用舊的 Oxygen 樣式](images/krita-style-change-1024x533.png)](https://krita.org/wp-content/uploads/2021/08/krita-style-change.png)
+[![Krita，在使用舊的 Oxygen 樣式](/images/posts/2021/krita-style-change-1024x533.png)](https://krita.org/wp-content/uploads/2021/08/krita-style-change.png)
 
 我們希望可以在九月發佈正式版，不過這不一定保證會發生的啊！在此之前，我們會繼續修正大家在試用 Beta 及 Nightly 測試版本時所發現的問題，目標在正式發佈 Krita 5 的時候能夠推出一個運作穩定及順暢的繪畫程式。請考慮向 [Krita 發展基金](https://fund.krita.org/)捐款以支持 Krita 的開發工作：
 
-[![](images/devfund-1024x346.png)](https://fund.krita.org)
+[![](/images/posts/2021/devfund-1024x346.png)](https://fund.krita.org)
 
 ## 下載
 
