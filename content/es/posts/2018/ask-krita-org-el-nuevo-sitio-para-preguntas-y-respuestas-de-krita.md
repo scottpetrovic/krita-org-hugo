@@ -7,7 +7,7 @@ categories:
 
 Con la gran ayuda de el equipo de administradores de KDE, Scott Petrovic ha creado [https://ask.krita.org](https://ask.krita.org) - el nuevo sitio interactivo de preguntas y respuestas de Krita.
 
-[![](images/ask.krita_.org_.png)](https://ask.krita.org)
+[![](/images/posts/2018/ask.krita_.org_.png)](https://ask.krita.org)
 
 Durante los dos últimos años, Krita se hecho bastante popular, con mas de un millón de descargas por año, y por lo tanto una gran cantidad de usuarios con preguntas acerca del programa, lo cual es bastante difícil para el pequeño grupo de desarrolladores el poder contestar cada una. El [foro](https://forum.kde.org/krita), [bugzilla](https://bugs.kde.org/buglist.cgi?quicksearch=krita&list_id=1567676), [reddit](http://www.reddit.com/r/krita), [twitter](https://twitter.com/Krita_Painting) - contienen bastantes preguntas de usuarios que ya se han contestado en otros lugares o previamente pero que dada la dispersión de estas comunidades pasa desapercibido para los usuarios. Y el espacio de [FAQ](https://docs.krita.org/en/KritaFAQ.html) (preguntas y respuestas) en nuestro sitio se des actualiza rápidamente y los usuarios pierden el interés en revisarlo.
 

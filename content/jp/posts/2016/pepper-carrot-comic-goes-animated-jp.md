@@ -15,7 +15,7 @@ Nikolaiさんのアイデアは、Davidさんのコミックを新しいメデ�
 
 製作ではNikolaiさんはKritaも使用して、ウェブコミックの静止画をレイヤーに分離し、追加のペイントを行います。(多くのペイントが必要になると予測しています)
 
-![pepper1](images/pepper1.gif) アニメーション製作はBlenderで行われ、[CoaTools addon](https://github.com/ndee85/coa_tools)を使用します。また、Kritaを使ってフレームバイフレームアニメーション要素(リップシンク、複雑な動きなど)を作成することも計画しています。レンダリング管理には[RenderChan](https://morevnaproject.org/renderchan)を使用します。
+![pepper1](/images/posts/2016/pepper1.gif) アニメーション製作はBlenderで行われ、[CoaTools addon](https://github.com/ndee85/coa_tools)を使用します。また、Kritaを使ってフレームバイフレームアニメーション要素(リップシンク、複雑な動きなど)を作成することも計画しています。レンダリング管理には[RenderChan](https://morevnaproject.org/renderchan)を使用します。
 
 Nikolaiさんは最初の2つのアニメーションショットのデモ動画を公開しました:
 

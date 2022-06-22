@@ -7,7 +7,7 @@ tags:
   - "japanese"
 ---
 
-[![dessin-et-peinture-numerique-avec-krita](images/dessin-et-peinture-numerique-avec-krita-211x300.png)](http://www.d-booker.fr/krita/284-dessin-et-peinture-numerique-avec-krita.html)
+[![dessin-et-peinture-numerique-avec-krita](/images/posts/2016/dessin-et-peinture-numerique-avec-krita-211x300.png)](http://www.d-booker.fr/krita/284-dessin-et-peinture-numerique-avec-krita.html)
 
 日本語及び英語の次は、フランス語話者のための最初のKrita解説本です！著者は長い間Kritaのユーザー及び貢献者として活躍し、Krita財団から発行された素晴らしいDVD教材である[Comics with KritaとSecrets of Krita](https://jp.krita.org/support-us/shop/)の作者であるTimothée Gietさんです。そしてKritaプロジェクトのリーダーであるBoudewijn Remptも序文を寄せています。
 
@@ -19,4 +19,4 @@ tags:
 
 もしKritaをまだ使っていないフランス語話者のアーティストがいたら、ぜひこのニュースを教えてあげてください！
 
-[![krita-webcomics-aplats](images/krita-webcomics-aplats-1024x345.png)](http://www.d-booker.fr/krita/284-dessin-et-peinture-numerique-avec-krita.html)
+[![krita-webcomics-aplats](/images/posts/2016/krita-webcomics-aplats-1024x345.png)](http://www.d-booker.fr/krita/284-dessin-et-peinture-numerique-avec-krita.html)

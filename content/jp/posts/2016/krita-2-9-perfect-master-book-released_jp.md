@@ -9,7 +9,7 @@ tags:
 
 新しい日本語のKritaの本「Krita 2.9 完全マスター」が発売されました！これは昨年発売された英語書籍"Digital Painting with Krita 2.9"の日本語訳になります。
 
- ![cover-jp](images/cover-jp.jpg) 表紙: Tyson Tan
+ ![cover-jp](/images/posts/2016/cover-jp.jpg) 表紙: Tyson Tan
 
 **本の概要**
 

@@ -9,7 +9,7 @@ El verano ya está aquí, con un poco de lluvia, ¡Pero verano al fin! Por lo qu
 
 <script src="https://gumroad.com/js/gumroad.js"></script>
 
-![](images/cover_small.png)
+![](/images/posts/2017/cover_small.png)
 
 Made with Krita 2016
 

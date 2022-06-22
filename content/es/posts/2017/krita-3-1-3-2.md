@@ -7,7 +7,7 @@ categories:
 
 La versión de Krita 3.1.3 ha sido lanzada, una gran cantidad de errores de código han sido corregidos, inclusive se ha logrado incluir nuevas funciones. Durante todo el mes de abril, Dmitry y Boudewijn le dieron una pausa a la elaboración de los proyectos que han sido financiado mediante el Kickstarter para enfocarse en la estabilidad de éste lanzamiento, logrando una versión bastante solida. Se les hacen llegar las mas sinceras gratitudes a todos los usuarios que ayudaron en este lanzamiento, probando las versiones alfa y beta, así como a los traductores, ademas un agradecimiento especial para Alexey Samoilov por su trabajo restituyendo el repositorio Lime PPA de Ubuntu.
 
-[![Transform around Pivot](images/pivot-1024x527.png)](https://krita.org/wp-content/uploads/2017/05/pivot.png)
+[![Transform around Pivot](/images/posts/2017/pivot-1024x527.png)](https://krita.org/wp-content/uploads/2017/05/pivot.png)
 
 Transformación alrededor de un eje (Imagen por [David Revoy](https://peppercarrot.com))
 

@@ -7,7 +7,7 @@ categories:
 
 この週末に、世界中からKritaの開発者とアーティストがチーズを買いに穏やかな地方都市のDeventerにやってきました…じゃなかった、Kritaに関するすべてを話し合って、いい仕事をするために集まりました!とはいえ、オランダで一番の[チーズショップ](http://www.kaashandel-debrink.nl/)はここDeventerにあります。そしてKrita財団の本部もあります！木曜日に開始して、最後の人が今日去っていきます。
 
-\[caption id="attachment\_6665" align="aligncenter" width="1024"\][![](images/2018-05_Krita-sprint_Deventer-1024x345.jpg)](https://krita.org/wp-content/uploads/2018/05/2018-05_Krita-sprint_Deventer.jpg) Image by David Revoy\[/caption\]
+\[caption id="attachment\_6665" align="aligncenter" width="1024"\][![](/images/posts/2018/2018-05_Krita-sprint_Deventer-1024x345.jpg)](https://krita.org/wp-content/uploads/2018/05/2018-05_Krita-sprint_Deventer.jpg) Image by David Revoy\[/caption\]
 
 こうしたイベントはとても重要です。真剣な討論とコーディングだけではなく、ランチもディナーや散歩も含めて顔を合わせることで、#kritaのIRCチャンネルに戻ってもコミュニケーションが取りやすくなるのです。大きなスプリントは2017年には行わず、最後の大きな集まりは[2016](https://krita.org/en/item/2016-krita-sprint-day-1/)でした。
 
@@ -41,6 +41,6 @@ categories:
 
 もちろん散歩や、チーズ購入や、なじみの場所[De Rode Kater](http://www.derodekater.nu/)でのランチの時間もありました。日曜日には太陽も輝きました！そしてまたコーディングに戻る時です！
 
-\[caption id="attachment\_6669" align="aligncenter" width="1024"\][![](images/rode_kater-1024x529.jpg)](https://krita.org/wp-content/uploads/2018/05/rode_kater.jpg) Image by David Revoy.\[/caption\]
+\[caption id="attachment\_6669" align="aligncenter" width="1024"\][![](/images/posts/2018/rode_kater-1024x529.jpg)](https://krita.org/wp-content/uploads/2018/05/rode_kater.jpg) Image by David Revoy.\[/caption\]
 
 The 2018 KritaスプリントはKDE e.V. (旅費)とKrita財団(宿泊と食費)によってスポンサーされました。

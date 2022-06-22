@@ -9,7 +9,7 @@ tags:
 
 Kritaが30以上の言語で使用可能なのをご存知でしょうか？ですがKrita.orgは今まで2つの言語でしか見ることができませんでした。これによりたくさんの人たちがまず英語サイトにアクセスした後、フォーラムでKritaのダウンロードと言語を切り替える方法を調べる必要がありました。我々はその状況を変えたいと考え、まずサイトを多言語化することにしました。過去数か月にわたってScott Petrovicはkrita.orgを多言語化すべく作業を行ってきました。
 
-![language-switcher](images/language-switcher.jpg)
+![language-switcher](/images/posts/2016/language-switcher.jpg)
 
  
 

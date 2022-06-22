@@ -15,37 +15,37 @@ https://www.youtube.com/watch?v=9S\_x6koOVBo
 
 ### ポップアップパレットにブラシ設定へのアクセスを追加
 
-![oncanvas_brush_editor_3](images/oncanvas_brush_editor_3.png)
+![oncanvas_brush_editor_3](/images/posts/2016/oncanvas_brush_editor_3.png)
 
 ブラシエディタを開くことなくブラシ設定をいじることができるようになりました。それぞれのブラシエンジンにはそれぞれ独自の設定があります。右下の小さな矢印アイコンをクリックしてブラシ設定の表示非表示を切り替えられます。さらにどのプロパティを表示するかも設定できます。[詳しくはドキュメントを読んでください](https://docs.krita.org/On_Canvas_Brush_Editor)。
 
 ### ソフトプルーフ
 
-![softproofing_gamutwarnings](images/softproofing_gamutwarnings.png)
+![softproofing_gamutwarnings](/images/posts/2016/softproofing_gamutwarnings.png)
 
 自分の作品がCMYKに変換されるとどう見えるのかをプレビューすることができます。さらに「色域外」表示でどの色データが失われることになるのかも見ることができます。これはWoltheraのGoogle Summer of Code 2016の最初の成果となるものです！[詳しくはドキュメントを見てください](https://docs.krita.org/Soft_Proofing)。
 
 ### 対称描画ツールの改良
 
-![mirror tool enhancements](images/mirror-tool-enhancements.jpg)
+![mirror tool enhancements](/images/posts/2016/mirror-tool-enhancements.jpg)
 
 対称描画ツールに新しいオプションが追加されました。対称軸の位置を間違えて動かしてしまわないようロックできるようになりました。また描画中に間違えて動かしてしまった場合、対称軸を中央に戻すことができるようになっています。[ドキュメントをご覧ください](https://docs.krita.org/Mirror_Tools)。
 
 ### 二値化及びウェーブレット分解(ウェーブレットノイズ低減)フィルタの追加
 
-![wavelet_decompose](images/wavelet_decompose.png)
+![wavelet_decompose](/images/posts/2016/wavelet_decompose.png)
 
 二値化フィルタ及び[ウェーブレット分解フィルタ](https://docs.krita.org/Wavelet_Decompose)プラグインが追加されました。ウェーブレット分解フィルタプラグインはMiroslav Talasekによる開発です。(日本語翻訳チームより：誤ってWavelet Decomposeの訳がWavelet Noise Reducerの訳であるウェーブレットノイズ低減になってしまっています。次バージョン3.0.2では修正がなされます)
 
 ### 変形ツールへの回転・反転ボタンの追加
 
-![quick flip](images/quick-flip.jpg)
+![quick flip](/images/posts/2016/quick-flip.jpg)
 
 自由変形ツールでレイヤーもしくは選択範囲を簡単に回転もしくは反転できるようになりました。これからは-100%と入力する必要はなくなります。反転は上下及び左右の反転ボタンが用意され、回転は時計回り及び反時計回りのボタンが用意されています。
 
 ### ドッキングパネルの改良
 
-![histogram docker](images/Histogram_docker.png)
+![histogram docker](/images/posts/2016/Histogram_docker.png)
 
 ヒストグラムをレイヤーのメニューから新たに追加された[ヒストグラムドッキングパネル](https://docs.krita.org/Histogram_docker)に移動させました。これによりヒストグラムを常に表示させておくことが可能になります。キャンバスプレビュードッキングパネルの表示品質が大きく改良され、より見やすくなりました。チャンネルドッキングパネルにはサムネイルが表示されるようになります。これはEugene Ingermanの開発による成果です。ありがとうございます！
 

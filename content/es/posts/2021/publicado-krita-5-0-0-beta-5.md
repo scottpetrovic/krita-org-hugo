@@ -7,7 +7,7 @@ categories:
 
 Tras lanzar una beta para macOS dañada, estamos lanzando Krita 5.0.0 beta 5. Beta 4 no ocurrió pues, mientras se compilaba, Dmitry Kazakov reparó un problema que realmente queríamos fuera verificado tan pronto fuera posible.
 
-![](images/2021-11-16_kiki-piggy-bank_krita5.png) Krita es un programa libre y de código abierto. Por favor considere ayudar al desarrollo del proyecto con una [donación](https://fund.krita.org) o [comprando videos de entrenamiento](https://krita.org/en/shop/). Con tu ayuda podemos mantener al equipo de desarrollo de Krita trabajando a tiempo completo.
+![](/images/posts/2021/2021-11-16_kiki-piggy-bank_krita5.png) Krita es un programa libre y de código abierto. Por favor considere ayudar al desarrollo del proyecto con una [donación](https://fund.krita.org) o [comprando videos de entrenamiento](https://krita.org/en/shop/). Con tu ayuda podemos mantener al equipo de desarrollo de Krita trabajando a tiempo completo.
 
 Esta versión contiene las siguientes mejoras desde la beta 3:
 

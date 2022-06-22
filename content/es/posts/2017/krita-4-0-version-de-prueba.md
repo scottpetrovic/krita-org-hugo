@@ -27,7 +27,7 @@ La pasada version de prueba de Krita 4.0 fue en junio del 2017, [ésta versión
 
 ### Se ha mejorado su desempeño de manera significante.
 
-![](images/gripes.png)
+![](/images/posts/2017/gripes.png)
 
 Tras la respuesta de la encuesta del uso de Krita, uno de los problemas principales resulto ser la lentitud, lo cual puede significar varias cosas, siempre habra sierto tipo de pinceles y o funciones que no pueden operar de manera instantanea, lo cual es normal. Aun así, se tuvo la oportunidad de trabajar en un proyecto específico al desempeño de Krita. Aun cuando esto significa que el lanzamiento de Krita se retardará un poco, se considera que este mejoramiento tendrá bastante significado y aceptación para los usuarios, esto incluye:
 
@@ -43,7 +43,7 @@ https://www.youtube.com/watch?v=wnPUtYo2Y9Y
 
 Se ha añadido el sistema de punto de referencia lo cual nos permite ver el comportamiento de los pinceles, lo cual nos ayuda a crearlos de mejor manera:
 
-![](images/performance-benchmarking.gif)
+![](/images/posts/2017/performance-benchmarking.gif)
 
  
 
@@ -53,19 +53,19 @@ Se ha añadido el sistema de punto de referencia lo cual nos permite ver el comp
 
 Andrey Kamakin a añadido la opcion de mostrar el cuadriculado de cada píxel cuando se hace un acercamiento del lienzo:
 
-![](images/pixel-grid-example.gif)
+![](/images/posts/2017/pixel-grid-example.gif)
 
 ### Vista previa instantánea del pincel
 
 Scott Petrovic ha estado trabajando junto a algunos artista en el diseño del editor de pinceles. Ya se han hecho bastantes cambios, la manera de nombrar y guardar es totalmente nueva. Ademas de la vista previa instantánea al cambiar cada parámetro del pincel.  Ahora también se puede disminuir los espacios de cada lado de la ventana para acomodarla en pantallas mas pequeñas.
 
-![](images/live-preview.gif)
+![](/images/posts/2017/live-preview.gif)
 
 ### Cuadriculado Isométrico
 
 Ésta nueva funcion puede ser controlada y modificada mediante el panel de cuadriculado:
 
-[![](images/isometric-1024x715.png)](https://krita.org/wp-content/uploads/2017/11/isometric.png)
+[![](/images/posts/2017/isometric-1024x715.png)](https://krita.org/wp-content/uploads/2017/11/isometric.png)
 
 ## Filtros
 

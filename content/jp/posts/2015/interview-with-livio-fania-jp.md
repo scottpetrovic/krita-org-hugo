@@ -8,7 +8,7 @@ tags:
 coverImage: "r_DM170.jpg"
 ---
 
-### ![r_dijeau-800](images/r_dijeau-800.jpeg)
+### ![r_dijeau-800](/images/posts/2015/r_dijeau-800.jpeg)
 
 ### 自己紹介をおねがいできますか？
 
@@ -32,7 +32,7 @@ coverImage: "r_DM170.jpg"
 
 デジタル作業なら作業が早くなるとは限らないと思います。逆に、私は手描きの方が、特に最初のスケッチに関して、早く作業ができます。デジタルが可能にしているのは、プロセスのコントロールです。レイヤー構造をよく整理しておけば、オリジナル版を失うことなく編集作業が可能で、クライアントが変更を求めてきた場合にとても有効です。アナログで作業していると、インクを間違ってこぼしてしまっても、Ctrl+Zはできないのです。
 
-[![r_Ev-800](images/r_Ev-800.jpeg)](https://krita.org/wp-content/uploads/2015/06/r_Ev.jpeg)
+[![r_Ev-800](/images/posts/2015/r_Ev-800.jpeg)](https://krita.org/wp-content/uploads/2015/06/r_Ev.jpeg)
 
 ### Kritaを見つけた経緯は？
 
@@ -56,7 +56,7 @@ KritaはLinux上で開発された中で最も完成されたデジタルペイ�
 
 ### 今までKritaで描いた作品の中で一番のお気に入りを選ぶとしたらどれですか？
 
-[![r_DM170-800](images/r_DM170-800.jpg)](https://krita.org/wp-content/uploads/2015/06/r_DM170.jpg) The musicians in the field(野外の音楽家達)です。
+[![r_DM170-800](/images/posts/2015/r_DM170-800.jpg)](https://krita.org/wp-content/uploads/2015/06/r_DM170.jpg) The musicians in the field(野外の音楽家達)です。
 
 ### どのようなテクニックとブラシを使いましたか？
 

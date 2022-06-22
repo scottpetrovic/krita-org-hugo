@@ -9,7 +9,7 @@ categories:
 
 En primer lugar tenemos **Papercuts**, (detalles aquí y allá que pueden mejorar Krita en general) con **84** votos. ¿Sera por que es la primera opción de la lista? ¿O por que nuestros usuarios nos están tratando de informar que Krita es generalmente estable pero que si se le"pule" un poco mas sería una gran diferencia? Si es esta segunda razón, nosotros estamos totalmente de acuerdo, de hecho el dia de ayer Boudewijn corrigió un error que de seguro molestaba a todos los usuarios que crean sus propios lienzos digitales: ¡[Ahora la profundida de los canales de color se muestran en orden](https://phabricator.kde.org/R37:b0b55278363391eeb96784fddba5a763ac09c05a)!
 
-[![](images/channel-1024x718.png)](https://krita.org/wp-content/uploads/2018/09/channel.png)
+[![](/images/posts/2018/channel-1024x718.png)](https://krita.org/wp-content/uploads/2018/09/channel.png)
 
 En segundo lugar, y para nuestra sorpresa está la **Animación** con 41 votos. Cuando añadimos esta función en Krita, nos sorprendió el entusiasmo y el afecto de nuestros usuarios hacia la función. De hecho hemos visto con nuestros propios ojos, durante el la reunión de desarrollo de Krita, cierto trabajo realizado con Krita para un programa animado de televisión bastante prometedor.
 

@@ -7,7 +7,7 @@ categories:
 
 Se ha detectado una regresión importante en Krita 4.0.2 por lo que hoy se lanza la version 4.0.3: Se ha corregido el que en ciertos casos el copiado entre imágenes que se abren con Krita causan un cierre inesperado del programa ([BUG:394068](https://bugs.kde.org/show_bug.cgi?id=394068)).
 
-[![](images/kiki_4.0_sm-1-1024x463.png)](https://krita.org/wp-content/uploads/2018/03/kiki_4.0_sm-1.png)
+[![](/images/posts/2018/kiki_4.0_sm-1-1024x463.png)](https://krita.org/wp-content/uploads/2018/03/kiki_4.0_sm-1.png)
 
 ## Otras mejoras
 

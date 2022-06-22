@@ -7,7 +7,7 @@ tags:
   - "japanese"
 ---
 
-![GSoC2016Logo](images/GSoC2016Logo.jpg)
+![GSoC2016Logo](/images/posts/2016/GSoC2016Logo.jpg)
 
 毎年GoogleはGoogle Summer of Code (GSoC)というプログラムを行っています。世界中の学生がオープンソースソフトウェアでの開発での給与付きインターンシップに参加します。今年度は嬉しいことにKritaから3人の学生がこのプログラムへの参加を認められました！(誰が参加を認められるかはどれだけのソフトウェアが参加しているか、Googleがいくつ参加枠を用意しているか、そしてその枠がどれだけ[KDE](https://www.kde.org/)に割り当てられるかにかかっています) この3人の生徒は今年の夏はKritaで働き、Kritaの3つの重要な領域での開発を行うことになります。
 

@@ -10,11 +10,11 @@ Digital Atelier、Ramon Mirandaによる絵画的ブラシプリセットパッ�
 
 この数か月、[素晴らしいデジタルペイント入門チュートリアルの Muses](https://gum.co/SZZDI?wanted=true)でも知られるRamon Mirandaは新しいブラシプリセットバンドルの開発を行いました。Digital Atelier（デジタルアトリエ）です。**50** 以上のブラシプリセットに加えて、**30**以上のブラシ先端に**20**のパターンとテクスチャが含まれています。
 
-[![](images/promo-screen-02-1024x336.png)](https://krita.org/wp-content/uploads/2018/09/promo-screen-02.png)
+[![](/images/posts/2018/promo-screen-02-1024x336.png)](https://krita.org/wp-content/uploads/2018/09/promo-screen-02.png)
 
 そして**2** **時間**を越える、ブラシプリセット作成プロセスの詳細なビデオチュートリアルも含まれています。
 
-[![](images/promo-screen-01-1024x336.png)](https://krita.org/wp-content/uploads/2018/09/promo-screen-01.png)
+[![](/images/posts/2018/promo-screen-01-1024x336.png)](https://krita.org/wp-content/uploads/2018/09/promo-screen-01.png)
 
 Ramonは題材を深く掘り下げています！油彩、パステル、水彩といった絵画的なブラシセットを作ることを目指しました。Ramonのリサーチと実験は実を結びました。
 
@@ -35,7 +35,7 @@ https://youtu.be/oMyorAEgBfE
 - 13のパステルブラシプリセット。
 - 14の水彩ブラシプリセット。
 - 34の新しいPNGブラシ先端、5のSVGブラシ先端。
-- 20の512x512紙テクスチャとパターン。[![](images/patterns-for-Atelier-1024x724.png)](https://krita.org/wp-content/uploads/2018/09/patterns-for-Atelier.png) [![](images/surfaces-for-Atelier-1024x724.png)](https://krita.org/wp-content/uploads/2018/09/surfaces-for-Atelier.png)
+- 20の512x512紙テクスチャとパターン。[![](/images/posts/2018/patterns-for-Atelier-1024x724.png)](https://krita.org/wp-content/uploads/2018/09/patterns-for-Atelier.png) [![](/images/posts/2018/surfaces-for-Atelier-1024x724.png)](https://krita.org/wp-content/uploads/2018/09/surfaces-for-Atelier.png)
 
 チュートリアルビデオ内容:
 

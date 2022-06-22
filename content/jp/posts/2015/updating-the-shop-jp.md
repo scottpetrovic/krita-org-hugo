@@ -17,4 +17,4 @@ Muses DVD、Comics with Krita及びKritaそれ自体をUSBメモリで購入で�
 
 全ての商品は送料込みです。オランダのみVATが上乗せされます。
 
-![](images/shop.png)
+![](/images/posts/2015/shop.png)

@@ -7,7 +7,7 @@ categories:
 
 El equipo de Krita esta trabajando arduamente en lo que será la nueva versión 4.2. En ésta ocasión presentamos un adelanto de lo que encontrarás en ella. Las descargas no están listas para la distribución publica, y **contienen** errores de código, más aun de los que encontraras en la versión estable y algunos de estos pueden producir la perdida de información en los documentos que se usen, por lo que se avisa el no usarlo para trabajos importantes. (También vamos a distribuir la versión 4.1.4 después de todo, ya que queremos remover algunos errores importantes para los usuarios de ésta serie)
 
-\[caption id="attachment\_8252" align="aligncenter" width="850"\][![](images/2018-fundraiser-hero2.png)](https://krita.org) ¡Apoyanos en nuestro evento para la recaudación de fondos!\[/caption\]
+\[caption id="attachment\_8252" align="aligncenter" width="850"\][![](/images/posts/2018/2018-fundraiser-hero2.png)](https://krita.org) ¡Apoyanos en nuestro evento para la recaudación de fondos!\[/caption\]
 
 La version 4.2 se puede usar sin embargo para probar lo nuevo que vendrá incluido, lo cual es bastante y por lo que esperamos de tus respuestas. Ademas de lo que veras en esta versión de prueba, también habrá otras modificaciones que aun que no se han incluido en ésta, si estarán en la versión estable final.
 
@@ -19,13 +19,13 @@ https://youtu.be/gWv--Do9L0E
 
 **Mascara de Gama**. Una de las nuevas funciones que mas nos han pedido, la mascara de gama ahora es parte del selector de color. Una [técnica descrita por James Gurney](http://gurneyjourney.blogspot.com/2011/09/part-1-gamut-masking-method.html) que te ayuda a usar colores de forma mas coordinada, ésta mascara funciona con los dos selectores, el artístico y el avanzado, inclusive se pude rotar la mascara en el selector.
 
-![](images/gamut-masking.png)
+![](/images/posts/2018/gamut-masking.png)
 
 **Un desempeño mejorado**. Siempre estamos buscando las maneras de hacer de Krita un programa mas rápido, y la posibilidad de hacerlo siempre está presente con los avances de software. Ésta versión de prueba contiene el nuevo código de Andrey Kamakin hecho en su proyecto para el Google Summer of Code: avances de "La pequeña maquina", justo desde el centro del programa, en donde cada pixel es procesado. Aun hay trabajo por realizar, por lo que puede suceder los cierres del programa de manera inesperada al usar pinceles de gran tamaño. Ademas contiene otra porción del trabajo de Ivan Yossi del mismo evento, la creación de mascaras de pincel ahora usan las instrucciones de vectorizacion del procesador, lo cual resulta en un mejor desempeño y rapidez. Dmitry también estubo ocupado mejorando el desempeño de los estilos de las capas, especialmente la de estilo de trazado, lo que resulta ademas en un mejor reproducción visual. Las capas de llenado de color también actual mucho mas rápido.
 
 **Estando al** **día** Por lo pronto solo en Linux, ya que aun estamos trabajando en el uso de ciertas partes del softaware para los otros sistemas. Al iniciar Krita ahora posee una vista de bienvenida en la cual ademas de abrir nuevos documentos o los últimos ya usados, también se pueden ver las noticias mas recientes directamente desde nuestra pagina. Por defecto la función esta desactivada para evitar que Krita se quiera conectar a nuestra pagina por el Internet cuando éste no está disponible, y solo se muestra un marco con la opción de activación justo arriba del mismo.
 
-[![](images/news_widget-1024x566.png)](https://krita.org/wp-content/uploads/2018/10/news_widget.png)
+[![](/images/posts/2018/news_widget-1024x566.png)](https://krita.org/wp-content/uploads/2018/10/news_widget.png)
 
 **Asistentes de dibujo con colores** Es posible el cambiar colores en los los asistentes de dibujo, los colores seleccionados son guardados con cada documento lo que permite mayor control por documento.
 
@@ -59,7 +59,7 @@ Otra parte en la que se está trabajando es en el **organizador** **de los recur
 
 ¡Diviértete con la versión de prueba 4.2!
 
-[![](images/4.2-preview-1024x693.png)](https://www.krita.org)
+[![](/images/posts/2018/4.2-preview-1024x693.png)](https://www.krita.org)
 
 ### Windows
 

@@ -11,7 +11,7 @@ tags:
 
 次のリリースより、Kritaは正式にOSXに完全対応します。
 
-[![krita3osx](images/krita3osx-1024x793.jpg)](https://krita.org/wp-content/uploads/2016/10/krita3osx.jpg)
+[![krita3osx](/images/posts/2016/krita3osx-1024x793.jpg)](https://krita.org/wp-content/uploads/2016/10/krita3osx.jpg)
 
  
 

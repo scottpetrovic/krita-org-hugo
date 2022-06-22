@@ -15,7 +15,7 @@ tags:
 
  Timothee Giet氏
 
-![Toothless dragon turning head](images/tumblr_nyddn9aI1z1qk9kjpo1_500.gif)![Horse galloping](images/tumblr_nydc17gN9k1qk9kjpo1_500.gif) 二作品、共にJackTheVulture氏。tumblrより
+![Toothless dragon turning head](/images/posts/2015/tumblr_nyddn9aI1z1qk9kjpo1_500.gif)![Horse galloping](/images/posts/2015/tumblr_nydc17gN9k1qk9kjpo1_500.gif) 二作品、共にJackTheVulture氏。tumblrより
 
  [ボールの落下](https://pbs.twimg.com/tweet_video/CUqCk9aUsAA8x_C.mp4)：はまの氏（@HaMoO0NoO0）。twitterより
 
@@ -41,7 +41,7 @@ tags:
 
  Dileep N氏。youtubeより。
 
-![紫色の宇宙人が歩くテストgif](images/giphy.gif) Benjamin Mitchley氏。twitterより。
+![紫色の宇宙人が歩くテストgif](/images/posts/2015/giphy.gif) Benjamin Mitchley氏。twitterより。
 
 [枕の下に隠れる鼠](https://pbs.twimg.com/tweet_video/CUsJw3jWEAAmNk6.mp4)/[木へ飛んでゆく鳥](https://pbs.twimg.com/tweet_video/CUxt-XeW4AAQqDN.mp4)：Vincent Sautter氏。twitterより。
 

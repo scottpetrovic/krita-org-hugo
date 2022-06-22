@@ -27,6 +27,6 @@ Kickstarterを行った機能のプログラミングは順調に進行してい
 
 ### Qt5 移植
 
-[![October Kiki, by Wolthera](images/kikiqt5-1024x794.png)](https://krita.org/wp-content/uploads/2015/10/kikiqt5.png)
+[![October Kiki, by Wolthera](/images/posts/2015/kikiqt5-1024x794.png)](https://krita.org/wp-content/uploads/2015/10/kikiqt5.png)
 
 Krita 3.0、言い換えると、KritaのQt5移植版は、実際にドローイングとスケッチができるところまで来ました。Qt5の開発者、特にShawn RutledgeさんはQtのタブレットサポートの向上に素晴らしい作業をしています、ただ…XCBライブラリに修正が必要なことがあります。つまりLinuxでのタブレットの扱いがまだ完璧ではなく、またWindowsのテストもまだ多くは行われていません。移植によってリグレッションも、小さいバグも、表示の問題も、パフォーマンス問題も起きています…こうしたすべてをこれから数ヶ月修正していく必要があります！

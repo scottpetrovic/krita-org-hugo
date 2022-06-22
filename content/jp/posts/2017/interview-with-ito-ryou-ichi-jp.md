@@ -8,19 +8,19 @@ coverImage: "photo_20170322_kiki_set01_angle01-1-e1527765867952.jpg"
 
 伊藤霊一/Ryouさんは（以下Ryou）Kikiのフィギュアを制作した素晴らしい日本人アーティストです。Kikiのデザインを行ったTyson Tanに改めて感謝申し上げます。今回は彼Ryouにインタビューを行いました！
 
-[![](images/photo_20170322_kiki_set01_angle01-300x200.jpg)](https://krita.org/wp-content/uploads/2017/03/photo_20170322_kiki_set01_angle01.jpg)
+[![](/images/posts/2017/photo_20170322_kiki_set01_angle01-300x200.jpg)](https://krita.org/wp-content/uploads/2017/03/photo_20170322_kiki_set01_angle01.jpg)
 
 ### まずはRyouさんの自己紹介をお願いします。
 
 プロモデラー・フィギュア原型師をやっています。日本人です。模型雑誌『月刊モデルグラフィックス』で、コーナー連載や作例製作もやっています。
 
-[![](images/photo_20170322_kiki_set01_angle02-300x200.jpg)](https://krita.org/wp-content/uploads/2017/03/photo_20170322_kiki_set01_angle02.jpg)
+[![](/images/posts/2017/photo_20170322_kiki_set01_angle02-300x200.jpg)](https://krita.org/wp-content/uploads/2017/03/photo_20170322_kiki_set01_angle02.jpg)
 
 ### いつごろからフィギュアを作り始めましたか？
 
 プラモデル製作は子供の頃からの趣味で、主にガンダムなどのアニメロボットプラモデルが好きですね。仕事としての原型製作は30歳ごろから。それ以前は漫画家をやっていたんですが、仕事に行き詰まり、糊口をしのぐために転職しました。でも絵や漫画を描くのは今でも好きです。
 
-[![](images/photo_20170322_kiki_set01_angle03a-300x200.jpg)](https://krita.org/wp-content/uploads/2017/03/photo_20170322_kiki_set01_angle03a.jpg)
+[![](/images/posts/2017/photo_20170322_kiki_set01_angle03a-300x200.jpg)](https://krita.org/wp-content/uploads/2017/03/photo_20170322_kiki_set01_angle03a.jpg)
 
 ### フィギュアの造形はどうデザインしますか？
 
@@ -28,7 +28,7 @@ coverImage: "photo_20170322_kiki_set01_angle01-1-e1527765867952.jpg"
 
 普通の人間キャラやロボットも好きなんですが、特に好きなのは獣人系キャラ。僕はいわゆるケモナーですw。このジャンルは割とニッチで、特にフィギュアはあまり存在しないので、自分の技量でも活路があるかもしれないと思い、挑戦し続けています。
 
-[![](images/photo_20170322_kiki_set01_angle04-300x200.jpg)](https://krita.org/wp-content/uploads/2017/03/photo_20170322_kiki_set01_angle04.jpg)
+[![](/images/posts/2017/photo_20170322_kiki_set01_angle04-300x200.jpg)](https://krita.org/wp-content/uploads/2017/03/photo_20170322_kiki_set01_angle04.jpg)
 
 ### 原型はどんな方法で作るのですか？ 原型から製品までどんな手順がありますか？
 
@@ -36,13 +36,13 @@ coverImage: "photo_20170322_kiki_set01_angle01-1-e1527765867952.jpg"
 
 製品はレジンキャスト製の組み立てキットで、いわゆるガレージキットと呼ばれるものです。原型をシリコーンゴムで型取りし、レジンキャストを流し込んで複製を作ります。自分の手で自家生産することも可能ですが、あまりにも手間と時間がかかりすぎるので、最近は成形業者に発注する事が多くなりました。お金はかかりますが、綺麗な製品を大量に作ってくれるので、大変助かります。
 
-[![](images/photo_20170322_kiki_set02_angle01-1-300x200.jpg)](https://krita.org/wp-content/uploads/2017/03/photo_20170322_kiki_set02_angle01-1.jpg)
+[![](/images/posts/2017/photo_20170322_kiki_set02_angle01-1-300x200.jpg)](https://krita.org/wp-content/uploads/2017/03/photo_20170322_kiki_set02_angle01-1.jpg)
 
 ### どんな経由でKritaのことを知りましたか？
 
 以前からpixivなどでデザイナーのTyson Tanさんの絵を知っていて、大ファンでした。その中にKiKiの絵があったので、これは何のキャラなのかを調べるうちに、Kritaにたどり着きました。残念ながら、まだKritaを使った事がないので、今度試してみようと思います。
 
-[![](images/photo_20170322_kiki_set02_angle02-300x200.jpg)](https://krita.org/wp-content/uploads/2017/03/photo_20170322_kiki_set02_angle02.jpg)
+[![](/images/posts/2017/photo_20170322_kiki_set02_angle02-300x200.jpg)](https://krita.org/wp-content/uploads/2017/03/photo_20170322_kiki_set02_angle02.jpg)
 
 ### どうしてKikiのフィギュアを作ることに決めましたか？
 
@@ -64,4 +64,4 @@ Tyson: 正式製作の前、私達はどのキャラクターを作るのに数�
 
 伊藤霊一のHP、B.M.Wのアドレス: [http://bmwweb3.nobody.jp/](http://bmwweb3.nobody.jp/)
 
-[![](images/photo_20170322_kiki_set02_angle03-1024x681.jpg)](https://krita.org/wp-content/uploads/2017/03/photo_20170322_kiki_set02_angle03.jpg)
+[![](/images/posts/2017/photo_20170322_kiki_set02_angle03-1024x681.jpg)](https://krita.org/wp-content/uploads/2017/03/photo_20170322_kiki_set02_angle03.jpg)

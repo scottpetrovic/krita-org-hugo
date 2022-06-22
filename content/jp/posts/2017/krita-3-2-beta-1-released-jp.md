@@ -16,11 +16,11 @@ Krita 3.2.0の最初のベータをリリースしました! 5月26日にリリ�
 - Krita 3.2は[G'Micの作者](http://gmic.eu/) によって作成されメンテナンスされているgmic-qtプラグインを使用します。Windows、OSX、多くのLinuxで動作するバイナリビルドはまだ作業中です。このプラグインは古いgmicプラグインを完全に置き換えるものです。
 - RadianのブラシセットをKritaのデフォルトブラシに追加しました。
 
-[![](images/new_brushes-478x1024.jpg)](https://krita.org/wp-content/uploads/2017/07/new_brushes.jpg)
+[![](/images/posts/2017/new_brushes-478x1024.jpg)](https://krita.org/wp-content/uploads/2017/07/new_brushes.jpg)
 
 これらのブラシは絵画的なタッチのある表現に適しています:
 
-[![](images/kiki_with_new_brushes_by_rad.jpg)](https://krita.org/wp-content/uploads/2017/07/kiki_with_new_brushes_by_rad.jpg)
+[![](/images/posts/2017/kiki_with_new_brushes_by_rad.jpg)](https://krita.org/wp-content/uploads/2017/07/kiki_with_new_brushes_by_rad.jpg)
 
 - レイヤーの可視状態やロック状態といった状態を変更する新しいショートカットが追加されました。
 - クローンブラシに様々な修正が行われました

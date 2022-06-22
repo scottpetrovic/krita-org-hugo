@@ -11,7 +11,7 @@ El equipo de Krita esta orgulloso de presentar la versión estable 3.1, ésta es
 
 También hemos compuesto y corregido el codigo detrás de Krita, para una descripción mas detallada ver la siguiente [pagina](https://krita.org/es/?page_id=4626&preview=true).
 
-[![krita_animation_3_0_2](images/krita_animation_3_0_2-1024x826.gif)](https://krita.org/wp-content/uploads/2016/09/krita_animation_3_0_2.gif)
+[![krita_animation_3_0_2](/images/posts/2016/krita_animation_3_0_2-1024x826.gif)](https://krita.org/wp-content/uploads/2016/09/krita_animation_3_0_2.gif)
 
 Entre lo mas destacado de éste lanzamiento tenemos:
 
@@ -64,4 +64,4 @@ Para todas las descargas:
 
 Si quieres ver los que es posible hacer con Krita , compra el libro [**Made with Krita 2016**](https://krita.org/en/item/made-with-krita-2016-the-krita-artbook/), el primer libro de arte hecho con el programa, ya está disponible para ordenarlo, tu compra ayuda economicamente a la Fundación Krita, ¡Gracias!
 
-\[caption id="attachment\_4645" align="alignleft" width="217"\][![Made with Krita 2016](images/cover_small-217x300.png)](https://krita.org/wp-content/uploads/2016/12/cover_small.png) Made with Krita 2016\[/caption\]
+\[caption id="attachment\_4645" align="alignleft" width="217"\][![Made with Krita 2016](/images/posts/2016/cover_small-217x300.png)](https://krita.org/wp-content/uploads/2016/12/cover_small.png) Made with Krita 2016\[/caption\]

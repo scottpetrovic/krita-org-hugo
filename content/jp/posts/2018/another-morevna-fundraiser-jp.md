@@ -13,7 +13,7 @@ Nikolaiとチームはこのプロジェクトを実現するために[クラウ
 
 – このアニメーションと同じテクニックを学ぶことができるトレーニングビデオ
 
-![](images/pepper-300x169.jpg) ![](images/synfig-300x169.png)
+![](/images/posts/2018/pepper-300x169.jpg) ![](/images/posts/2018/synfig-300x169.png)
 
 – 自分の画像のアニメーション化！前回のキャンペーンでの例は以下です:
 
@@ -24,8 +24,8 @@ Nikolaiとチームはこのプロジェクトを実現するために[クラウ
 
 このシリーズはロシアのおとぎ話「マリヤ・モレヴナ」(別名「不死身のカシチェイの死」)を未来に置き換えたものです。遠い未来が舞台で、馬の代わりにはバイクと車、主人公のイヴァン・ツァレヴィチは才能豊かなメカニックに、マリヤ・モレヴナは刀を持ったバイカーの女王に、そしてカシチェイはより不死に邪悪になっています…そう戦闘ロボットになっています！
 
-![](images/sketch.jpg)
+![](/images/posts/2018/sketch.jpg)
 
-![](images/darkness.png)
+![](/images/posts/2018/darkness.png)
 
 ### [Morevnaの新エピソードを支援！](https://morevnaproject.org/crowdfunding/morevna-episode-4/)

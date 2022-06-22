@@ -7,7 +7,7 @@ categories:
 
 Éste pasado sábado, los primeros miembros de nuestro equipo comenzaron a llegar para la reunión de desarrollo. Es ademas la ultima semana de nuestro evento de recaudación de fondos, ya casi estamos a cinco meses costeados para la corrección de errores de código. En ésta ocasión tenemos a ocho miembros en nuestra junta: Boudewijn, desarrollador principal; Dmitry, único desarrollador cuyo trabajo es costeado mediante las donaciones echas a la Fundación de Krita, Wothera; quien se encarga del manual, videos, código y programación; Ivan, quien hizo la vectorizacion de los pinceles en el Google Summer of Code de este año; Jouni, implementando el controlador de la animación, la administración de las secciones y la herramienta de imágenes de referencia; Emmet y Eoin quienes apenas comenzaron con la programación de Krita y quienes han estado desarrollando el mezclado de los colores y el movimiento kenético de los diálogos.
 
-[![](images/2018-fundraiser-hero2.png)](https://krita.org)
+[![](/images/posts/2018/2018-fundraiser-hero2.png)](https://krita.org)
 
 A éste punto ya hemos realizado bastante trabajo, Wolthera resolvió los problemas con el nuevo panel de paletas de colores de Michael Zhou en su proyecto del Google Summer of Code, funcion que ya esta en la rama "master" de krita, por lo que se puede usar con las versiones diarias de prueba, para [Windows](https://binary-factory.kde.org/job/Krita_Nightly_Windows_Build/) y para [Linux](https://binary-factory.kde.org/job/Krita_Nightly_Appimage_Build/). Ademas se ha logrado que en la herramienta de texto, se aplique automáticamente el color seleccionado.
 
@@ -17,7 +17,7 @@ Jouni ha avanzado bastante con el clonado y con los ciclos en las animaciones. E
 
 También hicimos la distribución de reportes de errores entre todos los miembros presentes para poder avanzar de manera rápida en su compostura, logrando así eliminar un gran numero de "bichos" (errores/reportes):
 
-[![](images/bugs_fixed.png)](https://bugs.kde.org/weekly-bug-summary.cgi)
+[![](/images/posts/2018/bugs_fixed.png)](https://bugs.kde.org/weekly-bug-summary.cgi)
 
 ### En vivo
 
@@ -41,4 +41,4 @@ https://www.youtube.com/watch?v=d3\_HL9OoHs4
 
 ¡Es siempre un placer el estar juntos entre los miembros de nuestro equipo! Con personas de US, México, Rusia, Finlandia y Holanda. Tres de los cuales es la primera reunión de Krita a la que asisten. Abajo se muestra a los madrugadores quienes llegaron primero y los cuales ya se encontraban desarrollando el domingo por la mañana, sin siquiera esperar por el desayuno.
 
-[![](images/DSC00220-1024x768.jpg)](https://krita.org/wp-content/uploads/2018/10/DSC00220.jpg)
+[![](/images/posts/2018/DSC00220-1024x768.jpg)](https://krita.org/wp-content/uploads/2018/10/DSC00220.jpg)

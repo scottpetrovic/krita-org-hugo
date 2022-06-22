@@ -11,10 +11,10 @@ Comics with Kritaの作者Timothée Gietによる2枚目のトレーニングDVD
 
 <iframe src="https://www.youtube.com/embed/D2pTWGc2-GU?feature=oembed" width="500" height="281" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-![](images/secrets-of-krita-box-art.png)
+![](/images/posts/2015/secrets-of-krita-box-art.png)
 
 **Secrets of Krita – DVD版** (€29,95)
 
-![](images/secrets-of-krita-box-art.png)
+![](/images/posts/2015/secrets-of-krita-box-art.png)
 
 **Secrets of Krita – ダウンロード版** (€29,95)

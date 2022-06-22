@@ -30,7 +30,7 @@ Wintabは化石みたいに古く、16ビットのWindows 3.0からあったも�
 
 次に、我々は古いGeniusのペンタブを買い、Windows 7をインストールしました。おっとビンゴです！クラッシュが発生しました。しかもタブレットのログに残っていたのと同じ不審な数値です。さて話し合いの時間です！残念ながら、このクラッシュはGeniusのWintabドライバの内部で発生していました。我々がWintab APIを間違って使っているか、Geniusの実装が間違っているかです。これが今Dmitryの見ているものです：
 
-[![Gibberish...](images/disassembly-1024x576.png)](https://krita.org/wp-content/uploads/2016/06/disassembly.png)
+[![Gibberish...](/images/posts/2016/disassembly-1024x576.png)](https://krita.org/wp-content/uploads/2016/06/disassembly.png)
 
 チンプンカンプンでしょうが…
 

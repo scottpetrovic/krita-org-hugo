@@ -24,7 +24,7 @@ Si compraste Krita en la tienda de Windows, la tienda de Epic, Steam o en Google
 
 ¡A partir de Krita 5.0 y en adelante, Krita también será enviado a la tienda de Apple!
 
-![](images/2021-11-16_kiki-piggy-bank_krita5.png) ¡Krita es un programa de libre y de código abierto. Por favor considera apoyar el proyecto [uniéndote al fondo de desarrollo](https://fund.krita.org), [donando](https://krita.org/es/apoyanos/donaciones/) o al [comprar videos de entrenamiento!](https://krita.org/en/shop/) Con tu apoyo podemos mantener al equipo central trabajando en Krita a tiempo completo.
+![](/images/posts/2021/2021-11-16_kiki-piggy-bank_krita5.png) ¡Krita es un programa de libre y de código abierto. Por favor considera apoyar el proyecto [uniéndote al fondo de desarrollo](https://fund.krita.org), [donando](https://krita.org/es/apoyanos/donaciones/) o al [comprar videos de entrenamiento!](https://krita.org/en/shop/) Con tu apoyo podemos mantener al equipo central trabajando en Krita a tiempo completo.
 
 ## Descargar
 

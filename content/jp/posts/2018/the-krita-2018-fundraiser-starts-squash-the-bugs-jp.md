@@ -5,7 +5,7 @@ categories:
   - "uncategorized-jp"
 ---
 
-[![](images/2018-fundraiser-hero2.png)](https://krita.org)
+[![](/images/posts/2018/2018-fundraiser-hero2.png)](https://krita.org)
 
 [Kritaの開発資金募集キャンペーン](https://krita.org/en/fundraising-2018-campaign/)の季節がやってきました！ 今年のゴールは1つです。安定性です。チームが集中して安定性向上に取り組めるようにします。過去の開発資金募集キャンペーンは機能についてのものでした。新機能の追加や、既存機能の拡張です。皆さんの支援のおかげでKritaは目覚ましい速度で発展を続けています！
 
@@ -29,7 +29,7 @@ Kickstarterをやめたので、最初からクレジットカード、paypal、
 
 50ユーロ以上を支援した人は、Ramon Mirandaさんによる素晴らしい新しいブラシプリセットバンドルのDigital Atelierの無料ダウンロード権利を得ることができます。50以上の高品質の絵画的ブラシプリセット（油彩、パステル、水彩）に加えて2時間を超える制作についての詳細なチュートリアルビデオが含まれています。
 
-[![](images/Digital-Atelier-Pack-Cover.png)](https://krita.org/wp-content/uploads/2018/09/Digital-Atelier-Pack-Cover.png)
+[![](/images/posts/2018/Digital-Atelier-Pack-Cover.png)](https://krita.org/wp-content/uploads/2018/09/Digital-Atelier-Pack-Cover.png)
 
  
 

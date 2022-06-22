@@ -23,7 +23,7 @@ Appleは、そうしたプロファイルを誰も必要しないと考えて、
 
 翌日、Qt5においてのOpenGLと、Fiedrichが作業をしているKrita SketchのQtQuick2への移植について議論をはじめました。議論はこのような様子でした:
 
-[![krita-sprint-janurary2016](images/krita-sprint-janurary2016-1-953x1024.png)](https://krita.org/wp-content/uploads/2016/01/krita-sprint-janurary2016-1.png)
+[![krita-sprint-janurary2016](/images/posts/2016/krita-sprint-janurary2016-1-953x1024.png)](https://krita.org/wp-content/uploads/2016/01/krita-sprint-janurary2016-1.png)
 
 (Woltheraによるイラスト)
 

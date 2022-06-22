@@ -7,7 +7,7 @@ tags:
   - "japanese"
 ---
 
-![digital-painting-cover](images/digital-painting-cover.jpg)
+![digital-painting-cover](/images/posts/2015/digital-painting-cover.jpg)
 
 Kritaの貢献者の一人、Scott Petrovicさんによる新しい本、_Digital Painting with Krita 2.9_ がリリースされました。英語によるKritaの初の本になります！230ページ超で、Kritaの仕組みについて役立つ情報でいっぱいです！
 

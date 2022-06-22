@@ -19,7 +19,7 @@ tags:
 
 我々はKritaのバグを探すのにKDEのbugzillaを使用しています。実のところbugzillaがウェブアプリケーションとしては時代遅れのデカブツであることは残念ながら認めざるを得ないのですが、今のところ我々にはこれしかありません。これが我々の役に立つようにしなければならないのです！皆さんがオープンなKritaのバグを探そうとしたとき、現れる画面はこんな感じです。
 
-![](images/Spectacle.Lh7342.png)
+![](/images/posts/2016/Spectacle.Lh7342.png)
 
 うむむ、320個のオープンなバグがありますね…ここで重要な情報は以下のものです。
 
@@ -36,21 +36,21 @@ tags:
 
 https://bugs.kde.orgにアクセスして「Create new Account」（新規アカウント作成）をクリックして下さい
 
-![](images/Spectacle.nS7342-1024x492.png)
+![](/images/posts/2016/Spectacle.nS7342-1024x492.png)
 
 登録フォームに必要な情報を入力して、送られてきたメールの確認リンクをクリックして下さい（私はEメールを読むのにテキストモードのクライアントであるAlpineを使っています。まあ別にこれを使ってもらわなきゃいけないわけではありませんが）
 
-![](images/Spectacle.kn7342.png)
+![](/images/posts/2016/Spectacle.kn7342.png)
 
 ### Email通知の設定
 
 bugzillaにログインして一番上のPreferencesのリンクをクリックして、「Email Preferences」を開いてください。Bugzillaは皆さんに大量のメールを送付する場合があります。ですが安心してください、バグ報告のメールを特別なメールボックスに簡単にフィルター出来るたくさんの特別ヘッダがあります。基本的にこれは大きく二つに分けられて、一つは普通のメール設定
 
-![](images/Spectacle.Ti7342.png)
+![](/images/posts/2016/Spectacle.Ti7342.png)
 
 そしてもう一つが重要で、 Kritaに関連する全てのバグについてちゃんとEメールを受け取れるようにする設定です。User Watchingのユーザー一覧にユーザー「krita-bugs-null@kde.org」を追加してください。
 
-![](images/Spectacle.wZ7342-1024x452.png)
+![](/images/posts/2016/Spectacle.wZ7342-1024x452.png)
 
 これで Kritaのバグに何か進展がある度Eメールが届くようになります。bugzillaの特別ヘッダを使って、全メールを取り扱いやすいように分類しておくことも可能です。
 

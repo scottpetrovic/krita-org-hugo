@@ -8,7 +8,7 @@ tags:
 coverImage: "FB_IMG_1439772527743.jpg"
 ---
 
-[![received_855058494564643](images/received_855058494564643.jpeg)](https://krita.org/wp-content/uploads/2015/09/received_855058494564643.jpeg)
+[![received_855058494564643](/images/posts/2015/received_855058494564643.jpeg)](https://krita.org/wp-content/uploads/2015/09/received_855058494564643.jpeg)
 
 ### 自己紹介をおねがいできますか？
 
@@ -34,7 +34,7 @@ coverImage: "FB_IMG_1439772527743.jpg"
 
 実のところ、鉛筆、ペン、水彩での絵も多く描いています。ですが、デジタルでは組み合わせに無限の可能性があり、コストを考えずに実験ができます。(お金も時間の意味でも)
 
-### [![FB_IMG_1439759834844](images/FB_IMG_1439759834844.jpg)](https://krita.org/wp-content/uploads/2015/09/FB_IMG_1439759834844.jpg) Kritaを見つけた経緯は？
+### [![FB_IMG_1439759834844](/images/posts/2015/FB_IMG_1439759834844.jpg)](https://krita.org/wp-content/uploads/2015/09/FB_IMG_1439759834844.jpg) Kritaを見つけた経緯は？
 
 GIMPでのお絵かきの資料やアドバイスを探していたら、David RevoyさんがKritaを使って無料の「ペッパー＆キャロット」ウェブコミックを製作しているのを見つけました。絵を見て、感銘を受けました。素晴らしいです。
 
@@ -58,7 +58,7 @@ GIMPでのお絵かきの資料やアドバイスを探していたら、David R
 
 毎日、私は新しいイラストや習作を描いています。ですが、選ぶとしたら「ギャングスタパグ」です。Wetブラシを多用しています。現実の水彩ととても似たブラシです。実際の画材と基本的に同じワークフローです。
 
-### [![FB_IMG_1439772527743](images/FB_IMG_1439772527743.jpg)](https://krita.org/wp-content/uploads/2015/09/FB_IMG_1439772527743.jpg) どのようなテクニックとブラシを使いましたか？
+### [![FB_IMG_1439772527743](/images/posts/2015/FB_IMG_1439772527743.jpg)](https://krita.org/wp-content/uploads/2015/09/FB_IMG_1439772527743.jpg) どのようなテクニックとブラシを使いましたか？
 
 Wetブラシや、乗算やオーバレイ合成モードのエアブラシなどです。私が大体使うのはMusesブラシパックとDavid RevoyさんのV6ブラシパックです。
 

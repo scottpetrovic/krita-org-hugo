@@ -85,6 +85,6 @@ Kritaでは今週末に2015バグウィークエンドを行います。参加�
 
 [バグハンターHowto](https://community.kde.org/Krita/Docs/Bug_Hunting_Day#Developers)(英語)を読んで、この週末のバグリストの整理にご協力ください！(訳注：今回のバグハントは英語ベースです)そして、その後2週間、開発チームはバグ修正に専念し、これからKickstarterでの新機能を追加していく上での安定した土台を作り上げたいと思っています！
 
-[![Mosquitoes-hunter_by_David-Revoy](images/Mosquitoes-hunter_by_David-Revoy-238x300.jpg)](https://jp.krita.org/wp-content/uploads/2015/06/Mosquitoes-hunter_by_David-Revoy.jpg)
+[![Mosquitoes-hunter_by_David-Revoy](/images/posts/2015/Mosquitoes-hunter_by_David-Revoy-238x300.jpg)](https://jp.krita.org/wp-content/uploads/2015/06/Mosquitoes-hunter_by_David-Revoy.jpg)
 
 Bug hunter by David Revoy

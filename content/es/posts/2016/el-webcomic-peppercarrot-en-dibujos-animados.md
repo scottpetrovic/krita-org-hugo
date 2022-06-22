@@ -11,7 +11,7 @@ Muchos de los usuarios de Krita están familiarizados con [David Revoy](http://d
 
 La idea de Nikolai es el producir Pepper&Carrot en forma animada, con uno de los capítulos. En esta obra Nikolai usará también Krita para convertir las paginas del webcómic en diferentes capas necesarias para la animación y para pintar las partes faltantes en cada una de éstas, lo cual él presume requerirá de bastante trabajo.
 
-![pepper1](images/pepper1.gif) El proceso de animación será realizado en Blender, con la asistencia de la herramienta [CoaTools](https://github.com/ndee85/coa_tools). Ademas Nikolai planea usar Krita para la creación de ciertos elementos tales como la sincronización de voz, movimientos mas complicados etc. La reproducción de imágenes será realizada con [RenderChan](https://morevnaproject.org/renderchan).
+![pepper1](/images/posts/2016/pepper1.gif) El proceso de animación será realizado en Blender, con la asistencia de la herramienta [CoaTools](https://github.com/ndee85/coa_tools). Ademas Nikolai planea usar Krita para la creación de ciertos elementos tales como la sincronización de voz, movimientos mas complicados etc. La reproducción de imágenes será realizada con [RenderChan](https://morevnaproject.org/renderchan).
 
 Nikolai ha publicado un video demostrando dos de las primeras ecenas:
 

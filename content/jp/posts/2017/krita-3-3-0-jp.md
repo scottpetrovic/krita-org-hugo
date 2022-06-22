@@ -9,11 +9,11 @@ Krita 3.2.1から一月も経っていませんが、我々はKrita 3.3.0をリ�
 
 Alvin WongがWindows 8 event APIへの対応を追加しました。これにはつまりKritaがSurfaceシリーズ（及びDell社、HP社、Acer社のノートPC）のn-trigペンにネイティブ対応するようになったということです。この機能はまだ新しいため、利用するためにはタブレットの設定から有効にする必要があります:
 
-[![](images/wintab-1024x840.png)](https://krita.org/wp-content/uploads/2017/09/wintab.png)
+[![](/images/posts/2017/wintab-1024x840.png)](https://krita.org/wp-content/uploads/2017/09/wintab.png)
 
 また彼によってKritaの表示機構のハードウェアアクセラレーションがリファクタリングされ、WindowsではネイティブOpenGLエンジンの代わりにオプションとしてANGLEを使用できるようになりました。これはIntelのグラフィックカードとドライバで発生していた様々な問題をこれからはKritaが間接的にDirect3Dを使うことで回避することができるようになることを意味します。
 
-[![](images/display-1024x840.png)](https://krita.org/wp-content/uploads/2017/09/display.png)
+[![](/images/posts/2017/display-1024x840.png)](https://krita.org/wp-content/uploads/2017/09/display.png)
 
 もちろんこのリリースにはそれ以外の変更点もあります:
 

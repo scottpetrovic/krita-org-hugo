@@ -6,7 +6,7 @@ categories:
 coverImage: "omiya_3.jpg"
 ---
 
-![omiya_3](images/omiya_3.jpg)
+![omiya_3](/images/posts/2016/omiya_3.jpg)
 
 ### Como presentación, ¿Nos podrías decir algo acerca de ti?
 
@@ -32,7 +32,7 @@ En el 2002, a los catorce años hice lo que se puede llamar mi primer pintura di
 
 Probablemente el hecho que el medio digital se toma mucho menos tiempo y espacio, es fácil de corregir y me deja enfocarme en el disfrutar de la pintura, dejando la computadora a cargo del trabajo aburrido.
 
-![omiya_2](images/omiya_2.jpg)
+![omiya_2](/images/posts/2016/omiya_2.jpg)
 
 ### ¿Como fue que te enteraste de Krita?
 
@@ -58,7 +58,7 @@ La capacidad de voltear e inclinar el lienzo, la aceleración con el GPU y la co
 
 Éste sería mi elección ya que me gusta el sentido de profundidad y el ambiente:
 
-![omiya_1](images/omiya_1.jpg)
+![omiya_1](/images/posts/2016/omiya_1.jpg)
 
 ### ¿Qué técnicas y brochas utilizaste en ésta pieza?
 

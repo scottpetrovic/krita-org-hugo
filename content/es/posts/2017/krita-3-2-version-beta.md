@@ -18,11 +18,11 @@ Como toda versión beta, ésta no está lista al cien por ciento, existen errore
 - Krita 3.2 usara ahora el nuevo controlador o “plugin” de efectos “gmic-qt” creado por los desarrolladores del proyecto [G'Mic](http://gmic.eu/) con los que continuamos colaborando en la creación de versiones que puedan funcionar correctamente en Windows, OSX y en la mayoría de Linux. Este controlador reemplazará completamente el antiguo “gimic”.
 - Se ha añadido una nueva serie de pinceles creados por Radian.
 
-[![](images/new_brushes-478x1024.jpg)](https://krita.org/wp-content/uploads/2017/07/new_brushes.jpg)
+[![](/images/posts/2017/new_brushes-478x1024.jpg)](https://krita.org/wp-content/uploads/2017/07/new_brushes.jpg)
 
 Los cuales están orientados a la creación de pinturas de estilo tradicional:
 
-[![](images/kiki_with_new_brushes_by_rad.jpg)](https://krita.org/wp-content/uploads/2017/07/kiki_with_new_brushes_by_rad.jpg)
+[![](/images/posts/2017/kiki_with_new_brushes_by_rad.jpg)](https://krita.org/wp-content/uploads/2017/07/kiki_with_new_brushes_by_rad.jpg)
 
 - Ahora se puede controlar la visibilidad y bloqueo de las capas mediante atajos de teclado.
 - e ha mejorado el pincel de “clon”.

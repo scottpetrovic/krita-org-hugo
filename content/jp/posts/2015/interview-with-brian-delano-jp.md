@@ -8,7 +8,7 @@ tags:
 coverImage: "big-small-and-me-cover-sample.jpeg"
 ---
 
-### [![big small and me 4 and 5 sample](images/big-small-and-me-4-and-5-sample.jpeg)](https://krita.org/wp-content/uploads/2015/08/big-small-and-me-4-and-5-sample.jpeg)
+### [![big small and me 4 and 5 sample](/images/posts/2015/big-small-and-me-4-and-5-sample.jpeg)](https://krita.org/wp-content/uploads/2015/08/big-small-and-me-4-and-5-sample.jpeg)
 
 ### 自己紹介をおねがいできますか？
 
@@ -58,7 +58,7 @@ Kritaはアーティストのプログラムのように思います。プログ
 
 今は子供向けの本のイラストを描いています。この本は私が書いたもので、万物の大きさと、人間の体験との関係についてのものです。このシリーズを「BIG, small & ME」と呼んでいます。最初の本をこの秋に自分で出版してどうなるか見てみたいと思っています。私はガンの治療法を見つけたり、光速より速い何かを発明することはないかもしれませんが、もし、将来そうした偉業やさらにすごいことを成し遂げるような子供にインスピレーションを与えられたら、私の人生は成功といえると思います。
 
-[![big small and me cover sample](images/big-small-and-me-cover-sample.jpeg)](https://krita.org/wp-content/uploads/2015/08/big-small-and-me-cover-sample.jpeg)
+[![big small and me cover sample](/images/posts/2015/big-small-and-me-cover-sample.jpeg)](https://krita.org/wp-content/uploads/2015/08/big-small-and-me-cover-sample.jpeg)
 
 ### どのようなテクニックとブラシを使いましたか？
 

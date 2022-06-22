@@ -7,7 +7,7 @@ categories:
 
 素晴らしいKDEのシステムアドミンチームの助けを受けて、 Scott PetrovicがKritaのQ&Aサイト [https://ask.krita.org](https://ask.krita.org) をオープンしました。
 
-[![](images/ask.krita_.org_.png)](https://ask.krita.org)
+[![](/images/posts/2018/ask.krita_.org_.png)](https://ask.krita.org)
 
 ここ数年、Kritaの人気はますます高まっています。一年に100万ダウンロードを超えてユーザが増えていて、すべてのユーザーから開発者への質問に返答することが不可能になってきています。 [フォーラム](https://forum.kde.org/krita)、[bugzilla](https://bugs.kde.org/buglist.cgi?quicksearch=krita&list_id=1567676)、[reddit](http://www.reddit.com/r/krita)、[twitter](https://twitter.com/Krita_Painting)など様々な場所で質問がありますが、既に以前に回答されたような内容が繰り返されています。結局のところ、昔ながらの [FAQ](https://docs.krita.org/en/KritaFAQ.html)は誰も読んでくれなくなったのかもしれません。
 

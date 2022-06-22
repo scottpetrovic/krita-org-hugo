@@ -19,4 +19,4 @@ SLAD is a new research and teaching group in the Faculty of Fine Art in La Plata
 
 The meeting will be on Wednesday October 31st at 14:00.
 
-[![](images/44370432_729798940713000_4448053777404002304_o.jpg)](https://krita.org/wp-content/uploads/2018/10/44370432_729798940713000_4448053777404002304_o.jpg)
+[![](/images/posts/2018/44370432_729798940713000_4448053777404002304_o.jpg)](https://krita.org/wp-content/uploads/2018/10/44370432_729798940713000_4448053777404002304_o.jpg)

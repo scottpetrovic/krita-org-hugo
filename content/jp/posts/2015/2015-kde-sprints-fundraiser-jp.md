@@ -17,4 +17,4 @@ KDEはこうしたボランティアの旅費と宿泊費を支援したいと�
 
 KDEのミーティングを支援しましょう!
 
-[![](images/Fundraiser-Banner-2015.png)](https://www.kde.org/fundraisers/kdesprints2015/)
+[![](/images/posts/2015/Fundraiser-Banner-2015.png)](https://www.kde.org/fundraisers/kdesprints2015/)

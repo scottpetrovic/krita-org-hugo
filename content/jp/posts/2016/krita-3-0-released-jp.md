@@ -9,7 +9,7 @@ tags:
 
 本日、アニメーション製作機能を目玉とするKrita 3.0をリリースしました。1年間の開発の結果、3.0はKritaのコアに統合されたアニメーションのサポート、大きなブラシを大きなキャンバスで使用した際のパフォーマンスを大幅に向上させる高速プレビュー、最新版のQtへの移植、そして非常にたくさんの新機能及び改良からなる非常に大きなリリースとなっています！
 
-[![krita-3.0](images/krita-3.0-1024x559.png)](https://krita.org/wp-content/uploads/2016/05/krita-3.0.png)
+[![krita-3.0](/images/posts/2016/krita-3.0-1024x559.png)](https://krita.org/wp-content/uploads/2016/05/krita-3.0.png)
 
 これらの新機能の多くが[2015年のKickstarterキャンペーン](https://www.kickstarter.com/projects/krita/krita-free-paint-app-lets-make-it-faster-than-phot?ref=users)での支援によるものです。残りの追加目標は今年の後半を使ってKrita 3.1で実装されることになります。そして[今年のKickstarterキャンペーン](https://krita.org/krita-kickstarter-2016-jp/)は後7日間です！目標金額30000ユーロ達成に後一歩のところまで来ています。皆さんの支援があれば今年も追加目標を加えられる可能性もまだ残っています！
 

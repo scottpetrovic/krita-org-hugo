@@ -7,7 +7,7 @@ tags:
   - "japanese"
 ---
 
-![gaq-vol1-banner-800](images/gaq-vol1-banner-800.jpg)
+![gaq-vol1-banner-800](/images/posts/2016/gaq-vol1-banner-800.jpg)
 
 _(Nathan Lovatoによるゲスト投稿)_
 

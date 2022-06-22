@@ -8,11 +8,11 @@ coverImage: "promo-screen-02.png"
 
 Durante los últimos meses, Ramón Miranda, conocido por su gran curso a la introducción de la pintura digital [Muses](https://gum.co/SZZDI?wanted=true), ha trabajado en la creación de un juego de pinceles nuevo y completo llamado Atelier (Taller de arte en ingles) No solo contiene mas de **cincuenta** pinceles, si no, ademas mas de **treinta** puntas de pincel y **veinte** patrones y texturas.
 
-[![](images/promo-screen-02-1024x336.png)](https://krita.org/wp-content/uploads/2018/09/promo-screen-02.png)
+[![](/images/posts/2018/promo-screen-02-1024x336.png)](https://krita.org/wp-content/uploads/2018/09/promo-screen-02.png)
 
 También casi **dos horas** de curso en video, explicando detalladamente el proceso de la creación de nuevos pinceles (llamados presets en Krita).
 
-[![](images/promo-screen-01-1024x336.png)](https://krita.org/wp-content/uploads/2018/09/promo-screen-01.png)
+[![](/images/posts/2018/promo-screen-01-1024x336.png)](https://krita.org/wp-content/uploads/2018/09/promo-screen-01.png)
 
 Ramón ha profundizado bastante y ha sobrepasado su meta, la cual era el crear pinceles de pintura clasica, tal como oleos, pastel y acuarelas, Ramón estudio meticulosamente todas las posibilidades lo cual a resultado no solo en un juego de pinceles si no en todo un paquete:
 
@@ -33,7 +33,7 @@ Paqute de pinceles:
 - 13 pinceles son tipo pastel.
 - 14 pinceles son tipo acuarelas.
 - 34 PNG y 5 SVG nuevas puntas de pincel.
-- 20 512x512 patrones y texturas.[![](images/patterns-for-Atelier-1024x724.png)](https://krita.org/wp-content/uploads/2018/09/patterns-for-Atelier.png) [![](images/surfaces-for-Atelier-1024x724.png)](https://krita.org/wp-content/uploads/2018/09/surfaces-for-Atelier.png)
+- 20 512x512 patrones y texturas.[![](/images/posts/2018/patterns-for-Atelier-1024x724.png)](https://krita.org/wp-content/uploads/2018/09/patterns-for-Atelier.png) [![](/images/posts/2018/surfaces-for-Atelier-1024x724.png)](https://krita.org/wp-content/uploads/2018/09/surfaces-for-Atelier.png)
 
 Curso en video:
 

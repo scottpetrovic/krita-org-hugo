@@ -15,9 +15,9 @@ https://youtu.be/a-CY4hmkg\_I
 
 [**Google Summer of Code**](https://summerofcode.withgoogle.com/archive/)といえば... 2018年は[KDE](https://www.kde.org)を親グループとして参加しました。3人の学生が参加し、全員プロジェクトを達成しました。コードはすべてマージ済みです。修正はまだ必要ですが。とにかくよい一年でした。
 
-2019年にもGoogle Summer of Codeがあります。KDEが来年も参加するか不確定要素もありますが、既に[学生が作業するプロジェクトのアイデアを出しています。挑戦的なものです。ご覧ください](https://community.kde.org/GSoC/2019/Ideas)！学生で興味のある方は、開発コミュニティに顔を出して見てください！[![](images/2018-fundraiser-hero2.png)](https://krita.org/wp-content/uploads/2018/09/2018-fundraiser-hero2.png)また今年も[**資金集めキャンペーン**](https://krita.org/en/fundraising-2018-campaign/)が成功しました。今回はKickstarterを使用しなかったので[キャンペーンへのトラフィックを集めるのが大変でした](https://mail.kde.org/pipermail/kde-community/2018q4/004976.html)。その一方で、Kickstarterの取り分がないので、実際の額は2016年のキャンペーンと同程度になりました。およそ7-8か月分の開発資金が集まりました！
+2019年にもGoogle Summer of Codeがあります。KDEが来年も参加するか不確定要素もありますが、既に[学生が作業するプロジェクトのアイデアを出しています。挑戦的なものです。ご覧ください](https://community.kde.org/GSoC/2019/Ideas)！学生で興味のある方は、開発コミュニティに顔を出して見てください！[![](/images/posts/2018/2018-fundraiser-hero2.png)](https://krita.org/wp-content/uploads/2018/09/2018-fundraiser-hero2.png)また今年も[**資金集めキャンペーン**](https://krita.org/en/fundraising-2018-campaign/)が成功しました。今回はKickstarterを使用しなかったので[キャンペーンへのトラフィックを集めるのが大変でした](https://mail.kde.org/pipermail/kde-community/2018q4/004976.html)。その一方で、Kickstarterの取り分がないので、実際の額は2016年のキャンペーンと同程度になりました。およそ7-8か月分の開発資金が集まりました！
 
-[![](images/busy.png)](https://krita.org/wp-content/uploads/2018/12/busy.png)コミュニティも大きく成長しました。Kritaは一年に約**200万**ダウンロードされています。これは公式サイトからのダウンロードの記録です。Windowsストアも、復活したSteamスコアも、コミュニティ主導のflatpakも、WindowsのダウンロードサイトもLinuxディストリビューションもより最新のものが配信されるようになっています。
+[![](/images/posts/2018/busy.png)](https://krita.org/wp-content/uploads/2018/12/busy.png)コミュニティも大きく成長しました。Kritaは一年に約**200万**ダウンロードされています。これは公式サイトからのダウンロードの記録です。Windowsストアも、復活したSteamスコアも、コミュニティ主導のflatpakも、WindowsのダウンロードサイトもLinuxディストリビューションもより最新のものが配信されるようになっています。
 
 Kritaのコアチームは、ユーザーとの触れ合いを愛していますが、そうすることが正直にいうと難しくなってきています。半ダースの人数ですし、コードの作業もしたいのです！だから新しい[質問](https://ask.krita.org)サイトを作りました。Kritaのコミュニティのユーザー同士の助け合いが起きてほしいと願っていますが、まだそこまでにはなっていません。
 

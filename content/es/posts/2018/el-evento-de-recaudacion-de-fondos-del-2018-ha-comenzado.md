@@ -5,7 +5,7 @@ categories:
   - "uncategorized-es"
 ---
 
-[![](images/2018-fundraiser-hero2.png)](https://krita.org)
+[![](/images/posts/2018/2018-fundraiser-hero2.png)](https://krita.org)
 
 ¡Estamos listos para el [nuevo evento de Krita](https://krita.org/en/fundraising-2018-campaign/)! Éste año nuestra meta es el hacer posible que nuestro equipo se enfoque un un solo trabajo: Estabilidad de Krita. Nuestros eventos pasados se basaron en agregar nuevas funciones y extender las existentes, y gracias a tu ayuda Krita ha crecido bastante rápido en un paquete bastante robusto.
 
@@ -29,7 +29,7 @@ Así que prácticamente, le dimos una patada al Kickstarter, lo que significa qu
 
 Ademas, todos los que donen 50 euros o mas, recibirán como regalo de gratitud la descarga del paquete de Ramón Miranda llamado Atelier, con mas de cincuenta pinceles de calidad estilo tradicional (oleos, pastel, acuarela) así como dos horas de video totalmente detallado donde puedes aprender como crear pinceles.
 
-[![](images/Digital-Atelier-Pack-Cover.png)](https://krita.org/wp-content/uploads/2018/09/Digital-Atelier-Pack-Cover.png)
+[![](/images/posts/2018/Digital-Atelier-Pack-Cover.png)](https://krita.org/wp-content/uploads/2018/09/Digital-Atelier-Pack-Cover.png)
 
  
 

@@ -7,7 +7,7 @@ tags:
   - "japanese"
 ---
 
-![Krita brushes banner 800](images/Krita-brushes-banner-800.jpg)
+![Krita brushes banner 800](/images/posts/2016/Krita-brushes-banner-800.jpg)
 
 Nathan Lovatoさんから、新しいブラシについてのお知らせになります:
 

@@ -29,7 +29,7 @@ Kritaの開発の進行状況についてしばらくニュースを投稿して
 
 最初の開発ビルドリリースの後にユーザ調査を行いました。以下がその結果の概要です。
 
-![](images/gripes.png)
+![](/images/posts/2017/gripes.png)
 
 一番多かった不満がラグです。ラグというのは様々なものがあり、ブラシや操作の中には即座に終わることがないものもあります。ただ、ここ数か月外部のプロジェクトでKritaのパフォーマンス改善を助ける作業を行うことができました。この作業によってKrita4.0のリリースは遅れる可能性はありましたが、アーティストには喜ばれると思いました。以下のようなパフォーマンス改善があります:
 
@@ -45,7 +45,7 @@ https://www.youtube.com/watch?v=wnPUtYo2Y9Y
 
 またパフォーマンスベンチマーク機能も追加しました。ブラシのパフォーマンスをより正確にみることができるので、これからの最適化でも役立ちます:
 
-![](images/performance-benchmarking.gif)
+![](/images/posts/2017/performance-benchmarking.gif)
 
  
 
@@ -55,19 +55,19 @@ https://www.youtube.com/watch?v=wnPUtYo2Y9Y
 
 ズームインした時にピクセルの周りにグリッドを描画するオプションをAndrey Kamakinが追加しました:
 
-![](images/pixel-grid-example.gif)
+![](/images/posts/2017/pixel-grid-example.gif)
 
 ### ライブブラシプレビュー
 
 Scott Petrovicは様々なアーティストと共にブラシエディタを作り直しています。ブラシの名前変更や保存オプションの変更なども行われています。またパラメータ変更で更新されるライブストロークプレビューも追加されました。小さいモニタに合わせてエディタの一部を隠すこともできるようになりました。
 
-![](images/live-preview.gif)
+![](/images/posts/2017/live-preview.gif)
 
 ### Isometric Grid(等角グリッド)
 
 グリッドに等角オプションが追加されました。グリッドドッキングパネルでコントロールできます:
 
-[![](images/isometric-1024x715.png)](https://krita.org/wp-content/uploads/2017/11/isometric.png)
+[![](/images/posts/2017/isometric-1024x715.png)](https://krita.org/wp-content/uploads/2017/11/isometric.png)
 
 ## フィルタ
 

@@ -6,7 +6,7 @@ categories:
 coverImage: "family.jpeg"
 ---
 
-![mascot-training](images/mascot-training.jpeg)
+![mascot-training](/images/posts/2016/mascot-training.jpeg)
 
 ### Como presentación, ¿Nos podrías decir algo acerca de ti?
 
@@ -20,7 +20,7 @@ En ambos, pero después de tener hijos pinto mayormente de manera profesional. T
 
 Generalmente trabajo haciendo retratos, diseñando personajes, arte conceptual e ilustraciones. La gente me busca mas específicamente para realizar retratos/ilustraciones en invitaciones de bodas y retratos familiares.
 
-![fatima](images/fatima.jpeg)
+![fatima](/images/posts/2016/fatima.jpeg)
 
 ### ¿Qué personas te han inspirado mayormente, ó quienes son tu modelo a seguir?
 
@@ -32,7 +32,7 @@ También admiro bastantes artistas que trabajan en formato digital. Sigo los pas
 
 Como Brasileña, mi modelo a seguir en mi país es Mauricio de Sousa. El ha sido una inspiración desde que era apenas una pequeña. Me encantan las historietas, ademas me encanta Will Eisner También, Bueno... me encantan muchos artistas, por cierto ¿Mencione que me gusta la Manga También?
 
-![wrapunzel](images/wrapunzel.jpeg)
+![wrapunzel](/images/posts/2016/wrapunzel.jpeg)
 
 ### ¿Cómo y cuando fue que empezaste a pintar de manera digital?
 
@@ -44,7 +44,7 @@ En 2009 me casé y tuve la oportunidad de dejar mi empleo para dedicarme a lo qu
 
 En el 2013 comencé a usar los medios sociales para presentar dibujos gratuitos, y adquirí una nueva tableta digital, una Wacom Intuos, después de esto me han estado llegando comisiones constantemente, ¡Gracias a Dios!
 
-![hindu](images/hindu.jpeg)
+![hindu](/images/posts/2016/hindu.jpeg)
 
 ### ¿Qué te ha hecho el preferir pintar en formato digital mas que de manera tradicional?
 
@@ -64,7 +64,7 @@ Krita parecía muy similar a Photoshop. Me tomó algunos meses para acostumbrarm
 
 Es un Sofware estupendo, y me encanta el hecho que este gran proyecto se haga disponible gratuitamente (claro, existen las versiones de paga, pero la gratuita es la mas popular). Todas funciones y características son fantásticas para los trabajos de artistas digitales. Pero lo que mas admiro es el hecho que sus miembros están siempre dispuestos a contestar preguntas mientras trabajan arduamente para hacer Krita mucho mejor cada día. Mi esposo es un Ingeniero en Sofware y se todo el trabajo que se lleva para crear un programa, cuanto tiempo se necesita, y cuantas noches se pierden tratando de terminar un proyecto a tiempo, y como es tan agradable el escuchar los comentarios de la gente que usa tu programa para ayudar a mejorarlo. Si todos los humanos tuvieran esa buena voluntad, muchas cosas buenas pasarían en el mundo. Dios bendiga la Fundación Krita.
 
-![youth](images/youth.jpeg)
+![youth](/images/posts/2016/youth.jpeg)
 
 ### ¿Que piensas que necesita mejorar en Krita, existe algo que realmente te frustra?
 
@@ -78,7 +78,7 @@ Que es un software de código libre de alta calidad. Funciona en mi querido Kubu
 
 Siempre estoy dibujando algo nuevo, y mis mas nuevos dibujos son siempre los mejores, ya que aprendo algo nuevo cada día. ¡No se si podría escoger solo un dibujo! Mmmmm... tal vez un retrato que hice para la familia de una amistad en el 2015. La primer verdadera pintura digital que hice, es todavía mi favorita. El resultado fue grandioso, me sentí orgullosa de mi misma cuando la terminé y a mi amistad le encantó; felicidad por doquier.
 
-![family](images/family.jpeg)
+![family](/images/posts/2016/family.jpeg)
 
 ### ¿Qué técnicas y brochas utilizaste en ésta pintura?
 

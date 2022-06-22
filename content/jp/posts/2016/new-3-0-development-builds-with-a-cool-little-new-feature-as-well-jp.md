@@ -41,4 +41,4 @@ Alvin WongによるWindowsシェルエクステンションパッケージです
 
 最後に、[キュートなKikiです!](https://twitter.com/ramskullsart/status/730023741711777792/photo/1)
 
-[![kiki](images/kiki-782x1024.jpg)](https://krita.org/wp-content/uploads/2016/05/kiki.jpg)
+[![kiki](/images/posts/2016/kiki-782x1024.jpg)](https://krita.org/wp-content/uploads/2016/05/kiki.jpg)
