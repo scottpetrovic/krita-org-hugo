@@ -11,4 +11,4 @@ In the film production world, the preferred library to provide color management 
 
 Of course, there are still quite a few bugs, since nobody has used the feature in anger yet -- but still: it's a big milestone!
 
-![](../images/krita_opencolor_io.jpg)
+![](/images/posts/2012/krita_opencolor_io.jpg)

@@ -58,7 +58,7 @@ The focus on painting, the usability and the brush engines.
 
 Right now it might be ["Unfinished"](http://www.flickr.com/photos/yurifidelis/8460814331/). It's part of a series of abstracts I want to do inspired by textures in nature.
 
-![](../images/8460814331_0cba0466cf_z.jpg)
+![](/images/posts/2013/8460814331_0cba0466cf_z.jpg)
 
 ### What is it that you like about it? What brushes did you use in it?
 

@@ -12,7 +12,7 @@ I’m a freelance commercial illustrator and artist, living in Kyiv, Ukraine. Yo
 
 ### Do you paint professionally or as a hobby artist?
 
-I’d say, both! I always sketch or paint something for leisure, as well as working on orders or commissions. [![gasoline](../images/gasoline.png)](https://krita.org/wp-content/uploads/2014/12/gasoline.png)
+I’d say, both! I always sketch or paint something for leisure, as well as working on orders or commissions. [![gasoline](/images/posts/2014/gasoline.png)](https://krita.org/wp-content/uploads/2014/12/gasoline.png)
 
 ### When and how did you end up trying digital painting for the first time?
 
@@ -24,7 +24,7 @@ I need twice less time to create something with the tablet compared to tradition
 
 ### How did you first find out about open source communities? What is your opinion about them?
 
-Open source, OMG ❤❤❤ Seriously, I like open source software much because there’s no need to bother my credit card every time the new software (as well as new OS) version is released. Moreover, the open source software developers are actually more interested in how to make it work rather than how to make it sell, so the result is often more human-oriented. [![pilot1](../images/pilot1-291x300.png)](https://krita.org/wp-content/uploads/2014/12/pilot1.png)
+Open source, OMG ❤❤❤ Seriously, I like open source software much because there’s no need to bother my credit card every time the new software (as well as new OS) version is released. Moreover, the open source software developers are actually more interested in how to make it work rather than how to make it sell, so the result is often more human-oriented. [![pilot1](/images/posts/2014/pilot1-291x300.png)](https://krita.org/wp-content/uploads/2014/12/pilot1.png)
 
 ### Have you worked for any FOSS project or contributed in some way?
 
@@ -42,7 +42,7 @@ I needed to do some commissions on DeviantArt so I got down to business right af
 
 Krita offers tons of possibilities for drawing/painting with just the default tools. I mean, look at those brush settings - why would you need to spend time on creating your own brushes or make Google dig tons of textures, when you can just adjust 1-3 tools to suit your task perfectly and paint happily ever after?
 
-[![ocean ghost screencapt wip](../images/ocean-ghost-screencapt-wip-300x175.png)](https://krita.org/wp-content/uploads/2014/12/ocean-ghost-screencapt-wip.png)
+[![ocean ghost screencapt wip](/images/posts/2014/ocean-ghost-screencapt-wip-300x175.png)](https://krita.org/wp-content/uploads/2014/12/ocean-ghost-screencapt-wip.png)
 
 ### What do you think needs improvement in Krita? Also, anything that you really hate?
 
@@ -56,4 +56,4 @@ It’s very intuitive, user-friendly and needs no shaman dances to start working
 
 The Ocean Ghost, it’s pretty simple but I like the ambience of it.
 
-[![OceanGhost](../images/OceanGhost.jpg)](https://krita.org/wp-content/uploads/2014/12/OceanGhost.jpg)
+[![OceanGhost](/images/posts/2014/OceanGhost.jpg)](https://krita.org/wp-content/uploads/2014/12/OceanGhost.jpg)

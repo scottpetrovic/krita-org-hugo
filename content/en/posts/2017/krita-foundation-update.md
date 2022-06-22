@@ -9,7 +9,7 @@ When we posted the news about our tax wrangle yesterday, we did expect to make s
 
 But that's not all, we were stunned when we were approached by the team at [Private Internet Access](https://www.privateinternetaccess.com). They wanted to help us out and sponsor Krita with **£20,000**! Private Internet Access provides worldwide fast, multi-gigabit VPN Tunnel gateways. They already [sponsor a great many awesome organizations](https://www.privateinternetaccess.com/pages/companies-we-sponsor), and now also Krita!
 
-[![](../images/PIAlogoupdated_final.png)](https://krita.org/wp-content/uploads/2017/08/PIAlogoupdated_final.png)
+[![](/images/posts/2017/PIAlogoupdated_final.png)](https://krita.org/wp-content/uploads/2017/08/PIAlogoupdated_final.png)
 
 Of course, this makes our work much easier. Not only do we don't have to worry whether we can pay the tax bill, but we can also start sending money to Dmitry again! And that's why if you've been wondering whether you should still help Krita with a donation (or by getting something from the shop), please don't hesitate! To recap, our current plans are:
 
@@ -28,12 +28,12 @@ _Boudewijn Rempt, Krita Maintainer_
 
 **One-time Donation**  _ €1 minimum_
 
-![](../images/pixel.gif)
+![](/images/posts/2017/pixel.gif)
 
  
 
 **Monthly Subscription**  _ €1 minimum_
 
- ![](../images/pixel.gif)
+ ![](/images/posts/2017/pixel.gif)
 
 Stichting Krita Foundation Korte Assenstraat 11 7411JP Deventer, the Netherlands. IBAN: NL72INGB0007216397 BIC: INGBNL2A

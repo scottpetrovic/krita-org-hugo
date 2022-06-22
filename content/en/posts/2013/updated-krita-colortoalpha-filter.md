@@ -3,7 +3,7 @@ title: "Updated Krita ColorToAlpha filter"
 date: "2013-03-15"
 ---
 
-[![](../images/substitute_bg.png)](http://dimula73.blogspot.ru/2013/03/updated-krita-colortoalpha-filter.html)
+[![](/images/posts/2013/substitute_bg.png)](http://dimula73.blogspot.ru/2013/03/updated-krita-colortoalpha-filter.html)
 
 [Dmitry Kazakov](http://www.blogger.com/profile/00589041569298003008 "author profile") just updated Krita's **Color to Alpha** filter on the development 2.7pre-alpha version ( already on Git master ) , so it can now be easily used for removing background from scanned sketches.
 

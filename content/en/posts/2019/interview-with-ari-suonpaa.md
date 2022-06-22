@@ -6,7 +6,7 @@ categories:
 coverImage: "enchanted_forest_800.jpg"
 ---
 
-### ![](../images/beauty_among_blossoms_800.jpg)
+### ![](/images/posts/2019/beauty_among_blossoms_800.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -20,7 +20,7 @@ Sometimes I do commissions, but this is mainly a hobby. After all, I do have a d
 
 My favorite genres are fantasy and landscapes. Many times I can combine these two as fantasy landscapes are my favorite subjects.
 
-### ![](../images/lazy_summer_day_2_800.jpg)
+### ![](/images/posts/2019/lazy_summer_day_2_800.jpg)
 
 ### Whose work inspires you most -- who are your role models as an artist?
 
@@ -42,7 +42,7 @@ In fact I don't remember.
 
 It seemed like a simple enough solution to get things done. Many of the commercial applications have so many features that it can feel overwhelming.
 
-### ![](../images/squirrel_800.jpg)
+### ![](/images/posts/2019/squirrel_800.jpg)
 
 ### What do you love about Krita?
 
@@ -58,7 +58,7 @@ It's open source which I highly appreciate. That's the same reason I'm using Ble
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](../images/harbor_800.jpg)
+![](/images/posts/2019/harbor_800.jpg)
 
 I haven't used Krita for that long, so I have only a few pieces to choose from. I suppose it would be my latest one depicting a harbor and a ship. It's the first painting fully painted in Krita where I really invested time to get things right. It used the Digital Atelier brushes through the whole painting process.
 
@@ -70,7 +70,7 @@ I was trying to imitate traditional paintings by using a limited palette and [th
 
 Facebook: [https://www.facebook.com/artofarisuonpaa/](https://www.facebook.com/artofarisuonpaa/) DeviantArt: [https://www.deviantart.com/arisuonpaa](https://www.deviantart.com/arisuonpaa)
 
-### ![](../images/enchanted_forest_800.jpg)
+### ![](/images/posts/2019/enchanted_forest_800.jpg)
 
 ### Anything else you'd like to share?
 

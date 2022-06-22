@@ -7,7 +7,7 @@ We are getting a new guide for Krita users!
 
 One of our long-standing contributors, Timothée Giet, is working on some new training material as part of his work teaching Krita at [Activ Design!](http://activdesign.eu)
 
-![](../images/logo.png)
+![](/images/posts/2015/logo.png)
 
 The guide is written as a modular manual, with one chapter for each main topic, and is meant to introduce the basics to new Krita users.
 

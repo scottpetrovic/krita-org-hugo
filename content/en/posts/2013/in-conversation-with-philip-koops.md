@@ -8,7 +8,7 @@ coverImage: "koops-thumbnail.jpg"
 
 **This time we had a chance to interview Phillip Koops who paints for a hobby and swears by the words of Picasso - "**Art washes away from the soul the dust of everyday life." An interesting conversation where he shares with us his views on Painting, Open Source Communities and much more. He also collaborated with us for the Krita Webshop and made us this uber-handsome Krita Bear!! Click on Read More to read the interview..
 
-![Krita Bear](../images/krita-bear-zazzle-high-res-finalsmaller.png "Krita Bear")Hello Phillip, would you like to tell us something about yourself? Sure, I'm over forty, married and father of two. I've always worked in a corporate environment (call-centre) and decided to have a shot at Freelancing because I thought it was my last opportunity to live the life I always dreamed of, and also because I would have more time for my family (working from home).
+![Krita Bear](/images/posts/2013/krita-bear-zazzle-high-res-finalsmaller.png "Krita Bear")Hello Phillip, would you like to tell us something about yourself? Sure, I'm over forty, married and father of two. I've always worked in a corporate environment (call-centre) and decided to have a shot at Freelancing because I thought it was my last opportunity to live the life I always dreamed of, and also because I would have more time for my family (working from home).
 
 Do you paint professionally or as a hobby artist? In any of the case, how would you define the importance of painting in your daily life?
 
@@ -69,7 +69,7 @@ If you had to pick one favorite of all your work done in Krita so far, what woul
 
 Grumpy cat
 
-![Grumpy Cat](../images/hi1024-app-calligrakrita.jpg "Grumpy Cat")
+![Grumpy Cat](/images/posts/2013/hi1024-app-calligrakrita.jpg "Grumpy Cat")
 
 What is it that you like about it? What brushes did you use in it?
 

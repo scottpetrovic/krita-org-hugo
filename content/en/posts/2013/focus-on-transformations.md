@@ -7,10 +7,10 @@ This month, Dmitry Kazakov is spending all his time on the transformation code i
 
 So, January is Transformation Month! And while not committed yet, Dmitry is already showing some really nice progress in improving the quality of the transformations.
 
-This is a comparison between the old bicubic scaling and the new. Make sure you set your browser to 100% zoom, otherwise, weirdness will happen!![](../images/krita_fixed_transformations_comparison.png)
+This is a comparison between the old bicubic scaling and the new. Make sure you set your browser to 100% zoom, otherwise, weirdness will happen!![](/images/posts/2013/krita_fixed_transformations_comparison.png)
 
 And this shows off how much nicer the rotation interpolation has become:
 
-![](../images/krita_fixed_transformations_comparison_border_effects.png)
+![](/images/posts/2013/krita_fixed_transformations_comparison_border_effects.png)
 
 The Krita Foundation is supporting Dmitry in this work -- [and you can help the foundation support Dmitry](http://krita.org/foundation)!

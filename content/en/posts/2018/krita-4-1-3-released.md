@@ -8,17 +8,17 @@ categories:
 
 Today we're releasing the latest version of Krita! In the middle of our [2018 fundraiser campaign](https://www.krita.org), we've found the time to prepare Krita 4.1.3. There are about a hundred fixes, so it's a pretty important release and we urge everyone to update! Please join the 2018 fundraiser as well, so we can continue to fix bugs!
 
-[![](../images/2018-fundraiser-hero2.png)](https://krita.org)
+[![](/images/posts/2018/2018-fundraiser-hero2.png)](https://krita.org)
 
 Now you might be wondering where Krita 4.1.2 went to... The answer is that we had 4.1.2 prepared, but the Windows builds were broken because of a change in the build infrastructure. While we were fixing that, Dmitry made a couple of bug fixes we really wanted to release immediately, like an issue where multiline centered text would be squashed into a single line when you'd edit the text. So we went and created a new version, 4.1.3!
 
-[![](../images/text_tool-1024x577.jpg)](https://krita.org/wp-content/uploads/2018/09/text_tool.jpg)
+[![](/images/posts/2018/text_tool-1024x577.jpg)](https://krita.org/wp-content/uploads/2018/09/text_tool.jpg)
 
 Krita 4.1.3 is a bug fix release, so that's the most important thing, but there are also some new things as well.
 
 The first of these is the new welcome screen, by Scott Petrovic. You get some handy links, a list of recently used files, a link to create or open a file and a hint that you can also drag and drop images in the empty window to open them.
 
-[![](../images/welcome_page-1024x781.png)](https://krita.org/wp-content/uploads/2018/09/welcome_page.png)
+[![](/images/posts/2018/welcome_page-1024x781.png)](https://krita.org/wp-content/uploads/2018/09/welcome_page.png)
 
 Dmitry Kazakov has worked like crazy fixing bugs and improving Krita in the past couple of weeks. One of the things he did was improve Instant Preview mode. Originally funded by our 2015 Kickstarter, Instant Preview works by computing a scaled-down version of the image and displaying that. But with some brushes, it would cause a little delay at the end of a stroke, or some flickering on the canvas: [BUG:361448](https://bugs.kde.org/show_bug.cgi?id=361448). That's fixed now, and painting really feels smoother! And for added smoothness, most of [Ivan Yossi's Google Summer of Code work](https://colorathis.wordpress.com/tag/kde/) is also included in this release.
 
@@ -28,11 +28,11 @@ The move tool has been improved so it's possible to undo the steps you've set wi
 
 The bezier curve tools have been improved: there is an auto-smoothing option. If you select auto-smoothing, the created curve will be not a polygon, but a smooth curve with the type of all the points set to "smooth". [BUG:351787](https://bugs.kde.org/show_bug.cgi?id=351787)
 
-[![](../images/bezier_smoothing-1024x726.png)](https://krita.org/wp-content/uploads/2018/09/bezier_smoothing.png)
+[![](/images/posts/2018/bezier_smoothing-1024x726.png)](https://krita.org/wp-content/uploads/2018/09/bezier_smoothing.png)
 
 The final new feature is round corners for the rectangle tool. Whether you're working on a pixel or a vector layer, you have an ability to set round corners for the resulting shape. [BUG:335568](https://bugs.kde.org/show_bug.cgi?id=335568). You could, of course, already round vector rectangles by editing the shape, but this is easier.
 
-[![](../images/rounded_rectangles-1024x726.png)](https://krita.org/wp-content/uploads/2018/09/rounded_rectangles.png)
+[![](/images/posts/2018/rounded_rectangles-1024x726.png)](https://krita.org/wp-content/uploads/2018/09/rounded_rectangles.png)
 
 The Comics Project manager, a Python plugin created by Wolthera van Hövell tot Westerflier has seen a ton of improvements, especially when it comes to generating standard-compliant epub and acbf files. On a related note, check out [Peruse, the KDE Comic Book Reader](https://peruse.kde.org/). It's a long list of improvements:
 
@@ -55,7 +55,7 @@ The Comics Project manager, a Python plugin created by Wolthera van Hövell tot 
 - Move Epub to use QDomDocument for generation, split out ncx/opf. This is necessary so we have nicer looking xml files, as well. as having a bit more room to do proper generation for epub 2/3/3+
 - Update ComicBookInfo and ComicRack generators.
 
-[![](../images/Screenshot_20180828_155852-1024x797.png)](https://krita.org/wp-content/uploads/2018/09/Screenshot_20180828_155852.png)
+[![](/images/posts/2018/Screenshot_20180828_155852-1024x797.png)](https://krita.org/wp-content/uploads/2018/09/Screenshot_20180828_155852.png)
 
 And here's the full list of fixed bugs:
 

@@ -5,7 +5,7 @@ categories:
   - "news"
 ---
 
-![GSoC2016Logo](../images/GSoC2016Logo.jpg)
+![GSoC2016Logo](/images/posts/2016/GSoC2016Logo.jpg)
 
 Every year Google puts on a program called Google Summer of Code (GSoC). Students from all over the world try to obtain an internship where they can be paid to work on an open source application. This year we are lucky enough to have had three students accepted into the program! (Who gets accepted depends on how many applications there are, how many slots Google has and how many get distributed to [KDE](https://www.kde.org).) These three students will be working on Krita for the summer to improve three import areas in Krita.
 

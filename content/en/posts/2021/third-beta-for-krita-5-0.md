@@ -9,9 +9,9 @@ Today we're releasing the third beta for Krita 5. There are a lot of fixes compa
 
 Of course, the nightly stable builds already have a number of fixes compared to this beta release...
 
-![](../images/electrichearts_20201224A_kiki_c1_1080P-1024x512.png)The new splash screen, by Tyson Tan
+![](/images/posts/2021/electrichearts_20201224A_kiki_c1_1080P-1024x512.png)The new splash screen, by Tyson Tan
 
-![](../images/2021-11-16_kiki-piggy-bank_krita5.png) Krita is a free and open source project. Please consider supporting the project with [donations](https://fund.krita.org) or by [buying training videos!](/shop/) With your support, we can keep the core team working on Krita full-time.
+![](/images/posts/2021/2021-11-16_kiki-piggy-bank_krita5.png) Krita is a free and open source project. Please consider supporting the project with [donations](https://fund.krita.org) or by [buying training videos!](/shop/) With your support, we can keep the core team working on Krita full-time.
 
 These are the most important fixes since Beta 2:
 
@@ -128,7 +128,7 @@ These are the most important fixes since Beta 2:
 
 We will continue fixing issues that come in from testing the beta and the nightly builds so we can release a solid Krita 5. Please consider supporting Krita's development through the [development fund](https://fund.krita.org/):
 
-[![](../images/devfund-1024x346.png)](https://fund.krita.org)
+[![](/images/posts/2021/devfund-1024x346.png)](https://fund.krita.org)
 
 ## Download
 

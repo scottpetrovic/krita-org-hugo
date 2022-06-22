@@ -8,7 +8,7 @@ coverImage: "stranger_by_tharindad-d8j6s4d.jpeg"
 
 The new monthly drawing challenge on the Krita forums now really boots up! The first run in February was mainly a test run. After that a lot of people said they were interested, so I decided to keep going.
 
-\[caption id="attachment\_1693" align="aligncenter" width="752"\][![stranger_by_tharindad-d8j6s4d](../images/stranger_by_tharindad-d8j6s4d.jpeg)](http://tharindad.deviantart.com/art/Stranger-5159584932) Last month's winner: "Stranger" by tharindad.\[/caption\]
+\[caption id="attachment\_1693" align="aligncenter" width="752"\][![stranger_by_tharindad-d8j6s4d](/images/posts/2015/stranger_by_tharindad-d8j6s4d.jpeg)](http://tharindad.deviantart.com/art/Stranger-5159584932) Last month's winner: "Stranger" by tharindad.\[/caption\]
 
 The idea came when I was browsing the Krita forums in search of a drawing challenge and the only thing that came up was on Facebook. Not everybody has or wants Facebook, so we'll have this challenge on the forum.
 

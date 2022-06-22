@@ -8,7 +8,7 @@ tags:
   - "krita"
 ---
 
-[![dessin-et-peinture-numerique-avec-krita](../images/dessin-et-peinture-numerique-avec-krita-211x300.png)](http://www.d-booker.fr/krita/284-dessin-et-peinture-numerique-avec-krita.html)
+[![dessin-et-peinture-numerique-avec-krita](/images/posts/2016/dessin-et-peinture-numerique-avec-krita-211x300.png)](http://www.d-booker.fr/krita/284-dessin-et-peinture-numerique-avec-krita.html)
 
 After Japanese and English, here is the first book for french-speaking people who want to get started using Krita! The author is  Timothée Giet, long time user and contributor and the creator of two of  acclaimed training DVDs for the Krita Foundation, [Comics with Krita and Secrets of Krita](https://krita.org/support-us/shop/). And there is also a preface by Boudewijn Rempt, the Krita project lead.
 
@@ -20,4 +20,4 @@ Also, the creation of this book did contribute a lot to improve the French trans
 
 If you know some French artists who are not using Krita yet, make sure to share this news with them!
 
-[![krita-webcomics-aplats](../images/krita-webcomics-aplats-1024x345.png)](http://www.d-booker.fr/krita/284-dessin-et-peinture-numerique-avec-krita.html)
+[![krita-webcomics-aplats](/images/posts/2016/krita-webcomics-aplats-1024x345.png)](http://www.d-booker.fr/krita/284-dessin-et-peinture-numerique-avec-krita.html)

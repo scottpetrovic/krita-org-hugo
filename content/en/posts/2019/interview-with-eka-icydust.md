@@ -6,7 +6,7 @@ categories:
 coverImage: "burning-dandelion_800-scaled.jpg"
 ---
 
-![](../images/blackhole_800.jpg)
+![](/images/posts/2019/blackhole_800.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -18,7 +18,7 @@ I have a lot of books (I love reading).
 
 I also hate putting the signature after I draw cause it seems annoying in  my bad handwriting.
 
-### ![](../images/untitled_800.jpg)
+### ![](/images/posts/2019/untitled_800.jpg)
 
 ### How did you find out about Krita?
 
@@ -32,7 +32,7 @@ I do some doodles and random stuff on paper and walls (erased :(() and floors so
 
 I draw mostly humans and creepy creatures.
 
-![](../images/diving_800.jpg)
+![](/images/posts/2019/diving_800.jpg)
 
 ### What is easy to do with Krita? What is difficult to do?
 
@@ -42,7 +42,7 @@ Everything is easy to do with Krita.
 
 Best thing is basically everything.
 
-![](../images/the_girl_800.jpg)
+![](/images/posts/2019/the_girl_800.jpg)
 
 ### Is there anything in Krita that you'd like to be different?
 
@@ -52,7 +52,7 @@ Everything is fine in Krita.
 
 I don't know but I sent a bunch.
 
-![](../images/magicgateway_800.jpg)
+![](/images/posts/2019/magicgateway_800.jpg)
 
 ### What brushes and techniques did you use to make it?
 
@@ -66,4 +66,4 @@ See more of my art at [eka icydust (youtube)](https://www.youtube.com/channel/UC
 
 I need subscribers boohoo.
 
-![](../images/burning-dandelion_800-scaled.jpg)
+![](/images/posts/2019/burning-dandelion_800-scaled.jpg)

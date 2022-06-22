@@ -6,7 +6,7 @@ categories:
 coverImage: "5.jpg"
 ---
 
-![Head of a tiger, looking to the left](../images/3.jpg)
+![Head of a tiger, looking to the left](/images/posts/2021/3.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -20,7 +20,7 @@ At the moment, I am practicing painting just to increase my artistic abilities. 
 
 In the first place, I want to master realistic portraits of animals. I have always been interested in animals.
 
-![Head of a rottweiler dog](../images/1.jpg)
+![Head of a rottweiler dog](/images/posts/2021/1.jpg)
 
 ### Whose work inspires you most -- who are your role models as an artist?
 
@@ -32,7 +32,7 @@ And a great image-maker that recently I came to know about, [Heinrich Kley](http
 
 All of these are great artists and have had a profound impact on me, but none of them are really my role models.
 
-![Head of a young cat](../images/2.jpg)
+![Head of a young cat](/images/posts/2021/2.jpg)
 
 ### How and when did you get to try digital painting for the first time?
 
@@ -46,7 +46,7 @@ With more speed and possibilities, I can make fundamental changes in my painting
 
 I was already familiar with Krita when I was looking for an alternative to Photoshop. I think I even have an old version of Krita on my laptop. And when I decided to take digital painting seriously, my first choice was Krita.
 
-![Head of a fox](../images/4.jpg)
+![Head of a fox](/images/posts/2021/4.jpg)
 
 ### What was your first impression?
 
@@ -68,9 +68,9 @@ Krita is free and easily accessible. This is great. But I think focusing on digi
 
 Maybe this cat.
 
-[![Head and part of the torso of a fluffy white cat](../images/5.jpg)](https://krita.org/wp-content/uploads/2021/09/5.jpg)
+[![Head and part of the torso of a fluffy white cat](/images/posts/2021/5.jpg)](https://krita.org/wp-content/uploads/2021/09/5.jpg)
 
-Two weeks before I drew this cat, I had drawn a cat which I think was awful. The next week I drew another cat and left it half-finished, and I drew another cat and tried to hide its flaws under its fur. But it was not good either. So I decided to draw only cats every day for at least a week. And after a week I drew this and I was almost satisfied with it (please see my progress in drawing this cat in the photos below). [![Progress pictures of cat drawing](../images/improvment-in-a-week.jpg)](https://krita.org/wp-content/uploads/2021/09/improvment-in-a-week.jpg)
+Two weeks before I drew this cat, I had drawn a cat which I think was awful. The next week I drew another cat and left it half-finished, and I drew another cat and tried to hide its flaws under its fur. But it was not good either. So I decided to draw only cats every day for at least a week. And after a week I drew this and I was almost satisfied with it (please see my progress in drawing this cat in the photos below). [![Progress pictures of cat drawing](/images/posts/2021/improvment-in-a-week.jpg)](https://krita.org/wp-content/uploads/2021/09/improvment-in-a-week.jpg)
 
 And here's a timelapse: 
 

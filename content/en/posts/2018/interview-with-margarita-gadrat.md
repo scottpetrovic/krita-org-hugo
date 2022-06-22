@@ -6,7 +6,7 @@ categories:
 coverImage: "lake_house.jpg"
 ---
 
-![](../images/dribbble_cat.jpg)
+![](/images/posts/2018/dribbble_cat.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -20,7 +20,7 @@ Both. Personal paintings for experimenting and improving my technique. Professio
 
 I like painting nature inspired subjects, like landscapes, cute animals. And mysterious, dark atmospheres.
 
-![](../images/Alchemy.jpg)
+![](/images/posts/2018/Alchemy.jpg)
 
 ### Whose work inspires you most -- who are your role models as an artist?
 
@@ -40,7 +40,7 @@ The creative possibilities you have without buying oils, watercolor. No need to 
 
 My husband, who is into FOSS, told me about Krita.
 
-![](../images/turtoad.jpg)
+![](/images/posts/2018/turtoad.jpg)
 
 ### What was your first impression?
 
@@ -60,7 +60,7 @@ Krita is really rich software. You can imitate the traditional materials, but al
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-\[caption id="attachment\_7821" align="aligncenter" width="800"\]![](../images/lake_house.jpg) "Lake house"\[/caption\]
+\[caption id="attachment\_7821" align="aligncenter" width="800"\]![](/images/posts/2018/lake_house.jpg) "Lake house"\[/caption\]
 
 This work combines architecture and nature, it was a nice challenge working on the design of the house and the composition.
 

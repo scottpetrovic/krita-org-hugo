@@ -9,4 +9,4 @@ He has developed a consistent work, creating new thumbnails with standard backgr
 
 Enjoy it!
 
-![](../images/Krita-brush-preset-v3_by-david-revoy_01.jpg)
+![](/images/posts/2013/Krita-brush-preset-v3_by-david-revoy_01.jpg)

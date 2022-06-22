@@ -41,8 +41,8 @@ Vera Lukman fixed bugs in the popup palette and added some visual improvements: 
 
 And group photo (Lukáš, Vera, Sven, Peter, Dmitry, front: Boudewijn, Cyrille, Adam):
 
-![](../images/krita-team.jpg)
+![](/images/posts/2010/krita-team.jpg)
 
 Irina has organized the t-shirts, and [Araprint](http://araprint.nl) has, with magnificent service, converted the design to make it possible to print in five colors and _delivered_ the t-shirts to our place when we, because of a power-cut and attendant confusion, had forgotten to collect them:
 
-![](../images/img_1772.jpg)
+![](/images/posts/2010/img_1772.jpg)

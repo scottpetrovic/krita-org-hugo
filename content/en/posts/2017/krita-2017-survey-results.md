@@ -7,7 +7,7 @@ A bit later than planned, but here are the 2017 Krita Survey results! We wanted 
 
 - About 55% of respondents use Windows, about 40% Linux, about 10% MacOS. Web-traffic, wise, 75% browses krita.
 
-[![](../images/os.png)](https://krita.org/wp-content/uploads/2017/04/os.png)
+[![](/images/posts/2017/os.png)](https://krita.org/wp-content/uploads/2017/04/os.png)
 
 - Almost half of respondents have an NVidia graphics card, less than 25% AMD: the rest is Intel.
 - The most common amount of RAM is 8GB
@@ -16,6 +16,6 @@ A bit later than planned, but here are the 2017 Krita Survey results! We wanted 
 - The most common image sizes are 1920x1080, then A4 at 300 DPI: 2480x3508
 - And finally, most people wish that Krita were a bit faster -- something we suspect will be the case forever!
 
-[![](../images/gripes.png)](https://krita.org/wp-content/uploads/2017/04/gripes.png)
+[![](/images/posts/2017/gripes.png)](https://krita.org/wp-content/uploads/2017/04/gripes.png)
 
 And we've also learned (as if we didn't know!) that Krita users are lovely people. We got so many great messages of support in the write-in section!

@@ -38,7 +38,7 @@ ACO (Adobe Color Palette) is the native Format of Photoshop which support rgb, c
 
 ### Search filter box in Gmic
 
-Gmic offers around 250 different filters to use. Finding them by space memory is a bit slow when you know exactly what you want. The new search box allows to easily find the filter by its name. ![Gmic filtering with keyword ](../images/sm_w19_gmic-search.jpg)
+Gmic offers around 250 different filters to use. Finding them by space memory is a bit slow when you know exactly what you want. The new search box allows to easily find the filter by its name. ![Gmic filtering with keyword ](/images/posts/2014/sm_w19_gmic-search.jpg)
 
 ## Krita Sketch and Gemini
 

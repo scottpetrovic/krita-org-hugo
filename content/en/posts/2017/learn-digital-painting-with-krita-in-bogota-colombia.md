@@ -13,4 +13,4 @@ It will be an introductory course where people from 14 years old and older will 
 
 And you can follow them on twitter (@ubuntco and facebook as well: https://www.facebook.com/UbuntuColombia
 
-[![](../images/krita_cursus_bogota-1024x791.png)](https://krita.org/wp-content/uploads/2017/11/krita_cursus_bogota.png)If _you_ are thinking of organizing a Krita course for your local user group, community art college or similar,  contact us so we can help you spread the word, too!
+[![](/images/posts/2017/krita_cursus_bogota-1024x791.png)](https://krita.org/wp-content/uploads/2017/11/krita_cursus_bogota.png)If _you_ are thinking of organizing a Krita course for your local user group, community art college or similar,  contact us so we can help you spread the word, too!

@@ -6,7 +6,7 @@ categories:
 coverImage: "Mental-Decay.jpg"
 ---
 
-![](../images/Mental-Decay.jpg)
+![](/images/posts/2018/Mental-Decay.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -20,7 +20,7 @@ I paint as a hobby, but I sometimes use the skills I’ve learned from painting 
 
 I don’t really have a specific genre besides perhaps drawing in a more realistic style. I like to challenge myself to draw new things. I usually paint something with life in it like creatures or people.
 
-![](../images/When-reference-comes-to-life.jpg)
+![](/images/posts/2018/When-reference-comes-to-life.jpg)
 
 ### Whose work inspires you most -- who are your role models as an artist?
 
@@ -34,7 +34,7 @@ I found GIMP on a Linux computer in college and I played around with some of the
 
 So many things. The ease of changing things when you are already far into the drawing, the fact that you can undo mistakes and best of all it’s not as messy. I also love computers so drawing digitally is like having best of both worlds.
 
-![](../images/Angry-Elf.jpg)
+![](/images/posts/2018/Angry-Elf.jpg)
 
 ### How did you find out about Krita?
 
@@ -48,7 +48,7 @@ The interface was so much more modern than GIMP, and I’m a firm believer that 
 
 I love the interface. I also like the fact that you can do animations with it. I have only started dabbling in animation but so far I am fascinated by it. I also love how responsive Krita is and the fact that it supports my tablet, which GIMP did not. And finally I love that it is still being improved upon by the developers. It means any issues I might encounter can still be solved.
 
-![](../images/Dwarf.jpg)
+![](/images/posts/2018/Dwarf.jpg)
 
 ### What do you think needs improvement in Krita? Is there anything that really annoys you?
 
@@ -60,7 +60,7 @@ The amount of things you can do with it, all neatly wrapped up in a beautiful de
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](../images/Ferret-Mount.jpg)
+![](/images/posts/2018/Ferret-Mount.jpg)
 
 Usually my newest drawing is my favourite but the Ferret mount I drew really stands out for me. I tried to push myself to create a sense of depth and a scene that I haven’t been able to achieve in any of my previous drawings. I learned a lot from drawing it and it was a lot of fun to do.
 

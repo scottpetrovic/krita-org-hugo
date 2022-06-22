@@ -6,7 +6,7 @@ categories:
 coverImage: "Sailing-to-the-edge-of-the-world-II.jpg"
 ---
 
-### ![](../images/Sailing-to-the-edge-of-the-world-IV.jpg)
+### ![](/images/posts/2017/Sailing-to-the-edge-of-the-world-IV.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -68,7 +68,7 @@ Ease of use, the brush engine, the speed that it works at (even with 4k document
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](../images/Sailing-to-the-edge-of-the-world-II.jpg)
+![](/images/posts/2017/Sailing-to-the-edge-of-the-world-II.jpg)
 
 This is a hard question because I feel I am a terrible critic. If I had to choose it’d probably be Sailing to the Edge of the World II – from my Sailing to the Edge of the world painting series I made for a good colleague of mine. I also included the latest painting in that series, though I believe the second one was the best. Even though it’s been maybe 8 months since I made that painting it’s still one of my best.
 

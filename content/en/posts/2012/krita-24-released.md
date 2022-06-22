@@ -9,7 +9,7 @@ _Krita 2.4 is dedicated to the memory of Jean Giraud/ Mœbius_
 
 The Krita team is proud to announce the release of Krita 2.4. Krita 2.4 is the second release of Krita that is ready for end users, and the first that is ready for professional digital artists. With many powerful brush engines and unique features as multi-hand and mirrored painting, Krita supports creating concept art, storyboards, textures, matte paintings and illustrations. Krita is already used by artists around the world.
 
-![](../images/example_grid_sm.jpg)
+![](/images/posts/2012/example_grid_sm.jpg)
 
 _(David Revoy, snoupfilou, Boudewijn Rempt, Enrico Guarnieri, Alexey Guranov, Timothee Giet, Ramon Miranda, Kargall Lefou, Fernando Michelotti. See the [Krita Gallery forum for more artwork](http://forum.kde.org/viewforum.php?f=138).)_
 
@@ -19,7 +19,7 @@ For an in-depth look at Krita 2.4 and more exampes of art created with Krita, yo
 
 Krita 2.4 is already packaged for many Linux distributions, and there is an experimental installer available for Windows as well. Check the [Download page](http://krita.org/download "Download Krita!") for more information.
 
-![](../images/splash_screen.png)
+![](/images/posts/2012/splash_screen.png)
 
  _(Krita 2.4 splash screen by Enrico Guarnieri)_
 

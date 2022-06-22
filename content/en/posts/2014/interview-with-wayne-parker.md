@@ -6,7 +6,7 @@ categories:
 coverImage: "wayne-parker-thumbnail.jpg"
 ---
 
-![Sketches by Wayne Parker](../images/krita_sketches_by_wayneparker-d7cgase.png)
+![Sketches by Wayne Parker](/images/posts/2014/krita_sketches_by_wayneparker-d7cgase.png)
 
 ### Would you like to tell us something about yourself?
 

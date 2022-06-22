@@ -13,7 +13,7 @@ Nikolai and his team are running [a crowdfunding campaign](https://morevnaprojec
 
 – a training video course so you, too can master the techniques used to create this animation
 
-![](../images/pepper-300x169.jpg) ![](../images/synfig-300x169.png)
+![](/images/posts/2018/pepper-300x169.jpg) ![](/images/posts/2018/synfig-300x169.png)
 
 – your own image animated! Check out this one of Kiki from the previous campaign:
 
@@ -24,8 +24,8 @@ And many other exclusive rewards! By claiming any of them, you are helping Nikol
 
 The series is a futuristic adaptation of the traditional Russian fairy tale "Marya Morevna" (also known as "The Death of Koschei the Deathless"). The action takes place in the distant future, where horses are replaced by bikes and cars, the main protagonist Ivan Tsarevich turns into a talented mechanic, Marya Morevna is a biker queen with a samurai sword, and Koschei is more immortal and evil than ever - as he is a battle robot now!
 
-![](../images/sketch.jpg)
+![](/images/posts/2018/sketch.jpg)
 
-![](../images/darkness.png)
+![](/images/posts/2018/darkness.png)
 
 ### [Support the new episode of Morevna](https://morevnaproject.org/crowdfunding/morevna-episode-4/)

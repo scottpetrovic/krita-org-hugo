@@ -6,7 +6,7 @@ categories:
 coverImage: "dragon-and-warrior-.jpeg"
 ---
 
-### ![dragon-and-warrior-](../images/dragon-and-warrior-.jpeg)
+### ![dragon-and-warrior-](/images/posts/2016/dragon-and-warrior-.jpeg)
 
 ### Could you tell us something about yourself?
 
@@ -20,7 +20,7 @@ Both.
 
 I work in various genres, including illustration for children's books and also for teenagers, fantasy art and, most recently, abstract digital painting.
 
-![29-01-16-abstract-krita-800](../images/29-01-16-abstract-krita-800.jpeg)
+![29-01-16-abstract-krita-800](/images/posts/2016/29-01-16-abstract-krita-800.jpeg)
 
 ### Whose work inspires you most -- who are your role models as an artist?
 
@@ -46,7 +46,7 @@ As I said before, I really liked the program, but thought it needed improvement.
 
 Many things. I'm still learning how to use the resources, so I would say that the various possibilities of use of the brushes are very useful for my work.
 
-![krita-study-12-2014-800](../images/krita-study-12-2014-800.jpeg)
+![krita-study-12-2014-800](/images/posts/2016/krita-study-12-2014-800.jpeg)
 
 ### What do you think needs improvement in Krita? Is there anything that really annoys you?
 
@@ -60,7 +60,7 @@ Krita has many useful functions that I like to use but can not find in other too
 
 I think my best work is always the last because it always applies new things I learned.
 
-### ![krita-the-tree-of-death-07-02-16-800](../images/krita-the-tree-of-death-07-02-16-800.jpeg)
+### ![krita-the-tree-of-death-07-02-16-800](/images/posts/2016/krita-the-tree-of-death-07-02-16-800.jpeg)
 
 ### What techniques and brushes do you use most?
 

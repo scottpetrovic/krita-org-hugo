@@ -5,7 +5,7 @@ categories:
   - "news"
 ---
 
-[![Kiki, the Krita mascot, is on the foreground, leaning on a book with the title "Krita" and the Krita logo. In her right hand, she's holding up a stylus, and she's facing the audience with a big grin. On the background a giant sphinx is sitting, hunched over to look at Kiki.](../images/krita_sphinx_conversion.png)](https://krita.org/wp-content/uploads/2018/05/krita_sphinx_conversion.png)
+[![Kiki, the Krita mascot, is on the foreground, leaning on a book with the title "Krita" and the Krita logo. In her right hand, she's holding up a stylus, and she's facing the audience with a big grin. On the background a giant sphinx is sitting, hunched over to look at Kiki.](/images/posts/2018/krita_sphinx_conversion.png)](https://krita.org/wp-content/uploads/2018/05/krita_sphinx_conversion.png)
 
 Over the past month or two, we've been really busy with the [manual](https://docs.krita.org). Our manual always has been a source of pride for the project: it's extensive, detailed, up-to-date and contains a lot of in-depth information not just on Krita, but on digital painting in general. The manual was implemented as a mediawiki site. A wiki makes it easy to create and edit pages, but it turned out to be hard to have translations available or to generate an off-line version like a PDF or epub version of the manual.
 

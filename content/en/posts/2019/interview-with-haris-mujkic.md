@@ -6,7 +6,7 @@ categories:
 coverImage: "ShibuyaCrossing-800.jpg"
 ---
 
-### ![](../images/Coyote-800.jpg)
+### ![](/images/posts/2019/Coyote-800.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -18,7 +18,7 @@ My favorite album is ["Grace" by Jeff Buckley](https://www.youtube.com/watch?v=A
 
 In addition to producing all the art for ALT BOSNIA I am also freelancing. It helps pay for my game dev adventures.
 
-![](../images/LastSpring-800.jpg)
+![](/images/posts/2019/LastSpring-800.jpg)
 
 ### What genre(s) do you work in?
 
@@ -32,7 +32,7 @@ Other traditional artists close to Schmid in influence are [John Sargent](https:
 
 When it comes to digital I love the work of [Theo Prins](http://www.theoprins.com/), [Craig Mullins](http://www.goodbrush.com/), [Krenz Cushart](https://www.artstation.com/krenz) and [Ruan Jia](https://www.iamag.co/the-art-of-ruan-jia/).
 
-![](../images/SummerWalk-800.jpg)
+![](/images/posts/2019/SummerWalk-800.jpg)
 
 ### How and when did you get to try digital painting for the first time?
 
@@ -52,7 +52,7 @@ I started using Krita just as a "helper" tool. After a couple of weeks of gettin
 
 Krita is since then my main tool for all digital painting related: concept art, texture painting, promotional art and freelance/commissions.
 
-![](../images/BlagajReflections-800.jpg)
+![](/images/posts/2019/BlagajReflections-800.jpg)
 
 ### What do you love about Krita?
 
@@ -72,7 +72,7 @@ I like how Krita is focused on making digital painting and animation workflow be
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](../images/ShibuyaCrossing-800.jpg)
+![](/images/posts/2019/ShibuyaCrossing-800.jpg)
 
 Definitely my most recent photo study, "Shibuya Crossing". It is one of the most challenging pieces I’ve done so far, both in the amount of details and how much I’ve learned about painting figures in a relation to space and light.
 

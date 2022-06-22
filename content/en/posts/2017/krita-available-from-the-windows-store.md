@@ -7,7 +7,7 @@ Some time ago, we got in touch with a team from Microsoft that was reaching out 
 
 We decided to take them up on their offer. We have had the intention to offer Krita on the Windows Store for quite some time already, only we never had the time to get it done.
 
-[![Get](../images/app-windows-blue.png)](https://www.microsoft.com/store/apps/9n6x57zgrw96?ocid=badge)
+[![Get](/images/posts/2017/app-windows-blue.png)](https://www.microsoft.com/store/apps/9n6x57zgrw96?ocid=badge)
 
 Putting Krita in the Windows Store makes Krita visible to a whole new group of people. plus...
 

@@ -6,7 +6,7 @@ categories:
 coverImage: "AHumanPhoenix-800.png"
 ---
 
-![](../images/AHumanPhoenix-800.png)
+![](/images/posts/2018/AHumanPhoenix-800.png)
 
 ### Could you tell us something about yourself?
 
@@ -28,7 +28,7 @@ An artist that really inspires me is [Alphonse Mucha](https://en.wikipedia.org/w
 
 About three years ago, I met someone who was also into art. Their art was beautiful and they pushed me to do better. I slowly got better over time with them as an inspiration. Early 2018, I traded some cheap alcohol based markers for their old Wacom tablet. I have been doing digital and traditional ever since.
 
-![](../images/fallbackintoreality-800.png)
+![](/images/posts/2018/fallbackintoreality-800.png)
 
 ### What makes you choose digital over traditional painting?
 
@@ -42,7 +42,7 @@ I found out about Krita because I wanted a free software that would do what I wa
 
 My first impression of Krita was excitement because I just kept messing with all the cool brushes and tools.
 
-![](../images/Phoenix-Side-View-800.png)
+![](/images/posts/2018/Phoenix-Side-View-800.png)
 
 ### What do you love about Krita?
 
@@ -58,7 +58,7 @@ What sets Krita apart is that its brushes and other tools are a lot cleaner to u
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](../images/watch-and-burn-800.png)
+![](/images/posts/2018/watch-and-burn-800.png)
 
 My most recent work that I made. I titled it Watch and Burn. The reason I love it so much is because I finally was able to keep a very consistent colour scheme.
 

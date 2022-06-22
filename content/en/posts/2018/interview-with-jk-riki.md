@@ -5,7 +5,7 @@ categories:
   - "artist-interview"
 ---
 
-![](../images/JK_01-800.png)
+![](/images/posts/2018/JK_01-800.png)
 
 ### Could you tell us something about yourself?
 
@@ -15,7 +15,7 @@ Hi everyone! My name is JK. I am an animator, graphic designer, author, and the 
 
 My full time job in game development has me doing art professionally, but I'm always working on improving my skills by doing digital painting as a hobby as well - so a little bit of both.
 
-![](../images/JK_02-800.png)
+![](/images/posts/2018/JK_02-800.png)
 
 ### What genre(s) do you work in?
 
@@ -35,7 +35,7 @@ I imagine the first time I tried it was back in Art School, though that's probab
 
 I am a big proponent of "Fail fast and often." Digital painting allows for just that. I can make (and try to correct) 20 mistakes digitally in the time it takes to pinpoint and alter one mistake traditionally.
 
-Of course, I still love traditional art, even though I find it takes far longer to do. I have sketchbooks littered around my office, and would happily animate with paper and pencil any time any day.![](../images/JK_03.png)
+Of course, I still love traditional art, even though I find it takes far longer to do. I have sketchbooks littered around my office, and would happily animate with paper and pencil any time any day.![](/images/posts/2018/JK_03.png)
 
 ### How did you find out about Krita?
 
@@ -45,7 +45,7 @@ It was actually from my wife, who is a software engineer! She needed to do some 
 
 Well, to be honest, I have a hard time learning new programs, so initially I was a little bit resistant! There were so many brushes, and I had to adapt to the differences between Krita and Photoshop. It won me over far more quickly than any other program, though. The flow and feel of painting and drawing in Krita is on a whole different level, probably because it was designed with that in mind! I would never want to go back now.
 
-![](../images/JK_04.png)
+![](/images/posts/2018/JK_04.png)
 
 ### What do you love about Krita?
 
@@ -65,13 +65,13 @@ Apart from the price tag, Krita is just more _fun_ to work in than most other pr
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-You torture me, how can I choose?! I suppose it would be this one:![](../images/JK_05-800.png)
+You torture me, how can I choose?! I suppose it would be this one:![](/images/posts/2018/JK_05-800.png)
 
 It may not be the most finished or technically impressive art I've ever done, but it was one of the first times digital painting really clicked with me and I thought "Hey, maybe I can do this!" I've always felt an affinity for comic and cartoon style, but realism often eludes me. This piece proved in some small way that my practice was starting to pay off and I was getting somewhere. It felt like a turning point. So even if no one else feels the same way, this little bird will always be special to me.
 
 ### What techniques and brushes did you use in it?
 
-My most-used brushes are Ink\_tilt\_10 and Ink\_tilt\_20 (as seen in this screen capture!) ![](../images/JK_favbrushes.png)
+My most-used brushes are Ink\_tilt\_10 and Ink\_tilt\_20 (as seen in this screen capture!) ![](/images/posts/2018/JK_favbrushes.png)
 
 These days I use many more brushes and techniques, but that whole image was done with just those two, and different levels of flow and opacity. I didn't even know about the Alpha Lock on the layers panel for this, which I use now in almost every digital painting.
 
@@ -83,4 +83,4 @@ I also share my practice art and work-in-progress on my personal Twitter account
 
 ### Anything else you'd like to share?
 
-Yes. A note to other artists out there: You can have the greatest tools and knowledge in the world but if you don't practice, and truly put in the work, you will never achieve your best art. It is hard. I know, I'm with you there. It's worth it, though. Work hard, practice a ton, and we'll all improve together. Let's do it! And if you ever need someone to encourage you to keep going, send me a note! :) ![](../images/JK_06-800.png)
+Yes. A note to other artists out there: You can have the greatest tools and knowledge in the world but if you don't practice, and truly put in the work, you will never achieve your best art. It is hard. I know, I'm with you there. It's worth it, though. Work hard, practice a ton, and we'll all improve together. Let's do it! And if you ever need someone to encourage you to keep going, send me a note! :) ![](/images/posts/2018/JK_06-800.png)

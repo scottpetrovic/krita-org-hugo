@@ -5,7 +5,7 @@ date: "2016-12-31"
 
 This is not the place to present an opinion on all the other things that have happened in 2016, but when it comes to Krita, 2016 was perhaps the most intense year ever for the project. Let's step back for a moment and do a bit of review!
 
-[![](../images/krita-3.0-1024x559.png)](https://krita.org/wp-content/uploads/2016/05/krita-3.0.png)
+[![](/images/posts/2016/krita-3.0-1024x559.png)](https://krita.org/wp-content/uploads/2016/05/krita-3.0.png)
 
 Krita's grown by leaps and bounds. We've got more users and more contributors than ever -- and sometimes, we're feeling the load!
 
@@ -26,7 +26,7 @@ The first release was the final one of the very succesful 2.9 series, the last v
 
 Still, we're a small team of mostly volutneers, we're having fun, but sometimes we're just overloaded with user requests, support requests and coding tasks, documentation writing, community management, bug triaging. We managed to round off another kickstarter, but the rewards are still in production. As is the artbook -- which is going to look great, and [which you can pre-order now](/support-us/shop/)!
 
-\[caption id="attachment\_4645" align="aligncenter" width="217"\][![](../images/cover_small-217x300.png)](https://krita.org/wp-content/uploads/2016/12/cover_small.png) Made with Krita 2016\[/caption\]
+\[caption id="attachment\_4645" align="aligncenter" width="217"\][![](/images/posts/2016/cover_small-217x300.png)](https://krita.org/wp-content/uploads/2016/12/cover_small.png) Made with Krita 2016\[/caption\]
 
 But everything should be ready for sending out in January. But that's already 2017! So, what will 2017 bring? We looked [forward in detail before](/item/looking-forward/), so everyone will be aware of the coming of SVG support, improved vector tools, improved text tool and Python scripting. But Dmitry also added support for audio in animations in the past week -- which will be in the next release, 3.1.2, scheduled for end of January. We'll do regular bug fix releases, of course, and we'll do at least one big feature release with the last 2015 and the 2016 kickstarter goals, as well as whatever else gets coded. And it's not just coding: in 2017, we want to bring out another book, a [Pepper and Carrot](http://peppercarrot.com/) book!
 

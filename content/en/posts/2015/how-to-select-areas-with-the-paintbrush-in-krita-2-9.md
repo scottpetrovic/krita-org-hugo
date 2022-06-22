@@ -21,7 +21,7 @@ If you are not familiar with selection masks, you can create one by selecting an
 
 You can paint on these with white to add to the selection, or black to substract from the selection. But that's only the local selection.
 
-\[caption id="attachment\_1452" align="aligncenter" width="763"\][![selectionmask_01](../images/selectionmask_01.png)](https://krita.org/wp-content/uploads/2015/01/selectionmask_01.png) The global selection in the layer docker\[/caption\]
+\[caption id="attachment\_1452" align="aligncenter" width="763"\][![selectionmask_01](/images/posts/2015/selectionmask_01.png)](https://krita.org/wp-content/uploads/2015/01/selectionmask_01.png) The global selection in the layer docker\[/caption\]
 
 If you go into **selection->show global selection mask**, you will have the global selection as a seperate selection mask at the top of the layer stack. It's only visible if you already have something selected. Once you have selected something, you can choose to paint on it with black or white as well.
 
@@ -31,10 +31,10 @@ Because it's a greyscale image, the 'marching ants' will show up around anything
 
 Of course, this means that Krita can select areas for only 50%. To visualise this, you can use the selection overlay instead of the marching ants.
 
-\[caption id="attachment\_1451" align="aligncenter" width="655"\][![selectionmask_02](../images/selectionmask_02.png)](https://krita.org/wp-content/uploads/2015/01/selectionmask_02.png) The two selection visualisation modes: Above 'marching ants', below 'Selection overlay'. In the lower-left corner, the little shield icon can be clicking to toggle between the two.\[/caption\]
+\[caption id="attachment\_1451" align="aligncenter" width="655"\][![selectionmask_02](/images/posts/2015/selectionmask_02.png)](https://krita.org/wp-content/uploads/2015/01/selectionmask_02.png) The two selection visualisation modes: Above 'marching ants', below 'Selection overlay'. In the lower-left corner, the little shield icon can be clicking to toggle between the two.\[/caption\]
 
 The toggle for that is in the lower-left corner of your status bar, and you can customise the colour and transparency under **settings->configure Krita->display**.
 
-\[caption id="attachment\_1450" align="aligncenter" width="651"\][![The selection now filled with a rainbow gradient. As you can see, some parts are semi-transparent due to the selection being semi-transparent.](../images/selectionmask_3.png)](https://krita.org/wp-content/uploads/2015/01/selectionmask_3.png) The selection now filled with a rainbow gradient. As you can see, some parts are semi-transparent due to the selection being semi-transparent.\[/caption\]
+\[caption id="attachment\_1450" align="aligncenter" width="651"\][![The selection now filled with a rainbow gradient. As you can see, some parts are semi-transparent due to the selection being semi-transparent.](/images/posts/2015/selectionmask_3.png)](https://krita.org/wp-content/uploads/2015/01/selectionmask_3.png) The selection now filled with a rainbow gradient. As you can see, some parts are semi-transparent due to the selection being semi-transparent.\[/caption\]
 
 As you can imagine, we felt that these two features were much more powerful than the old selection brush. We therefore hope you understand us retiring the selection brush, and that you will enjoy using the new global-selection mask!

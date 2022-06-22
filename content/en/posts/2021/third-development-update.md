@@ -31,4 +31,4 @@ Now, let's go for the rest...
 
 So, if you like what we’re doing, [join the development fund](https://fund.krita.org)!
 
-[![](../images/landing-page-banner.png)](https://fund.krita.org)
+[![](/images/posts/2021/landing-page-banner.png)](https://fund.krita.org)

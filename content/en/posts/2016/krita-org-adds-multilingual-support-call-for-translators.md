@@ -5,7 +5,7 @@ date: "2016-06-17"
 
 Did you know that Krita is available in over thirty languages? Krita.org though is only available in two. This means a lot of people in other countries get links to the English site - even though they don't understand it. We want to change this situation and are taking the first step...adding multilingual support. Over the past couple months Scott Petrovic has been at work enhancing krita.org so it can support multiple languages.
 
-![language-switcher](../images/language-switcher.jpg)
+![language-switcher](/images/posts/2016/language-switcher.jpg)
 
 The updated site has a drop-down menu where you can change your language. We currently only have Japanese and English but are in the process of adding more languages (Russian and French in progress). All future updates to the existing Japanese website (jp.krita.org) will now be made on krita.org/jp/. We will be removing the old site in the coming months.
 

@@ -6,7 +6,7 @@ categories:
 coverImage: "The-Swordmaster800.png"
 ---
 
-### [![](../images/The-Swordmaster800.png)](https://krita.org/wp-content/uploads/2015/01/The-Swordmaster-720p.png) Would you like to tell us something about yourself?
+### [![](/images/posts/2015/The-Swordmaster800.png)](https://krita.org/wp-content/uploads/2015/01/The-Swordmaster-720p.png) Would you like to tell us something about yourself?
 
 My name is Elésiane Huve, I'm a freelance illustrator living in the south of France. I usually publish my artworks under the nickname Aliciane. I'm specialized in illustrations related to Fantasy or History.
 

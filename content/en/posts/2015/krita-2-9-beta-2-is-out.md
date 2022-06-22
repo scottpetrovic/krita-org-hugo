@@ -5,7 +5,7 @@ date: "2015-01-15"
 
 Everyone has been working their fingers to the bone to get Krita 2.9 in tip-top shape. For Beta 2, there was a large focus on squishing bugs, fixing crashes, as well as finding memory leaks. There are way too many changes to include everything in the release notes, so here are some highlights from the past month (as well as some fresh builds to get your hands on!)
 
-[![krita_texture_bg](../images/krita_texture_bg-1024x564.jpg)](https://krita.org/wp-content/uploads/2015/01/krita_texture_bg.jpg)
+[![krita_texture_bg](/images/posts/2015/krita_texture_bg-1024x564.jpg)](https://krita.org/wp-content/uploads/2015/01/krita_texture_bg.jpg)
 
 (Krita 2.9 beta 2, with a textured window background. Illustrations by [David Revoy](http://www.patreon.com/davidrevoy)).
 

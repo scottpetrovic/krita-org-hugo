@@ -5,7 +5,7 @@ categories:
   - "artist-interview"
 ---
 
-### ![](../images/brimstone-800.png)
+### ![](/images/posts/2020/brimstone-800.png)
 
 ### Could you tell us something about yourself?
 
@@ -19,7 +19,7 @@ Oh and I am a proud member of the 501st Legion for Charity, who do walks for cau
 
 Well to be honest I would love to draw professionally and making it a living, so right now it’s a hobby that I take seriously, but hopefully I can make it work out in the end.
 
-### ![](../images/Zaman-Gero-800.png)
+### ![](/images/posts/2020/Zaman-Gero-800.png)
 
 ### What genre(s) do you work in?
 
@@ -33,7 +33,7 @@ Again another tough question, I actually have several people who inspired me. On
 
 And finally my family: my cousins, Mrs. Battle, Stardewvalleycoconut, ToastyPaw, Nana, my aunt Nikki and my sister Sailorstar237, my uncles JGriz and Vraptor, and last but not least my mother. It’s because of these people that I got inspired to even dabble in art and also, without my family's support, I don’t think I would have made it this far.
 
-![](../images/New-ChistYear-800.png)
+![](/images/posts/2020/New-ChistYear-800.png)
 
 ### How and when did you get to try digital painting for the first time?
 
@@ -45,7 +45,7 @@ Well, for one thing digital is a bit more forgiving than traditional (well, if i
 
 Also I’ll be honest, I'm a lot neater with digital compared to traditional. Now don’t get me wrong: I love doing traditional, but someone who walked around with half their art project almost everywhere on their body...I guess you can get the picture. I get literally into my art.
 
-![](../images/The-guardian-of-banderwaltz-800.png)
+![](/images/posts/2020/The-guardian-of-banderwaltz-800.png)
 
 ### How did you find out about Krita?
 
@@ -59,7 +59,7 @@ Truthfully a bit intimidating at first, until I got the hang of it and it became
 
 Anyhoo, I draw more these days than I play video games.
 
-### ![](../images/Misty-lady-800.png)
+### ![](/images/posts/2020/Misty-lady-800.png)
 
 ### What do you love about Krita?
 
@@ -83,7 +83,7 @@ Compared to my first experience of using MS Paint or Gimp, it’s a lot more use
 
 ### If you had to pick one favorite of all your work done in Krita so far, what would it be, and why?
 
-![](../images/Phantomwing-800.png)
+![](/images/posts/2020/Phantomwing-800.png)
 
 That’s a tough one to answer, since thanks to Krita, I’ve improved a lot in my art, but if I had to name one it would be my Jewel Thief PhantomWing. The one you're seeing here in this interview is a redraw, since my sketch and my first attempt at drawing digital didn’t turn out the way I wanted so I challenged myself to attempt it with Krita, and I’m much happier with the results than before.
 
@@ -105,7 +105,7 @@ You can find me at my DeviantArt account, which is Spihon [https://www.deviantar
 
 To be honest I don't do much social media, but you can find some of my current comic projects (some original, some fan) and a lot of photos of my earlier career as a 501st member when I didn’t have a bucket to speak of (which is my group's slang for the helmets, if that helps).
 
-![](../images/New-year-disastor-800.png)
+![](/images/posts/2020/New-year-disastor-800.png)
 
 ### Anything else you'd like to share?
 

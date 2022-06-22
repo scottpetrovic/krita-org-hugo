@@ -13,4 +13,4 @@ We’re looking forward to reading your suggestions [here](http://forum.kde.org/
 
 And… remember, Krita 2.7 release is close!
 
-![](../images/cropped-icon-krita-sketch2.png)
+![](/images/posts/2013/cropped-icon-krita-sketch2.png)

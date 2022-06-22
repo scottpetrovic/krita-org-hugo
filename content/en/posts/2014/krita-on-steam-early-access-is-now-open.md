@@ -4,7 +4,7 @@ date: "2014-04-02"
 ---
 
   
-![Kiki says Thank You!](../images/tumblr_n1gnoiWyBx1rw701fo1_1280.png)
+![Kiki says Thank You!](/images/posts/2014/tumblr_n1gnoiWyBx1rw701fo1_1280.png)
 
 Yesterday -- yes, April 1st, but it wasn't a joke! -- Krita went into Early Access mode on Steam!
 

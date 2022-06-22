@@ -6,7 +6,7 @@ categories:
 coverImage: "north__spirit.jpg"
 ---
 
-![](../images/alka_sketch.jpg)
+![](/images/posts/2018/alka_sketch.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -14,7 +14,7 @@ coverImage: "north__spirit.jpg"
 
 I worked as a freelancer in advertising and comics, I taught traditional and digital painting and drawing in my studio (now closed) La Casa Blu. Today I continue to draw as a hobby and some work, since I teach painting in a center for disabled people.
 
-![](../images/axe.jpg)
+![](/images/posts/2018/axe.jpg)
 
 ### Do you paint professionally, as a hobby artist, or both?
 
@@ -32,7 +32,7 @@ In addition to loving Michelangelo Buonarotti and Caravaggio, I studied Richard 
 
 In 2000, my brother, a computer programmer, made me try OpenSuse. I used Gimp, and I felt good because I could draw what I wanted and how I wanted. Since then, I have abandoned Windows for Linux and I have discovered a series of wonderful programs which allow me to work professionally, giving me the advantage of digital.
 
-### ![](../images/alka_sketch_2.jpg)
+### ![](/images/posts/2018/alka_sketch_2.jpg)
 
 ### What makes you choose digital over traditional painting?
 
@@ -42,7 +42,7 @@ In my opinion digital painting is infinity. You can do whatever you want and go 
 
 Watching Youtube videos by Mozart Couto, Ramon Miranda and David Revoy, I saw that they used Krita. I did not know what it was, I did some research on the Internet and found the site Voilà! Love is born! Today it is my favorite program (I'm not saying that to make a good impression on you!).
 
-### ![](../images/docrobot2.jpg)
+### ![](/images/posts/2018/docrobot2.jpg)
 
 ### What was your first impression?
 
@@ -68,7 +68,7 @@ The freedom to manage your work, the potential of the various tools and the stab
 
 North (spirit), is my favorite work done with Krita, so far.
 
-![](../images/north__spirit.jpg)
+![](/images/posts/2018/north__spirit.jpg)
 
 In it there are my first (serious) created brushes. The texture of the paper was created with Krita. Also there is my passion for the peoples of the north: my great-grandfather was Swedish. Therefore, in the drawing there is a large part of myself and the drawing represents me.
 

@@ -7,11 +7,11 @@ tags:
 
 So... What's been going on since our last update? Quite a lot! Boudewijn visited [Latinoware 2014](http://2014.latinoware.org) and gave a presentation about free and libre graphics software, including Krita of course! You can download the [slides here](http://files.kde.org/krita/marketing/latinoware2014/latinoware.odp). It's not yet known whether the presenations were recorded.
 
-[![final](../images/final-300x200.png)](https://krita.org/wp-content/uploads/2014/10/final.png)
+[![final](/images/posts/2014/final-300x200.png)](https://krita.org/wp-content/uploads/2014/10/final.png)
 
 Wolthera visited [Facts,](http://www.facts.be/) where she demoed Krita on a big [Yiynova](https://twitter.com/Yiynova_Europe) tablet monitor. It's a huge show, and there was a big audience for Krita. Lots of painting fun was had by kids passing by, too.
 
-[![facts](../images/facts-300x225.jpg)](https://krita.org/wp-content/uploads/2014/10/facts.jpg)
+[![facts](/images/posts/2014/facts-300x225.jpg)](https://krita.org/wp-content/uploads/2014/10/facts.jpg)
 
 Next up will be two cool events in the United States, in Seattle, where [Oscar Baechler](http://ogbog.net) will present Krita:
 

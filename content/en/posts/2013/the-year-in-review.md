@@ -9,7 +9,7 @@ If you didn't pre-order, get your copy now! The regular price is € 32,50 inclu
 
 <table><tbody><tr><td>Muses by Ramon Miranda</td></tr></tbody></table>
 
- ![](../images/pixel.gif)
+ ![](/images/posts/2013/pixel.gif)
 
 Releases
 

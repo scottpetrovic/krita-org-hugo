@@ -10,7 +10,7 @@ Not directly development related, but the scammers who registered krita.io, krit
 
 The Krita development fund now has over 150 subscription members -- and about 250 occasional supporters per month. We're still quite far from making it possible to fund more developers from the dev fund instead of -- always fickle -- store sales, so if you aren't a member, please consider joining!
 
-[![](../images/landing-page-banner.png)](https://fund.krita.org)
+[![](/images/posts/2021/landing-page-banner.png)](https://fund.krita.org)
 
 We have just now released [Krita 5.0 beta 1](/item/first-beta-for-krita-5-0-released/), and now we're working on the second beta. At the same time, there are some exciting developments for Krita 5.1, _and_ we're looking into what we want to focus on after the Krita 5.0 release.
 

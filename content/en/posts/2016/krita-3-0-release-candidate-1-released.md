@@ -5,7 +5,7 @@ date: "2016-05-18"
 
 We're getting closer and closer to releasing Krita 3.0, the first version of Krita that includes animation tools, instant preview and which is based on Qt5! Today's release candidate offers many fixes and improvements over the previous beta releases. The Animation and Instant Preview features were funded by last year's [successful Kickstarter](https://www.kickstarter.com/projects/krita/krita-free-paint-app-lets-make-it-faster-than-phot), and right now we're running [our third Kickstarter campaign: this year's main topics are creating a great text and vector toolset](https://www.kickstarter.com/projects/krita/krita-2016-lets-make-text-and-vector-art-awesome). After one week, we're already half-way!
 
-[![support-krita-2016-3](../images/support-krita-2016-3-1024x132.png)](https://www.kickstarter.com/projects/krita/krita-2016-lets-make-text-and-vector-art-awesome)
+[![support-krita-2016-3](/images/posts/2016/support-krita-2016-3-1024x132.png)](https://www.kickstarter.com/projects/krita/krita-2016-lets-make-text-and-vector-art-awesome)
 
 The biggest new feature is no doubt support for hand-drawn animation. This summer, Jouni Pentikäinen will continue improving the animation tools, but it's already a solid toolset. Here's a video tutorial where Wolthera shows how she created the animated headers for this year's Kickstarter stretch goals:
 

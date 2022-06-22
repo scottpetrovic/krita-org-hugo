@@ -6,7 +6,7 @@ categories:
 coverImage: "OakTreeWomanSkin800.jpg"
 ---
 
-### ![](../images/KritaNomadSoldier800.jpg)
+### ![](/images/posts/2019/KritaNomadSoldier800.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -20,7 +20,7 @@ Currently I'm working to jump the gap between hobby artist and professional. I'v
 
 I'm open to anything that involves the creation of a piece of art that didn't exist before, but my true loves are fantasy and sci-fi illustration. I've always been a huge reader and I love how art can augment writing and vice-versa. I have several projects I'm tinkering with that revolve around an old-style text and illustration format because it seems to work better for my partner and me than the graphic novel/comic book style.
 
-![](../images/RedRoses800.jpg)
+![](/images/posts/2019/RedRoses800.jpg)
 
 ### Whose work inspires you most -- who are your role models as an artist?
 
@@ -44,7 +44,7 @@ I've been hearing about Krita for a long time and desperately wanting to try it,
 
 My first impression was extremely positive. Over the years, I've used SmartSketch, PhotoShop, AutoDesk, Manga Studio 1-4, ArtRage 1-5, Pixelmator, Inkscape, Illustrator, and most recently Affinity Designer. Krita held its own against all of them for the types of art I usually do and even outdistanced most of them in terms of available brushes and capabilities.
 
-### ![](../images/Portal800.jpg)
+### ![](/images/posts/2019/Portal800.jpg)
 
 ### What do you love about Krita?
 
@@ -60,7 +60,7 @@ Krita is the only art program I've ever used that feels like it was made by arti
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](../images/OakTreeWomanSkin800.jpg)
+![](/images/posts/2019/OakTreeWomanSkin800.jpg)
 
 My current favorite is a recent illustration commission showing an oak tree and the Faery being magically bound to it. It's based on the M.A. Raye short story "Invisibly Yours" and it was both the biggest challenge and biggest delight I think I've ever experienced in digital painting. I kept wishing my mum was alive so I could show her my progress.
 
@@ -76,4 +76,4 @@ I can be found on Twitter [@LockeDrachen](https://twitter.com/LockeDrachen) and 
 
 Krita is amazing and I recommend it to everyone, whether they're beginners or professional artists.
 
-![](../images/WraithTango32119800.jpg)
+![](/images/posts/2019/WraithTango32119800.jpg)

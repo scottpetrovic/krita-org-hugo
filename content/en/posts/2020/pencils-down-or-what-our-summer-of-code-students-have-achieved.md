@@ -19,19 +19,19 @@ But the main work was, of course, creating the new fill layer type, making Krita
 
 Hugely impressive work, and real fun to play with. Everything is already in the nightly builds, too, and will be available in Krita 4.4 which we'll release in September! You can also read Amyspark's [report,](https://community.kde.org/GSoC/2020/StatusReports/LeonardoEmanuelSegovia) or head over to the manual:
 
-\[caption id="attachment\_10913" align="aligncenter" width="1024"\][![](../images/1096px-SeExpr_manual_1-1024x840.jpg)](https://docs.krita.org/en/tutorials/seexpr.html) SeExpr Manual\[/caption\]
+\[caption id="attachment\_10913" align="aligncenter" width="1024"\][![](/images/posts/2020/1096px-SeExpr_manual_1-1024x840.jpg)](https://docs.krita.org/en/tutorials/seexpr.html) SeExpr Manual\[/caption\]
 
 ## Integrating the MyPaint Brush Engine in Krita
 
 **Ashwin Daikata** has successfully integrated the [MyPaint](http://mypaint.org/) brush engine in Krita. This is actually the second time we have a MyPaint based brush engine, but the previous engine was very slow and based directly on the MyPaint internal code. When the MyPaint developers separated their brush engine into a library, it became possible to once more integrate the engine in Krita.
 
-[![](../images/Particules_eraser_2.png)](https://krita.org/wp-content/uploads/2020/08/Particules_eraser_2.png)
+[![](/images/posts/2020/Particules_eraser_2.png)](https://krita.org/wp-content/uploads/2020/08/Particules_eraser_2.png)
 
 Ashwin has done a really good job: when painting on default 8 bit RGBA layers, the brushes are as fast as in MyPaint itself.
 
-[![](../images/preset_selector.png)](https://krita.org/wp-content/uploads/2020/08/preset_selector.png)And they not only behave exactly right, you can even edit and create brushes right in Krita!
+[![](/images/posts/2020/preset_selector.png)](https://krita.org/wp-content/uploads/2020/08/preset_selector.png)And they not only behave exactly right, you can even edit and create brushes right in Krita!
 
-[![](../images/Preset_editor-1024x568.png)](https://krita.org/wp-content/uploads/2020/08/Preset_editor.png)
+[![](/images/posts/2020/Preset_editor-1024x568.png)](https://krita.org/wp-content/uploads/2020/08/Preset_editor.png)
 
 The MyPaint brush engine will be merged soon, and will be released Krita 5.0, planned for this year.
 
@@ -41,11 +41,11 @@ Ashwin has prepared a [report](https://community.kde.org/GSoC/2020/StatusReports
 
 **Saurabh Kumar** implemented storyboard functionality for Krita. This includes a docker to manage the storyboard, piggy-backing on Krita's animation feature to switch the canvas between boards and exporting the storyboards to SVG and PDF -- including specifying a layout .
 
-\[caption id="attachment\_10957" align="aligncenter" width="601"\][![](../images/Storyboard_custom_options.png)](https://krita.org/wp-content/uploads/2020/09/Storyboard_custom_options.png) Specifying a layout\[/caption\]
+\[caption id="attachment\_10957" align="aligncenter" width="601"\][![](/images/posts/2020/Storyboard_custom_options.png)](https://krita.org/wp-content/uploads/2020/09/Storyboard_custom_options.png) Specifying a layout\[/caption\]
 
 You can view just the thumbnail, just the comments, or everything together:
 
-\[caption id="attachment\_10956" align="aligncenter" width="473"\][![](../images/Storyboard_row_mode.png)](https://krita.org/wp-content/uploads/2020/09/Storyboard_row_mode.png) Storyboard docker in row mode\[/caption\]
+\[caption id="attachment\_10956" align="aligncenter" width="473"\][![](/images/posts/2020/Storyboard_row_mode.png)](https://krita.org/wp-content/uploads/2020/09/Storyboard_row_mode.png) Storyboard docker in row mode\[/caption\]
 
 And Saurabh has his [report](https://community.kde.org/GSoC/2020/StatusReports/SaurabhKumar) as well.
 
@@ -55,7 +55,7 @@ And Saurabh has his [report](https://community.kde.org/GSoC/2020/StatusReports/S
 
 Of course, the trickiest part was actually rendering the gradients:
 
-\[caption id="attachment\_10919" align="aligncenter" width="296"\][![](../images/Screenshot_2020-07-23_11-46-06.png)](https://krita.org/wp-content/uploads/2020/08/Screenshot_2020-07-23_11-46-06.png) A mesh gradient imported from Inkscape\[/caption\]
+\[caption id="attachment\_10919" align="aligncenter" width="296"\][![](/images/posts/2020/Screenshot_2020-07-23_11-46-06.png)](https://krita.org/wp-content/uploads/2020/08/Screenshot_2020-07-23_11-46-06.png) A mesh gradient imported from Inkscape\[/caption\]
 
 The main problems with rendering were due to differences between the 2D graphics libary used to actually paint the pixels, but Sharaf overcame the issues and now Krita renders the mesh gradients just like Inkscape.
 
@@ -63,10 +63,10 @@ But before that could be done, Sharaf had to extend Krita's SVG parster with sup
 
 And then, of course, creating mesh gradients in Krita needed an actual UI:
 
-[![](../images/Handles-meshgradient-1024x554.png)](https://krita.org/wp-content/uploads/2020/08/Handles-meshgradient.png)
+[![](/images/posts/2020/Handles-meshgradient-1024x554.png)](https://krita.org/wp-content/uploads/2020/08/Handles-meshgradient.png)
 
 You'll find the the options in the vector object tool options docker:
 
-![](../images/Tooloptions-meshgradient.png)
+![](/images/posts/2020/Tooloptions-meshgradient.png)
 
 Please check out Sharaf's [final report](https://community.kde.org/GSoC/2020/StatusReports/SharafZaman) for more details!

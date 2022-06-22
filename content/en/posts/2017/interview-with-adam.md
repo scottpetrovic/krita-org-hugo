@@ -6,7 +6,7 @@ categories:
 coverImage: "monkey.png"
 ---
 
-![](../images/monkey.png)
+![](/images/posts/2017/monkey.png)
 
 ### Could you tell us something about yourself?
 

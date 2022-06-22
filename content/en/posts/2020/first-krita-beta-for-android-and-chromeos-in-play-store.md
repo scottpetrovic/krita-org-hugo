@@ -24,4 +24,4 @@ Unlike the Windows and Steam store, we don't ask for money for Krita in the stor
 - Currently **not** compatible with: Android phones.
 - If you have installed one of Sharaf's builds or a build you've signed yourself, you need to uninstall that first, for all users!
 
-\[caption id="attachment\_10553" align="aligncenter" width="1024"\][![](../images/playstore-1024x846.png)](https://play.google.com/store/apps/details?id=org.krita) Krita on the Play Store\[/caption\]
+\[caption id="attachment\_10553" align="aligncenter" width="1024"\][![](/images/posts/2020/playstore-1024x846.png)](https://play.google.com/store/apps/details?id=org.krita) Krita on the Play Store\[/caption\]

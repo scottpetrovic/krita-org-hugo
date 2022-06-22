@@ -9,7 +9,7 @@ This is the first of a serie of posts where we will show you, all the different 
 
 The first artwork was created by Greg (France). It’s a colourful paint that appeals to the imagination. He painted this image for the second birthday of his niece! _(Please, press for a high size of the image and you will appreciate all the details)_
 
-[![](../images/oliver_twist_by_tago73-d3nqfov.jpg)![oliver_twist_by_tago73-d3nqfov](http://kritawebshopblog.files.wordpress.com/2013/06/oliver_twist_by_tago73-d3nqfov.jpg?w=490&h=325)](http://kritawebshopblog.files.wordpress.com/2013/06/naia_and_the_magic_sketchbook_by_gregoo23-d66ggv4.jpg)
+[![](/images/posts/2013/oliver_twist_by_tago73-d3nqfov.jpg)![oliver_twist_by_tago73-d3nqfov](http://kritawebshopblog.files.wordpress.com/2013/06/oliver_twist_by_tago73-d3nqfov.jpg?w=490&h=325)](http://kritawebshopblog.files.wordpress.com/2013/06/naia_and_the_magic_sketchbook_by_gregoo23-d66ggv4.jpg)
 
 _(Please, press on it to see all the details)_
 

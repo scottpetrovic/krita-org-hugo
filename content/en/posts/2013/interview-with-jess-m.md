@@ -6,7 +6,7 @@ categories:
 coverImage: "jess-m-thumbnail.jpeg"
 ---
 
-![](../images/mjornicon.png)
+![](/images/posts/2013/mjornicon.png)
 
 ### Do you paint professionally or as a hobby artist?
 

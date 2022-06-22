@@ -6,7 +6,7 @@ categories:
 coverImage: "exogenesis800.jpeg"
 ---
 
-### [![exogenesis by Chris Jones](../images/exogenesis800.jpeg)](https://krita.org/wp-content/uploads/2015/02/exogenesis_i.jpeg) Would you like to tell us something about yourself?
+### [![exogenesis by Chris Jones](/images/posts/2015/exogenesis800.jpeg)](https://krita.org/wp-content/uploads/2015/02/exogenesis_i.jpeg) Would you like to tell us something about yourself?
 
 I live in Melbourne, Australia, and have worked as an illustrator, concept artist, matte painter and 3D artist on a variety of print, game, film and TV projects. I'm probably best known for my short animated film The Passenger, and my on-going 3D human project.
 

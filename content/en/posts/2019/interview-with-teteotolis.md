@@ -6,7 +6,7 @@ categories:
 coverImage: "circe-800.jpg"
 ---
 
-### ![](../images/fruit-pool-800.jpg)
+### ![](/images/posts/2019/fruit-pool-800.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -18,7 +18,7 @@ I live in Greece, I eat gyro with suvlaki and I say Opa! sometimes.
 
 I am a professional, but I really enjoy drawing and painting for myself too. So both?
 
-### ![](../images/thor-800.jpg)
+### ![](/images/posts/2019/thor-800.jpg)
 
 ### What genre(s) do you work in?
 
@@ -32,7 +32,7 @@ Some of my favorite modern day artists: Xavier Houssin, Kevinhogart, Fatemeh Hag
 
 My role models huh? I never thought about it... I admire a lot of people and their ideals, as well as philosophers, but I don't think that I have a role model...
 
-![](../images/rabbit-800.jpg)
+![](/images/posts/2019/rabbit-800.jpg)
 
 ### How and when did you get to try digital painting for the first time?
 
@@ -54,7 +54,7 @@ The accessible technology we have today on monitors, tablets and digital printin
 
 Here's an example: Have you ever seen true yellow on a monitor? Or gold? Or true turquoise?
 
-### ![](../images/night-800.jpg)
+### ![](/images/posts/2019/night-800.jpg)
 
 ### How did you find out about Krita?
 
@@ -64,9 +64,9 @@ Back in April of 2016 I watched a video on youtube, David Revoy painting a littl
 
 "Woah! So this French guy uses this program to paint! It looks so natural! How!? I gotta try this!... OK, I'm here to stay." After that I made my first work on Krita and most of my webcomic "[emery](https://tapas.io/series/emery)".
 
-### ![](../images/emery1-800.jpg)
+### ![](/images/posts/2019/emery1-800.jpg)
 
-### ![](../images/emery2.jpg)
+### ![](/images/posts/2019/emery2.jpg)
 
 ### What do you love about Krita?
 
@@ -76,7 +76,7 @@ Krita is the best way to transition from traditional art to digital. It's simple
 
 There were some issues in the past, Krita 3 was a nightmare for me and for Wacom Cintiq Companion 2 users in general. (Small layer thumbnails, slow brush rendering, the pallet didn't respond at all, and the transition from pen to eraser was taking 5 seconds to register.) But you swiftly managed to resolve all the issues with the next updates!
 
-### ![](../images/airspirit-800.jpg)
+### ![](/images/posts/2019/airspirit-800.jpg)
 
 ### What sets Krita apart from the other tools that you use?
 
@@ -84,7 +84,7 @@ It's powerful, innovative, it's made for digital art (not photo editing), it has
 
 ### If you had to pick one favorite of all your work done in Krita so far, what would it be, and why?
 
-![](../images/circe-800.jpg)
+![](/images/posts/2019/circe-800.jpg)
 
 Circe the enchantress.
 
@@ -94,7 +94,7 @@ I liked the final result a lot, It was inspired by Mucha and I've won a big art 
 
 Chiaroscuro, a lot of textures and natural looking brushes...some made by me.
 
-### ![](../images/bitch-800.jpg)
+### ![](/images/posts/2019/bitch-800.jpg)
 
 ### Where can people see more of your work?
 

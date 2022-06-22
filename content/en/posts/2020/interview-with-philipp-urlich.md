@@ -5,7 +5,7 @@ categories:
   - "artist-interview"
 ---
 
-### ![](../images/lunchtime-at-the-caves-800.jpg)
+### ![](/images/posts/2020/lunchtime-at-the-caves-800.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -19,7 +19,7 @@ It's a hobby but I'm happy to be able to do some commissions for an RPG book lat
 
 My main focus currently are fantasy environments. But I also do character design and love to paint dragons.
 
-### ![](../images/old-man-and-the-dragon-800.jpg)
+### ![](/images/posts/2020/old-man-and-the-dragon-800.jpg)
 
 ### Whose work inspires you most -- who are your role models as an artist?
 
@@ -33,7 +33,7 @@ I think it was in 1997, when I got my first Wacom Intuos2. I didn't really get i
 
 The flexibility and being able to produce things not possible or very hard in traditional. I don't have an atelier and the resources to paint traditionally.
 
-### ![](../images/the-cataclysm-800.jpg)
+### ![](/images/posts/2020/the-cataclysm-800.jpg)
 
 ### How did you find out about Krita?
 
@@ -47,7 +47,7 @@ I was surprised, how many features and tools it had. The brush engines are very 
 
 I love that it's open source. It has many great tools for various tasks. The ability to create your own powerful brushes. I also love that you can do animations.
 
-### ![](../images/rugged-domain-800.jpg)
+### ![](/images/posts/2020/rugged-domain-800.jpg)
 
 ### What do you think needs improvement in Krita? Is there anything that really annoys you?
 
@@ -65,7 +65,7 @@ The software lets you do your work and doesn't get in the way. Easy to use yet v
 
 ### If you had to pick one favourite of all your work done in Krita sofar, what would it be, and why?
 
-![](../images/the-source-800.jpg)I think it has to be my latest painting to date. "[The Source](https://www.artstation.com/artwork/oOLPoz)". It was done completely live on stream over 3 days.
+![](/images/posts/2020/the-source-800.jpg)I think it has to be my latest painting to date. "[The Source](https://www.artstation.com/artwork/oOLPoz)". It was done completely live on stream over 3 days.
 
 It's heavily inspired by A. Bierstadt and I think I pushed myself a little further (like I try every time on a painting like this)
 
@@ -75,7 +75,7 @@ This one is special as it was done with mainly only the default round brush opaq
 
 The technique is somehow comparable to painting in oil. I used a lot of layers while having the background shine through. I switch between painting and eraser a lot.
 
-### ![](../images/mirath-800.jpg)
+### ![](/images/posts/2020/mirath-800.jpg)
 
 ### Where can people see more of your work?
 

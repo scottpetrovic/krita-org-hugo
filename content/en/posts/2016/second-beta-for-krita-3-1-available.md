@@ -7,7 +7,7 @@ We're still fixing bugs like madmen... And working on some cool new features as 
 
 From the next release on, Krita will officially support OSX.
 
-[![krita3osx](../images/krita3osx-1024x793.jpg)](https://krita.org/wp-content/uploads/2016/10/krita3osx.jpg)
+[![krita3osx](/images/posts/2016/krita3osx-1024x793.jpg)](https://krita.org/wp-content/uploads/2016/10/krita3osx.jpg)
 
  
 

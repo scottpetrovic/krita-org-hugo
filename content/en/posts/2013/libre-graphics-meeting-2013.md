@@ -7,7 +7,7 @@ The 2013 Libre Graphics Meeting is over and everyone has returned home and gone 
 
 The Medialab Prado venue was pretty much perfect: hacking space, auditorium, workshop space, open until late, and an endless supply of good coffee. The presentations were life-streamed, but there appear to be no recordings available yet.
 
-![](../images/lgm2013.jpg)
+![](/images/posts/2013/lgm2013.jpg)
 
 _(Image by Timothee Giet)_
 
@@ -19,7 +19,7 @@ That evening (or afternoon, for the Spanish among us, the days were long this ye
 
 This was closely followed by Timothee Giet speaking about Krita Sketch, how the project came to be, the goals, the gui design and his role in the development. This is what Krita Sketch looks like these days, and an update on Intel AppUp is expected soon!
 
-![](../images/kritasketch_2.png)
+![](/images/posts/2013/kritasketch_2.png)
 
 The next day, [Ramon Miranda](http://www.ramonmiranda.com/) gave a lightning talk on the Muses DVD he is preparing. Slated to be ready for [Akademy](http://akademy2013.kde.org/) in Bilbao (Ramon's hometown), the dvd promises to be wonderful, not just teaching Krita, but teaching the fundamentals of digital illustration. Pre-order your copy now!
 
@@ -33,4 +33,4 @@ The great thing about the Libre Graphics Meeting is, of course, getting together
 
 Let us all meet again, next year!
 
-[![Flattr this](../images/flattr-badge-large.png "Flattr this")](http://flattr.com/thing/1055815/The-Krita-Foundation)
+[![Flattr this](/images/posts/2013/flattr-badge-large.png "Flattr this")](http://flattr.com/thing/1055815/The-Krita-Foundation)

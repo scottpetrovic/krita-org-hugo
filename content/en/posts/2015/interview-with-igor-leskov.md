@@ -6,7 +6,7 @@ categories:
 coverImage: "apes800.jpg"
 ---
 
-[![apes800](../images/apes800.jpg)](https://krita.org/wp-content/uploads/2015/02/apes.jpg)
+[![apes800](/images/posts/2015/apes800.jpg)](https://krita.org/wp-content/uploads/2015/02/apes.jpg)
 
 ### Would you like to tell us something about yourself?
 
@@ -24,7 +24,7 @@ It was terrific! I was scanning the black ink drawings on the paper and colourin
 
 The choice is simple. No need to buy oil paints and squirrel brushes, it is so lazy. Laziness is the engine of technological progress.
 
-[![evolve800](../images/evolve800.jpg)](https://krita.org/wp-content/uploads/2015/02/evolve.jpg)
+[![evolve800](/images/posts/2015/evolve800.jpg)](https://krita.org/wp-content/uploads/2015/02/evolve.jpg)
 
 ### How did you first find out about open source communities? What is your opinion about them?
 
@@ -50,7 +50,7 @@ Krita is my favourite 2D package and I would like to do something for its develo
 
 There is nothing to hate in Krita. I hate myself for that I can't convince Boud to do what I want and not what he wants:)
 
-### [![volcano800](../images/volcano800.jpg)](https://krita.org/wp-content/uploads/2015/02/volcano.jpg)
+### [![volcano800](/images/posts/2015/volcano800.jpg)](https://krita.org/wp-content/uploads/2015/02/volcano.jpg)
 
 ### In your opinion, what sets Krita apart from the other tools that you use?
 

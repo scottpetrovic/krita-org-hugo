@@ -3,7 +3,7 @@ title: "New Krita Book Release and Giveaway!"
 date: "2015-11-02"
 ---
 
-![digital-painting-cover](../images/digital-painting-cover.jpg)
+![digital-painting-cover](/images/posts/2015/digital-painting-cover.jpg)
 
 Krita contributor Scott Petrovic has released his new book _Digital Painting with Krita 2.9_. This is the first book on Krita in English! At over 230 pages long, the book is packed with useful information on how Krita works!
 

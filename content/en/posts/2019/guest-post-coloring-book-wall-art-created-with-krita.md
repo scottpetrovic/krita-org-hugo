@@ -6,11 +6,11 @@ categories:
 coverImage: "About_DreamRipple_01_ColoringBook.jpg"
 ---
 
-![](../images/About_DreamRipple_01_ColoringBook.jpg)
+![](/images/posts/2019/About_DreamRipple_01_ColoringBook.jpg)
 
 On July 6th we launched Dream Ripple, an art studio located in Minneapolis, MN. We’d like to share a bit about who we are and how Krita aided us in creating our launch project - Wandering: a coloring book and wall art collection that features 50 hand-drawn illustrations of peculiar line-organisms.
 
-![](../images/Wandering_ColoringBook_01_Book.jpg)
+![](/images/posts/2019/Wandering_ColoringBook_01_Book.jpg)
 
 We formed Dream Ripple out of a desire to create artwork with the hope to inspire curiosity in others. For a long time, Joe had been experimenting with an unusual abstract line style for doodles, fun drawings, and cards. After wandering through a craft store together, we got really inspired by how creative and fun the coloring books were and it motivated us to try and create one!
 
@@ -18,7 +18,7 @@ We found Krita online after looking for software focused on drawing, illustratio
 
 For the wall art color variations, we used the Fill Tool to color the areas between the lines. Since we used flat colors, we were able to add an additional 200 color variations to the 50 illustrations fairly quickly.
 
-![](../images/Wandering_WallArt_01_WallArt.jpg)
+![](/images/posts/2019/Wandering_WallArt_01_WallArt.jpg)
 
 Also, being free and open source software, Krita allowed us to take time to work without the pressure of a subscription service. That accessibility is something we think is valuable to allow artists to take time to learn their craft without worry of a financial burden.
 

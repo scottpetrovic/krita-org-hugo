@@ -7,7 +7,7 @@ categories:
 
 Krita 4.3.0 will be the next full feature release of Krita. We've worked for a year on this new version of Krita, focusing especially on stability and performance. Many tool, like freehand painting and selections are faster than ever. And there is a bunch of fun new features, as well, many contributed by volunteers from all over the world.
 
-[![Kiki among the waterlilies](../images/kiki_4.3.3_sm-1024x512.png)](https://krita.org/wp-content/uploads/2020/05/kiki_4.3.3_sm.png)
+[![Kiki among the waterlilies](/images/posts/2020/kiki_4.3.3_sm-1024x512.png)](https://krita.org/wp-content/uploads/2020/05/kiki_4.3.3_sm.png)
 
 [The full release notes bring you all the details](/krita-4-3-release-notes/)!
 

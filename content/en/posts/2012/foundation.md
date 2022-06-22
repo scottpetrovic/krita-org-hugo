@@ -43,15 +43,15 @@ A subscription is the best way to support Krita development, because our sponsor
 
 <table><tbody><tr><td><input name="on0" type="hidden" value="Krita Development Funding">Krita Development Funding</td></tr><tr><td><select name="os0"><option value="Bronze">Bronze : €5,00 EUR - maandelijks</option> <option value="Sliver">Sliver : €10,00 EUR - maandelijks</option> <option value="Electrum">Electrum : €25,00 EUR - maandelijks</option> <option value="Gold">Gold : €50,00 EUR - maandelijks</option> <option value="Platinum">Platinum : €100,00 EUR - maandelijks</option> <option value="Diamond">Diamond : €250,00 EUR - maandelijks</option></select></td></tr></tbody></table>
 
-  ![](../images/pixel.gif)
+  ![](/images/posts/2012/pixel.gif)
 
 ### One-time donation
 
-   ![](../images/pixel.gif)
+   ![](/images/posts/2012/pixel.gif)
 
 ### Flattr Us
 
-[![Flattr this](../images/flattr-badge-large.png "Flattr this")](http://flattr.com/thing/1055815/The-Krita-Foundation)
+[![Flattr this](/images/posts/2012/flattr-badge-large.png "Flattr this")](http://flattr.com/thing/1055815/The-Krita-Foundation)
 
 * * *
 

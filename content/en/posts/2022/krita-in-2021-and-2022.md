@@ -11,7 +11,7 @@ We also launched the [Krita Dev Fund](https://fund.krita.org/), based on Blender
 
 ### Releases
 
-{{< video-player src="../images/Video-for-store_final-30fps.mp4" type="video/mp4">}}
+{{< video-player src="/images/posts/2022/Video-for-store_final-30fps.mp4" type="video/mp4">}}
 
 
 Last year, 2021, was, of course the [year of the Krita 5 release](/item/krita-5-0-released/)! We also released from Krita 4.4.2 all the way through to Krita 4.4.8, so it was a busy year. With the release of 4.4.5 we said we wouldn't do another 4.4 release, but we did...
@@ -20,7 +20,7 @@ The list of new features for Krita 5 is [huge](/krita-5-0-release-notes/). But e
 
 ### Bugs
 
-![Bugs in 2021](../images/bugs_2021.png)
+![Bugs in 2021](/images/posts/2022/bugs_2021.png)
 
 Last year we ended up with 16 bugs more than we started the year with, this year we're twelve bugs to the good. Weirdly enough, last year we only had 563 open bugs, so something is weird. In any case, we worked through about 200 more bugs than last year. In other words, there was a [lot of churn](https://valdyas.org/fading/hacking/krita-hacking/nightmares-and-bugs/)!
 

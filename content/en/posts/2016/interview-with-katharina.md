@@ -6,7 +6,7 @@ categories:
 coverImage: "The-Cycle-Resized-800-px-wide.png"
 ---
 
-![autumn-resized-800-px-wide-2](../images/autumn-resized-800-px-wide-2..png)
+![autumn-resized-800-px-wide-2](/images/posts/2016/autumn-resized-800-px-wide-2..png)
 
 ### Could you tell us something about yourself?
 
@@ -48,7 +48,7 @@ One of my first impressions was the fact that every artist who saw WIP posts fro
 
 By now I am really proud when I can lecture clueless people about the benefits of Krita.
 
-![tulips-iii-resized-800-px-wide](../images/Tulips-III-Resized-800-px-wide.png)
+![tulips-iii-resized-800-px-wide](/images/posts/2016/Tulips-III-Resized-800-px-wide.png)
 
 ### What do you love about Krita?
 
@@ -64,7 +64,7 @@ I just wish for more advertising and awareness for Krita; I think a bigger commu
 
 As I already mentioned, I am really not in the position to talk about technical stuff, since I am not really into that. But I can share my experience so far. The most frequent compliment I get for my digital artworks are the colours. And I think Krita's colours and colour management are highly satisfying. Definitely one of the most outstanding features. Combined with the lovely user interface and well working brushes, it just creates something other programs don't have. I can not exactly pin down what makes Krita so unique, I guess it is the whole package. It is just right for lazy people like me who just want to download and start drawing. And also for professionals, who are well informed and who like to get deeper into detail.
 
-![garden-of-the-creator-resized-800-px-wide-2](../images/garden-of-the-creator-resized-800-px-wide-2...png)
+![garden-of-the-creator-resized-800-px-wide-2](/images/posts/2016/garden-of-the-creator-resized-800-px-wide-2...png)
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
@@ -86,4 +86,4 @@ Furthermore I want to address aspiring artists to always be honest with yourself
 
 One more thing; be kind, respect nature, create love.
 
-![the-cycle-resized-800-px-wide](../images/The-Cycle-Resized-800-px-wide.png)
+![the-cycle-resized-800-px-wide](/images/posts/2016/The-Cycle-Resized-800-px-wide.png)

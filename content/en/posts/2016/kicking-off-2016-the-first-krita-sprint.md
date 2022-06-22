@@ -19,7 +19,7 @@ So... We teased out Qt's OpenGL QPainter engine and started trying to port it to
 
 When, the next day, we started discussing OpenGL in the context of the Qt5 and QtQuick 2 port of Krita Sketch, which Friedrich is working on, we sounded like this:
 
-[![krita-sprint-janurary2016](../images/krita-sprint-janurary2016-1-953x1024.png)](https://krita.org/wp-content/uploads/2016/01/krita-sprint-janurary2016-1.png)
+[![krita-sprint-janurary2016](/images/posts/2016/krita-sprint-janurary2016-1-953x1024.png)](https://krita.org/wp-content/uploads/2016/01/krita-sprint-janurary2016-1.png)
 
 (Image by Wolthera)
 

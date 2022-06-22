@@ -6,7 +6,7 @@ categories:
 coverImage: "griffon.png"
 ---
 
-### ![](../images/griffon.png)
+### ![](/images/posts/2017/griffon.png)
 
 ### Could you tell us something about yourself?
 
@@ -24,7 +24,7 @@ Both I'd say. I've always been creating things on a hobby level - but have also 
 
 ### What genre(s) do you work in?
 
-![](../images/c_front.png)Cartooning, Digital painting, Animation and Video game art. All these (and maybe more) blend in when producing a game. I also like painting dark and gloomy pictures once in a while.
+![](/images/posts/2017/c_front.png)Cartooning, Digital painting, Animation and Video game art. All these (and maybe more) blend in when producing a game. I also like painting dark and gloomy pictures once in a while.
 
 I think I've mostly done cartoon styled work - but with a grain of realism in it. My own little mixture.
 
@@ -58,7 +58,7 @@ The first impression was actually really good - unfortunately it ended up a bit 
 
 ### What do you love about Krita?
 
-![](../images/Typical_layer_setup.png)The brush engines and the "Layers" docker.
+![](/images/posts/2017/Typical_layer_setup.png)The brush engines and the "Layers" docker.
 
 The brushes, and most of the default settings for them, just feel right. Also the many options to tweak the brushes are really awesome.
 
@@ -84,7 +84,7 @@ And maybe the single most important thing: it's free and open source. So I'm qui
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](../images/day_night.png)
+![](/images/posts/2017/day_night.png)
 
 It would have to be the opening scene of my upcoming 2D game "non". It's using a great variety of Krita's really awesome and powerful features. The scenes in the game features full day and night cycles where all the lighting and shadows change dynamically - this makes it especially hard to get beautiful _painted_ scenes in all the states each scene has between day and night. Krita's tool set makes it easier and quicker for me to test out a specific feature for an object or sprite - before throwing it into the game engine.
 
@@ -100,7 +100,7 @@ For outlines I use the standard Pixel brush 'Ink\_gpen\_10' - it has a really ni
 
 In my games: [http://games.blackgrain.dk/](http://games.blackgrain.dk/) On my band album covers: [https://barricadecph.bandcamp.com/](https://barricadecph.bandcamp.com/)
 
-![](../images/c_back.png)
+![](/images/posts/2017/c_back.png)
 
 ### Anything else you'd like to share?
 

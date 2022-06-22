@@ -6,7 +6,7 @@ categories:
 coverImage: "Museu-Nacional_800.jpg"
 ---
 
-![](../images/Battle-Ready_800.jpg)
+![](/images/posts/2018/Battle-Ready_800.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -30,7 +30,7 @@ Thanks to Instagram and ArtStation I just can't stop finding new inspiring art. 
 
 I tried my first hand at digital art when I entered college around 2009. There was this shiny thing called a tablet that I didn't know existed, but I knew I immediately wanted to use it.
 
-![](../images/Rebel_800.jpg)
+![](/images/posts/2018/Rebel_800.jpg)
 
 ### What makes you choose digital over traditional painting?
 
@@ -58,7 +58,7 @@ As I said before, the fact that is made exclusively with the digital artist in m
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](../images/Museu-Nacional_800.jpg)
+![](/images/posts/2018/Museu-Nacional_800.jpg)
 
 "Museu Nacional". It was a way of expressing my sadness at losing such a national treasure.
 

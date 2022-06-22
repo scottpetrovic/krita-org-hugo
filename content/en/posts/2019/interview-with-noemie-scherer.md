@@ -6,7 +6,7 @@ categories:
 coverImage: "tern.jpg"
 ---
 
-### ![](../images/talebook-p16-c-EN.jpg)
+### ![](/images/posts/2019/talebook-p16-c-EN.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -20,7 +20,7 @@ I'm kind of in-between. I finished art school not too long ago, and I'm hoping t
 
 I like to try out different things, but for my main style, I'd say... illustrative? One thing's for sure, though: my favorite theme is animals.
 
-![](../images/envi-poiloutre-GD.jpg)
+![](/images/posts/2019/envi-poiloutre-GD.jpg)
 
 ### Whose work inspires you most -- who are your role models as an artist?
 
@@ -30,7 +30,7 @@ I don't really have one artist that I look up to, but more like a series of temp
 
 That was more than ten years ago. I was something like ten, maybe twelve at most. A friend of mine had a photographer father, so I went to their house and could try his drawing tablet, and it was really cool; some time later my parents got me one (one of those small A6 ones), and my brother downloaded Gimp, probably for a birthday (he was -still is- really into open source).
 
-### ![](../images/paletteLandscape_bretagne-ns.jpg)
+### ![](/images/posts/2019/paletteLandscape_bretagne-ns.jpg)
 
 ### What makes you choose digital over traditional painting?
 
@@ -46,7 +46,7 @@ I didn't actually need another drawing software, so I wasn't looking, but then m
 
 I loved the brushes. I didn't use the sketch ones so much, though they definitely were a fun introduction to Krita, but I fell in love with the soft kind of blur of the wet ones. There actually was the same thing in TVPaint (an animation software), which I used in my animation school, but I felt like krita had more options painting-wise.
 
-![](../images/hybrides-09-poulpatele.jpg)
+![](/images/posts/2019/hybrides-09-poulpatele.jpg)
 
 ### What do you love about Krita?
 
@@ -66,7 +66,7 @@ Well, I do use it as my main art program, so I use no other (2D) programs to com
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](../images/tern.jpg)
+![](/images/posts/2019/tern.jpg)
 
 This one \[tern.jpg\]. I did it as a birthday gift to someone I was missing, so I'm emotionally attached to it. I also like the format and the feeling of space it gives.
 

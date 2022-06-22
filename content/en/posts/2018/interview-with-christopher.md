@@ -5,7 +5,7 @@ categories:
   - "artist-interview"
 ---
 
-### ![](../images/Artfellowstudy.png)
+### ![](/images/posts/2018/Artfellowstudy.png)
 
 ### Could you tell us something about yourself?
 
@@ -31,7 +31,7 @@ About 10 years ago. Until then I worked predominantly in oils. I've always been 
 
 My first experience using a professional stylus was at a Comic Con demo in 2009. That was amazing! I had observed its use and tried a really basic stylus but never really had the opportunity to use one of high quality, the pressure sensitivity was surprisingly responsive. The lag was something I noticed right off but as I adjusted my hand it was a negligible issue when working with this type of interface. It took time to orient myself but after I got the hang of it it was really cool. After that experience I knew I needed a digital setup. It was just that much fun!
 
-### ![](../images/drazi_post.png)
+### ![](/images/posts/2018/drazi_post.png)
 
 ### What makes you choose digital over traditional painting?
 
@@ -47,7 +47,7 @@ With all that said I'm still keeping my paints and brushes!
 
 A friend of mine back East who is really into Open Source does digital painting from time to time. He knew I was dissatisfied with Painter X and CS so he recommended Krita. Painter wasn't particularly intuitive and CS, while OK, I wanted something different. Just because something is popular doesn't mean it's the right fit for everyone. So then I asked him where I could get Krita. He said to me "Open Source. Just download it. From their site". I was like "it couldn't be that simple". But it was. I installed it and I was hooked.
 
-### ![](../images/Stesia.png)
+### ![](/images/posts/2018/Stesia.png)
 
 ### What was your first impression?
 
@@ -67,7 +67,7 @@ Well, while the UI is one of the strengths of Krita when I tried to install it r
 
 Also import/export color history as a file within an open Krita document.
 
-### ![](../images/SA_Couple.png)
+### ![](/images/posts/2018/SA_Couple.png)
 
 ### What sets Krita apart from the other tools that you use?
 
@@ -81,7 +81,7 @@ Over time I have collected a set of brushes that I use frequently. They consist 
 
 You can see my work in print. A comic book called "After The Gold Rush" has an illustration of mine featured in issue #4. It was created in Krita. I also have a site redacesmedia.com, you can reach me there!
 
-![](../images/prince_trib.png)
+![](/images/posts/2018/prince_trib.png)
 
 ### Anything else you'd like to share?
 

@@ -5,7 +5,7 @@ categories:
   - "artist-interview"
 ---
 
-![](../images/krita.jpg)
+![](/images/posts/2019/krita.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -19,7 +19,7 @@ I am very delighted to say that my hobby is my profession, I think that goes for
 
 I mostly work with Advertising Illustrations, children's book and comic books, some times I take projects which also involve a bit of designing like book covers etc. For my personal projects I choose to work in the adventure and fantasy genre.
 
-### ![](../images/artbook-01.jpg)
+### ![](/images/posts/2019/artbook-01.jpg)
 
 ### Whose work inspires you most -- who are your role models as an artist?
 
@@ -41,7 +41,7 @@ I had a bad experience from other software and the service I received was not wo
 
 I was very surprised and excited as if someone had unexpectedly found a treasure hidden in their farm. I didn't find it hard to use, and I was comfortable using it in my professional workflow in no time. I was very happy to see that the tools were made with artists as target audience.
 
-![](../images/maharaja.jpg)
+![](/images/posts/2019/maharaja.jpg)
 
 ### What do you love about Krita?
 
@@ -57,7 +57,7 @@ Simplicity while also being powerful enough to handle most of the digital painte
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](../images/after-school-01.jpg)
+![](/images/posts/2019/after-school-01.jpg)
 
 I don't get attached to my paintings that much. My favourite would be my latest painting of a young boy catching tadpoles.
 

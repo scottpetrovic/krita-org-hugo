@@ -7,7 +7,7 @@ Nathan here:
 
 Hey there! I’m back with 3 more videos, but also with an important announcement.
 
-[![Kickstarter Funding update](../images/Kickstarter-Funding-update.jpg)](https://www.kickstarter.com/projects/gdquest/game-art-quest-make-professional-2d-art-with-krita)
+[![Kickstarter Funding update](/images/posts/2015/Kickstarter-Funding-update.jpg)](https://www.kickstarter.com/projects/gdquest/game-art-quest-make-professional-2d-art-with-krita)
 
 First, we’re pretty close to the first stretch goal now. 600€ to go in 5 days. Hell yeah! You're so many to support the training... thank you from the bottom of my heart!
 

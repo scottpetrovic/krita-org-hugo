@@ -6,7 +6,7 @@ categories:
 coverImage: "anna-hannon-cover-creatures-v2i4_800x.jpg"
 ---
 
-### ![](../images/anna-hannon-cover-creatures-v2i4_800x.jpg)
+### ![](/images/posts/2019/anna-hannon-cover-creatures-v2i4_800x.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -20,7 +20,7 @@ I would say both, though more a hobby than professional. I currently lend my tal
 
 My longtime role model has been [Donato Giancola](https://donatoarts.com), ever since I saw his work in my teens on the cover of the Lord of the Rings trilogy book I'd been reading at the time. I also greatly admire [Karla Ortiz](https://www.karlaortizart.com/) for her  strength of will and personality - she inspires me all the time to treat others with respect and work my butt off!
 
-![](../images/anna-hannon-deathfinalfinale_800x.jpg)
+![](/images/posts/2019/anna-hannon-deathfinalfinale_800x.jpg)
 
 ### How and when did you get to try digital painting for the first time?
 
@@ -34,7 +34,7 @@ I really don't like messes!! I feel silly about it but it's true.
 
 It was about three years ago when my main computer quit on me, and I didn't have the cash to buy the updated Windows 10 OS for my new hard drive. I opted for trying Linux Mint, and tested Krita as my Photoshop replacement. Love at first sight! I currently run Manjaro KDE and it continues to be my only painting software (even on my Microsoft surface).
 
-![](../images/anna-hannon-bloodsummoner.jpg)
+![](/images/posts/2019/anna-hannon-bloodsummoner.jpg)
 
 ### What was your first impression?
 
@@ -48,7 +48,7 @@ I love the way it looks, I LOVE the brush engine and how much control you have o
 
 I'd like a more user friendly text tool but I know that's in the works and gets improved upon often.
 
-### ![](../images/anna-hannon-mydarian-swamp-final_800x.jpg)
+### ![](/images/posts/2019/anna-hannon-mydarian-swamp-final_800x.jpg)
 
 ### Is there anything that really annoys you?
 
@@ -60,7 +60,7 @@ It's open source! I donate often but imagine a digital artist just starting out?
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](../images/dana_800x.jpg)
+![](/images/posts/2019/dana_800x.jpg)
 
 I think it would have to be my piece "Dana" because it was the first painting I'd finished in a long time, and it was the first time I felt like I finally understood what I was doing! The lighting came together well, and I actually found myself really loving doing the leather texture on her clothes.
 

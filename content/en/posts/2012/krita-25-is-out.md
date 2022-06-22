@@ -5,15 +5,15 @@ date: "2012-08-13"
 
 Krita, the full-featured painting application for digital artists, is now better than ever. Krita 2.5 offers many compelling new features for the professional artist, such as textured painting, layer compositions management and smoother smudging.
 
-![](../images/krita-2.5.jpg)
+![](/images/posts/2012/krita-2.5.jpg)
 
 Still in progress, the first results of the textured brush feature are now available. Artists can create livelier, more organic brush strokes by blending the effect of a pattern in with their brush stroke. Of course, it's also still possible to use a patter as the colors source for your brush stroke. The textured brush option is available for the pixel brush. To make it easier to select patterns, the pattern selector now has a scrollable preview.
 
-![](../images/texture_option.jpg)
+![](/images/posts/2012/texture_option.jpg)
 
 The color smudge brush has been expanded with a "dulling" mode next to the "smearing" mode. Krita 2.5 ships with several presets that make use of this new feature to achieve soft and smooth effects that were hard to achieve before. In dulling mode, the brush will mix the color on the canvas with the base color of the stroke, while in smearing mode the the stroke is smudged to mix it with color on canvas.
 
-![](../images/dulling_vs_smearing.png)
+![](/images/posts/2012/dulling_vs_smearing.png)
 
 Artist David Revoy (http://www.davidrevoy.com) has provided six out-of the box color themes for Krita, from light to dark, making it easy to let Krita blend in with the background and allow you to focus on your work. You can also use any color themes you can download for the KDE desktop environment.
 
@@ -27,7 +27,7 @@ Interoperability with MyPaint and GIMP has improved through extending the OpenRa
 
 There are also many bug fixes, for instance in the PDF importer, where resolution and anti-aliasing is now correctly handled, the pressure curve settings page has been improved, brush rotation now works seamlessly together with canvas rotation, the color selectors are much improved and compatibility issues with metadata saved by some camera manufacturers were resolved.
 
-![](../images/kargall_le_fou_splash_25.png)
+![](/images/posts/2012/kargall_le_fou_splash_25.png)
 
 The inspiring new splash screen for Krita 2.5 was painted by Kargall Lefou (http://www.kargall-lefou.com/). See [his "making of" on the Krita forums](http://forum.kde.org/viewtopic.php?f=138&t=102792)!
 

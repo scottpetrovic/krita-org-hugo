@@ -7,7 +7,7 @@ categories:
 
 On Saturday, the first people started to arrive for this autumn's Krita development sprint. It's also the last week of the fundraiser: we're almost at 5 months of bug fixing funded! All in all, 8 people are here: Boudewijn, the maintainer, Dmitry, whose work is being sponsored by the Krita Foundation through this fundraiser, Wolthera, who works on the manual, videos, code, scripting, Ivan, who did the brush vectorization Google Summer of Code project this year, Jouni, who implemented the animation plugin, session management and the reference images tool, Emmet and Eoin who started hacking on Krita a short while ago, and who have worked on the blending color picker and kinetic scrolling.
 
-[![](../images/2018-fundraiser-hero2.png)](https://krita.org)
+[![](/images/posts/2018/2018-fundraiser-hero2.png)](https://krita.org)
 
 We already did a ton of work! Wolthera finished up the last few problems in Michael Zhou's Google Summer of Code rewrite of the palette docker: that's merged to master, so it's in the nightly builds for [Windows](https://binary-factory.kde.org/job/Krita_Nightly_Windows_Build/) and [Linux](https://binary-factory.kde.org/job/Krita_Nightly_Appimage_Build/). We did some pair programming so the text tool now creates new text with the currenly selected color.
 
@@ -17,7 +17,7 @@ Jouni got a long way with the implementation of animation clones and cycles: tha
 
 Then we sat down and distributed bugs to the hackers present, and we got rid of a lot of bugs already (total bugs, new reports, closed, balance):
 
-[![](../images/bugs_fixed.png)](https://bugs.kde.org/weekly-bug-summary.cgi)
+[![](/images/posts/2018/bugs_fixed.png)](https://bugs.kde.org/weekly-bug-summary.cgi)
 
 ### Streaming
 
@@ -41,4 +41,4 @@ In case you missed it, Wolthera made a cool video showing off gamut masks and th
 
 And it's great to be together, of course! We've got people from the US, from Mexico, Russia, Finland and the Netherlands. For three of us, it's the first Krita sprint they've attended. Here are the early birds who were already happily hacking on Sunday morning, without even waiting until after breakfast!
 
-[![](../images/DSC00220-1024x768.jpg)](https://krita.org/wp-content/uploads/2018/10/DSC00220.jpg)
+[![](/images/posts/2018/DSC00220-1024x768.jpg)](https://krita.org/wp-content/uploads/2018/10/DSC00220.jpg)

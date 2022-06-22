@@ -6,7 +6,7 @@ categories:
 coverImage: "approve800.png"
 ---
 
-![deviger800](../images/deviger800.png)
+![deviger800](/images/posts/2016/deviger800.png)
 
 ### Could you tell us something about yourself?
 
@@ -28,7 +28,7 @@ Nowadays I'm really looking into some very intriguing form of Pop Art, like stre
 
 ### How and when did you get to try digital painting for the first time?
 
-The first time I did anything in digital was on my Commodore Amiga 500 using Deluxe Paint II. That was really something, unfortunately nothing of that survived, and only several years later, in 1999, I first used Photoshop with the specific intention of creating something entirely done digitally. ![approve800](../images/approve800.png)
+The first time I did anything in digital was on my Commodore Amiga 500 using Deluxe Paint II. That was really something, unfortunately nothing of that survived, and only several years later, in 1999, I first used Photoshop with the specific intention of creating something entirely done digitally. ![approve800](/images/posts/2016/approve800.png)
 
 ### What makes you choose digital over traditional painting?
 
@@ -58,7 +58,7 @@ I think it's a unique tool. I do use other open source software for painting and
 
 That's a good question. I embrace many styles and techniques and I'm also very critical of myself. I do see areas for improvement and I know what I'm looking for.
 
-![karshaforever800](../images/karshaforever800.png) Of all the work I've done, the Karshaforever portrait is probably my preferred one. It provided some interesting material challenges and I overall like the shading, the tone, and style of the whole piece.
+![karshaforever800](/images/posts/2016/karshaforever800.png) Of all the work I've done, the Karshaforever portrait is probably my preferred one. It provided some interesting material challenges and I overall like the shading, the tone, and style of the whole piece.
 
 ### What techniques and brushes did you use in it?
 

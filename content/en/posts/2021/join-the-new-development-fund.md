@@ -9,7 +9,7 @@ This month, we're campaigning for our brand-new Development Fund! Based on Blend
 
 **Join the campaign and become a member on [fund.krita.org](https://fund.krita.org)**
 
-### [![](../images/landing-page-banner.png)](https://fund.krita.org)
+### [![](/images/posts/2021/landing-page-banner.png)](https://fund.krita.org)
 
 ### Krita: created by the community
 

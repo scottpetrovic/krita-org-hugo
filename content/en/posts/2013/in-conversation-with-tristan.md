@@ -6,7 +6,7 @@ categories:
 coverImage: "tristan-thumbnail.jpg"
 ---
 
-And we're back with yet another interesting conversation! This time around we had a conversation with Tristan Paulais from France. Below is his recent favorite Krita artwork named "The Child and the Rock". Read on the entire conversation to know more about him - ![](../images/tepee-lenfantetlerocher-tepeeconcept.jpg)
+And we're back with yet another interesting conversation! This time around we had a conversation with Tristan Paulais from France. Below is his recent favorite Krita artwork named "The Child and the Rock". Read on the entire conversation to know more about him - ![](/images/posts/2013/tepee-lenfantetlerocher-tepeeconcept.jpg)
 
 ### **Hello Tristan, would you like to tell us something about yourself ?**
 

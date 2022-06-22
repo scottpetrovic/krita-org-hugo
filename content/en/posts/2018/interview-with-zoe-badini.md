@@ -5,7 +5,7 @@ categories:
   - "artist-interview"
 ---
 
-![](../images/The-Order-of-Mrausen.jpg)
+![](/images/posts/2018/The-Order-of-Mrausen.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -19,7 +19,7 @@ I'm just now starting to take my first steps professionally after many years of 
 
 I love to imagine worlds and stories for my paintings, so most of what I've done is related to fantasy illustration and some concept art. I also do portraiture occasionally.
 
-![](../images/The-Cook.jpg)
+![](/images/posts/2018/The-Cook.jpg)
 
 ### Whose work inspires you most -- who are your role models as an artist?
 
@@ -33,7 +33,7 @@ I was used to traditional drawing, then a few years ago I saw some beautiful dig
 
 Working digitally I feel like a wizard, with a touch of my wand I have a huge array of tools at my disposal: different techniques, effects, trying out ideas and discarding them freely if they don't work out. It's also a big space saver!
 
-![](../images/The-road-to-Galaverna.jpg)
+![](/images/posts/2018/The-road-to-Galaverna.jpg)
 
 ### How did you find out about Krita?
 
@@ -47,7 +47,7 @@ I was understandably a bit lost and watched a few tutorials, but I found the pro
 
 Its accessibility and completeness: there's everything I may need to paint at a professional level and it's easy to find and figure out. Krita also comes with a very nice selection of brushes right out of the box.
 
-![](../images/Zelukoths-Temple.jpg)
+![](/images/posts/2018/Zelukoths-Temple.jpg)
 
 ### What do you think needs improvement in Krita? Is there anything that really annoys you?
 
@@ -59,7 +59,7 @@ As I said it's professional and easy to use, I feel like it's made for me. It's 
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](../images/Big-Game-Hunt.jpg)
+![](/images/posts/2018/Big-Game-Hunt.jpg)
 
 My favourite is always one of the latest I did, just because I get better over time. In this case it's "Big Game Hunt".
 

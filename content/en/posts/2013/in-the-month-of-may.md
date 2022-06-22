@@ -5,7 +5,7 @@ date: "2013-05-01"
 
 Spring is in the air, and with spring comes both the run-up to the release of Krita 2.7 _and_ the Google Summer of Code. Last week, a bit delayed by the beautiful Swedish spring weather Cyrille Berger branched Krita to get ready for the next release, which will likely be early June.  Enrico Guarnieri made a beautiful splash screen:
 
-![](../images/splash_big.jpg)
+![](/images/posts/2013/splash_big.jpg)
 
 Krita 2.7 will be an awesome release with a host of cool new features.
 

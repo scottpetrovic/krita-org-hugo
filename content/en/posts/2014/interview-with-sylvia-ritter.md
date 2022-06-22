@@ -6,7 +6,7 @@ categories:
 coverImage: "sylvia-ritter.jpg"
 ---
 
-[![keeper_of_secrets_by_faith303-d80khnl](../images/keeper_of_secrets_by_faith303-d80khnl.png)](https://krita.org/wp-content/uploads/2014/12/keeper_of_secrets_by_faith303-d80khnl.png)
+[![keeper_of_secrets_by_faith303-d80khnl](/images/posts/2014/keeper_of_secrets_by_faith303-d80khnl.png)](https://krita.org/wp-content/uploads/2014/12/keeper_of_secrets_by_faith303-d80khnl.png)
 
 ### Would you like to tell us something about yourself?
 

@@ -20,7 +20,7 @@ It was years ago but I can't really remember. Circumstantial evidence says late 
 
 I have a dislike of unnecessarily wasting things, like art supplies. Wearing down pencils and using up paper. Using up disk space or just not saving things that aren't turning out nicely is far more comfortable to me. I'd still like to be good with some traditional media at some point.
 
-![](../images/krita_squirrel_by_pixelspriteart-d63juwe.png)
+![](/images/posts/2013/krita_squirrel_by_pixelspriteart-d63juwe.png)
 
 ### **How did you first find out about open source communities? What is your opinion about them?**
 
@@ -54,7 +54,7 @@ It has image manipulation capacities, unlike MyPaint, which is great for small (
 
 That would have to be the picture I did in celebration of Mega Man being announced as a character in the next Super Smash Bros. game.
 
-![](../images/super_smash_bros__mega_man_by_pixelspriteart-d68xz7z.png)
+![](/images/posts/2013/super_smash_bros__mega_man_by_pixelspriteart-d68xz7z.png)
 
 ### **What is it that you like about it? What brushes did you use in it?**
 

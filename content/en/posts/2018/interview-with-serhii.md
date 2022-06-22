@@ -6,7 +6,7 @@ categories:
 coverImage: "unstoppable.jpg"
 ---
 
-![](../images/reader.jpg)
+![](/images/posts/2018/reader.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -18,7 +18,7 @@ Both, but it's a little more my work. In other words, my hobby turns into my wor
 
 ### What genre(s) do you work in?
 
-![](../images/old_witch.jpg)
+![](/images/posts/2018/old_witch.jpg)
 
 As I said earlier I prefer fantasy, it's very exciting and you can create unreal worlds and characters. With your imagination, you can do whatever you want. You can turn any plot, even the simplest, into an interesting fantasy illustration. I think it's cool!
 
@@ -30,7 +30,7 @@ Hard to tell. I like a lot of artists, and all of them have different things to 
 
 It was around 2000, when my friend bought a wacom tablet. I remember that there was a small drawing program in the set. On this day, I discovered digital painting for myself.
 
-![](../images/black_fortress.jpg)
+![](/images/posts/2018/black_fortress.jpg)
 
 ### What makes you choose digital over traditional painting?
 
@@ -48,7 +48,7 @@ Before my experience with Krita I used some painting applications, so it was eas
 
 Firstly, I like it that there are a lot of different brushes with the opportunity for rine-tuning as you want. In the latest version of Krita all brushes from the standard set became the best of the best. These brushes are all that I need for my artworks. Also there are many cool themes and interface settings.
 
-![](../images/lord_of_dreams.jpg)
+![](/images/posts/2018/lord_of_dreams.jpg)
 
 ### What do you think needs improvement in Krita? Is there anything that really annoys you?
 
@@ -60,7 +60,7 @@ For me this is the only application for drawing and digital painting that I can 
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](../images/unstoppable.jpg) Now I think that my favourite illustration is "Unstoppable", because in this picture there is a funny plot, as it seems to me. Like many of my works it is in the fantasy genre, and I like that best.
+![](/images/posts/2018/unstoppable.jpg) Now I think that my favourite illustration is "Unstoppable", because in this picture there is a funny plot, as it seems to me. Like many of my works it is in the fantasy genre, and I like that best.
 
 ### What techniques and brushes did you use in it?
 

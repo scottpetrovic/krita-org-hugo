@@ -38,7 +38,7 @@ The original design for handling resources doesn't scale any more! And besides, 
 
 That's the plan at least...  There's still a way to go!
 
-[![](../images/resource_db_explorer-300x145.png)](https://krita.org/wp-content/uploads/2018/09/resource_db_explorer.png)
+[![](/images/posts/2018/resource_db_explorer-300x145.png)](https://krita.org/wp-content/uploads/2018/09/resource_db_explorer.png)
 
 And then, there were the usual surprises and little extras:
 
@@ -46,10 +46,10 @@ And then, there were the usual surprises and little extras:
 
 A pretty amazing new feature is the gamut mask, created by Anna Medonosova. This includes both editing and applying of the mask to the artistic color selector. See [James Gurney's blog post for some background information](https://gurneyjourney.blogspot.com/2008/01/color-wheel-masking-part-1.html).
 
-[![](../images/gamut-300x300.png)](https://krita.org/wp-content/uploads/2018/09/gamut.png)
+[![](/images/posts/2018/gamut-300x300.png)](https://krita.org/wp-content/uploads/2018/09/gamut.png)
 
 There's now also a debug log docker, so Windows users don't have to mess with debug view again:
 
-[![](../images/log-docker-300x300.png)](https://krita.org/wp-content/uploads/2018/09/log-docker.png)(Artwork by [Iza Ka](http://LifeFinalEdited.pl))
+[![](/images/posts/2018/log-docker-300x300.png)](https://krita.org/wp-content/uploads/2018/09/log-docker.png)(Artwork by [Iza Ka](http://LifeFinalEdited.pl))
 
 And there's more, of course! Reptorian has created a bunch of new blending modes and is now working on a new selection intersection mode. Jouni has been fixing issues to the reference images docker and has implemented [clone frames for animation](https://phabricator.kde.org/T8764)!

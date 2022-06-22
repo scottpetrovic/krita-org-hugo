@@ -6,7 +6,7 @@ categories:
 coverImage: "floatingislands.png"
 ---
 
-![](../images/holiday.png)
+![](/images/posts/2018/holiday.png)
 
 ### Could you tell us something about yourself?
 
@@ -16,7 +16,7 @@ Hi! My name's Răzvan Rădulescu, I'm from Romania. I've had an interest in draw
 
 I guess the answer is I'm in-between, I'm finally in a position to start working on arts projects, I will elaborate a bit more on it later.
 
-![](../images/dog.png)
+![](/images/posts/2018/dog.png)
 
 ### What genre(s) do you work in?
 
@@ -26,7 +26,7 @@ I'm interested in everything and do a lot of experimentation, as you see in my a
 
 Since I started very late in my life with digital painting, I am not influenced by well known masters, but being attracted to concept art/freelance type of work I have my selection of modern artists which I look up to: [Sparth](https://sparth.artstation.com/), [Piotr Jabłoński](https://nicponim.artstation.com/), [Sergey Kolesov](https://peleng.artstation.com/), [Sinix](https://www.youtube.com/channel/UCUQTqWAaSzhAKRanOpes1nA), [Simon Stålenhag](http://www.simonstalenhag.se/), [Viktor Bykov](http://linesandcolors.com/2012/01/05/viktor-bykov/), to name a few. They all have very different painting styles and techniques so that explains why my own art is "all over the place", I've been trying to understand their work process and integrate it in my own.
 
-![](../images/cat.png)
+![](/images/posts/2018/cat.png)
 
 ### How and when did you get to try digital painting for the first time?
 
@@ -36,7 +36,7 @@ It must have been about 12 years ago, when I first played with Photoshop, but I 
 
 The usual suspects: cleanliness over messiness, power of layers, easy adjustments and modifications, FX and so on and so forth.
 
-![](../images/headlights.png)
+![](/images/posts/2018/headlights.png)
 
 ### How did you find out about Krita?
 
@@ -52,7 +52,7 @@ At the time I tried it, I was coming from GIMP Paint Studio, not having touched 
 
 I like the fact that it's a real alternative for "industry" standard software like Photoshop, Corel Paint and so on. I am a huge fan of FOSS philosophy and initiative so Krita is very important to me and I think to the world in general. Krita is quickly becoming the Blender of 2D art world, people are slow to adopt these alternatives because of familiar workflows and for historical reasons, but people just starting off have no reason not to at least try them and I believe with time they will in become a core part of the of the professional artist. A year ago there was almost no mention of Krita, but with the release of v4 I think people are finally starting to get notice of it. I can see this in the LevelUp Facebook group (a very well known and important group for concept artists all over the world - [https://www.facebook.com/groups/levelup.livestream](https://www.facebook.com/groups/levelup.livestream)) where I'm a moderator that now and then there's the occasional mention of Krita so I know for a fact that more people are watching the development with anticipation.
 
-![](../images/weaponize.png)
+![](/images/posts/2018/weaponize.png)
 
 ### What do you think needs improvement in Krita? Is there anything that really annoys you?
 
@@ -64,7 +64,7 @@ As far as digital painting, I don't use other tools so there's nothing much to s
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](../images/floatingislands.png)
+![](/images/posts/2018/floatingislands.png)
 
 It has to be this one, it's my favourite because it's the first successful one and it all started with a rock study, trying to understand how Piotr Jabłoński applies color and atmosphere in his work. It's nothing special in terms of design but I I like the overall feel of it.
 
@@ -74,13 +74,13 @@ Ah memories... I made it after starting to work on my RZV Krita Brushpack (which
 
 As for the technique, for this painting it was quite the natural approach, I used more of a traditional style technique, with few layers, I've only really used layers for overlaps so that I don't have to worry about moving things, like the floating rocks in front of the central island. One final set of layers was used for placing the lights, like you see on the tree, and that's pretty much it.
 
-![](../images/greeneyes.png)
+![](/images/posts/2018/greeneyes.png)
 
 ### Where can people see more of your work?
 
 Some of my paintings can be found at [https://razvanc-r.deviantart.com](https://razvanc-r.deviantart.com), but I plan to move my more advanced and successful ones to [https://razcore.artstation.com/](https://razcore.artstation.com/) (which is empty for now) and my own site [https://razcore.art/](https://razcore.art/).
 
-![](../images/desk.png)
+![](/images/posts/2018/desk.png)
 
 Other places people can find me at:
 

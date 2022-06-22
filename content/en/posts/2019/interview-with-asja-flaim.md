@@ -6,7 +6,7 @@ categories:
 coverImage: "galaxy-sky.jpg"
 ---
 
-### ![](../images/galaxy-sky.jpg)
+### ![](/images/posts/2019/galaxy-sky.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -16,7 +16,7 @@ My name is Asja Flaim and I am 13 years old. I am from Italy. I love to draw and
 
 When I got my PC and my Huion 191 tablet as a Christmas gift, Krita was installed on the PC.
 
-![](../images/Shadowhunters.png)
+![](/images/posts/2019/Shadowhunters.png)
 
 ### Do you draw on paper too, and which is more fun, paper or computer?
 
@@ -26,7 +26,7 @@ Yes I draw on paper, too. Often it's much easier to draw on paper, because digit
 
 I love to draw persons in manga style, but recently I like to draw realistic things, like eyes and faces.
 
-![](../images/GFGF.png)
+![](/images/posts/2019/GFGF.png)
 
 ### What is easy to do with Krita? What is difficult to do?
 
@@ -38,7 +38,7 @@ I even used Krita to make an animation for my Youtube channel. That was quite ha
 
 It is easy to use, everything you need is easy to find and I can adapt my work space like I need it, with all my tools in place.
 
-![](../images/Alien.png)
+![](/images/posts/2019/Alien.png)
 
 ### Is there anything in Krita that you'd like to be different?
 
@@ -46,7 +46,7 @@ That's a hard question. I only use Krita and I think it is great as it is. All t
 
 ### What is your favourite picture that you made with Krita?
 
-![](../images/sq.png)
+![](/images/posts/2019/sq.png)
 
 The cupcake :) It is a picture that I make for the birthday of my little sister and I love it.
 
@@ -58,7 +58,7 @@ Of course with Krita and on my drawing tablet.
 
 I am a little embarrassed, but yes, on [Instagram](https://www.instagram.com/asjaart/).
 
-![](../images/sorry-not-sorry.jpg)
+![](/images/posts/2019/sorry-not-sorry.jpg)
 
 ### Is there anything else you'd like to tell us?
 

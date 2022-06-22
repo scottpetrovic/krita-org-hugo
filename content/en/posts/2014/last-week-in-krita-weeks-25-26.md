@@ -9,7 +9,7 @@ And now there's also the first public build for OSX:
 
 [http://www.valdyas.org/~boud/krita\_osx\_2.8.79.0.tgz](http://www.valdyas.org/%7Eboud/krita_osx_2.8.79.0.tgz)
 
-![](../images/kritaosx.jpg)
+![](/images/posts/2014/kritaosx.jpg)
 
 [It is just a prototype, with stuff missing and rather detailed instructions on getting it to run](https://www.kickstarter.com/projects/krita/krita-open-source-digital-painting-accelerate-deve/posts/894745)... But if you've always wanted to have Krita on OSX, this is your chance to help us make it happen!
 

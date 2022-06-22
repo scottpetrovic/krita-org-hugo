@@ -23,9 +23,9 @@ Last weekend we celebrated a Krita sprint in Deventer, an event that reunites Kr
 
 This filter allows you to reduce the number of colors displayed using a color ramp’s map.
 
-![Filter: Index Colors dialog](../images/w_indexed_d01.jpg)
+![Filter: Index Colors dialog](/images/posts/2014/w_indexed_d01.jpg)
 
-![Filter: Index Colors variants](../images/w_indexed_01.jpg)
+![Filter: Index Colors variants](/images/posts/2014/w_indexed_01.jpg)
 
 Some uses for the filter include HD index painting as in the video below.
 
@@ -35,19 +35,19 @@ Some uses for the filter include HD index painting as in the video below.
 
 It’s now possible to lock the dockers in position to avoid any modification. This solves the problem of accidentally moving the dockers while adjusting layers and options.
 
-![Dock lock position](../images/w_lock-state.jpg)
+![Dock lock position](/images/posts/2014/w_lock-state.jpg)
 
 #### Improved gradient editor
 
 The gradient editor received necessary improvements. This makes creating gradients a lot easier and gives the option to rename and edit. It's now much faster to get exactly the gradient you are building.
 
-![Gradient Editor](../images/w_gradient_ed.jpg)
+![Gradient Editor](/images/posts/2014/w_gradient_ed.jpg)
 
 #### Floating messages
 
 Rotating, Zooming and Mirroring canvas will now trigger a nice message at the top of the screen with the current degree, zoom level or ON/OFF states. The message will stay for a second before fading out. Neat!
 
-![Floating messages](../images/w_floating_s.jpg)
+![Floating messages](/images/posts/2014/w_floating_s.jpg)
 
 ### General bug fix and features
 
@@ -89,7 +89,7 @@ This week in sketch an Gemini. Dan Leinir Turthra Jensen added support for templ
 - FIX [#332864](https://bugs.kde.org/show_bug.cgi?id=332864): Use a lighter colour for the x in the unchecked checkbox. (Arjen Hiemstra)
 - FIX [#332860](https://bugs.kde.org/show_bug.cgi?id=332860): Cleanup the Tool panel and tool config pages. (Arjen Hiemstra)
 
-![Krita Gemini/Sketch with templates](../images/w_sketch-template.jpg)
+![Krita Gemini/Sketch with templates](/images/posts/2014/w_sketch-template.jpg)
 
 ### Animation branch
 

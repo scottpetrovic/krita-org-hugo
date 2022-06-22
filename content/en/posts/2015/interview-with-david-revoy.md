@@ -6,7 +6,7 @@ categories:
 coverImage: "2015-05-27_user-manual_1080p.jpg"
 ---
 
-[![usermanual-800](../images/usermanual-800.jpg)](https://krita.org/wp-content/uploads/2015/05/2015-05-27_user-manual_1080p.jpg)
+[![usermanual-800](/images/posts/2015/usermanual-800.jpg)](https://krita.org/wp-content/uploads/2015/05/2015-05-27_user-manual_1080p.jpg)
 
 ### Could you tell us something about yourself?
 

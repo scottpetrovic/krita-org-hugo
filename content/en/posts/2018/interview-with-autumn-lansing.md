@@ -6,7 +6,7 @@ categories:
 coverImage: "Jane_and_Alice.png"
 ---
 
-### ![](../images/New_Vegas_City.png)
+### ![](/images/posts/2018/New_Vegas_City.png)
 
 ### Could you tell us something about yourself?
 
@@ -18,7 +18,7 @@ At this point in time it's mostly something I do for enjoyment, though I occasio
 
 ### What genre(s) do you work in?
 
-![](../images/Doll.png)
+![](/images/posts/2018/Doll.png)
 
 I mostly create comic art in the science fiction and/or horror genres, often with a lot of humor in it. My style ranges a bit. While I sometimes enjoy working in a colorful painterly manner, lately I've been happier working in grayscale with mostly flat colors. I find it less distracting. It allows me to focus on linework, which I feel is my strongest point. Sometimes color just gets in the way. I also really like how grayscale looks.
 
@@ -32,7 +32,7 @@ When I decided to make comics again in 2011, I initially went the more tradition
 
 ### What makes you choose digital over traditional painting?
 
-![](../images/Jane_landing.png)
+![](/images/posts/2018/Jane_landing.png)
 
 As a comics artist, digital wins hands down over traditional methods. Being able to rearrange things in a panel and quickly change dialogue makes life much easier, especially for me, as I'm always fiddling with things.
 
@@ -44,7 +44,7 @@ I took a short break from comics a few years ago, and when I finally decided to 
 
 The first thing that made me love Krita was its focus on drawing and painting, unlike Gimp, which tries to be everything for everyone. The fact that Krita was tailored for what I wanted to do made it more pleasant to work with once I learned how to use it. I always seemed to be fighting Gimp or Inkscape, and Krita felt very friendly in contrast.
 
-### ![](../images/Aztecs.png)
+### ![](/images/posts/2018/Aztecs.png)
 
 ### What do you love about Krita?
 
@@ -62,7 +62,7 @@ At the moment, I don't really use any other tools for drawing. I use Inkscape an
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](../images/Jane_and_Alice.png)
+![](/images/posts/2018/Jane_and_Alice.png)
 
 If I had to choose one panel, it would probably be the panel from Jane Smith, Inc. where all four of the primary characters appear together for the first time. I really like the composition. Each character's personality is on full display, and you can easily see their relationship to each other in their words, expressions and body language.
 

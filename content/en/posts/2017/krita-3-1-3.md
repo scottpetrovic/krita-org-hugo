@@ -5,7 +5,7 @@ date: "2017-05-01"
 
 Today we're proud to release Krita 3.1.3. A ton of bug fixes, and some nice new features as well! Dmitry and Boud have taken a month off from implementing Kickstarter features to make Krita 3.1.3 as good and solid as we could make it. Thanks to all the people who have tested the alpha, the beta and the release candidate! Thanks to all the people who have worked on translations, too, and to Alexey Samoilov for picking up the maintenance of the Ubuntu Lime PPA.
 
-[![Transform around Pivot](../images/pivot-1024x527.png)](https://krita.org/wp-content/uploads/2017/05/pivot.png)Transform around Pivot (Image by [David Revoy](https://peppercarrot.com)
+[![Transform around Pivot](/images/posts/2017/pivot-1024x527.png)](https://krita.org/wp-content/uploads/2017/05/pivot.png)Transform around Pivot (Image by [David Revoy](https://peppercarrot.com)
 
 We also have a new version of the Windows explorer integration plugin, that makes it possible to show thumbnails of .kra and .ora files: several memory leaks were fixed, and a conflict with .ora files created by an Oracle database too was resolved. Thanks to Alvin Wong!
 

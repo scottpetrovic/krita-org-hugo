@@ -33,4 +33,4 @@ The final release is expected for next Wednesday.
 
 * * *
 
-And if you're new to Krita, don't forget that the [Muses Training DVD by Ramon Miranda](http://krita.org/item/216-muses) is shipping _now_!![](../images/pixel.gif)
+And if you're new to Krita, don't forget that the [Muses Training DVD by Ramon Miranda](http://krita.org/item/216-muses) is shipping _now_!![](/images/posts/2014/pixel.gif)

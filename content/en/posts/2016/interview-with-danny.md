@@ -6,7 +6,7 @@ categories:
 coverImage: "3dartref800.jpg"
 ---
 
-![3dartref800](../images/3dartref800.jpg)
+![3dartref800](/images/posts/2016/3dartref800.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -36,7 +36,7 @@ I was looking for something like Photoshop but for drawing that wasn't that expe
 
 ### What was your first impression?
 
-My first inspiration for digital art was a furry dragon named Danny. I love that Krita is free and open. Also, you can help make it better, they have books on how to use it, and a great community plus a lot of people who do video tutorials on how to use it on YouTube. ![danny-process](../images/danny-process.jpg)
+My first inspiration for digital art was a furry dragon named Danny. I love that Krita is free and open. Also, you can help make it better, they have books on how to use it, and a great community plus a lot of people who do video tutorials on how to use it on YouTube. ![danny-process](/images/posts/2016/danny-process.jpg)
 
 ### What do you think needs improvement in Krita? Is there anything that really annoys you?
 

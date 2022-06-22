@@ -6,7 +6,7 @@ categories:
 coverImage: "explorer800.jpeg"
 ---
 
-![explorer800](../images/explorer800.jpeg)
+![explorer800](/images/posts/2016/explorer800.jpeg)
 
 ### Could you tell us something about yourself?
 
@@ -16,7 +16,7 @@ I'm a comic writer, painter, illustrator, and musician. I also dabble in video a
 
 That's a simple question with a complicated answer. In art school I studied painting and 3d art. However, the only job I could find coming out of university was in prepress and graphic design. This didn't work out well for me and seriously affected my mental health. For the last 16 years, issues related to depression and my autism have prevented me from working in a 9 to 5 office environment. For a time I tried freelance work but the pay was so low, it literally wasn't worth it. An Adobe subscription cost more than people were willing to pay for the work I did. Now I concentrate on my comic City of Zargis and art for my Shadowjack music project. Eventually I'd like to do a printed version of the comic. I don't make any money with it but I'm hoping I can in the future. I (try to) sell posters and t-shirts on Redbubble and music on Bandcamp.
 
-### ![floatingmen800](../images/floatingmen800.jpeg)
+### ![floatingmen800](/images/posts/2016/floatingmen800.jpeg)
 
 ### What genre(s) do you work in?
 
@@ -38,7 +38,7 @@ Actually, I do traditional painting as well. However, for illustration digital h
 
 I've known about it for a long time but only recently did I consider it seriously as a replacement for GIMP or Photoshop. Adobe keeps raising the price of their subscription and I simply couldn't afford it any longer. I tried switching to GIMP but its performance at high resolutions (each page of the comic is 6000 x 10,000 pixels) was dismal. I looked at a few commercial options but was unhappy with either the price, performance or brush engine. I finally broke down and gave Krita a try. The last time I had given it a look it seemed like a QT GIMP with less features. Granted, this was many years ago so my memory is a bit hazy. The point is, I didn't have a good impression of it. Anyway, I tried 2.8x and liked it and the price can't be beat.
 
-### ![chaos800](../images/chaos800.jpeg)
+### ![chaos800](/images/posts/2016/chaos800.jpeg)
 
 ### What was your first impression?
 
@@ -60,7 +60,7 @@ It's the best open source painting application, bar none. It's closing in real f
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![DeadGods800](../images/DeadGods800.jpeg)
+![DeadGods800](/images/posts/2016/DeadGods800.jpeg)
 
 Graveyard of Dead Gods. It expresses a number of emotions and allegorical concepts that are not only explored in my comic but in my own personal philosophy. There's a mysterious, dream-like, ethereal quality that I love but find difficult to capture in an image but I feel like I managed it in this image. On the technical side I'm very happy with the results. It has the right amount of detail and compositional balance. It's not perfect but it's as good as anything I've done up to this point and probably a good deal better than most.
 

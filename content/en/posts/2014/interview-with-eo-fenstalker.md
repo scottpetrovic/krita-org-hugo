@@ -6,7 +6,7 @@ categories:
 coverImage: "leafydragon-web.jpg"
 ---
 
-[![leafydragon-web](../images/leafydragon-web.png)](https://krita.org/wp-content/uploads/2014/11/leafydragon-web.png)
+[![leafydragon-web](/images/posts/2014/leafydragon-web.png)](https://krita.org/wp-content/uploads/2014/11/leafydragon-web.png)
 
 ### Would you like to tell us something about yourself?
 

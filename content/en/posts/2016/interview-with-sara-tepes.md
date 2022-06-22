@@ -6,7 +6,7 @@ categories:
 coverImage: "tepes-hero.jpg"
 ---
 
-![Tranquil](../images/Tranquil.jpg)
+![Tranquil](/images/posts/2016/Tranquil.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -18,7 +18,7 @@ I work on commissions and various projects and get paid for my work, so I’m so
 
 ### What genre(s) do you work in?
 
-Traditional drawing and both digital and traditional painting. ![Garden](../images/Garden.jpg)
+Traditional drawing and both digital and traditional painting. ![Garden](/images/posts/2016/Garden.jpg)
 
 ### Whose work inspires you the most—who are your role models as an artist?
 
@@ -52,7 +52,7 @@ The ONLY thing that I don’t like about Krita is that it doesn’t have a freeh
 
 ### If you had to pick one favorite of all your work done in Krita so far, what would it be, and why?
 
-Probably "Red Dress". I love the backlighting and the vibrant red highlights. I really have to focus on how colors are affected by light, and I think I did a pretty good job with this one. ![Red Dress](../images/Red-Dress.jpg)
+Probably "Red Dress". I love the backlighting and the vibrant red highlights. I really have to focus on how colors are affected by light, and I think I did a pretty good job with this one. ![Red Dress](/images/posts/2016/Red-Dress.jpg)
 
 ### What techniques and brushes did you use in it?
 

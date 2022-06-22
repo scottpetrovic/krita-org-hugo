@@ -6,7 +6,7 @@ categories:
 coverImage: "jens-thumbnail.jpg"
 ---
 
-[![comic-sans-gangster](../images/comic-sans-gangster.jpg)](https://krita.org/wp-content/uploads/2013/09/comic-sans-gangster.jpg)
+[![comic-sans-gangster](/images/posts/2013/comic-sans-gangster.jpg)](https://krita.org/wp-content/uploads/2013/09/comic-sans-gangster.jpg)
 
 This week we are back with an amazing conversation with Krita artist Jens Reuterberg from Sweden. Below is one of his favorite works "Gangster Monkey" made in Krita. He has also collaborated with us for [Kritashop](http://www.zazzle.com/kritashop?GroupProducts=False&pg=1&sd=desc&st=date_created) and a few of his designs are already available on the [shop](http://www.zazzle.com/kritashop?GroupProducts=False&pg=1&sd=desc&st=date_created). Read on the conversation to know more about him -
 

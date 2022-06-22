@@ -17,7 +17,7 @@ We had an intermezzo in between fixing bugs: the [HDR functionality](/item/krita
 
 Since we finished that feature, though, we've been doing nothing but [triaging and fixing bugs](https://bugs.kde.org/component-report.cgi?product=krita).
 
-[![](../images/bugs.png)](https://bugs.kde.org/component-report.cgi?product=krita)
+[![](/images/posts/2019/bugs.png)](https://bugs.kde.org/component-report.cgi?product=krita)
 
 Not that all bugs are our own doing: we updated our builds to use Qt 5.12, the new LTS release of our development platform. And unfortunately, the ride has not been smooth. We've had problems with tablet support, with painting images and with Python support. And more. We now have a host of [patches](https://phabricator.kde.org/source/krita/browse/master/3rdparty/ext_qt/) in Qt's review system, patches we apply to Qt when building our binaries.
 

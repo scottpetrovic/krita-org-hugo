@@ -6,7 +6,7 @@ categories:
 coverImage: "james-abell.jpg"
 ---
 
-[![BIOSPHEREWHITE](../images/BIOSPHEREWHITE-813x1024.jpg)](https://krita.org/wp-content/uploads/2014/09/BIOSPHEREWHITE.jpg)
+[![BIOSPHEREWHITE](/images/posts/2014/BIOSPHEREWHITE-813x1024.jpg)](https://krita.org/wp-content/uploads/2014/09/BIOSPHEREWHITE.jpg)
 
 ### Would you like to tell us something about yourself?
 
@@ -56,7 +56,7 @@ It is free, but at the same time intuitive and capable of professional results. 
 
 My Montreal Expo 67 project. The whole point was to make a project with a series of artwork using my 'tradigital' style. record it and make a Youtube tutorial from it using Blender, Krita and traditional drawing. I used the Habitat 67 and the Biosphere in Montreal Canada, as the source material, amazing buildings, visit them if you get the chance.
 
-[![ARRAY](../images/ARRAY-300x217.jpg)](https://krita.org/wp-content/uploads/2014/09/ARRAY.jpg)[![HABGREY](../images/HABGREY-232x300.jpg)](https://krita.org/wp-content/uploads/2014/09/HABGREY.jpg)
+[![ARRAY](/images/posts/2014/ARRAY-300x217.jpg)](https://krita.org/wp-content/uploads/2014/09/ARRAY.jpg)[![HABGREY](/images/posts/2014/HABGREY-232x300.jpg)](https://krita.org/wp-content/uploads/2014/09/HABGREY.jpg)
 
 ### What is it that you like about it? What brushes did you use in it?
 

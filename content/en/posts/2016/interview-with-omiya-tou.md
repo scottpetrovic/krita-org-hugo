@@ -6,7 +6,7 @@ categories:
 coverImage: "omiya_3.jpg"
 ---
 
-![omiya_3](../images/omiya_3.jpg)
+![omiya_3](/images/posts/2016/omiya_3.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -32,7 +32,7 @@ In 2002, when I was 14, I did what can be called digital painting for the first 
 
 It would be that digital media are less time- and space-consuming, easier to revise and enable me to focus on the pure joy of painting, leaving every boring task to the computer.
 
-![omiya_2](../images/omiya_2.jpg)
+![omiya_2](/images/posts/2016/omiya_2.jpg)
 
 ### How did you find out about Krita?
 
@@ -58,7 +58,7 @@ Canvas tilting/flipping, GPU acceleration and CMYK capability.
 
 I'd pick this because I like the sense of depth and atmosphere:
 
-![omiya_1](../images/omiya_1.jpg)
+![omiya_1](/images/posts/2016/omiya_1.jpg)
 
 ### What techniques and brushes did you use in it?
 

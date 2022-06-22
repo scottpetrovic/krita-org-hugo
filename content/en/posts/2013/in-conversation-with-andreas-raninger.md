@@ -8,7 +8,7 @@ coverImage: "andreas-raninger-thumbnail.jpg"
 
 Today we got a chance to interview Andreas Raninger, an IT-Technician from Sweden who paints for a hobby. Even though he is working full time, he finds out time for painting and even paint book covers! Awesome, right? Click on more to read the entire conversation, here is his work "Master and Apprentice".
 
-![Master and Apprentice](../images/master_and_apprentice_by_endoraniendo-d5yyf17.jpg "Master and Apprentice")
+![Master and Apprentice](/images/posts/2013/master_and_apprentice_by_endoraniendo-d5yyf17.jpg "Master and Apprentice")
 
 **Hi Andreas, Would you like to tell us something about yourself?** I'm living in Sweden.I'm currently working as a IT-Technician in a company called IT-Hantverkarna. Painting in my free time.
 
@@ -34,7 +34,7 @@ Today we got a chance to interview Andreas Raninger, an IT-Technician from Swede
 
 **Guess we’re on the right track in our efforts in that case!** **Well, if you had to pick one favorite of all your work done in Krita so far, what would it be?** Unlimited.
 
-![Unlimited](../images/unlimited_by_endoraniendo-d6e9th4.jpg "Unlimited")
+![Unlimited](/images/posts/2013/unlimited_by_endoraniendo-d6e9th4.jpg "Unlimited")
 
 **What is it that you like about it? What brushes did you use in it?** I managed to catch the feeling and put it on screen in the way I wanted. Mostly basic brushes from the default set: Basic Airbrush Basic paint Shade David Revoys Glow tool from the 2.1 brushset (Really good brushes) And some Photohop brushes from Vincdesign that I converted to Krita.
 

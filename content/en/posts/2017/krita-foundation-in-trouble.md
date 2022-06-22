@@ -45,12 +45,12 @@ _Boudewijn Rempt, Krita Maintainer_
 
 **One-time Donation**  _ €1 minimum_
 
-![](../images/pixel.gif)
+![](/images/posts/2017/pixel.gif)
 
  
 
 **Monthly Subscription**  _ €1 minimum_
 
- ![](../images/pixel.gif)
+ ![](/images/posts/2017/pixel.gif)
 
 Stichting Krita Foundation Korte Assenstraat 11 7411JP Deventer, the Netherlands. IBAN: NL72INGB0007216397 BIC: INGBNL2A

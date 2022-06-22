@@ -6,7 +6,7 @@ categories:
 coverImage: "marek-feature.jpg"
 ---
 
-### ![DifferentApproach](../images/DifferentApproach.png)
+### ![DifferentApproach](/images/posts/2016/DifferentApproach.png)
 
 ### Could you tell us something about yourself?
 
@@ -14,7 +14,7 @@ Hi, my name is Tomáš Marek. I'm 22 years old, self-taught digital/traditional 
 
 Right now I'm working on my personal project, it will be a graphic novel, can't tell you much about it yet, and developing my own style which I call #BigNoses.
 
-![PurpleGirl](../images/PurpleGirl.png)
+![PurpleGirl](/images/posts/2016/PurpleGirl.png)
 
 ### Do you paint professionally, as a hobby artist, or both?
 
@@ -24,7 +24,7 @@ In this moment I see myself more like a hobbyist than professional, because righ
 
 I actually never thought about drawing in some specific genre, I pretty much draw what and how I feel that day.
 
-### ![TheLastWatchman](../images/TheLastWatchman.png)
+### ![TheLastWatchman](/images/posts/2016/TheLastWatchman.png)
 
 ### Whose work inspires you most -- who are your role models as an artist?
 
@@ -38,7 +38,7 @@ My first time was in 2012 in the house of my friend, who had a Wacom Cintiq 13. 
 
 That would probably be freedom of tools. Because I'm the constantly changing and erasing type of guy. And with digital not only that changing stuff is fast and clean but also, as the saying goes, "pixels are cheap".
 
-![TheLonelyFisherman](../images/TheLonelyFisherman.png)
+![TheLonelyFisherman](/images/posts/2016/TheLonelyFisherman.png)
 
 ### How did you find out about Krita?
 
@@ -66,7 +66,7 @@ And as I said before, I love Krita's brush engines.
 
 This is hard; it's like asking parents which is their favourite child, but if I had to choose it would be probably my recent painting from my series #BigNoses called "It's Something"
 
-### ![It'sSomething](../images/ItsSomething.png)
+### ![It'sSomething](/images/posts/2016/ItsSomething.png)
 
 ### What techniques and brushes did you use in it?
 

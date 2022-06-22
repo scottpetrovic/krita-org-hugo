@@ -7,7 +7,7 @@ date: "2012-02-16"
 
 This week we heard from [David Revoy](http://www.davidrevoy.com) that he's back in Amsterdam to work on the [concept art](http://mango.blender.org/gallery/) for the [Blender Institute's](http://www.blender.org/blenderorg/blender-institute/) latest open movie project, [Mango](http://mango.blender.org). _And_ he's using mostly Krita to produce his artwork! We also heard from [Nicolò Zubbini](http://mango.blender.org/team/) who will give Krita's OpenEXR and HDR support a workout in this project.  This will be plenty exciting for the Krita team, since 16/32 bit floating point channel support hasn't been really tested in any sort of real workflow yet.
 
-![Pink spaceship by david revoy](../images/pink-battle-worn-outside_mango_concept-art_04_sm.png)
+![Pink spaceship by david revoy](/images/posts/2012/pink-battle-worn-outside_mango_concept-art_04_sm.png)
 
  
 

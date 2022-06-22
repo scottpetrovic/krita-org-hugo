@@ -6,7 +6,7 @@ categories:
 coverImage: "FB_IMG_1439772527743.jpg"
 ---
 
-[![received_855058494564643](../images/received_855058494564643.jpeg)](https://krita.org/wp-content/uploads/2015/09/received_855058494564643.jpeg)
+[![received_855058494564643](/images/posts/2015/received_855058494564643.jpeg)](https://krita.org/wp-content/uploads/2015/09/received_855058494564643.jpeg)
 
 ### Could you tell us something about yourself?
 
@@ -32,7 +32,7 @@ Well, I think that was with MS Paint Brush in the 90's. Even though I was using 
 
 Actually I draw a lot with pencils, pen, ink and watercolor. But digital painting gives you endless possibilities for combinations and experiments without any cost (both in money and in time).
 
-### [![FB_IMG_1439759834844](../images/FB_IMG_1439759834844.jpg)](https://krita.org/wp-content/uploads/2015/09/FB_IMG_1439759834844.jpg) How did you find out about Krita?
+### [![FB_IMG_1439759834844](/images/posts/2015/FB_IMG_1439759834844.jpg)](https://krita.org/wp-content/uploads/2015/09/FB_IMG_1439759834844.jpg) How did you find out about Krita?
 
 I was looking for tips and resources to painting with GIMP, until I found out that David Revoy was using Krita to do the free "Pepper & Carrot" webcomic. When I looked up the pictures, I was impressed. Which is awesome.
 
@@ -56,7 +56,7 @@ The way that the brushes feel. There is no comparison with other painting tools.
 
 Every day I make studies or a new illustration. But I think that I would choose the "Gangster Pug". I used a lot wet brushes, which is very similar to painting with watercolor in the real world. It's basically the same workflow.
 
-### [![FB_IMG_1439772527743](../images/FB_IMG_1439772527743.jpg)](https://krita.org/wp-content/uploads/2015/09/FB_IMG_1439772527743.jpg) What techniques and brushes did you use in it?
+### [![FB_IMG_1439772527743](/images/posts/2015/FB_IMG_1439772527743.jpg)](https://krita.org/wp-content/uploads/2015/09/FB_IMG_1439772527743.jpg) What techniques and brushes did you use in it?
 
 Wet brushes, and airbrush with blending modes like Multiply and Overlay. The Muses and David Revoy's V6 Brushpack is what I use most.
 
@@ -68,4 +68,4 @@ Portfolio: [behance.com/lucasdreams](http://behance.com/lucasdreams) My page: [f
 
 ### Anything else you'd like to share?
 
-You can add me on facebook ([fb.com/lucasdreams](http://fb.com/lucasdreams)) or send me an email ([lucas.visualart@gmail.com)](mailto:lucas.visualart@gmail.com) and share your thoughts. If you have not used Krita yet, try it. I think it's the best tool in the market at the moment, and it's really a production machine, whether you're interested in VFX painting, illustration, comics and concept art, or just in painting and sketch.[![loanda800](../images/loanda800.png)](https://krita.org/wp-content/uploads/2015/09/loanda800.png)
+You can add me on facebook ([fb.com/lucasdreams](http://fb.com/lucasdreams)) or send me an email ([lucas.visualart@gmail.com)](mailto:lucas.visualart@gmail.com) and share your thoughts. If you have not used Krita yet, try it. I think it's the best tool in the market at the moment, and it's really a production machine, whether you're interested in VFX painting, illustration, comics and concept art, or just in painting and sketch.[![loanda800](/images/posts/2015/loanda800.png)](https://krita.org/wp-content/uploads/2015/09/loanda800.png)

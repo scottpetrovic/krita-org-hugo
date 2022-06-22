@@ -6,7 +6,7 @@ categories:
 coverImage: "fleeing.jpg"
 ---
 
-[![fleeing](../images/fleeing.jpg)](https://krita.org/wp-content/uploads/2015/06/fleeing.jpg)
+[![fleeing](/images/posts/2015/fleeing.jpg)](https://krita.org/wp-content/uploads/2015/06/fleeing.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -18,7 +18,7 @@ I draw professionally but it is also my hobby. And fortunately, I can bring it t
 
 ### What genre(s) do you work in?
 
-I’m interested mostly in fantasy, science fiction and humorous topics. [![dragonseye](../images/dragonseye.jpg)](https://krita.org/wp-content/uploads/2015/06/dragonseye.jpg)
+I’m interested mostly in fantasy, science fiction and humorous topics. [![dragonseye](/images/posts/2015/dragonseye.jpg)](https://krita.org/wp-content/uploads/2015/06/dragonseye.jpg)
 
 ### Whose work inspires you most -- who are your role models as an artist?
 
@@ -54,7 +54,7 @@ I can already do most of my work with Krita. I use other programs occasionally b
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-[![dragondwarf800](../images/dragondwarf800.jpg)](https://krita.org/wp-content/uploads/2015/06/dragondwarf800.jpg) That could be the drawing with the dragon and dwarf or fantasy illustrations in cartoon style with the brawny man. It gives me lots of fun, both drawing it and finding out new possibilities of Krita.
+[![dragondwarf800](/images/posts/2015/dragondwarf800.jpg)](https://krita.org/wp-content/uploads/2015/06/dragondwarf800.jpg) That could be the drawing with the dragon and dwarf or fantasy illustrations in cartoon style with the brawny man. It gives me lots of fun, both drawing it and finding out new possibilities of Krita.
 
 ### What techniques and brushes did you use in it?
 

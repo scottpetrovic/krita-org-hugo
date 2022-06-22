@@ -78,4 +78,4 @@ We're not looking for new bugs -- but if you find one, take a moment to read Dmi
 
 Here's the [Bug Hunter Howto](https://community.kde.org/Krita/Docs/Bug_Hunting_Day#Developers), too. Join us this weekend and help us get the bug count down and the bug list manageable! In the coming two weeks, the developers will be busy fixing bugs so we can have a really stable base for all the kickstarter work!
 
-\[caption id="attachment\_2127" align="aligncenter" width="238"\][![Mosquitoes-hunter by David Revoy](../images/Mosquitoes-hunter_by_David-Revoy-238x300.jpg)](https://krita.org/wp-content/uploads/2015/06/Mosquitoes-hunter_by_David-Revoy.jpg) Bug hunter by David Revoy\[/caption\]
+\[caption id="attachment\_2127" align="aligncenter" width="238"\][![Mosquitoes-hunter by David Revoy](/images/posts/2015/Mosquitoes-hunter_by_David-Revoy-238x300.jpg)](https://krita.org/wp-content/uploads/2015/06/Mosquitoes-hunter_by_David-Revoy.jpg) Bug hunter by David Revoy\[/caption\]

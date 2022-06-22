@@ -24,7 +24,7 @@ After a hiatus -- Siggraph 2014 first, then two weeks of vacation, We've got new
 - Update the preview of the MyPaint color selector when a new color is set
 - Add zooming/panning to the overview docker
 
-[![overview](../images/overview-300x181.png)](https://krita.org/wp-content/uploads/2014/09/overview.png)
+[![overview](/images/posts/2014/overview-300x181.png)](https://krita.org/wp-content/uploads/2014/09/overview.png)
 
 - Update G'Mic to 1.6
 - Fix loading of Auto Spacing for predefined brushes
@@ -33,11 +33,11 @@ After a hiatus -- Siggraph 2014 first, then two weeks of vacation, We've got new
 - Fixes for ink depletion of saturation
 - Let the popup palette use tags instead of a manual configuration system to select between sets of brushes
 
-[![improved_popup](../images/improved_popup-300x235.png)](https://krita.org/wp-content/uploads/2014/09/improved_popup.png)
+[![improved_popup](/images/posts/2014/improved_popup-300x235.png)](https://krita.org/wp-content/uploads/2014/09/improved_popup.png)
 
 - Add a color slider docker: this adds a HSV/HSL/HSI/HSY' slider docker to Krita
 
-[![colorsliders](../images/colorsliders.png)](https://krita.org/wp-content/uploads/2014/09/colorsliders.png)
+[![colorsliders](/images/posts/2014/colorsliders.png)](https://krita.org/wp-content/uploads/2014/09/colorsliders.png)
 
 Windows build:
 

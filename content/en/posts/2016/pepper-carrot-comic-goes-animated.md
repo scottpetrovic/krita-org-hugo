@@ -11,7 +11,7 @@ Nikolai's idea is to bring David's comic into new media by animating one episode
 
 For this work Nikolai will also be using Krita to convert static webcomic images into separate layers and to do all additional painting (which he expects there to be a lot of).
 
-![pepper1](../images/pepper1.gif) The animation work will be done in Blender, with the assistance of the [CoaTools addon](https://github.com/ndee85/coa_tools). Also, he plans to use Krita to create some frame-by-frame animation elements (lipsync, complex movements etcetera). The rendering management will be done with [RenderChan](https://morevnaproject.org/renderchan).
+![pepper1](/images/posts/2016/pepper1.gif) The animation work will be done in Blender, with the assistance of the [CoaTools addon](https://github.com/ndee85/coa_tools). Also, he plans to use Krita to create some frame-by-frame animation elements (lipsync, complex movements etcetera). The rendering management will be done with [RenderChan](https://morevnaproject.org/renderchan).
 
 Nikolai has published a video demonstrating the first two animated shots:
 

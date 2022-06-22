@@ -9,7 +9,7 @@ About a year ago, we created the ask.krita.org website. We wanted to have a stac
 
 Maybe it was the platform we were using, maybe it's that people who are using Krita have a different mindset from people for whom stack-exchange like sites work, but we came to realize that ask.krita.org did not work out.
 
-[![](../images/ask.png)](https://krita.org/wp-content/uploads/2019/06/ask.png)
+[![](/images/posts/2019/ask.png)](https://krita.org/wp-content/uploads/2019/06/ask.png)
 
 Nobody seemed to be searching whether their problems had already been discussed and maybe solved, so the same questions were being asked again and again. Nobody seemed to stay around and engage with the people who were trying to help them, and nobody seemed to stay around to help other people.
 

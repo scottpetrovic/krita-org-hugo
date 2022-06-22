@@ -39,7 +39,7 @@ Since the first beta, the following issues have been addressed:
 
 Also, Rafał Mikrut has submitted many fixes for issues with memory management and pointer access. Thanks!
 
-[![Kiki among the waterlilies](../images/kiki_4.3.3_sm-1024x512.png)](https://krita.org/wp-content/uploads/2020/05/kiki_4.3.3_sm.png)
+[![Kiki among the waterlilies](/images/posts/2020/kiki_4.3.3_sm-1024x512.png)](https://krita.org/wp-content/uploads/2020/05/kiki_4.3.3_sm.png)
 
 [The full release notes bring you all the details](/krita-4-3-release-notes/)!
 

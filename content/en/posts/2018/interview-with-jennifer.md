@@ -6,7 +6,7 @@ categories:
 coverImage: "woman-and-the-horse.jpeg"
 ---
 
-### ![](../images/woman-and-the-horse.jpeg)
+### ![](/images/posts/2018/woman-and-the-horse.jpeg)
 
 ### Could you tell us something about yourself?
 
@@ -20,7 +20,7 @@ As a hobby. At least for now.
 
 I usually draw cartoons. But I also like painting nature and fantasy elements.
 
-![](../images/maila-1.jpeg)
+![](/images/posts/2018/maila-1.jpeg)
 
 ### Whose work inspires you most -- who are your role models as an artist?
 
@@ -56,7 +56,7 @@ The brushes, the way Krita works with layers (for example: if you have a line on
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](../images/the-peace-of-the-mermaid.jpeg)
+![](/images/posts/2018/the-peace-of-the-mermaid.jpeg)
 
 I like my latest work. At the time I made the work, I hadn't thought about a name yet. But looking at it now, I could call it "The peace of the mermaid". I think it fits well.
 
@@ -68,7 +68,7 @@ Well, I'm not good with names of techniques, but I used the default brushes and 
 
 For the moment I have: Blog: [https://jbh-digitalart.blogspot.com.br/](https://jbh-digitalart.blogspot.com.br/) Facebook page: [https://www.facebook.com/JBHdigitalart/?ref=bookmarks](https://www.facebook.com/JBHdigitalart/?ref=bookmarks)
 
-### ![](../images/fairy-mermaid.jpeg)
+### ![](/images/posts/2018/fairy-mermaid.jpeg)
 
 ### Anything else you'd like to share?
 

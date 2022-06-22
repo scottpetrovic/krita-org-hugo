@@ -6,7 +6,7 @@ categories:
 coverImage: "game-art-quest-800.jpg"
 ---
 
-![](../images/game-art-quest-800.jpg)
+![](/images/posts/2017/game-art-quest-800.jpg)
 
 _Here's Nathan with a piece of good news:_
 

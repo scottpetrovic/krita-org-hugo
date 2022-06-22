@@ -6,7 +6,7 @@ categories:
 coverImage: "D3_Contest_Monk_AR-800.jpg"
 ---
 
-### [![D3_Contest_Monk_AR-800](../images/D3_Contest_Monk_AR-800.jpg)](https://krita.org/wp-content/uploads/2015/05/D3_Contest_Monk_AR.jpg) Could you tell us something about yourself?
+### [![D3_Contest_Monk_AR-800](/images/posts/2015/D3_Contest_Monk_AR-800.jpg)](https://krita.org/wp-content/uploads/2015/05/D3_Contest_Monk_AR.jpg) Could you tell us something about yourself?
 
 My name is Andrei Rudenko, I'm a freelance illustrator, graduated from the Academy of Fine Arts (as a painter) in Chisinau (Moldova). I have many hobbies, I like icon/UI design, photography, learned a few programming languages and make games in my spare time, and also have about 10 releases on musical labels as 2R. For now I'm trying to improve my skills in illustration and game development.
 

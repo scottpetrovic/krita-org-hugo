@@ -9,7 +9,7 @@ The Krita team is proud, happy, elated and relieved to release today the first r
 
 With Krita 2.4, we are releasing something that has been called a ["production beast"](http://www.davidrevoy.com/index.php?article114/krita-project-an-old-challenge-won-2-4-very-soon) -- a dependable painting application that you can use all day long, and can use to create many, many images a day with. There's a splash screen that never gets [boring](http://forum.kde.org/viewtopic.php?f=138&t=99580) by Enrico Guarneri. There is a great set of default brush presets by Timothee Giet, Ramon Miranda's [GPS](http://www.ramonmiranda.com/search/label/GimpPaintStudio) resources are integrated -- everything is ready out of the box to start painting. [Show us your art](http://forum.kde.org/viewforum.php?f=138&sid=5006abc69bd6d254c82bd7fb01f1783e)!
 
-![](../images/krita-screen_01_davidrevoy.jpg)
+![](/images/posts/2012/krita-screen_01_davidrevoy.jpg)
 
 _Image by David Revoy_
 

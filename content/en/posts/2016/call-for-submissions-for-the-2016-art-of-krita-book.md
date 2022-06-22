@@ -5,7 +5,7 @@ date: "2016-06-22"
 
 The Krita Foundation is going to publish a glossy, shiny book of art created with Krita! This book will be sent out to the seventy Kickstarter backers who selected the artbook as their reward, and it will be available from the Krita shop. We'll also try and make sure it's available through online bookshops! It's the very first time the Krita Foundation will publish a book, and we're really excited about it.
 
-[![kiki_artbook_small](../images/kiki_artbook_small.png)](https://krita.org/wp-content/uploads/2016/06/kiki_artbook_small.png)
+[![kiki_artbook_small](/images/posts/2016/kiki_artbook_small.png)](https://krita.org/wp-content/uploads/2016/06/kiki_artbook_small.png)
 
 And we're sure you will be excited, too. it's kind of a historic moment, after all, so who wouldn't want to be in on the very first Krita Art book? Space is going to be limited, though, so we're going to assemble a jury of seasoned Krita artists to vet all submissions and make the final selection.
 
@@ -15,7 +15,7 @@ The book will be printed professionally, either hard-cover or soft-cover (that d
 
 Here's a mock-up of what we intend:
 
-[![spread](../images/spread-1024x718.png)](https://krita.org/wp-content/uploads/2016/06/spread.png)
+[![spread](/images/posts/2016/spread-1024x718.png)](https://krita.org/wp-content/uploads/2016/06/spread.png)
 
 If you want to be in on it, send your submission to foundation@krita.org.  We need the following:
 

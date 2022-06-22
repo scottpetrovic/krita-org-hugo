@@ -6,7 +6,7 @@ categories:
 coverImage: "Saladin’s-White-Wolf-800.png"
 ---
 
-### ![](../images/destinytitansmall-800.png)
+### ![](/images/posts/2018/destinytitansmall-800.png)
 
 ### Could you tell us something about yourself?
 
@@ -16,7 +16,7 @@ I’m Brigette, but I go mainly go by my online handle of HoldXtoRevive. I’m f
 
 I have had a few commissions but outside that I would call myself a hobbyist. I would love to work professionally at some point.
 
-![](../images/colinstitan-800.png)
+![](/images/posts/2018/colinstitan-800.png)
 
 ### What genre(s) do you work in?
 
@@ -32,7 +32,7 @@ Outside of my friends I would say Charles Walton, Pete Mohrbacher and Valentina 
 
 About 4 years ago I downloaded GIMP as I wanted to get back into art after not drawing for about 15 years. I got a simple drawing tablet soon after and things just progressed from there.
 
-![](../images/arcsoul-800.png)
+![](/images/posts/2018/arcsoul-800.png)
 
 ### What makes you choose digital over traditional painting?
 
@@ -50,7 +50,7 @@ How clean the UI is and how all of the tools where easy to find, and the fun I h
 
 The fact it was really easy to get to grips with, yet I can tell there is more I can get from it. Also the autosave.
 
-![](../images/gtfo-campain-posterfinal-800.png)
+![](/images/posts/2018/gtfo-campain-posterfinal-800.png)
 
 ### What do you think needs improvement in Krita? Is there anything that really annoys you?
 
@@ -62,7 +62,7 @@ I have not used many programs before I can across Krita. But the thing that jump
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](../images/Saladin’s-White-Wolf-800.png)
+![](/images/posts/2018/Saladin’s-White-Wolf-800.png)
 
 That is hard to say, but in a pinch I would say the one titled "Saladin’s White Wolf". I was really happy how the background came out, it was also the one to be picked out and promoted by Bungie on their twitter.
 

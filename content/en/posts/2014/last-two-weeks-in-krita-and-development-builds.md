@@ -19,7 +19,7 @@ All other items are done... New in this build are:
 - Shaped gradients (and they are really fast, too!)
 - Easy mask creation: you can import any kind of image as a mask and save masks as images.
 
-[![shaped_gradient](../images/shaped_gradient-300x210.png)](https://krita.org/wp-content/uploads/2014/11/shaped_gradient.png)
+[![shaped_gradient](/images/posts/2014/shaped_gradient-300x210.png)](https://krita.org/wp-content/uploads/2014/11/shaped_gradient.png)
 
 In addition to the kickstarter topics that were already in the previous builds:
 
@@ -44,15 +44,15 @@ And check out the transformation mask video as well:
 
 Windows and OSX users have an extra treat this time: the 2.8.79.23 builds are made from the multi-view branch. There are still bugs and usability niggles, but it's usable now, for real work, too. Here's a screenshot showing how the same image can be open twice, once with autowrap enabled.
 
-[![mvc](../images/mvc-300x187.png)](https://krita.org/wp-content/uploads/2014/11/mvc.png)
+[![mvc](/images/posts/2014/mvc-300x187.png)](https://krita.org/wp-content/uploads/2014/11/mvc.png)
 
 Krita's G'Mic plugin is immensely powerful, but was hard to use without any preview... So Lukáš Tvrdý has added just that: you can preview the G'Mic effect in several sizes and on the canvas, too, depending on the speed with which the filter works.
 
-[![gmic-preview](../images/gmic-preview-300x110.png)](https://krita.org/wp-content/uploads/2014/11/gmic-preview.png)
+[![gmic-preview](/images/posts/2014/gmic-preview-300x110.png)](https://krita.org/wp-content/uploads/2014/11/gmic-preview.png)
 
 Timothée Giet has implemented a long-standing wish for Krita: the ability to separate the opacity and flow parameters -- and updated all default brush presets to reflect this improvement.
 
-[![flow-opacity-demo](../images/flow-opacity-demo-300x174.png)](https://krita.org/wp-content/uploads/2014/11/flow-opacity-demo.png)
+[![flow-opacity-demo](/images/posts/2014/flow-opacity-demo-300x174.png)](https://krita.org/wp-content/uploads/2014/11/flow-opacity-demo.png)
 
 Scott Petrovic not only continued polishing Krita's user interface by checking layout, alignment, use of slider widgets, adding tooltips and so on -- he also updated the [download](https://krita.org/download/krita-desktop/), [store](https://krita.org/support-us/shop/) and [donation](https://krita.org/support-us/donations/) pages for krita.org. (And may we just suggest that the [Muses DVD](https://krita.org/learn/tutorials/) makes an excellend December present, get yours now!)
 

@@ -7,7 +7,7 @@ It's summer -- a bit rainy, but still summer! So it's time for a summer sale -- 
 
 <script src="https://gumroad.com/js/gumroad.js"></script>
 
-![](../images/cover_small.png)
+![](/images/posts/2017/cover_small.png)
 
 Made with Krita 2016
 

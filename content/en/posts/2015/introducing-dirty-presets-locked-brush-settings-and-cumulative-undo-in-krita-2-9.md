@@ -11,19 +11,19 @@ One of the 2014 Google Summer of Code projects for Krita is going to be in the n
 
 This is a feature a lot of people asked for: It allows Krita to remember small changes made to a preset during a session, without it saving over the original. You activate it in the brush settings window, by ticking 'Temporarily Save Tweaks To Presets'.
 
-[![ditry_presets_1](../images/ditry_presets_1.png)](https://krita.org/wp-content/uploads/2015/01/ditry_presets_1.png)
+[![ditry_presets_1](/images/posts/2015/ditry_presets_1.png)](https://krita.org/wp-content/uploads/2015/01/ditry_presets_1.png)
 
 Then, select a preset.
 
-[![dirty_presets_2](../images/dirty_presets_2.png)](https://krita.org/wp-content/uploads/2015/01/dirty_presets_2.png)
+[![dirty_presets_2](/images/posts/2015/dirty_presets_2.png)](https://krita.org/wp-content/uploads/2015/01/dirty_presets_2.png)
 
 Now, if you tweak a setting, like, say, opacity, Krita will make the preset 'dirty'. You can identify dirty presets by the little plus-icon on the preset icon.
 
-[![dirty_presets_3](../images/dirty_presets_3.png)](https://krita.org/wp-content/uploads/2015/01/dirty_presets_3.png)
+[![dirty_presets_3](/images/posts/2015/dirty_presets_3.png)](https://krita.org/wp-content/uploads/2015/01/dirty_presets_3.png)
 
 To get the original settings back, press the reload button.
 
-[![dirty_presets_4](../images/dirty_presets_4.png)](https://krita.org/wp-content/uploads/2015/01/dirty_presets_4.png)
+[![dirty_presets_4](/images/posts/2015/dirty_presets_4.png)](https://krita.org/wp-content/uploads/2015/01/dirty_presets_4.png)
 
 To retain these settings, just save the preset.
 
@@ -33,17 +33,17 @@ Another often requested feature, this allows you to lock to opacity, or brush-ti
 
 You activate it by right-clicking the lock besides a setting. Then, select 'lock'.
 
-[![locksettings_1](../images/locksettings_1.png)](https://krita.org/wp-content/uploads/2015/01/locksettings_1.png)
+[![locksettings_1](/images/posts/2015/locksettings_1.png)](https://krita.org/wp-content/uploads/2015/01/locksettings_1.png)
 
 Now, the setting will not be reloaded every time you select a new preset.
 
 This can be used, for example, to keep the same texture over all presets.
 
-[![locksettings_2](../images/locksettings_2.png)](https://krita.org/wp-content/uploads/2015/01/locksettings_2.png)
+[![locksettings_2](/images/posts/2015/locksettings_2.png)](https://krita.org/wp-content/uploads/2015/01/locksettings_2.png)
 
 You can unlock them by right-clicking the lock-icon again.
 
-[![locksettings_3](../images/locksettings_3.png)](https://krita.org/wp-content/uploads/2015/01/locksettings_3.png) There's two options here.
+[![locksettings_3](/images/posts/2015/locksettings_3.png)](https://krita.org/wp-content/uploads/2015/01/locksettings_3.png) There's two options here.
 
 Unlock (Drop Locked)
 
@@ -61,11 +61,11 @@ Cumulative undo allows you to have undos merge together. This can be useful if y
 
 Cumulative undo is activated via the Undo History Docker. Right-click an undo-state to enable it.
 
-[![cumulative_undo_1](../images/cumulative_undo_1.png)](https://krita.org/wp-content/uploads/2015/01/cumulative_undo_1.png)
+[![cumulative_undo_1](/images/posts/2015/cumulative_undo_1.png)](https://krita.org/wp-content/uploads/2015/01/cumulative_undo_1.png)
 
 Afterwards, you can tweak it's settings by right-clicking the undo-state again.
 
-[![cumulative_undo_2](../images/cumulative_undo_2.png)](https://krita.org/wp-content/uploads/2015/01/cumulative_undo_2.png)
+[![cumulative_undo_2](/images/posts/2015/cumulative_undo_2.png)](https://krita.org/wp-content/uploads/2015/01/cumulative_undo_2.png)
 
 Start merging time
 

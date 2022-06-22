@@ -6,7 +6,7 @@ categories:
 coverImage: "big-small-and-me-cover-sample.jpeg"
 ---
 
-### [![big small and me 4 and 5 sample](../images/big-small-and-me-4-and-5-sample.jpeg)](https://krita.org/wp-content/uploads/2015/08/big-small-and-me-4-and-5-sample.jpeg)
+### [![big small and me 4 and 5 sample](/images/posts/2015/big-small-and-me-4-and-5-sample.jpeg)](https://krita.org/wp-content/uploads/2015/08/big-small-and-me-4-and-5-sample.jpeg)
 
 ### Could you tell us something about yourself?
 
@@ -56,7 +56,7 @@ Krita feels like an artist's program, created by artists who program. Too many o
 
 I'm currently illustrating a children's book series that I've written which addresses the size and scope of everything and how it relates to the human experience. I'm calling the series "BIG, small & Me", I'm hoping to independently publish the first book in the fall and see where it goes. I'm not going to cure cancer or invent faster than lightspeed propulsion, but if I can inspire the child that one day will do something this great, or even greater, then I will consider my life a success.
 
-[![big small and me cover sample](../images/big-small-and-me-cover-sample.jpeg)](https://krita.org/wp-content/uploads/2015/08/big-small-and-me-cover-sample.jpeg)
+[![big small and me cover sample](/images/posts/2015/big-small-and-me-cover-sample.jpeg)](https://krita.org/wp-content/uploads/2015/08/big-small-and-me-cover-sample.jpeg)
 
 ### What techniques and brushes did you use in it?
 

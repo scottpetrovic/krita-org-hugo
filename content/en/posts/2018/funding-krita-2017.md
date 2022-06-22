@@ -9,7 +9,7 @@ Because of the troubles, we had to split sales and commercial work off from the 
 
 We wouldn't have survived 2017 as a project if two individuals hadn't generously supported both Dmitry's and Boudewijn's work on Krita for several months. That is also not reflected in these numbers: that was handled directly, not through the Krita Foundation. And since Boudewijn, having been badly burned out on his consultancy gig in 2016, couldn't manage combining working on Krita with a day job anymore, the remainder of his work on Krita in 2017 was sponsored by his savings, which is also not reflected in these numbers. If it were, the amount of money spent on development would be double what is in the books.
 
-[![](../images/2017_krita_foundation_statement.png)](https://krita.org/wp-content/uploads/2018/05/2017_krita_foundation_statement.png)
+[![](/images/posts/2018/2017_krita_foundation_statement.png)](https://krita.org/wp-content/uploads/2018/05/2017_krita_foundation_statement.png)
 
 Loans were made to Boudewijn and have been repaid in 2018, when the income from the Windows Store started coming in. In 2017 we also produced the 2016 Art Book, which was rather expensive, and very expensive to send out. We still have a lot of copies left, too. Donations are donations we made to people who did things that were useful for Krita as a project, while the post "volunteers" represents money we give under Dutch tax law to people who do an inordinate amount of volunteer work for Krita .
 

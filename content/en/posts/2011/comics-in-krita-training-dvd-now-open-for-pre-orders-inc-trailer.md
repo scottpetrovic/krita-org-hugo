@@ -18,7 +18,7 @@ iframe width="700" height="424" src="http://www.youtube.com/embed/p5cxPLS9q5c" f
 
 The "Comics With Krita" is a combined package that comes with two parts:
 
-## 1\. "Comics With Krita" Training DVD![Comics with Krita DVD Cover](../images/comics-with-krita-dvd-cover.jpg)
+## 1\. "Comics With Krita" Training DVD![Comics with Krita DVD Cover](/images/posts/2011/comics-with-krita-dvd-cover.jpg)
 
 The first ever Krita training DVD includes 6 Hours of HD video focused on creating comics from scratch, including:
 

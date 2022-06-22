@@ -5,7 +5,7 @@ date: "2016-04-09"
 
 On the road to Krita 3.0, we're releasing today the first alpha version. This has all the features that will be in 3.0, and contains the translations, but is still unstable. We're fixing bugs all the time, but there's still plenty to fix! That said, we think we nailed the worst problems and we'd love for you all to give this version a try! The final release is planned for May 1st.
 
-[![Screenshot_20160409_212626](../images/Screenshot_20160409_212626-1024x576.png)](https://krita.org/wp-content/uploads/2016/04/Screenshot_20160409_212626.png)
+[![Screenshot_20160409_212626](/images/posts/2016/Screenshot_20160409_212626-1024x576.png)](https://krita.org/wp-content/uploads/2016/04/Screenshot_20160409_212626.png)
 
 ### What's new?
 
@@ -42,7 +42,7 @@ We also removed the print and print preview options; printing in Krita has never
 - Use highlighted color for the selected tool in toolbox (easier to see)
 - Resource manager has separate buttons for importing resources now. This improves the stability with this area.
 
-[![Screenshot_20160409_212649](../images/Screenshot_20160409_212649-1024x576.png)](https://krita.org/wp-content/uploads/2016/04/Screenshot_20160409_212649.png)
+[![Screenshot_20160409_212649](/images/posts/2016/Screenshot_20160409_212649-1024x576.png)](https://krita.org/wp-content/uploads/2016/04/Screenshot_20160409_212649.png)
 
 ### Known Issues
 

@@ -6,7 +6,7 @@ categories:
 coverImage: "Surprise_of_Trolls_tilted_small.jpg"
 ---
 
-[![Surprise of Trolls, by Griatch](../images/Surprise_of_Trolls_tilted_small.jpg)](https://krita.org/wp-content/uploads/2015/05/Surprise_of_Trolls_tilted_small.jpg)
+[![Surprise of Trolls, by Griatch](/images/posts/2015/Surprise_of_Trolls_tilted_small.jpg)](https://krita.org/wp-content/uploads/2015/05/Surprise_of_Trolls_tilted_small.jpg)
 
 ### Could you tell us something about yourself?
 

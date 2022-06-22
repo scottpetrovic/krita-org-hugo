@@ -28,7 +28,7 @@ Dmitry in particular, aside from the many bugs fixed, enhanced the stroke smooth
 - Add Y + mouse click + movement shortcut for Exposure correction. (Dmitry Kazakov)
 - Add shortcuts to switch between painting blending modes. (Boudewijn Rempt)
 
-![Gamma and exposure new cursors](../images/w23-gamma_exp-cursor.jpg)
+![Gamma and exposure new cursors](/images/posts/2014/w23-gamma_exp-cursor.jpg)
 
 ## General bugfixes and features
 
@@ -60,7 +60,7 @@ Clone tool has change now makes it possible to clone from one layer to a differe
 
 Following [Photoshop default shortcuts for blending modes](http://helpx.adobe.com/en/photoshop/using/default-keyboard-shortcuts.html#keys_for_blending_modes) developers added the same shortcuts to Krita for painting blending modes. this is awesome as there is no loose in focus during painting sessions just to change brush blending mode.
 
-To promote the use of the new added shortcuts here is a list for you. [![Painting blending mode shortcuts](../images/w23-blend-short-med_web.jpg)](https://krita.org/wp-content/uploads/2014/06/w23-blending-shortcuts_768.jpg)
+To promote the use of the new added shortcuts here is a list for you. [![Painting blending mode shortcuts](/images/posts/2014/w23-blend-short-med_web.jpg)](https://krita.org/wp-content/uploads/2014/06/w23-blending-shortcuts_768.jpg)
 
 ### File dialogs
 
@@ -86,4 +86,4 @@ The ever going process of optimization continues with a huge amount of developer
 
 We're over 50% funded now for the basic goal of having Dmitry another work for six months on Krita. But it's time to put in some sprinting to get to the stretch goals! Help Krita by spreading the word:
 
-[![](../images/kickstarter-29-front-ban.png)](http://krita.org/kickstarter.php)
+[![](/images/posts/2014/kickstarter-29-front-ban.png)](http://krita.org/kickstarter.php)

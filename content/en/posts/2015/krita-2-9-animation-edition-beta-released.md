@@ -10,7 +10,7 @@ tags:
 coverImage: "kiki2_ann_small.jpg"
 ---
 
-[![kiki2_ann_small](../images/kiki2_ann_small.jpg)](https://krita.org/wp-content/uploads/2015/11/kiki2_ann_small.jpg)
+[![kiki2_ann_small](/images/posts/2015/kiki2_ann_small.jpg)](https://krita.org/wp-content/uploads/2015/11/kiki2_ann_small.jpg)
 
 Today we are happy to announce the long awaited beta-version of Krita with Animation and Instant Preview support! Based on Krita 2.9, you can now try out the implementation of the big 2015 [kickstarter](https://www.kickstarter.com/projects/krita/krita-free-paint-app-lets-make-it-faster-than-phot) features!
 
@@ -20,7 +20,7 @@ For people who previously installed Krita, to get Instant Preview to show up on 
 
 But under these visually tiny changes hides a heap of work done to the Krita kernel code. We almost rewritten it to allow most of the rendering processes run in the background. So now all animated frames and view cache planes are calculated in the moments of time when the user is idle (thinks, or chooses a new awesome brush). Thanks to these changes now it is possible to efficiently work with huge images and play a sequence of complex multi-layered frames in real time (the frames are recalculated in the background and are uploaded to you GPU directly from the cache).
 
-[![krita_animation_1](../images/krita_animation_1-300x205.png)](https://krita.org/wp-content/uploads/2015/11/krita_animation_1.png)
+[![krita_animation_1](/images/posts/2015/krita_animation_1-300x205.png)](https://krita.org/wp-content/uploads/2015/11/krita_animation_1.png)
 
 So, finally, welcome Krita 2.9 Animation Edition Beta! (Note the version number! The final release will be based on Krita 3.0, this version is created from the 2.9 stable release, but it is _still_ beta. We welcome your feedback!
 

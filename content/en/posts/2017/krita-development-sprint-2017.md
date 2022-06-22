@@ -11,7 +11,7 @@ Let's do the bug tracker first: we managed to close over 120 bugs! Not every bug
 
 Here's the proof:
 
-[![](../images/bugs_november_sprint-874x1024.png)](https://krita.org/wp-content/uploads/2017/11/bugs_november_sprint.png)Now let's go to the other topics that were [discussed](https://docs.google.com/document/d/1TnrwAqLPfjPO-0VES2FaJQTgxgQNYSX4UiPPNjAE0aE/edit#heading=h.qum3twq1ypdv)...
+[![](/images/posts/2017/bugs_november_sprint-874x1024.png)](https://krita.org/wp-content/uploads/2017/11/bugs_november_sprint.png)Now let's go to the other topics that were [discussed](https://docs.google.com/document/d/1TnrwAqLPfjPO-0VES2FaJQTgxgQNYSX4UiPPNjAE0aE/edit#heading=h.qum3twq1ypdv)...
 
 ### Krita 4.0
 

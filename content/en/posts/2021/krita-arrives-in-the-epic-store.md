@@ -9,4 +9,4 @@ Krita is in the Epic Store! Epic already had supported Krita with an [Epic MegaG
 
 It's the same deal as with Steam and the Windows Store: if you get Krita in one of them, you get automatic updates and you support Krita's development.
 
-[![](../images/epic_store-1024x965.png)](https://www.epicgames.com/store/en-US/p/krita)
+[![](/images/posts/2021/epic_store-1024x965.png)](https://www.epicgames.com/store/en-US/p/krita)

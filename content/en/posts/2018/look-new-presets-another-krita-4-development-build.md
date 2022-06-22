@@ -9,7 +9,7 @@ One of the things we're doing as well is redesigning the set of default brush pr
 
 Our old set was fine, but it was based on [David Revoy](https://www.davidrevoy.com)'s earliest Krita brush bundles, and for Krita 4 we are revamping the entire set. We've added many new options to the brushes since then! So, many artists are working together to create a good-looking, useful and interesting brushes for Krita 4.
 
-[![](../images/brushj_presets-1024x529.png)](https://krita.org/wp-content/uploads/2018/02/brushj_presets.png)
+[![](/images/posts/2018/brushj_presets-1024x529.png)](https://krita.org/wp-content/uploads/2018/02/brushj_presets.png)
 
 It's still work in progress! But we want your feedback. So... Download the new Krita 4 development builds, and start doodling, sketching, painting, rendering... And then tell us what you think:
 

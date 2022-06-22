@@ -6,7 +6,7 @@ categories:
 coverImage: "squid_f-800.jpg"
 ---
 
-[![squid_f-800](../images/squid_f-800.jpg)](https://krita.org/wp-content/uploads/2015/10/squid_f.jpg)
+[![squid_f-800](/images/posts/2015/squid_f-800.jpg)](https://krita.org/wp-content/uploads/2015/10/squid_f.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -20,7 +20,7 @@ Right now I paint just because I like it. I've had some commissions in the past,
 
 Almost entirely portraits showing women, just like the old masters. I tried some space art, which was pretty nice, but I'm going to stick at portraits for now.
 
-[![reaper_f-800](../images/reaper_f-800.jpg)](https://krita.org/wp-content/uploads/2015/10/reaper_f.jpg)
+[![reaper_f-800](/images/posts/2015/reaper_f-800.jpg)](https://krita.org/wp-content/uploads/2015/10/reaper_f.jpg)
 
 ### Whose work inspires you most -- who are your role models as an artist?
 
@@ -30,7 +30,7 @@ David Revoy is one of my role models, he is one of the reasons why I started to 
 
 If you draw digitally you tend to take more risks, because you know you can make mistakes without destroying your whole image. And I just like the fact that you can waste a lot of "high quality" paper and colour without paying a single cent for it.
 
-[![swatch800](../images/swatch800.png)](https://krita.org/wp-content/uploads/2015/10/swatch.png)
+[![swatch800](/images/posts/2015/swatch800.png)](https://krita.org/wp-content/uploads/2015/10/swatch.png)
 
 ### How did you find out about Krita?
 
@@ -60,7 +60,7 @@ My recent one which I made for Nellwyn, I had so much fun in drawing it.  It's 
 
 The coffee-technique, grab a cup or 10 and start drawing. I block a lot, and rarely use the classic line art. I think it's called chiaroscuro, you can find that in the book "The Artist's Complete Guide to DRAWING THE HEAD" by William L. Maughan. I almost never use the Airbrush-Brushes in Krita, because they destroy skin structure and makes people look like plastic dolls. I used the brush kit 7 by David Revoy for this. Detail and the digital sketch brush are my best friends.
 
-[![squid_1-800](../images/squid_1-800.jpg)](https://krita.org/wp-content/uploads/2015/10/squid_1.jpg)
+[![squid_1-800](/images/posts/2015/squid_1-800.jpg)](https://krita.org/wp-content/uploads/2015/10/squid_1.jpg)
 
 ### Where can people see more of your work?
 

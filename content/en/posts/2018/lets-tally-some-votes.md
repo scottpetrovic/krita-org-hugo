@@ -7,7 +7,7 @@ date: "2018-09-20"
 
 On top is **Papercuts**, with **84** votes. Is that because it's the default choice? Or because you are telling us that Krita is fine, it just needs to be that little bit smoother that makes all the difference? If the latter, we won't disagree, and yesterday Boudewijn fixed one of the things that must have annoyed everyone who wanted to create a custom image: [now the channel depths are finally shown in a logical order](https://phabricator.kde.org/R37:b0b55278363391eeb96784fddba5a763ac09c05a)!
 
-[![](../images/channel-1024x718.png)](https://krita.org/wp-content/uploads/2018/09/channel.png)
+[![](/images/posts/2018/channel-1024x718.png)](https://krita.org/wp-content/uploads/2018/09/channel.png)
 
 Next, and that's a  bit of a surprise, is **Animation** with **41** votes. When we first added animation to Krita, we were surprised  by the enthusiasm with which it was welcomed. We've actually seen, with our own eyes, at a Krita Sprint, work done in Krita for a _very_ promising animated television series!
 

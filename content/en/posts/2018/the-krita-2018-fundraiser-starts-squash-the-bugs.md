@@ -3,7 +3,7 @@ title: "The Krita 2018 Fundraiser Starts: Squash the Bugs!"
 date: "2018-09-15"
 ---
 
-[![](../images/2018-fundraiser-hero2.png)](https://krita.org)
+[![](/images/posts/2018/2018-fundraiser-hero2.png)](https://krita.org)
 
 It’s time for a new [Krita fundraiser!](/fundraising-2018-campaign/) Our goal this year is to make it possible for the team to focus on one thing only: stability. Our previous fundraisers were all about features: adding new features, extending existing features. Thanks to your help, Krita has grown at breakneck speed!
 
@@ -27,7 +27,7 @@ Practically speaking, we've kicked out Kickstarter, which means that from the st
 
 And everyone who donates 50 euros or more will get a free download of Ramon Miranda's wonder new brush preset bundle, Digital Atelier. Over fifty of the highest-quality painterly brush presets (oils, pastel, water color) and more than that: 2 hours of tutorial video explaining the creation process in detail.
 
-[![](../images/Digital-Atelier-Pack-Cover.png)](https://krita.org/wp-content/uploads/2018/09/Digital-Atelier-Pack-Cover.png)
+[![](/images/posts/2018/Digital-Atelier-Pack-Cover.png)](https://krita.org/wp-content/uploads/2018/09/Digital-Atelier-Pack-Cover.png)
 
  
 

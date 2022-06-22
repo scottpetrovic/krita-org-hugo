@@ -15,10 +15,10 @@ Then, on Friday, David Revoy will give a [painting workshop with Krita](http://w
 
 All LGM long, [Ramon Miranda](http://www.ramonmiranda.com/) will be around to answer questions about his "Muses" project, the second Krita training DVD, There will be ample opportunity for pre-orders on the spot, as well! Ramon speaks both Spanish and English, so grab the opportunity!
 
-![](../images/muses cover_Study color v2.jpeg)
+![](/images/posts/2013/muses cover_Study color v2.jpeg)
 
 But, of course, you can also order the DVD on-line: the regular price is € 32,50 including shipping.
 
 * * *
 
-[![Flattr this](../images/flattr-badge-large.png "Flattr this")](http://flattr.com/thing/1055815/The-Krita-Foundation)
+[![Flattr this](/images/posts/2013/flattr-badge-large.png "Flattr this")](http://flattr.com/thing/1055815/The-Krita-Foundation)

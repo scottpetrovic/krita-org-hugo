@@ -18,6 +18,6 @@ It consists of two parts:
 
 Above usual painting, you can use "Move Tool" in this mode. Try it and get a nice, psychedelic effect :)
 
-![](../images/M7tRFJc.jpg)_Image creds: [David Revoy](https://plus.google.com/110962949352937565678/posts/f9dSGU5MhP6)_
+![](/images/posts/2013/M7tRFJc.jpg)_Image creds: [David Revoy](https://plus.google.com/110962949352937565678/posts/f9dSGU5MhP6)_
 
-![](../images/W7MwxHU.png)_Image creds: Paul Geraskin (Mifth)_
+![](/images/posts/2013/W7MwxHU.png)_Image creds: Paul Geraskin (Mifth)_

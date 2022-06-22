@@ -11,4 +11,4 @@ Among other things, KO GmbH has sponsored the development of OpenColorIO support
 
 You can read the full announcement at the [KO GmbH website](http://kogmbh.com).
 
- ![](../images/ko_gmbh-logo.png)
+ ![](/images/posts/2013/ko_gmbh-logo.png)

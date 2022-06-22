@@ -5,7 +5,7 @@ date: "2014-02-19"
 
 Just twelve days ago, the Krita team at [KO GmbH](http://www.kritastudio.com) submitted a [greenlight application](http://krita.org/item/213-krita-on-steam) on steam... And today we got the news that we're _greenlit_ already! Now the real work is going to start, to make Krita ready for release on Steam!
 
-[![](../images/greenlit.png)](http://steamcommunity.com/sharedfiles/filedetails/?id=225403385)
+[![](/images/posts/2014/greenlit.png)](http://steamcommunity.com/sharedfiles/filedetails/?id=225403385)
 
 The Krita on Steam campaign got many thousands of votes from interested users, more than two hundred comments that were almost all very, very positive. And the interest Krita garnered during the greenlight campaign brought us alread a huge number of new users, too! Thanks everyone for the support, for the comments, for the suggestions, for the downloads!
 
