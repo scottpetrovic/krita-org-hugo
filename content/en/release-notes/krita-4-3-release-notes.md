@@ -7,7 +7,7 @@ date: "2019-06-13"
 
 Krita 4.3.0, coming a year after the release of Krita 4.2.0, is packed with new features but mostly many, many bug fixes. We want this to be the most stable Krita release ever! We spent more than a year fully focused on improving Krita's stability and performance -- but there are still a bunch of new features, too. Thanks to the generous support of our community, more and more people are working on Krita these days and with great results: there are over 2000 changes in Krita 4.3.0 compared to Krita 4.2.9!
 
-[![Kiki among the waterlilies](/images/pages/kiki_4.3.3_sm-1024x512.png)](https://krita.org/wp-content/uploads/2020/05/kiki_4.3.3_sm.png)
+[![Kiki among the waterlilies](/images/pages/kiki_4.3.3_sm-1024x512.png)](/images/posts/2020/kiki_4.3.3_sm.png)
 
 This release also contains the work of the 2019 Google Summer of Code projects. Sharaf Zaman has worked on porting Krita to Android, and the first beta (based on Krita 4.2.9) has entered the Google Play Store for Chrome OS and Android tablets. Krita 4.3.0 will be there as the second beta: until we're happy with the state of Krita on Android it will remain in the beta channel. Tusooa Zhu has rewritten Krita's undo system, and _that_ made it possible to add a snapshot docker. And Kuntal Majumder has added a brand new magnetic selection tool.
 

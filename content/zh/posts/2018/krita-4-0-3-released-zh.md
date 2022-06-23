@@ -8,7 +8,7 @@ categories:
 
 Krita 开发小组在今天发布了 Krita 4.0.3 版。这是 Krita 4.0.0 系列的一个问题修复版本。它修复了在 Krita 4.0.2 版中出现的在同一窗口内打开的多个文件之间复制粘贴时会发生崩溃的错误 ([BUG:394068](https://bugs.kde.org/show_bug.cgi?id=394068))。
 
-[![](/images/posts/2018/kiki_4.0_sm-1-1024x463.png)](https://krita.org/wp-content/uploads/2018/03/kiki_4.0_sm-1.png)
+[![](/images/posts/2018/kiki_4.0_sm-1-1024x463.png)](/images/posts/2018/kiki_4.0_sm-1-1024x463.png)
 
 ## 其他改进
 

@@ -55,7 +55,7 @@ Krita 4.3.0 beta 2 已经合并了大部分简体中文翻译的改进：
 - Krita 的文档已经完成翻译 90% 以上，但因为 KDE 翻译 SVN 正在调整，成果尚未同步到文档网站。
 - [中文翻译参与指南](https://krita.org/zh/get-involved-zh/krita-chinese-translation/)已经完成。我们欢迎有志之士参与 Krita 的中文翻译工作，尤其是文档剩余的实例教程。
 
-[![Kiki among the waterlilies](/images/posts/2020/kiki_4.3.3_sm-1024x512.png)](https://krita.org/wp-content/uploads/2020/05/kiki_4.3.3_sm.png)
+[![Kiki among the waterlilies](/images/posts/2020/kiki_4.3.3_sm-1024x512.png)](/images/posts/2020/kiki_4.3.3_sm.png)
 
 [你还可以查看完整的 4.3 版新功能介绍页面](https://krita.org/en/krita-4-3-release-notes/)了解更全面的情况。
 

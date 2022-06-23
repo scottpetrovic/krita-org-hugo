@@ -8,7 +8,7 @@ categories:
 
 KritaチームはKrita4.0.0のバグ修正リリースであるKrita 4.0.3をリリースしました。Krita 4.0.2のクリティカルなリグレッションバグを修正するものです: Kritaで開かれた画像間のコピーペーストがクラッシュを起こすことがある ([BUG:394068](https://bugs.kde.org/show_bug.cgi?id=394068)).
 
-[![](/images/posts/2018/kiki_4.0_sm-1-1024x463.png)](https://krita.org/wp-content/uploads/2018/03/kiki_4.0_sm-1.png)
+[![](/images/posts/2018/kiki_4.0_sm-1-1024x463.png)](/images/posts/2018/kiki_4.0_sm-1-1024x463.png)
 
 ## その他の改善点
 

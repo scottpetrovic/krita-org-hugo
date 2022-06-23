@@ -40,13 +40,13 @@ PepperはKikiが大好きです！
 
 2016年度のKrita Sprintは[KDE e.V.](https://www.kde.org/community/donations/)(旅費)及び[Krita Foundation](https://krita.org/jp/support-us-jp/donations-jp/)(設備と食事)の提供で行われました。ありがとうございます！また我々は今回のスプリントを熱波がオランダを襲ったまさにその週に設定してしまいました。幸運にも我々は[デーフェンテル聖使徒ペトロ・パヴェル聖堂](http://petrusenpaulus.eu/)の涼しくて快適な地下室を使うことが出来ました。インターネットと電源を繋げば、素晴らしい開発兼ディナールームの出来上がりです！
 
-[![DSCF5836](/images/posts/2016/DSCF5836-1024x768.jpg)](https://krita.org/wp-content/uploads/2016/08/DSCF5836.jpg)
+[![DSCF5836](/images/posts/2016/DSCF5836-1024x768.jpg)](/images/posts/2016/DSCF5836.jpg)
 
 #### テストビルド
 
 そして新ビルドが出来ました！今回のビルドではスプラッシュスクリーンを新しいものにしました！そしてバグ修正も行われています。
 
-[![electrichearts_20160517_20160820_kiki_02](/images/posts/2016/electrichearts_20160517_20160820_kiki_02-1024x594.png)](https://krita.org/wp-content/uploads/2016/08/electrichearts_20160517_20160820_kiki_02.png)
+[![electrichearts_20160517_20160820_kiki_02](/images/posts/2016/electrichearts_20160517_20160820_kiki_02-1024x594.png)](/images/posts/2016/electrichearts_20160517_20160820_kiki_02.png)
 
 - OSXで線を引き始めた時の不透明度100%BLOBを修正しました
 - 自動生成されたグラデーションをユーザーが削除できないようにしました

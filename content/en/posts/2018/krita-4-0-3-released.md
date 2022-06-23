@@ -8,7 +8,7 @@ categories:
 
 Today the Krita team releases Krita 4.0.3, a bug fix release of Krita 4.0.0. This release fixes an important regression in Krita 4.0.2: sometimes copy and paste between images opened in Krita would cause crashes ([BUG:394068](https://bugs.kde.org/show_bug.cgi?id=394068)).
 
-[![](/images/posts/2018/kiki_4.0_sm-1-1024x463.png)](https://krita.org/wp-content/uploads/2018/03/kiki_4.0_sm-1.png)
+[![](/images/posts/2018/kiki_4.0_sm-1-1024x463.png)](/images/posts/2018/kiki_4.0_sm-1-1024x463.png)
 
 ## Other Improvements
 

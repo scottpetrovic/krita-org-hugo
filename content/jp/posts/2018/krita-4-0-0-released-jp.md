@@ -12,7 +12,7 @@ https://youtu.be/a-CY4hmkg\_I
 
 Tyson TanによるKrita4.0の新しいスプラッシュスクリーンは、Kikiと梅の開花を描いたものです。Krita 4を昨年中にリリースしたいと思っていましたが、[試練と苦難](https://krita.org/en/item/krita-foundation-update/)に見舞われて、大幅に遅れてしまいました。ですが、一番寒いときに花を咲かせる梅のように、 私たちは苦難を乗り越え、Krita 4はようやくリリース準備ができました!
 
-[![](/images/posts/2018/kiki_4.0_sm-1-1024x463.png)](https://krita.org/wp-content/uploads/2018/03/kiki_4.0_sm-1.png)
+[![](/images/posts/2018/kiki_4.0_sm-1-1024x463.png)](/images/posts/2018/kiki_4.0_sm-1-1024x463.png)
 
 ### ハイライト
 

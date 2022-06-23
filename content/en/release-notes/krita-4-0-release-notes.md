@@ -18,7 +18,7 @@ Note that on all platforms it is possible to keep Krita 3 and Krita 4 running si
 
 For 4.0, Tyson Tan has again created an awesome Kiki image. The Chinese plum blossoms symbolise overcoming hardship, so it's a very apposite image for the first major release of Krita after 2017's tribulations!
 
-[![](/images/pages/kiki_4.0_sm-1-1024x463.png)](https://krita.org/wp-content/uploads/2018/03/kiki_4.0_sm-1.png)
+[![](/images/pages/kiki_4.0_sm-1-1024x463.png)](/images/posts/2018/kiki_4.0_sm-1-1024x463.png)
 
 {{< youtube OXvHHJUyBDg >}}
 

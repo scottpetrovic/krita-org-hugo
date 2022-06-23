@@ -5,11 +5,11 @@ categories:
   - "uncategorized-jp"
 ---
 
-[![](/images/posts/2019/electrichearts_20190316_kiki_a_sm.png)](https://krita.org/wp-content/uploads/2019/05/electrichearts_20190316_kiki_a_sm.png)
+[![](/images/posts/2019/electrichearts_20190316_kiki_a_sm.png)](/images/posts/2019/electrichearts_20190316_kiki_a_sm.png)
 
 Krita 4.2.0の今月リリースに向けて予定通り進行しています。今日はアルファをリリースします！つまりまだバグを狂ったように直している最中ということです。今月していることを見てください。
 
-[![](/images/posts/2019/bugs_april_may.png)](https://krita.org/wp-content/uploads/2019/05/bugs_april_may.png)
+[![](/images/posts/2019/bugs_april_may.png)](/images/posts/2019/bugs_april_may.png)
 
 もちろんそれだけではありません。昨年の6月のKrita4.1のリリースから長く作業をしてきました。その間に1500個のバグを修正し、いくつかの新機能とワークフロー改善を実装し、少し他にも改善を行っています。
 

@@ -12,7 +12,7 @@ Today we're releasing Krita 4.0! A major release with major new features and imp
 
 The new splash screen for Krita 4.0, created by Tyson Tan, shows Kiki among the plum blossoms. We had wanted to release Krita 4 last year already, but [trials and tribulations](/item/krita-foundation-update/) caused considerable delays. But, like the plum blossoms that often bloom most vibrantly when it's coldest, we have overcome, and Krita 4 is now ready!
 
-[![](/images/posts/2018/kiki_4.0_sm-1-1024x463.png)](https://krita.org/wp-content/uploads/2018/03/kiki_4.0_sm-1.png)
+[![](/images/posts/2018/kiki_4.0_sm-1-1024x463.png)](/images/posts/2018/kiki_4.0_sm-1-1024x463.png)
 
 ### Highlights
 

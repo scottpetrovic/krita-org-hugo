@@ -42,7 +42,7 @@ La reunion Krita 2016 fue patrocinada por [KDE e.V.](https://www.kde.org/commun
 
 Y por supuesto ya tenemos nuevas versiones, con una nueva imagen de presentación y correcciones de código.
 
-[![electrichearts_20160517_20160820_kiki_02](/images/posts/2016/electrichearts_20160517_20160820_kiki_02-1024x594.png)](https://krita.org/wp-content/uploads/2016/08/electrichearts_20160517_20160820_kiki_02.png)
+[![electrichearts_20160517_20160820_kiki_02](/images/posts/2016/electrichearts_20160517_20160820_kiki_02-1024x594.png)](/images/posts/2016/electrichearts_20160517_20160820_kiki_02.png)
 
 - Se arreglo al 100% la opacidad al comienzo de las lineas en OSX
 - Ya no se permite que los usuarios eliminen las gradientes auto generadas.

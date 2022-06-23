@@ -11,7 +11,7 @@ https://youtu.be/a-CY4hmkg\_I
 
 La nueva imagen de presentación de Krita 4.0 creada por Tyson Tan, muestra a Kiki entre las flores del árbol de ciruela chino, esta versión estaba en planes de lanzamiento desde el año pasado, pero dado los conflictos fiscales se tubo que retrasar bastante, sin embargo Krita, al igual que el ciruelo chino, presenta las mejores flores solo después de un intenso invierno.
 
-[![](/images/posts/2018/kiki_4.0_sm-1-1024x463.png)](https://krita.org/wp-content/uploads/2018/03/kiki_4.0_sm-1.png)
+[![](/images/posts/2018/kiki_4.0_sm-1-1024x463.png)](/images/posts/2018/kiki_4.0_sm-1-1024x463.png)
 
 ### Información general
 

@@ -12,7 +12,7 @@ https://youtu.be/a-CY4hmkg\_I
 
 Krita 4.0 的全新启动画面由谭代山 (Tyson Tan/钛山)绘制，主题是我们的吉祥物 Kiki、冬雪和梅花。Krita 4.0 原定于去年发布，[然而接二连三的意外情况](https://krita.org/en/item/krita-foundation-update/)严重拖慢了项目的开发工作。但是正如在凛冽的寒风中傲然盛开的梅花一样，Krita 项目挺过来了，今天它的 4.0 版本也终于与世人见面了！
 
-[![](/images/posts/2018/kiki_4.0_sm-1-1024x463.png)](https://krita.org/wp-content/uploads/2018/03/kiki_4.0_sm-1.png)
+[![](/images/posts/2018/kiki_4.0_sm-1-1024x463.png)](/images/posts/2018/kiki_4.0_sm-1-1024x463.png)
 
 ## 功能亮点
 
