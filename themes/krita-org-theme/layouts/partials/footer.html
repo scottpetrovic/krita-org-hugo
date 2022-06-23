@@ -8,6 +8,10 @@
 	<!-- KDE site translations should work by appending language code to URL -->
 	<a href="https://userbase.kde.org/What_is_KDE/{{.Site.Language.Lang}}">What is KDE</a>
 
+	<a href="{{ .Site.BaseURL }}privacy-statement">Privacy Statement</a>
+
+	
+
 	{{ if eq .Site.Language.Lang "en" }}
 	<a href="{{ .Site.BaseURL }}website">Website Licenses</a>
 	<a href="https://docs.krita.org/KritaFAQ.html">FAQ</a>
@@ -28,6 +32,9 @@
 			<img src="{{ .Site.BaseURL }}{{ .Language.Params.flagIconLocation }}" width="20" /> {{ .Language.LanguageName }}		
 		</a>
 	{{ end }}
+
+
+
 </footer>
 
 </body>

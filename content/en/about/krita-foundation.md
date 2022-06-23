@@ -5,58 +5,32 @@ type: 'tabbed-section-about'
 group: 'about'
 ---
 
-# Krita Foundation
+The Krita project was started by the KDE community in 1998. Krita is still part of the KDE community: all Krita contributors are KDE community members! [KDE is an international community working together to create free and open source software for users all over the world.](https://www.kde.org/community/whatiskde/)
 
-To support and further the development and use of Krita in any way imaginable, in 2012 the Krita community created the Krita Foundation. The Krita Foundation is be an independent non-profit, public organization with the following goals:
+To support and further the development and use of Krita in any way imaginable, in 2012 the Krita community created the Krita Foundation. The Krita Foundation is an independent non-profit, public organization with the following goals:
 
 - To develop free graphics software, especially Krita
 - To provide services for users and developers of Krita
 - To provide artists and studios with everything they need to create digital art.
 
-The Foundation tries to achieve this goal by funding development and initiating projects like the Comics with Krita DVD. For commercial support, we refer to [KO GmbH](http://www.kogmbh.com/krita), the company co-founded by the Krita maintainer.
+The Foundation tries to achieve this goal by funding development and initiating projects like the Comics with Krita DVD.
 
-If you want to help the Krita Foundation to reach its goals, you can donate or subscribe to the development fund. The funds will be used to sponsor Krita developers to work on Krita. Currently, the Krita Foundation supports Dmitry Kazakov to work on Krita for 2500 euros a month. Before that, the [KDE](http://www.kde.org) community has sponsored Lukáš Tvrdý. Sponsored development, Summer of Code and volunteer, enthousiast development are all essential to make Krita a great tool for artists everywhere!
+### Fundraising
 
-See an overview of past sponsored work [here](http://community.kde.org/Krita#Sponsored_Work).
+The Krita Foundation solicits donations to support development work done by members of the Krita community. In addition, the Krita Foundation intends to get involved with Open Content projects that use Krita with the goal to improve Krita itself and increase awareness of Krita.
 
-### Contact
+The Foundation has been instrumental in fundraiser efforts around Krita. The first program, executed during the 2009-2010 timeframe, allowed Lukáš Tvrdý to work full-time on Krita for 24 weeks. This made a massive difference for Krita, solving hundreds of bugs and improving performance and usability of the canvas and many brushes to the level where Krita first became ready for (semi) professional use. [Find out more details](http://community.kde.org/Krita/Lukas).
 
-**Stichting Krita Foundation**
+Subsequent fundraisers supported [Dmitry Kazakov](http://community.kde.org/Krita/Dmitry) who brought openGL support to a new level and introduced advanced canvas operations like panning, mirroring and rotation, independent artist [Timothee Giet](http://community.kde.org/Krita/Animtim) who developed the "Comics with Krita" training DVD as well as a host of other video tutorials on youtube and Ramón Miranda who created the [Muses Training DVD](http://krita.org/item/216-muses).
 
-Korte Assenstraat 11
+If you want to help the Krita Foundation to reach its goals, you can donate or subscribe to the development fund. The funds will be used to sponsor Krita developers to work on Krita. Currently, the Krita Foundation supports Dmitry Kazakov to work on Krita for 2500 euros a month. Before that, the KDE community has sponsored Lukáš Tvrdý. Sponsored development, Summer of Code and volunteer, enthusiast development are all essential to make Krita a great tool for artists everywhere!
 
-7411JP Deventer
+Currently, Boudewijn Rempt, Dmitry Kazakov, Agata Cacko and Ivan Yossi are sponsored to work on Krita full-time.
 
-the Netherlands
+### Contact Us
 
-email: foundation@krita.org
+For more information, see the [donations page](https://krita.org/support-us/donations/).
 
-**Bank Account**
+**Address** Stichting Krita Foundation Korte Assenstraat 11 7411JP Deventer, the Netherlands. foundation@krita.org (**Note: this is not a user support email address. If you've got questions, go to [the forum and irc channel](/about/contact/)**).
 
-Account number: 7216397 IBAN: NL72INGB0007216397 BIC: INGBNL2A
-
-Chamber of Commerce registration number: 56592574
-
-Subscribe to the Krita Development Fund:A subscription is the best way to support Krita development, because our sponsored developers get their sponsorship every month.
-
-### Subscribe to the Krita Development Fund:
-
-A subscription is the best way to support Krita development, because our sponsored developers get their sponsorship every month.
-
- 
-
-<table><tbody><tr><td><input name="on0" type="hidden" value="Krita Development Funding">Krita Development Funding</td></tr><tr><td><select name="os0"><option value="Bronze">Bronze : €5,00 EUR - maandelijks</option> <option value="Sliver">Sliver : €10,00 EUR - maandelijks</option> <option value="Electrum">Electrum : €25,00 EUR - maandelijks</option> <option value="Gold">Gold : €50,00 EUR - maandelijks</option> <option value="Platinum">Platinum : €100,00 EUR - maandelijks</option> <option value="Diamond">Diamond : €250,00 EUR - maandelijks</option></select></td></tr></tbody></table>
-
-  ![](../images/pixel.gif)
-
-### One-time donation
-
-   ![](../images/pixel.gif)
-
-### Flattr Us
-
-[![Flattr this](../images/flattr-badge-large.png "Flattr this")](http://flattr.com/thing/1055815/The-Krita-Foundation)
-
-* * *
-
-"Krita" is a trademark of the Stichting Krita Foundation.
+**Bank Account** IBAN: NL72INGB0007216397 BIC: INGBNL2A
