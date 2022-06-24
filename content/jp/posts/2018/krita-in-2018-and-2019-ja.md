@@ -9,7 +9,7 @@ categories:
 
 私たちは **[Krita 4.0](https://krita.org/jp/item/krita-4-0-0-released-jp/)**をリリースしました。Pythonスクリプティング機能に、新しい、ただ悲しいことにまだ力不足なテキストツールに、ベクターグラフィックのODGからSVGへの切り替えに加えて様々な新機能が追加されました
 
-https://youtu.be/a-CY4hmkg\_I
+{{< youtube a-CY4hmkg_I >}}
 
 そして、 [4.0.1](https://krita.org/jp/item/krita-4-0-1-released-jp/)、[4.0.2](https://krita.org/jp/item/krita-4-0-2-released-jp/)、[4.0.3](https://krita.org/jp/item/krita-4-0-3-released-jp/)、[4.0.4](https://krita.org/jp/item/krita-4-0-4-released-jp/)、 [4.1.0](https://krita.org/jp/item/krita-4-1-0-released-jp/) ([新しい参照画像ツール、セッション管理など](https://krita.org/jp/krita-4-1-release-notes-jp/))、[4.1.1](https://krita.org/jp/item/krita-4-1-1-released-jp/)、[4.1.3](https://krita.org/jp/item/krita-4-1-3-released-jp/)、[4.1.5](https://krita.org/jp/item/krita-4-1-5-released-jp/)そして[4.1.7](https://krita.org/jp/item/krita-4-1-7-released-jp/)をリリースしました。つまり、1年に10リリースをしました。大体毎月のリリースというゴールに近づいています。チームはこの状態に満足しているか？というと…そうでもないのです…Google Summer of Codeの学生の成果をすべて含んだ4.2.0を今年中にリリースしたいと思っていました。残念ながら、まだ必須な一部分が未完成で、大きな画像で不安定になっています。その一方で、Gitのマスターブランチには新しいコードがたまってきています。何が入っているのか忘れる危険があるので[リリースノートの準備をはじめました](https://krita.org/jp/krita-4-2-release-notes-jp/)！
 

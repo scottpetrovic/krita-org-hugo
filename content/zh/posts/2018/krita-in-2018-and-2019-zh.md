@@ -9,7 +9,7 @@ categories:
 
 我们发布了 **[Krita 4.0](https://krita.org/en/item/krita-4-0-0-released/)**，它包含了 Python 脚本支持，一个重新编写但尚未羽翼丰满的文字工具，矢量图像从 ODG 格式切换到了 SVG 格式，以及许多其他的新功能与改进。
 
-https://youtu.be/a-CY4hmkg\_I
+{{< youtube a-CY4hmkg_I >}}
 
 在那之后，我们陆续发布了版本 [4.0.1](https://krita.org/en/item/krita-4-0-1-released/)、[4.0.2](https://krita.org/en/item/krita-4-0-2-released/)、[4.0.3](https://krita.org/en/item/krita-4-0-3-released/)、[4.0.4](https://krita.org/en/item/krita-4-0-4-released/)、[4.1.0](https://krita.org/en/item/krita-4-1-0-released/)（此版包含全新的[参考图像工具、会话管理功能等新功能](https://krita.org/en/krita-4-1-release-notes/)）、[4.1.1](https://krita.org/en/item/krita-4-1-1-released/)、[4.1.3](https://krita.org/en/item/krita-4-1.3-released/)、[4.1.5](https://krita.org/en/item/krita-4-1.5-released/) 和 [4.1.7](https://krita.org/en/item/krita-4-1.5-released/)。全部加起来我们今年一共发布了 10 次新版软件，颇为接近我们每月发布一个新版本的目标。然而我们并不对这个成绩感到非常满意。我们原本打算在今年年内发布 4.2.0 版，把我们 Google Summer of Code 学生们的贡献全部包含进来。遗憾的是其中一个重要的部分依然没有完工，它会影响程序处理大型图像时的稳定性。与此同时，新代码也在源源不断地进入 Git 的主开发分支，为了不忘记这些变化，我们已经[开始着手准备新版的更新日志](https://krita.org/en/krita-4-2-release-notes/)了。
 

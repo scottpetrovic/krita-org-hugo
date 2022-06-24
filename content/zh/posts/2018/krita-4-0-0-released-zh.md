@@ -8,7 +8,7 @@ categories:
 
 Krita 开发小组在今天发布了 Krita 4.0.0 版。这是一个重大版本，包含了多个全新的重要功能和大量其他改进：增强的矢量图形工具、SVG 支持、重写的文本工具、Python 脚本编程扩展以及更多！
 
-https://youtu.be/a-CY4hmkg\_I
+{{< youtube a-CY4hmkg_I >}}
 
 Krita 4.0 的全新启动画面由谭代山 (Tyson Tan/钛山)绘制，主题是我们的吉祥物 Kiki、冬雪和梅花。Krita 4.0 原定于去年发布，[然而接二连三的意外情况](https://krita.org/en/item/krita-foundation-update/)严重拖慢了项目的开发工作。但是正如在凛冽的寒风中傲然盛开的梅花一样，Krita 项目挺过来了，今天它的 4.0 版本也终于与世人见面了！
 

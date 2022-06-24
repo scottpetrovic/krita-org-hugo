@@ -8,7 +8,8 @@ categories:
 
 今日Krita 4.0をリリースしました!これは大きな新機能と機能改善を含む大きなリリースです。ベクターツールの改良、SVGサポート、新しいテキストツール、Pythonスクリプト機能に、それ以外にも本当に様々な追加と改良がされています!
 
-https://youtu.be/a-CY4hmkg\_I
+{{< youtube a-CY4hmkg_I >}}
+
 
 Tyson TanによるKrita4.0の新しいスプラッシュスクリーンは、Kikiと梅の開花を描いたものです。Krita 4を昨年中にリリースしたいと思っていましたが、[試練と苦難](https://krita.org/en/item/krita-foundation-update/)に見舞われて、大幅に遅れてしまいました。ですが、一番寒いときに花を咲かせる梅のように、 私たちは苦難を乗り越え、Krita 4はようやくリリース準備ができました!
 

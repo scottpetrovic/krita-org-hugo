@@ -7,7 +7,7 @@ categories:
 
 Hoy se lanza la version 4 de Krita, ésta contiene bastantes cambios importantes, por lo que se recomienda leer la información general del lanzamiento, la cual contiene todos los detalles. A continuación se puede apreciar parte de estos cambios en acción.
 
-https://youtu.be/a-CY4hmkg\_I
+{{< youtube a-CY4hmkg_I >}}
 
 La nueva imagen de presentación de Krita 4.0 creada por Tyson Tan, muestra a Kiki entre las flores del árbol de ciruela chino, esta versión estaba en planes de lanzamiento desde el año pasado, pero dado los conflictos fiscales se tubo que retrasar bastante, sin embargo Krita, al igual que el ciruelo chino, presenta las mejores flores solo después de un intenso invierno.
 
