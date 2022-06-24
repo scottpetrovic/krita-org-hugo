@@ -25,7 +25,7 @@ coverImage: "2015-06-26_screenshot_002.png"
 
 大きな新機能の最後は、ツールオプションをツールバーに入れるできるようになった、というものです。
 
-[![tool options in the toobar](/images/posts/2015/2015-06-26_screenshot_002.png)](https://krita.org/wp-content/uploads/2015/07/2015-06-26_screenshot_002.png)
+[![tool options in the toobar](/images/posts/2015/2015-06-26_screenshot_002.png)](/images/posts/2015/2015-06-26_screenshot_002.png)
 
 デフォルトではツールオプションはドッキングパネルのままですが、設定>Kritaを設定>全般から設定を変更することができます。このメニューを「\\」キーで呼び出すこともできます！
 

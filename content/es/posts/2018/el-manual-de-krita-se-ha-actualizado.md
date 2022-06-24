@@ -5,7 +5,7 @@ categories:
   - "uncategorized-es"
 ---
 
-[![Kiki, the Krita mascot, is on the foreground, leaning on a book with the title "Krita" and the Krita logo. In her right hand, she's holding up a stylus, and she's facing the audience with a big grin. On the background a giant sphinx is sitting, hunched over to look at Kiki.](/images/posts/2018/krita_sphinx_conversion.png)](https://krita.org/wp-content/uploads/2018/05/krita_sphinx_conversion.png)
+[![Kiki, the Krita mascot, is on the foreground, leaning on a book with the title "Krita" and the Krita logo. In her right hand, she's holding up a stylus, and she's facing the audience with a big grin. On the background a giant sphinx is sitting, hunched over to look at Kiki.](/images/posts/2018/krita_sphinx_conversion.png)](/images/posts/2018/krita_sphinx_conversion.png)
 
 Durante los últimos dos meses, hemos estado bastante ocupados con nuestro [manual](https://docs.krita.org), mismo del que siempre nos hemos sentido orgullosos ya que está detallado, contiene información extra sobre arte digital mas allá de Krita, bastante extenso y al día. El manual fue hecho en el sitio de Mediawiki, en el estilo "wiki" es fácil de actualizar y corregir, sin embargo resulto  ser un problema al tratar de traducirlo o cuando se quiere el de formar una versión PDF ó Epub para leerse sin Internet.
 

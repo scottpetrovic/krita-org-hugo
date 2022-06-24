@@ -6,7 +6,7 @@ categories:
 coverImage: "duelling-with-a-demon-800px.png"
 ---
 
-[![duelling with a demon 800px](/images/posts/2015/duelling-with-a-demon-800px.png)](https://krita.org/wp-content/uploads/2015/05/duelling-with-a-demon-800px.png)
+[![duelling with a demon 800px](/images/posts/2015/duelling-with-a-demon-800px.png)](/images/posts/2015/duelling-with-a-demon-800px.png)
 
 ### Could you tell us something about yourself?
 

@@ -6,7 +6,7 @@ categories:
 coverImage: "frog-rider800.png"
 ---
 
-[![frog-rider800](/images/posts/2015/frog-rider800.png)](https://krita.org/wp-content/uploads/2015/05/frog-rider.png)
+[![frog-rider800](/images/posts/2015/frog-rider800.png)](/images/posts/2015/frog-rider.png)
 
 ### Could you tell us something about yourself?
 

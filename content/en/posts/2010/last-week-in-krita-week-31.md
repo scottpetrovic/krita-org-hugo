@@ -29,7 +29,7 @@ On that note, I am pleased to announce that there will be a Krita Bug Day (or ra
 
 Most of Adam's work has gone into the minimal shade selector, adding shortcuts and polishing. Adam also fixed display issues with the canvas rulers that occurred when a selection was active.  
 
-![](https://krita.org/wp-content/uploads/2010/08/colorsel_ng.png)  
+![](/images/posts/2010/colorsel_ng.png)  
 
 **Boudewijn Rempt** finally had most of a Saturday to himself. He first enabled a preview of the integrated brush designer, a one-stop place for selecting the brush engine, configuring the settings for a preset and a preset. Some people like it, but there are still issues with spit and polish there. Also, Boudewijn fixed a memory leak.
 

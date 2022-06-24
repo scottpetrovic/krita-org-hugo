@@ -37,4 +37,4 @@ Windows Shell Extension package by Alvin Wong. Just install it and Windows Explo
 
 Let's finish up with [cute Kiki!](https://twitter.com/ramskullsart/status/730023741711777792/photo/1)
 
-[![kiki](/images/posts/2016/kiki-782x1024.jpg)](https://krita.org/wp-content/uploads/2016/05/kiki.jpg)
+[![kiki](/images/posts/2016/kiki-782x1024.jpg)](/images/posts/2016/kiki.jpg)

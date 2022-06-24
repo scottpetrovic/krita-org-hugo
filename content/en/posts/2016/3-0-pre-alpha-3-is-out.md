@@ -30,7 +30,7 @@ We removed the Grid Tool... And created a new grid docker that exposes all the g
 
  
 
-[![gridsguidessnapping](/images/posts/2016/gridsguidessnapping-1024x569.png)](https://krita.org/wp-content/uploads/2016/03/gridsguidessnapping.png) ... To be replaced by the Snap Settings pop-up(on shift+S)!
+[![gridsguidessnapping](/images/posts/2016/gridsguidessnapping-1024x569.png)](/images/posts/2016/gridsguidessnapping.png) ... To be replaced by the Snap Settings pop-up(on shift+S)!
 
 ### Snapping
 
@@ -51,7 +51,7 @@ Turn your greyscale artwork into color with a gradient map filter.  This wasn't
 
 ### The "Greater" Blending Mode
 
-[![greaterblendmode](/images/posts/2016/greaterblendmode.gif)](https://krita.org/wp-content/uploads/2016/03/greaterblendmode.gif) Nicolas Guttenberg implemented the "Greater" blending mode to make it easier to create semi-transparent strokes.
+[![greaterblendmode](/images/posts/2016/greaterblendmode.gif)](/images/posts/2016/greaterblendmode.gif) Nicolas Guttenberg implemented the "Greater" blending mode to make it easier to create semi-transparent strokes.
 
 ### Move Tool
 
@@ -61,7 +61,7 @@ There are still known bugs in the move tool, but it also got a really nice addit
 
 The Crop tool, Assistant editing tool and the Straight line tool got an improved user interface, and the Straight line tool's on-canvas preview has been improved as well.
 
-[![Screenshot from 2016-03-12 18-15-58](/images/posts/2016/Screenshot-from-2016-03-12-18-15-58-1024x691.png)](https://krita.org/wp-content/uploads/2016/03/Screenshot-from-2016-03-12-18-15-58.png)
+[![Screenshot from 2016-03-12 18-15-58](/images/posts/2016/Screenshot-from-2016-03-12-18-15-58-1024x691.png)](/images/posts/2016/Screenshot-from-2016-03-12-18-15-58.png)
 
 ### More...
 

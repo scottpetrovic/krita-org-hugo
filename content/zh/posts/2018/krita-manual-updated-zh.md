@@ -5,7 +5,7 @@ categories:
   - "news-zh"
 ---
 
-[![Kiki, the Krita mascot, is on the foreground, leaning on a book with the title "Krita" and the Krita logo. In her right hand, she's holding up a stylus, and she's facing the audience with a big grin. On the background a giant sphinx is sitting, hunched over to look at Kiki.](/images/posts/2018/krita_sphinx_conversion.png)](https://krita.org/wp-content/uploads/2018/05/krita_sphinx_conversion.png)
+[![Kiki, the Krita mascot, is on the foreground, leaning on a book with the title "Krita" and the Krita logo. In her right hand, she's holding up a stylus, and she's facing the audience with a big grin. On the background a giant sphinx is sitting, hunched over to look at Kiki.](/images/posts/2018/krita_sphinx_conversion.png)](/images/posts/2018/krita_sphinx_conversion.png)
 
 在过去的一两个月里，我们一直在准备 [Krita 的新版使用手册](https://docs.krita.org)。Krita 的使用手册一直是我们项目的骄傲：它不但详尽地说明了 Krita 的使用方法，还深入地介绍了数字绘画领域的大量知识。旧版的使用手册是通过 Mediawiki 实现的。Mediawiki 虽然在创建和编辑页面时相当好用，但在它上面进行翻译或者生成 PDF、epub 格式的离线版本却并非易事。
 

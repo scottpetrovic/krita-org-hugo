@@ -26,7 +26,7 @@ Kritaはコンセプトアーティスト、イラストレーター、マッテ
 
  オリジナルの著者はKritaについて深く理解しているKritaの開発チームの一人です。訳者もKrita.orgの日本語サイトの管理者の一人で、Kritaに関係しています。
 
-[目次と最初の2章を含むサンプルダウンロードはこちらです](https://krita.org/wp-content/uploads/2016/06/Krita-2.9-Perfect-Master-sample.pdf)！
+[目次と最初の2章を含むサンプルダウンロードはこちらです](/images/posts/2016/Krita-2.9-Perfect-Master-sample.pdf)！
 
 Kritaの機能を学んで使いこなしていきたい人にぴったりの資料です！Kritaを使い始めたばかりで使い方がわからない人にとっても役立つ内容です。
 

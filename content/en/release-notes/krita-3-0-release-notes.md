@@ -9,7 +9,7 @@ And of course, rewriting the core rendering system, for what you have all been w
 
 ### True Blue 2d Frame-By-Frame Animation
 
-[![Kiki_Krita_86](/images/pages/Kiki_Krita_86.gif)](https://krita.org/wp-content/uploads/2016/01/Kiki_Krita_86.gif)
+[![Kiki_Krita_86](/images/pages/Kiki_Krita_86.gif)](/images/posts/2016/Kiki_Krita_86.gif)
 
 Image by [Achille](https://twitter.com/_achille_)
 
@@ -55,7 +55,7 @@ We spent a long time discussing the most important parts to managing layers and 
 
 ### Shortcut Improvements!
 
-[![rygb_hotkeys](/images/pages/rygb_hotkeys.gif)](https://krita.org/wp-content/uploads/2016/02/rygb_hotkeys.gif)
+[![rygb_hotkeys](/images/pages/rygb_hotkeys.gif)](/images/posts/2016/rygb_hotkeys.gif)
 
 - **Switch Shortcut Layout** - If you are familiar with Photoshop or Paint Tool SAI's shortcuts, you can switch the shortcut system. Accessed from the Settings → Configure Shortcuts.
 - **Saving and loading shortcut schemes** - Share you shortcuts with friends and collegues!
@@ -66,7 +66,7 @@ We spent a long time discussing the most important parts to managing layers and 
 
 ### Grids, Guides and Snapping:
 
-[![gridsguidessnapping](/images/pages/gridsguidessnapping.png)](https://krita.org/wp-content/uploads/2016/03/gridsguidessnapping.png)
+[![gridsguidessnapping](/images/pages/gridsguidessnapping.png)](/images/posts/2016/gridsguidessnapping.png)
 
 ![](/images/pages/kickstarter-logo.png)
 
@@ -78,7 +78,7 @@ We spent a long time discussing the most important parts to managing layers and 
 
 ### User Interface
 
-[![krita-new-popuppalette](/images/pages/krita-new-popuppalette.png)](https://krita.org/wp-content/uploads/2016/02/krita-new-popuppalette.png)
+[![krita-new-popuppalette](/images/pages/krita-new-popuppalette.png)](/images/posts/2016/krita-new-popuppalette.png)
 
 - **Improved popup palette** - for easier reading of the preset-icons
 - **Compacter New Document Screen** - The new document menu has been modified to fit on tiny laptop screens.
@@ -88,7 +88,7 @@ We spent a long time discussing the most important parts to managing layers and 
 
 ### Filters
 
-[![gradientmapfilter](/images/pages/gradientmapfilter.png)](https://krita.org/wp-content/uploads/2016/03/gradientmapfilter.png)
+[![gradientmapfilter](/images/pages/gradientmapfilter.png)](/images/posts/2016/gradientmapfilter.png)
 
 - **Gradient map filter** - It wasn't planned, but Spencer Brown surprised us all and added it! It is still in progress, so temporarily disabled for the filterlayers.
 - **More Models for the HSV adjustment filter** - HSV adjustment now supports HSI, HSY and YCrCb for the model
@@ -96,7 +96,7 @@ We spent a long time discussing the most important parts to managing layers and 
 
 ### Other changes
 
-[![greaterblendmode](/images/pages/greaterblendmode.gif)](https://krita.org/wp-content/uploads/2016/03/greaterblendmode.gif)
+[![greaterblendmode](/images/pages/greaterblendmode.gif)](/images/posts/2016/greaterblendmode.gif)
 
 - **Added "Greater" blending mode** - change the way you paint on transparent layers (example shown to the side)! Made by Nicolas Guttenberg's dedicated tinkering!
 - **GBR and GIH import/export** - Gimp's brush format can now be saved and opened directly by Krita. You don't have to rely on the make-brush menu in the predefined brush-tab.
@@ -110,13 +110,13 @@ We spent a long time discussing the most important parts to managing layers and 
 
 ### Improved Learning and Education
 
-[![live-search](/images/pages/live-search.gif)](https://krita.org/wp-content/uploads/2016/02/live-search.gif)
+[![live-search](/images/pages/live-search.gif)](/images/posts/2016/live-search.gif)
 
 **New manual website!** - Pressing F1 now takes you to the new learning area on [Krita.org](https://docs.krita.org/Main_Page). This has more information and should be a better resource for answering your issues. It includes a type-ahead search as well as a static navigation on the left.
 
 ### Technology Upgrade
 
-[![848px-Mascot_20140702_konqui-framework](/images/pages/848px-Mascot_20140702_konqui-framework-1.png)](https://krita.org/wp-content/uploads/2016/05/848px-Mascot_20140702_konqui-framework-1.png) Konqui, the KDE mascot by Tyson Tan
+[![848px-Mascot_20140702_konqui-framework](/images/pages/848px-Mascot_20140702_konqui-framework-1.png)](/images/posts/2016/848px-Mascot_20140702_konqui-framework-1.png) Konqui, the KDE mascot by Tyson Tan
 
 For 3.0, we had the QT5 and KF5 port, but that is not the only thing we changed:
 
@@ -160,7 +160,7 @@ The Kickstarter campaign has helped tremendously with adding some of these featu
 
 Little Red Riding Hood - [Rakugaki300](http://rakugaki300page.jimdo.com/)
 
-[![hoellentat_800](/images/pages/hoellentat_800.jpg)](https://krita.org/wp-content/uploads/2016/01/hoellentat_800.jpg)
+[![hoellentat_800](/images/pages/hoellentat_800.jpg)](/images/posts/2016/hoellentat_800.jpg)
 
 Beelzy
 
@@ -172,26 +172,26 @@ Walk - [Rakugaki300](http://rakugaki300page.jimdo.com/)
 
 魔女の書斎 (Studying Witch) - [Mizukeiii](https://twitter.com/mizukeiiii)
 
-[![lyingingarden](/images/pages/lyingingarden.png)](https://krita.org/wp-content/uploads/2016/05/lyingingarden.png)
+[![lyingingarden](/images/pages/lyingingarden.png)](/images/posts/2016/lyingingarden.png)
 
 Wolthera
 
-[![gfx_Pepper-and-Carrot_by-David-Revoy_E16P02](/images/pages/gfx_Pepper-and-Carrot_by-David-Revoy_E16P02.jpg)](https://krita.org/wp-content/uploads/2016/05/gfx_Pepper-and-Carrot_by-David-Revoy_E16P02.jpg)[Pepper and Carrot by David Revoy](http://www.peppercarrot.com/en/article369/episode-16-the-sage-of-the-mountain)
+[![gfx_Pepper-and-Carrot_by-David-Revoy_E16P02](/images/pages/gfx_Pepper-and-Carrot_by-David-Revoy_E16P02.jpg)](/images/posts/2016/gfx_Pepper-and-Carrot_by-David-Revoy_E16P02.jpg)[Pepper and Carrot by David Revoy](http://www.peppercarrot.com/en/article369/episode-16-the-sage-of-the-mountain)
 
 Animations:
 
-[![undyne_krita_animation_01](/images/pages/undyne_krita_animation_01.gif)](https://krita.org/wp-content/uploads/2016/05/undyne_krita_animation_01.gif)
+[![undyne_krita_animation_01](/images/pages/undyne_krita_animation_01.gif)](/images/posts/2016/undyne_krita_animation_01.gif)
 
 [Undyne](http://gullshriek.tumblr.com/)
 
-[![undyne_krita_animation_02](/images/pages/undyne_krita_animation_02.gif)](https://krita.org/wp-content/uploads/2016/05/undyne_krita_animation_02.gif)
+[![undyne_krita_animation_02](/images/pages/undyne_krita_animation_02.gif)](/images/posts/2016/undyne_krita_animation_02.gif)
 
 [Undyne](http://gullshriek.tumblr.com/)
 
-[![animation by temmie chang](/images/pages/temmiechang_krita_01.gif)](https://krita.org/wp-content/uploads/2016/05/temmiechang_krita_01.gif)
+[![animation by temmie chang](/images/pages/temmiechang_krita_01.gif)](/images/posts/2016/temmiechang_krita_01.gif)
 
 [@tuyoki (twitter)]( https://twitter.com/tuyoki/status/681037508201844736)
 
-[![temmiechang_krita_02](/images/pages/temmiechang_krita_02.gif)](https://krita.org/wp-content/uploads/2016/05/temmiechang_krita_02.gif)
+[![temmiechang_krita_02](/images/pages/temmiechang_krita_02.gif)](/images/posts/2016/temmiechang_krita_02.gif)
 
 [@tuyoki (twitter)](https://twitter.com/tuyoki/status/676280424604311552)

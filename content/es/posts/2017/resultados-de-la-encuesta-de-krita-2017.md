@@ -9,7 +9,7 @@ Estos son los resultados de la ultima encuesta sobre el uso de Krita, varios asp
 
 - - Cerca del 55% de los participantes usan Windows, alrededor del 40% usan Linux, y un 10% uss MacOS. Un 75% visita la pagina oficial.
 
-[![](/images/posts/2017/os.png)](https://krita.org/wp-content/uploads/2017/04/os.png)
+[![](/images/posts/2017/os.png)](/images/posts/2017/os.png)
 
 - - Casi la mitad de los participantes usa la targeta de video NVidia, menos del 25% usan AMD: y el resto Intel.
     - La cantidad mas común de RAM es 8GB.
@@ -18,7 +18,7 @@ Estos son los resultados de la ultima encuesta sobre el uso de Krita, varios asp
     - Los tamaños mas comunes de las imágenes creadas en Krita son los de 1920x1080, seguido por A4 y 2480x3508, con 300 DPI.
     - Uno de los comentarios mas comunes es el que se desea que Krita funcione mas rápido, lo cual es difícil de acertar dado que la experiencia y los componentes que cada persona usa, son variados.
 
-[![](/images/posts/2017/gripes.png)](https://krita.org/wp-content/uploads/2017/04/gripes.png)
+[![](/images/posts/2017/gripes.png)](/images/posts/2017/gripes.png)
 
 (en la gráfica comenzando desde arriba: Errores de código, lentitud, configuración, perdida de información, falta de funciones, la herramienta de texto, audio, otro.
 

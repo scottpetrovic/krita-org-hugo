@@ -15,7 +15,7 @@ Dive into [the release notes](/krita-4-2-release-notes/) for a full overview!
 
 And there's also the lovely new splash image by Tyson Tan!
 
-[![](/images/posts/2019/electrichearts_20190316_kiki_a_sm-2.png)](https://krita.org/wp-content/uploads/2019/05/electrichearts_20190316_kiki_a_sm-2.png)
+[![](/images/posts/2019/electrichearts_20190316_kiki_a_sm-2.png)](/images/posts/2019/electrichearts_20190316_kiki_a_sm-2.png)
 
 ## Join the Community and Help Your Fellow Artists
 

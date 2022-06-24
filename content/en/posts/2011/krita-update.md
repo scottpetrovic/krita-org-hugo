@@ -13,7 +13,7 @@ There's one lovely design by Animtim already, featuring a squirrel. During GCI, 
 
 New Krita user Rachepatty showed [this strong self portrait in the forum gallery](http://forum.kde.org/viewtopic.php?f=138&t=92885):
 
-![](https://krita.org/wp-content/uploads/2011/02/kritaselfportrait1s.jpg)  
+![](/images/posts/2011/kritaselfportrait1s.jpg)  
 
 ### LGM
 
@@ -23,7 +23,7 @@ KDE e.V. has accepted the proposal to send Lukáš, me and Animtim to [LGM](http
 
 Not content with fixing bugs, for instance in the experimental paintop and the mirroring feature beloved by Animtim, Deevad and other artists, **Lukáš** (who is now also working profesionally on Calligra for Ixonos) has been having a lot of fun exerimenting with mirroring, in his multihand branch. For now, there is hardcoded symetry mode with the axis point in center with six brushes. Lots of fun to be had!
 
-![](https://krita.org/wp-content/uploads/2011/02/krita_symmetry.jpg)  
+![](/images/posts/2011/krita_symmetry.jpg)  
 
 **Cyrille Berger** has started work on making it possible to have multiple inputs for every brush preset parameter -- like having both "pressure" and "random" (still called fuzzy, I think) influence the size or opacity of your brush footprint. He improved recording, in repsonse to queries by a user on the forum and made it possible to use gradients or patterns as a color source for painting. Krita 2.3 already feels old now...
 
@@ -33,11 +33,11 @@ Not content with fixing bugs, for instance in the experimental paintop and the m
 
 before...  
 
-![](https://krita.org/wp-content/uploads/2011/02/composite_modes_before.jpg)
+![](/images/posts/2011/composite_modes_before.jpg)
 
 and after...
 
-![](https://krita.org/wp-content/uploads/2011/02/composite_modes_after.jpg)  
+![](/images/posts/2011/composite_modes_after.jpg)  
 
 (his own artwork, by the way!)  
 

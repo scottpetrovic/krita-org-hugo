@@ -7,7 +7,7 @@ categories:
 
 Krita 4.2.0の今月リリースに向けて引き続き予定通り進行しています！ [アルファ](https://krita.org/jp/item/krita-4-2-0-alpha-released-jp/)から30以上の問題を修正しました。またTyson Tanによる新しいスプラッシュスクリーンが追加され、Linux AppImageでのPythonサポートが修復されました。Linux AppImageにはサウンドサポートがなく、macOSビルドはG'Micをサポートしません。
 
-[![](/images/posts/2019/electrichearts_20190316_kiki_a_sm-1.png)](https://krita.org/wp-content/uploads/2019/05/electrichearts_20190316_kiki_a_sm-1.png)
+[![](/images/posts/2019/electrichearts_20190316_kiki_a_sm-1.png)](/images/posts/2019/electrichearts_20190316_kiki_a_sm-1.png)
 
 **注意**: Linuxユーザーはディストリビューションパッケージに気を付けてください。私たちは [Qt向けのパッチをまとめています](https://phabricator.kde.org/T10838)パッチが新しいバージョンのQtにマージされるまで、これらをディストリビューションがホストすることが重要です。
 

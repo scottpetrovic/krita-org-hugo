@@ -7,4 +7,4 @@ Ramon Miranda was preset at virtual Fosdem 2021 in the KDE booth to demonstrate 
 
 {{< youtube EY6qc_59OI0 >}}
 
-[![](/images/posts/2021/promo-Fosdem-Krita-2021-1024px-1024x1024.jpg)](https://krita.org/wp-content/uploads/2021/03/promo-Fosdem-Krita-2021-1024px.jpg)
+[![](/images/posts/2021/promo-Fosdem-Krita-2021-1024px-1024x1024.jpg)](/images/posts/2021/promo-Fosdem-Krita-2021-1024px.jpg)

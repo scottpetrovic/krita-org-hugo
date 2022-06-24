@@ -21,7 +21,7 @@ HDRはHigh Dynamic Rangeの略です。
 
 これは明るさだけの話ではありません。大部分のモニタは [sRGB](https://en.wikipedia.org/wiki/SRGB)の色域を表示するように作られています。これは制限されたもので、緑が欠けています。（プロ用モニタではより広い色域のものもあります）HDRモニタははるかに広い色域を使用します。[Rec. 2020](https://en.wikipedia.org/wiki/Rec._2020)色空間です。そして従来の指数的ガンマコレクションの代わりに、 [Perceptual Quantizer (PQ)](https://en.wikipedia.org/wiki/High-dynamic-range_video#Perceptual_Quantizer)を使用しています。ダイナミックレンジを太陽のような明るい値まで拡張するだけではなく、通常のsRGBでは不可能なようなとても暗いエリアをエンコードすることも可能にします。
 
-[![](/images/posts/2019/image3.png)](https://krita.org/wp-content/uploads/2019/03/image3.png)
+[![](/images/posts/2019/image3.png)](/images/posts/2019/image3.png)
 
 そして、多くのラップトップパネルは各チャンネルで6bitのみをサポートし、多くのモニタは8bitでグラフィックプロ向けモニタは10bitですが、HDRモニタはチャンネルごとに10から16bitをサポートします。つまり、グラデーションが向上します。
 
@@ -45,11 +45,11 @@ HDR互換モニタ、DisplayPort 1.4かHDMI 2.0**a** (この'a'が重要です)�
 
 [Windows設定ユーティリティでHDRモードの表示を手動で切り替えます](https://support.microsoft.com/en-us/help/4040263/windows-10-hdr-advanced-color-settings)。そうするとWindowsはディスプレイにp2020-pqモードで通信するようになります。すべての表示がおかしくなってびっくりしないようにしてください。デフォルトのSDRブライトネスレベルを選択する必要があります。
 
-[![](/images/posts/2019/hdr_settings.png)](https://krita.org/wp-content/uploads/2019/03/hdr_settings.png)
+[![](/images/posts/2019/hdr_settings.png)](/images/posts/2019/hdr_settings.png)
 
 KritaでもHDRサポートの設定が必要です。 _Settings（設定） → Configure Krita（Kritaの設定を変更） → Display（表示）_ でモニタを設定します。またHDRに対応した**small color selector**を_Settings（設定） → Dockers（ドッキングパネル）_メニューから有効にしたいと思うでしょう。
 
-[![](/images/posts/2019/hdr_krita_settings.png)](https://krita.org/wp-content/uploads/2019/03/hdr_krita_settings.png)
+[![](/images/posts/2019/hdr_krita_settings.png)](/images/posts/2019/hdr_krita_settings.png)
 
 正しいHDR画像を作るには、rec 2020の色域でリニアのトーン反応のキャンバスを作成する必要があります: ここで選択するカラープロファイルは"Rec2020-elle-V4-g10.icc" です。HDR画像は標準としてRec2020色域と、PQ trcを使用します。ただ、リニアTRCの方が画像編集には便利なので、画像編集後に最後にPQに変換します。
 

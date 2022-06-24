@@ -11,7 +11,7 @@ Dados los problemas se tuvo que remover las ventas y cualquier trabajo considera
 
 Definitivamente no hubiéramos logrado sobrevivir como proyecto si no fuese por la generosidad de dos individuos que sustentaron el trabajo de Dmitry y Boudewijn durante unos meses, aportación que tampoco aparece en éste reporte, ya que fue a manera personal y no mediante la Fundación de Krita. Finalmente, Boudewijn, después de haberse agotado totalmente con el negocio de consulta durante el 2016 ya no pudo seguir haciendo trabajos extra, por lo que por el resto del 2017, uso sus ahorros, mismos al igual no aparecen en el reporte, basta decir que si ponemos todas estas cifras excluidas, el costo del desarrollo seria prácticamente el doble.
 
-[![](/images/posts/2018/2017_krita_foundation_statement.png)](https://krita.org/wp-content/uploads/2018/05/2017_krita_foundation_statement.png)
+[![](/images/posts/2018/2017_krita_foundation_statement.png)](/images/posts/2018/2017_krita_foundation_statement.png)
 
 Se requirió de prestamos a nombre de Boudewijn, los cuales han sido pagados totalmente en el 2018, cuando el ingreso de la tienda de Windows comenzó a figurar en las cifras. En el 2017 se hizo la producción del Libro de arte de Krita 2016, lo cual junto con los envíos del mismo fue bastante costoso. Aun tenemos bastantes piezas que no se han vendido. La parte declarada como "Donations", es cuando se donó a las personas que hicieron proyectos que aun que no fueron parte de nuestro desarrollo, Krita se benefició directamente de ellos. La parte "volunteers" representa el dinero dado bajo la ley de impuestos Holandesa a las personas que produjeron bastante trabajo voluntario en Krita.
 

@@ -15,7 +15,7 @@ Krita 4.2.0をリリースしました。これは大きなリリースです。
 
 そして新しい素敵なTyson Tanによるスプラッシュ画像も含まれています！
 
-[![](/images/posts/2019/electrichearts_20190316_kiki_a_sm-2.png)](https://krita.org/wp-content/uploads/2019/05/electrichearts_20190316_kiki_a_sm-2.png)
+[![](/images/posts/2019/electrichearts_20190316_kiki_a_sm-2.png)](/images/posts/2019/electrichearts_20190316_kiki_a_sm-2.png)
 
 ## コミュニティに参加してアーティスト仲間を助けましょう
 

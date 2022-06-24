@@ -11,7 +11,7 @@ The book includes a lot of illustrations and examples to help explain concepts. 
 
 Scott has been involved in the Krita community for a long time. He maintains this very website. Apart from that, and writing this book, he finds time to do development. Scott plays a role in the user interaction design with things like the new animation system and the layers docker coming in Krita 3.1. Read on for a short interview!
 
-[Check out the table of contents and the first two chapters](https://krita.org/wp-content/uploads/2015/10/Digital-Painting-with-krita-2.9-chapters1-2.pdf).
+[Check out the table of contents and the first two chapters](/images/posts/2015/Digital-Painting-with-krita-2.9-chapters1-2.pdf).
 
 You can get your copy from most retailers such as **Amazon** and **Barnes & Noble**. A [full list of locations](https://www.ingramspark.com/Portal/online_retail_partners) can be seen here. The Amazon ebook is DRM-Free.
 

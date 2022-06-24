@@ -11,7 +11,7 @@ Kickstarterキャンペーンが無事に終わりました！ケーキを食べ
 
 素晴らしいラストスパートのおかげて、最終的に9個のストレッチゴールを達成することができました！Kritaを応援してくださってありがとうございます！
 
-[![](/images/posts/2015/yippee.png)](https://jp.krita.org/wp-content/uploads/2015/06/yippee.png)
+[![](/images/posts/2015/yippee.png)](/images/posts/2015/yippee.png)
 
 (これがKritaメンテナーBoudewijnの開発環境です。Kikiが大好きなのでモニターにもCintiqにも表示しています。)
 

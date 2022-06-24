@@ -5,7 +5,7 @@ date: "2010-09-15"
 
 After more than half a year of really hard work, the Krita team is proud to announce the first beta release of Krita 2.3, codenamed [Benka](http://www.suite101.com/content/martin-benka-slovak-painter-and-illustrator-a97551).
 
-![](https://krita.org/wp-content/uploads/2010/09/benka.png)  
+![](/images/posts/2010/benka.png)  
 
 Painting by Martin Benka -- not made in Krita!  
 

@@ -7,7 +7,7 @@ categories:
 
 Dmitry 按：两周前，我们在代芬特尔举办了一场振奋人心的开发冲刺聚会，来自世界各地的 Krita 开发人员齐聚一堂交流协作。Boud 已经为此撰写了[一篇通讯](https://krita.org/en/item/krita-2018-sprint-report-zh)，所以我就不再赘述了。下面我将谈谈我在这次聚会上的主要任务：OSX 数位板问题的修复，以及这个问题的来龙去脉。
 
-[![](/images/posts/2018/krita_jagged_lines_on_osx.png)](https://krita.org/wp-content/uploads/2018/06/krita_jagged_lines_on_osx.png) OSX 会对输入事件进行压缩，造成线条绘制不流畅，禁用 OpenGL 问题消失
+[![](/images/posts/2018/krita_jagged_lines_on_osx.png)](/images/posts/2018/krita_jagged_lines_on_osx.png) OSX 会对输入事件进行压缩，造成线条绘制不流畅，禁用 OpenGL 问题消失
 
 ### 数位板事件压缩
 

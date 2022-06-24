@@ -29,7 +29,7 @@ Adrian Page fixed several compilation issues on Windows that were introduced dur
 
 The work Cyrille and Lukáš have been doing over the past week adding new possiblities to the ordinary pixel brush have borne fruit: now options like "size" or "opactiy" can not only be controlled by the stylus pressure, but also by inputs like tilt or time. As an example of the possiblities this give, look at the painting of some bamboos Enkithan has done, using the "time" input for the "size" and "mix" option:
 
-![](https://krita.org/wp-content/uploads/2009/12/bamboo-brush.png)  
+![](/images/posts/2009/bamboo-brush.png)  
 
 All in all a productive week, with two big new features completed and a lot of useful fixes, optimizations and polish committed. As our web master Kubuntiac said, using 2.1 already feels old if you've tried trunk -- but trunk is still much less stable than 2.1, and bug reports against 2.1 are _very_ welcome. We have contacted Heise about their experiences with Krita -- remember that they declared 2.1 to be "absturzfreudig", and they did answer, but we haven't yet got the details needed to know what was going on, but it might be a 64 bit problem, so I have converted my development system to 64 bit.
 

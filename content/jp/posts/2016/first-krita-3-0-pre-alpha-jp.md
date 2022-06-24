@@ -13,7 +13,7 @@ tags:
 
 この「リリース」には最新版のアニメーション製作機能及びパフォーマンス向上のための高速プレビュー機能、それに加えてKickstarterでの追加目標のいくつかもすでに利用可能となっています。またKritaが動いているコアテクノロジーにも大きなアップグレードがありました。Qt4からQt5への移植です。移植作業の方はあんまり楽しいものではありませんでしたが、これはKritaのコードをこれからも健全に保ってゆくために必要なことなのです！何が来ようと我々には大丈夫です！
 
-[![Kiki_Krita_86](/images/posts/2016/Kiki_Krita_86.gif)](https://krita.org/wp-content/uploads/2016/01/Kiki_Krita_86.gif)
+[![Kiki_Krita_86](/images/posts/2016/Kiki_Krita_86.gif)](/images/posts/2016/Kiki_Krita_86.gif)
 
 Qt5への移植はKritaのタブレット及び表示に関するコードが完全に書き換えられたことを意味しています。これとアニメーション製作、高速プレビューモード機能が重なったことでKritaは非常に不安定になっています。つまり、皆さんにもテスターになってもらって私たちのバグ修正をお手伝いしてもらいたいのです！
 
@@ -21,7 +21,7 @@ Qt5への移植はKritaのタブレット及び表示に関するコードが完
 
 このシステムによって得られた素晴らしいことの一つとして、我々はこれら3つのOS全てに対してポータブル版を提供できるようになったということがあります。我々はLinux向けには[AppImages](http://appimage.org/)、OSX向けにはDMG、Windows 64ビット版にはポータブルZIP版を提供します。申し訳ありませんがWindows 32ビット版へのビルドはまだです…
 
-[![krita3-prealpha](/images/posts/2016/krita3-prealpha-1024x621.png)](https://krita.org/wp-content/uploads/2016/01/krita3-prealpha.png)
+[![krita3-prealpha](/images/posts/2016/krita3-prealpha-1024x621.png)](/images/posts/2016/krita3-prealpha.png)
 
 ### ダウンロード案内
 
@@ -147,6 +147,6 @@ Linuxでの既知の事項：
 
 という形で皆さんからの報告を受けようと思います。そのことを考えれば、当然我々はこのバージョンを実際の制作作業に使用することは推奨しません。現在のところ、Kritaは「猫をも食わん」とする段階にあります…ですが、これでいろいろ遊んでみることが楽しいということは保証します！
 
-[![DanceGirl_SEQ_small](/images/posts/2016/DanceGirl_SEQ_small.gif)](https://krita.org/wp-content/uploads/2016/01/DanceGirl_SEQ_small.gif)
+[![DanceGirl_SEQ_small](/images/posts/2016/DanceGirl_SEQ_small.gif)](/images/posts/2016/DanceGirl_SEQ_small.gif)
 
 （以上二点は[Achille](https://twitter.com/_Achille_)氏によるアニメーションです。ありがとうございます！）

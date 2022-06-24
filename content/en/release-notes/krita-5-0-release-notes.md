@@ -45,7 +45,7 @@ Krita's resource folder used to be hardcoded. Not any more! You can now configur
 
 As well, we now support more resource libraries. We already had our own resource bundle format, but now we also support photoshop layer style libraries and brush libraries. Documents can now also be seen as a place to store resources, and though we only use it for palettes right now, we hope to extend this in the future.
 
-[![Screenshot of the new resource manager.](/images/pages/Manageresources.png)](https://krita.org/wp-content/uploads/2021/07/Manageresources.png)
+[![Screenshot of the new resource manager.](/images/pages/Manageresources.png)](/images/posts/2021/Manageresources.png)
 
 #### New Resource Manager
 
@@ -128,13 +128,13 @@ Like the Timeline Docker, [Krita's Curves Docker](https://docs.krita.org/en/refe
 
 Krita 5 now supports Clone Frames, a much requested feature that allows animators to reuse the exact same key frame at multiple times throughout their animation. Clone frames are great for building looping animations and finding clever other ways to save yourself time while animating. Just remember that editing one clone edits them all!
 
-\[video width="1920" height="1028" webm="https://krita.org/wp-content/uploads/2021/05/krita\_anim-clones-direct.webm"\]\[/video\]
+\[video width="1920" height="1028" webm="/images/posts/2021/krita\_anim-clones-direct.webm"\]\[/video\]
 
 #### Transform Mask Animation ([MR 493](https://invent.kde.org/graphics/krita/-/merge_requests/493))
 
 What good is a shiny Curves Docker without some new things to animate? Along with layer opacity, Krita 5 also brings the ability to animate the position, rotation, scale and shear of any layer through animated Transform Masks. Sometimes referred to as "tweening" in other software, this feature should help with animations that are difficult or inconvenient to do through drawing alone. With animated transform masks, moving a walking figure as shown in the video will be a piece of cake.
 
-\[video width="1920" height="1028" webm="https://krita.org/wp-content/uploads/2021/05/krita\_anim-tform-direct.webm"\]\[/video\]
+\[video width="1920" height="1028" webm="/images/posts/2021/krita\_anim-tform-direct.webm"\]\[/video\]
 
 #### Import Videos as Animations ([MR 778](https://invent.kde.org/graphics/krita/-/merge_requests/778))
 
@@ -192,17 +192,17 @@ Work by artists using Krita:
 
 Thanks to the help of one of our 2020 Google Summer of Code students, **Saurabh "Confifu" Kumar**, Krita now has a Storyboard Docker that can be used to plan the shots and storytelling of complex shorts or films. ([MR 392](https://invent.kde.org/graphics/krita/-/merge_requests/392)). This docker does not just allow you to collect and annotate scenes, but also a wide variety of export options, such as PDF and SVG. There are multiple views you can switch between (screenshot showing the row view).
 
-[![](/images/pages/Storyboard_row_mode.png)](https://krita.org/wp-content/uploads/2020/09/Storyboard_row_mode.png)
+[![](/images/pages/Storyboard_row_mode.png)](/images/posts/2020/Storyboard_row_mode.png)
 
 #### Flexible storyboard export templating
 
 Krita's new storyboard docker has a lot of options for exporting your boards, including the ability to use SVG file data to specify a completely custom layout. This advanced feature means that, with a little work, storyboards that you make in Krita can always be made to fit your project's needs or match existing storyboard paper.
 
-[![Krita default svg storyboard export template](/images/pages/storyboard_export_template-214x300.png)](https://krita.org/wp-content/uploads/2021/11/storyboard_export_template.png)
+[![Krita default svg storyboard export template](/images/pages/storyboard_export_template-214x300.png)](/images/posts/2021/storyboard_export_template.png)
 
 ## User Interface Improvements
 
-[![Krita in the old oxygen style](/images/pages/krita-style-change-1024x533.png)](https://krita.org/wp-content/uploads/2021/08/krita-style-change.png)
+[![Krita in the old oxygen style](/images/pages/krita-style-change-1024x533.png)](/images/posts/2021/krita-style-change.png)
 
 Our icons were last refreshed for 2.9, and over the years a few hiccups had emerged. **Timothée Giet** was hired to give the icon set a good scrubbing, and the UI overall had all sorts of little tweaks done by **Raghavendra Kamath**, **Pedro Reis**, **Scott Petrovic**, **Tom Tom**, **Simon Repp**, **Paul Franz**, **Andrei Rudenko**, **Daniel (Sxnic)**, and **Alvin Wong**.
 
@@ -230,7 +230,7 @@ This was mid-grey to give an unbiased understanding of the color, but it can now
 
 ## New File Formats with AVIF & WebP
 
-[![Image of a sunset](/images/pages/avif_import_cosmos-1024x425.png)](https://krita.org/wp-content/uploads/2021/08/avif_import_cosmos.png)
+[![Image of a sunset](/images/pages/avif_import_cosmos-1024x425.png)](/images/posts/2021/avif_import_cosmos.png)
 
 This avif is a frame from Cosmos Laundromat, encoded in rec 2100 pq. Krita opens files like these as 32bit float linear images, making them ready to be used with the LUT docker.
 
@@ -270,7 +270,7 @@ Work by artists using Krita:
 
 Thanks to community contributor **Dmitrii Utkin**, Krita artists can now record a time-lapse video of their creative sessions with the [new Recorder Docker](https://docs.krita.org/en/reference_manual/dockers/recorder_docker.html)! (Also, a quick shout out to another community contributor, **Shi Yan**, for their good work on this feature. Thank you both for your contributions.)
 
-\[video width="1920" height="1080" mp4="https://krita.org/wp-content/uploads/2021/09/local-assistants-50.mp4"\]\[/video\]
+\[video width="1920" height="1080" mp4="/images/posts/2021/local-assistants-50.mp4"\]\[/video\]
 
 The two point perspective assistant is a quick and convenient way to set up what before required two vanishing points and a parallel assistant. Combined with the area limiter, this tool should prove very useful for comics and concept art.
 

@@ -9,11 +9,11 @@ Justo a una semana de la versión de prueba, anunciamos el lanzamiento final de 
 
 Alvin Wong ha implementado la compatibilidad con los eventos del API de Windows 8, lo que significa que Krita ahora puede usar el stylus n-trig en la linea de laptops Surface (así como otras similares tales como Dell, HP y Acer). Dado que está función es muy nueva, tiene que ser activada en la ventana de opciones::
 
-[![](/images/posts/2017/wintab-1024x840.png)](https://krita.org/wp-content/uploads/2017/09/wintab.png)
+[![](/images/posts/2017/wintab-1024x840.png)](/images/posts/2017/wintab.png)
 
 Además Alvin W. también reconstruyó la funcionalidad de Krita que depende de la aceleración por hardware, lo que permite de manera opcional usar Angle en Windows en vez de OpenGL. Ésto significa que que los problemas con las tarjetas de gráficos Intel y sus controladores se podrán hacer de lado ya que Krita usará indirectamente Direct3D.
 
-[![](/images/posts/2017/display-1024x840.png)](https://krita.org/wp-content/uploads/2017/09/display.png)
+[![](/images/posts/2017/display-1024x840.png)](/images/posts/2017/display.png)
 
 Por supuesto ésto no es la única novedad, además tenemos:
 

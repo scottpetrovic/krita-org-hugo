@@ -34,7 +34,7 @@ Nathan Lovatoさんによる機能紹介はこちらです:
 
  
 
-[![gridsguidessnapping](/images/posts/2016/gridsguidessnapping-1024x569.png)](https://krita.org/wp-content/uploads/2016/03/gridsguidessnapping.png) … スナップ設定はスナップ設定ポップアップ(shift+S)で置き換えられることになります！
+[![gridsguidessnapping](/images/posts/2016/gridsguidessnapping-1024x569.png)](/images/posts/2016/gridsguidessnapping.png) … スナップ設定はスナップ設定ポップアップ(shift+S)で置き換えられることになります！
 
 ### スナップ
 
@@ -55,7 +55,7 @@ Nathan Lovatoさんによる機能紹介はこちらです:
 
 ### 「Greater（増アルファ）」合成モード
 
-[![greaterblendmode](/images/posts/2016/greaterblendmode.gif)](https://krita.org/wp-content/uploads/2016/03/greaterblendmode.gif) Nicolas Guttenberg氏によって半透明のブラシでの描画をもっと簡単に行える「Greater（増アルファ）」合成モードが実装されました。
+[![greaterblendmode](/images/posts/2016/greaterblendmode.gif)](/images/posts/2016/greaterblendmode.gif) Nicolas Guttenberg氏によって半透明のブラシでの描画をもっと簡単に行える「Greater（増アルファ）」合成モードが実装されました。
 
 ### 移動ツール
 
@@ -65,7 +65,7 @@ Nathan Lovatoさんによる機能紹介はこちらです:
 
 切り取りツール、補助線編集ツールと直線ツールのインターフェースが改良され、直線ツールのキャンバス上でのプレビュー表示も改良されました。
 
-[![Screenshot from 2016-03-12 18-15-58](/images/posts/2016/Screenshot-from-2016-03-12-18-15-58-1024x691.png)](https://krita.org/wp-content/uploads/2016/03/Screenshot-from-2016-03-12-18-15-58.png)
+[![Screenshot from 2016-03-12 18-15-58](/images/posts/2016/Screenshot-from-2016-03-12-18-15-58-1024x691.png)](/images/posts/2016/Screenshot-from-2016-03-12-18-15-58.png)
 
 ### その他…
 

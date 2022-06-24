@@ -3,7 +3,7 @@ title: "Krita 2.9: The Kickstarter Release"
 date: "2015-02-21"
 ---
 
-[![krita_2_9_splash](/images/pages/krita_2_9_splash.png)](https://krita.org/wp-content/uploads/2015/02/krita_2_9_splash.png)The culmination of over eight months of work, Krita 2.9, is the biggest Krita release until now! It's so big, we can't just do the release announcement in only one page, we've had to split it up into separate pages! Last year, 2014, was a huge year for Krita. We published Krita on Steam, we showed off Krita at SIGGRAPH, we got Krita reviewed in ImagineFX, gaining the Artist's choice accolade --  and we got our first Kickstarter campaign more than funded, too! This meant that more work has gone into Krita than ever before.
+[![krita_2_9_splash](/images/pages/krita_2_9_splash.png)](/images/posts/2015/krita_2_9_splash.png)The culmination of over eight months of work, Krita 2.9, is the biggest Krita release until now! It's so big, we can't just do the release announcement in only one page, we've had to split it up into separate pages! Last year, 2014, was a huge year for Krita. We published Krita on Steam, we showed off Krita at SIGGRAPH, we got Krita reviewed in ImagineFX, gaining the Artist's choice accolade --  and we got our first Kickstarter campaign more than funded, too! This meant that more work has gone into Krita than ever before.
 
 And it shows: here are the results. Dozens of new features, improved functions, fixed bugs, spit and polish all over the place.  The initial port to OSX. Some of the new features took more than two years to implement, and others are a direct result of your support!
 
@@ -11,18 +11,18 @@ Without that support, whether through direct donations, Steam sales, the Kicksta
 
 And now, stay with us for a whirlwind tour of Krita 2.9's new major features:
 
-[![Speedpaint landscape by  Raghavendra Kamath](/images/pages/raghukamath_landscape-300x212.png)](https://krita.org/wp-content/uploads/2015/02/raghukamath_landscape.png) Speedpaint landscape by Raghavendra Kamath
+[![Speedpaint landscape by  Raghavendra Kamath](/images/pages/raghukamath_landscape-300x212.png)](/images/posts/2015/raghukamath_landscape.png) Speedpaint landscape by Raghavendra Kamath
 
-[![Pirate by Comhorse (http://www.comhorse.com)](/images/pages/comhorse_image2-225x300.jpg)](https://krita.org/wp-content/uploads/2015/02/comhorse_image2.jpg) Pirate by Comhorse  
+[![Pirate by Comhorse (http://www.comhorse.com)](/images/pages/comhorse_image2-225x300.jpg)](/images/posts/2015/comhorse_image2.jpg) Pirate by Comhorse  
 (http://www.comhorse.com)
 
-[!["Between Worlds" by Mira-Maia Kyyrö (http://neko-maya.fi/)](/images/pages/betweenworlds_nekomaya-300x190.png)](https://krita.org/wp-content/uploads/2015/02/betweenworlds_nekomaya.png) "Between Worlds" by Mira-Maia Kyyrö (http://neko-maya.fi/)
+[!["Between Worlds" by Mira-Maia Kyyrö (http://neko-maya.fi/)](/images/pages/betweenworlds_nekomaya-300x190.png)](/images/posts/2015/betweenworlds_nekomaya.png) "Between Worlds" by Mira-Maia Kyyrö (http://neko-maya.fi/)
 
-[!["Fairies" by Elias Silveira (http://www.flickr.com/photos/elias_ilustracao_design)](/images/pages/Krita_Fairy01-300x212.jpeg)](https://krita.org/wp-content/uploads/2015/02/Krita_Fairy01.jpeg) "Fairies" by Elias Silveira (http://www.flickr.com/photos/elias\_ilustracao\_design)
+[!["Fairies" by Elias Silveira (http://www.flickr.com/photos/elias_ilustracao_design)](/images/pages/Krita_Fairy01-300x212.jpeg)](/images/posts/2015/Krita_Fairy01.jpeg) "Fairies" by Elias Silveira (http://www.flickr.com/photos/elias\_ilustracao\_design)
 
 ### View your images in a new perspective with multiple documents!
 
-[![krita_texture_bg](/images/pages/krita_texture_bg-1024x564.jpg)](https://krita.org/wp-content/uploads/2015/01/krita_texture_bg.jpg)
+[![krita_texture_bg](/images/pages/krita_texture_bg-1024x564.jpg)](/images/posts/2015/krita_texture_bg.jpg)
 
 You can now open multiple documents in Krita.There are two ways you can display documents now: _Tabbed_ and _Subwindow_. The tabbed mode is the default, but can be changed in the settings. If using subwindows, the windows can be automatically arranged with cascading and tiling. You can also have several views of the same document. This can be helpful when looking at images at different zoom levels or while mirrored.
 
@@ -53,7 +53,7 @@ Finally, you can customize Krita's background by adding an image or color. This 
 
 <iframe style="box-shadow: 0px 0px 13px 5px #DDD; margin-left: 1em;" src="https://www.youtube.com/embed/o7AF302wdrM" width="100%" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-[![colorsliders](/images/pages/colorsliders.png)](https://krita.org/wp-content/uploads/2014/09/colorsliders.png)
+[![colorsliders](/images/pages/colorsliders.png)](/images/posts/2014/colorsliders.png)
 
 The color selectors got some love in the form of **HDR color selection**. This is useful for any kind of scene-referred image painting, such as making environments for 3d scenes, or vfx work.
 
@@ -89,7 +89,7 @@ The Experimental **Color Slider docker** was a heeded request for HSV sliders in
 
 ### Selection Improvements
 
-[![krita_29_selection_ovelay](/images/pages/krita_29_selection_ovelay.png)](https://krita.org/wp-content/uploads/2015/02/krita_29_selection_ovelay.png)
+[![krita_29_selection_ovelay](/images/pages/krita_29_selection_ovelay.png)](/images/posts/2015/krita_29_selection_ovelay.png)
 
 ![](/images/pages/kickstarter-logo.png) Direct painting and transforming on the **global selection mask**. The Brush selection tool was removed because painting on the Global Selection Mask is much more versatile. -> [Read more](/posts/how-to-select-areas-with-the-paintbrush-in-krita-2-9/)
 
@@ -101,7 +101,7 @@ The Experimental **Color Slider docker** was a heeded request for HSV sliders in
 
 ### New Assistants and Tool Improvements
 
-[![29release_Aliciane_assistants_casting_shadows](/images/pages/29release_Aliciane_assistants_casting_shadows.png)](https://krita.org/wp-content/uploads/2015/02/29release_Aliciane_assistants_casting_shadows.png)
+[![29release_Aliciane_assistants_casting_shadows](/images/pages/29release_Aliciane_assistants_casting_shadows.png)](/images/posts/2015/29release_Aliciane_assistants_casting_shadows.png)
 
 **Line Tool Improvements** - Now accepts stylus sensors. You can also hold down 'v' to activate while on the freehand brush tool.
 
@@ -141,7 +141,7 @@ The Experimental **Color Slider docker** was a heeded request for HSV sliders in
 
 <iframe style="box-shadow: 0px 0px 13px 5px #DDD; margin-left: 1em;" src="https://www.youtube.com/embed/HkoWF6UKMcY" width="100%" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
- [![krita_2_9_pixelart_workflow](/images/pages/krita_2_9_pixelart_workflow.png)](https://krita.org/wp-content/uploads/2015/02/krita_2_9_pixelart_workflow.png)
+ [![krita_2_9_pixelart_workflow](/images/pages/krita_2_9_pixelart_workflow.png)](/images/posts/2015/krita_2_9_pixelart_workflow.png)
 
  **![](/images/pages/kickstarter-logo.png) Shaped Gradients** - simplify making bumpmaps.
 
@@ -157,13 +157,13 @@ The Experimental **Color Slider docker** was a heeded request for HSV sliders in
 
 **Export Fixes and Additions** - Save 16-bit grayscale images to tiff, jpeg and ppm. r16 and r8 heightmaps are supported.
 
-[![by Tou Omiya](/images/pages/14157847317_6d6a562a2d_k-300x249.jpg)](https://krita.org/wp-content/uploads/2015/02/14157847317_6d6a562a2d_k.jpg) by Tou Omiya
+[![by Tou Omiya](/images/pages/14157847317_6d6a562a2d_k-300x249.jpg)](/images/posts/2015/14157847317_6d6a562a2d_k.jpg) by Tou Omiya
 
-[![Flourish by Oksana Kharitionova](/images/pages/flourish_v2_2500-216x300.png)](https://krita.org/wp-content/uploads/2015/02/flourish_v2_2500.png) _Flourish_ by Oksana Kharitionova
+[![Flourish by Oksana Kharitionova](/images/pages/flourish_v2_2500-216x300.png)](/images/posts/2015/flourish_v2_2500.png) _Flourish_ by Oksana Kharitionova
 
-[![Wasteland Magic by Kateryna Herasymenko](/images/pages/Wasteland-magic-300x212.jpeg)](https://krita.org/wp-content/uploads/2015/02/Wasteland-magic.jpeg) Wasteland Magic by Kateryna Herasymenko
+[![Wasteland Magic by Kateryna Herasymenko](/images/pages/Wasteland-magic-300x212.jpeg)](/images/posts/2015/Wasteland-magic.jpeg) Wasteland Magic by Kateryna Herasymenko
 
-[![Firebird by Wolthera(http://wolthera.info)](/images/pages/firebird-238x300.png)](https://krita.org/wp-content/uploads/2015/02/firebird.png) _Firebird_ by Wolthera(http://wolthera.info)
+[![Firebird by Wolthera(http://wolthera.info)](/images/pages/firebird-238x300.png)](/images/posts/2015/firebird.png) _Firebird_ by Wolthera(http://wolthera.info)
 
 ### Everything Else
 
@@ -179,13 +179,13 @@ Image - Change the image background color. Resource Manager - Allow quick import
 
 Display - You can now turn off layer hover preview, and change the colour of the selection overlay. Color Management - You can now have unique icc profiles PER display on Linux. Krita supports using colord directly. Canvas-input settings - Line Tool, as well as Exposure and Gamma controls have been added.
 
-[![Humphrey Boghart Caricature by Daniel Pinheiro Lima (http://prenudos.com/)](/images/pages/humprey-300x291.jpg)](https://krita.org/wp-content/uploads/2015/02/humprey.jpg) _Humphrey Bogart Caricature_ by Daniel Pinheiro Lima (http://prenudos.com/)
+[![Humphrey Boghart Caricature by Daniel Pinheiro Lima (http://prenudos.com/)](/images/pages/humprey-300x291.jpg)](/images/posts/2015/humprey.jpg) _Humphrey Bogart Caricature_ by Daniel Pinheiro Lima (http://prenudos.com/)
 
-[![by  Sioni Lopez](/images/pages/coldoutside-212x300.jpeg)](https://krita.org/wp-content/uploads/2015/02/coldoutside.jpeg) _Cold Outside_ by Sioni Lopez
+[![by  Sioni Lopez](/images/pages/coldoutside-212x300.jpeg)](/images/posts/2015/coldoutside.jpeg) _Cold Outside_ by Sioni Lopez
 
-[![by  Andrei Rudenko](/images/pages/tch_8-225x300.jpg)](https://krita.org/wp-content/uploads/2015/02/tch_8.jpg) by Andrei Rudenko
+[![by  Andrei Rudenko](/images/pages/tch_8-225x300.jpg)](/images/posts/2015/tch_8.jpg) by Andrei Rudenko
 
-[![Wraith Queen by Marty Kulma (http://kynlo.deviantart.com/gallery/51532782/Krita)](/images/pages/wraith_queen-248x300.jpg)](https://krita.org/wp-content/uploads/2015/02/wraith_queen.jpg) _Wraith Queen_ by Marty Kulma (http://kynlo.deviantart.com/gallery/51532782/Krita)
+[![Wraith Queen by Marty Kulma (http://kynlo.deviantart.com/gallery/51532782/Krita)](/images/pages/wraith_queen-248x300.jpg)](/images/posts/2015/wraith_queen.jpg) _Wraith Queen_ by Marty Kulma (http://kynlo.deviantart.com/gallery/51532782/Krita)
 
 ## Next...
 

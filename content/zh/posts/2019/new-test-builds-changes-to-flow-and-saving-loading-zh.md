@@ -11,7 +11,7 @@ categories:
 
 首先请在论坛上了解相关讨论：[其一](https://forum.kde.org/viewtopic.php?f=139&t=152017)、[其二](https://forum.kde.org/viewtopic.php?f=288&t=136165)。根据这两则讨论，William Brown 为 Krita 准备了[他的首个补丁](https://phabricator.kde.org/D18467)。这个补丁改变了流量和不透明度的联动效果：
 
-[![](/images/posts/2019/image-1024x768.png)](https://krita.org/wp-content/uploads/2019/01/image.png) 上图：新 (new) 旧 (old) 流量 (flow) 和 Opacity (不透明度) 的联动效果对比。
+[![](/images/posts/2019/image-1024x768.png)](/images/posts/2019/image.png) 上图：新 (new) 旧 (old) 流量 (flow) 和 Opacity (不透明度) 的联动效果对比。
 
 由于上述改动触及了 Krita 的核心功能，我们非常希望大家都能下载测试版检验其效果。
 
@@ -21,7 +21,7 @@ Krita 的 .kra 文件实际上是一个简单 zip 压缩文件。简单 zip 文�
 
 所以我们把相关的软件库换成了 [quazip](https://stachenov.github.io/quazip/)，它支持 Zip64 标准。这个软件库不单会被用于保存和载入 .kra 文件，还被用来处理 [OpenRaster](https://www.openraster.org/) 文件和资源包等——只要是 zip 格式的东西都由它接管了。在默认状态下 Zip64 处于禁用状态。如果你要制作动画，你需要手动启用 Zip64 功能：
 
-[![](/images/posts/2019/zip64.png)](https://krita.org/wp-content/uploads/2019/01/zip64.png)请注意：启用 Zip64 功能后保存的文件在旧版 Krita 中将不能打开！如果你不打算启用它，也可以帮助我们测试在禁用 Zip64 时的表现。
+[![](/images/posts/2019/zip64.png)](/images/posts/2019/zip64.png)请注意：启用 Zip64 功能后保存的文件在旧版 Krita 中将不能打开！如果你不打算启用它，也可以帮助我们测试在禁用 Zip64 时的表现。
 
 ### 提供反馈
 

@@ -13,13 +13,13 @@ Of course, release-ready doesn't mean that every imaginable feature has been imp
 
 **[Andreas Esau](http://ndee85.blogspot.com/)** is the latest artist to discover Krita. First he produced this enormously powerful sketch:
 
-![](https://krita.org/wp-content/uploads/2010/10/ndee_sketchbrush_small.jpg)  
+![](/images/posts/2010/ndee_sketchbrush_small.jpg)  
 
 Then followed on with one of the first screencasts for Krita 2.3. Watch and enjoy! 
 
 Markku Myllymäki from Finland has been experimenting with the vector support of Krita:
 
-![](https://krita.org/wp-content/uploads/2010/10/kritari_supherkri.png)  
+![](/images/posts/2010/kritari_supherkri.png)  
 
 ### Code
 

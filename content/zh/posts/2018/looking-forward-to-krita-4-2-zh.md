@@ -26,7 +26,7 @@ https://youtu.be/gWv--Do9L0E
 
 **获取 Krita 的最新资讯。**欢迎屏幕现在可以显示来自 Krita 官方网站的最新资讯。此功能默认关闭，因为它需要互联网连接。目前这一功能只在 Linux 上正常工作。我们正在处理在 Windows 和 macOS 所需的程序库。
 
-[![](/images/posts/2018/news_widget-1024x566.png)](https://krita.org/wp-content/uploads/2018/10/news_widget.png)
+[![](/images/posts/2018/news_widget-1024x566.png)](/images/posts/2018/news_widget.png)
 
 **绘画辅助尺着色。**这项功能让你可以分别为绘画辅助尺指定不同的颜色，并且可以被保存到 .kra 文件中后在下一次加载时复原。
 
@@ -36,7 +36,7 @@ https://youtu.be/gWv--Do9L0E
 
 **用户界面改进。**Krita 将会带来许多与改进工作流程有关的小修正，如实现更改图层工具面板预览图大小、改进的调色板交互方式、实现 Python 插件的翻译等等。除此之外还有一系列全新的混合模式正在陆续被添加进来，G'Mic 插件也被更新到了最新版本。
 
-\[video width="344" height="502" mp4="https://krita.org/wp-content/uploads/2018/08/resize-thumbnail.mp4"\]\[/video\]
+\[video width="344" height="502" mp4="/images/posts/2018/resize-thumbnail.mp4"\]\[/video\]
 
 **大量的问题修复。**目前我们已经为 Krita 4.2 修复了近 200 个问题，这个数字每天都在增长。
 

@@ -26,7 +26,7 @@ But experiment with it, test it, check it out! There are lots of new things in t
 
 **Keep up to date**! Only on Linux for now, since we're still working on setting up the necessary libraries for encryption on Windows and macOS. The welcome screen can now show the latest news about Krita. It's off by default, since to bring you the news we have to connect to the Krita website.
 
-[![](/images/posts/2018/news_widget-1024x566.png)](https://krita.org/wp-content/uploads/2018/10/news_widget.png)
+[![](/images/posts/2018/news_widget-1024x566.png)](/images/posts/2018/news_widget.png)
 
 **Colored Assistants.** It's now possible to give your painting assistants individual colors, and that color is saved and restored when you save and load your .kra project file.
 
@@ -36,7 +36,7 @@ But experiment with it, test it, check it out! There are lots of new things in t
 
 **A smoother UI**: 4.2 will have lots of small fixes to improve your workflow. That ranges from making it possible to resize the thumbnails in the layer docker to improved interaction with color palettes to making it possible to translate plugins written in Python. There are also new blending modes, with more coming, and the G'Mic plugin has been updated to the latest version.
 
-\[video width="344" height="502" mp4="https://krita.org/wp-content/uploads/2018/08/resize-thumbnail.mp4"\]\[/video\]
+\[video width="344" height="502" mp4="/images/posts/2018/resize-thumbnail.mp4"\]\[/video\]
 
 **Lots of bug fixes.** We're already at nearly 200 bug fixes for 4.2, and that number will only increase.
 

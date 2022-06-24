@@ -7,7 +7,7 @@ Less than a month after Krita 3.2.1, we're getting ready to release Krita 3.3.0.
 
 Alvin Wong has implemented support for the Windows 8 event API, which means that Krita now supports the n-trig pen in the Surface line of laptops (and similar laptops from Dell, HP and Acer) natively. This is still very new, so you have to enable this in the tablet settings:
 
-[![](/images/posts/2017/tablet_support-300x278.png)](https://krita.org/wp-content/uploads/2017/08/tablet_support.png)
+[![](/images/posts/2017/tablet_support-300x278.png)](/images/posts/2017/tablet_support.png)
 
 And he also refactored Krita's hardware-accelerated display functionality to optionally use Angle on Windows instead of native OpenGL. That means that many problems with Intel display chips and broken driver versions are worked around because Krita now indirectly uses Direct3D.
 

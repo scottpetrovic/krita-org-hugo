@@ -7,7 +7,7 @@ categories:
 
 ¡La tercer versión beta ya está lista! De Krita 3.1 en adelante la compatibilidad con OSX sera oficial. Se recomienda a todos los usuarios de OSX el usar ésta versión en lugar de la ultima lanzada hace dos semanas.
 
-[![krita_animation_3_0_2](/images/posts/2016/krita_animation_3_0_2-1024x826.gif)](https://krita.org/wp-content/uploads/2016/09/krita_animation_3_0_2.gif)
+[![krita_animation_3_0_2](/images/posts/2016/krita_animation_3_0_2-1024x826.gif)](/images/posts/2016/krita_animation_3_0_2.gif)
 
 Algo que is importante de notar es el hecho de que al guardar un documento, Krita no espera que la imagen se termine de producir, lo que significa que si Krita está produciendo una imagen, efecto o brochada, aparecerá un mensaje avisando que el documento puede quedar incompleto. Aun estamos trabajando en ésta situación, por lo que el mensaje no es la solución final. Para que los documentos se guarden correctamente sin perder información, es necesario cerciorarse que todas las acciones de Krita se han terminado de producir ademas de guardar el documento constantemente.
 

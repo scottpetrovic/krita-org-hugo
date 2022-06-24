@@ -13,13 +13,13 @@ With the release of Krita 3.0 back in May 2016 came a slew of features and impro
 
 But that was just the first step of our adventure in animation. And so, for the next major version, **Krita 5**, we set out to take Krita's existing animation tools, refine them as much as possible, and build up from there. Let's go over a couple of the changes...
 
-{{< video-player src="https://krita.org/wp-content/uploads/2021/05/krita_anim-clones-direct.webm" type="video/webm">}}
+{{< video-player src="/images/posts/2021/krita_anim-clones-direct.webm" type="video/webm">}}
 
 At the bottom of our new Animation workspace you'll find the redesigned **Animation Timeline Docker**. This is the central hub for traditional animation in Krita and it's been updated with tons of new features and improvements, as well as all of the controls you need in one place--without becoming too cluttered or overwhelming. Most of the core workflow tools are presented directly on the left side of the title bar, while the set-and-forget style configuration options have been neatly tucked away into a compact menu on the right. On top of that, we've made a bunch of tweaks to each part of the timeline to make navigation, zooming, pinning layers, and manipulating frames look and feel better than before.
 
 This new timeline also has support for **Clone Frames**, a feature that allows you to reuse existing drawings throughout your animation, synchronizing changes across frames or even creating simple cycles. The ability to use the same drawing multiple times throughout a cut is an important part of most animation workflows, so I hope you'll find it useful!
 
-{{< video-player src="https://krita.org/wp-content/uploads/2021/05/krita_anim-tform-direct.webm" type="video/webm">}}
+{{< video-player src="/images/posts/2021/krita_anim-tform-direct.webm" type="video/webm">}}
 
 On a tab next to the timeline lives the updated **Animation Curves Docker**. Taking a lot of design cues from the timeline, the curves docker is the main hub for animating numbers that control things like layer opacity.
 
@@ -27,7 +27,7 @@ Speaking of which, one of the often requested features coming to Krita 5 is some
 
 Some other cool animation-related things are coming to Krita 5 also! There are **new export formats** available, as well as the ability to **import videos as animations**. There's a new **blank** **autokey** mode that makes the process of roughing in an animation much quicker than before by creating blank frames as you draw. We've improved **isolation modes**, for viewing and editing one layer or group at a time. We've added a **multiframe** option for applying a filter across every animation frame that you have selected. Using the Compositions Docker, you can now **export compositions as individual animations**. There are new keyboard shortcut actions for navigating and editing your animations. And on top of that, we've done a bit of work behind the scenes to improve the quality and consistency of **animation caching and** **playback**.
 
-{{< video-player src="https://krita.org/wp-content/uploads/2021/05/krita-anim-bird-direct.webm" type="video/webm">}}
+{{< video-player src="/images/posts/2021/krita-anim-bird-direct.webm" type="video/webm">}}
 
 Anyway, that's just a quick sample of what you can expect in regards to animation in Krita 5. My hope is that Krita will continue to evolve into a tool that suits the needs of animators of all levels, from people making their first ever animation to studio pros. There's more that we need to do to make that a reality, but I hope that the animation community will see Krita 5 as another step in the right direction.
 
@@ -41,7 +41,7 @@ Without our community, Krita simply wouldn’t be what it is today and future pr
 
  
 
-[![](https://krita.org/wp-content/uploads/2021/05/landing-page-banner.png)](https://fund.krita.org)
+[![](/images/posts/2021/landing-page-banner.png)](https://fund.krita.org)
 
  
 

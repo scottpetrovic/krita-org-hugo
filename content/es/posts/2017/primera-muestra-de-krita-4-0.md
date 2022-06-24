@@ -13,7 +13,7 @@ categories:
 
 Uno de los cambios mas importantes y complicados, mas aun que el paso de la versión 2.9 a la 3.0 es el reemplazo completo de el sistema de imágenes de vector, pasando de el [Open Document Graphics](https://docs.oasis-open.org/office/v1.2/OpenDocument-v1.2.html) al formato [SVG](https://www.w3.org/TR/SVG/) para guardar la información de los vectores. Ésto hace de Krita un programa con mayor compatibilidad hacia otros programas tales como [inkscape](https://inkscape.org). Krita puede aun abrir y cargar documentos que ya han sido creados en ODG con vectores, pero solo tendrá la capacidad de guardar en SVG. **Nótese que una ves que Krita 4.0 guarda un documento ODG en SVG, éste no podrá ser usado en Krita 3.0, por lo que se recomienda duplicar los documentos a experimentar.**.
 
-[![](/images/posts/2017/vector-934x1024.png)](https://krita.org/wp-content/uploads/2017/06/vector.png)
+[![](/images/posts/2017/vector-934x1024.png)](/images/posts/2017/vector.png)
 
 Se ha recreado la manera en que se interactuar con los vectores lo que debe facilitar su uso, esperamos los comentarios de nuestros usuarios al respecto, ya que se desea que el eso de los vectores sea tan productivo y satisfactorio como el resto de los componentes de Krita.
 
@@ -25,21 +25,21 @@ https://youtu.be/jI87VzDtkPY
 
 l nuevo sistema de guardado de archivos es mas seguro ya que avisa al usuario si el formato que se escoge producirá la perdida de información o componentes creados en Krita, tal como guardar en PNG o JPEG, perderá las capas, etc. Nótese que Guardar un archivo no es lo mismo que exportarlo, para mas información ver el manual.
 
-[![](/images/posts/2017/warnings.png)](https://krita.org/wp-content/uploads/2017/06/warnings.png)
+[![](/images/posts/2017/warnings.png)](/images/posts/2017/warnings.png)
 
 El panel de las paletas de color ha sido mejorado por Wolthera van Hövell tot Westerflier, ahora te permite organizar las paletas en grupos de color, arrastrar y colocar colores y modificar los grupos con un doble clic.
 
-[![](/images/posts/2017/palette_dnd.png)](https://krita.org/wp-content/uploads/2017/06/palette_dnd.png)
+[![](/images/posts/2017/palette_dnd.png)](/images/posts/2017/palette_dnd.png)
 
 También se ha creado un nuevo panel con símbolos en SVG que puedes añadir como figuras predefinidas, tales como diálogos para historietas, de hecho se ha incluido la serie creada por David para "Pepper and Carrot" la cual te dará bastantes opciones.
 
-[![](/images/posts/2017/symbol.png)](https://krita.org/wp-content/uploads/2017/06/symbol.png)
+[![](/images/posts/2017/symbol.png)](/images/posts/2017/symbol.png)
 
 Todo esto ademas de muchos detalles por doquier los cuales puedes encontrar explorando la interfaz y las funciones, estamos trabajando también en la herramienta de texto, la cual está apenas en sus inicios, y próximamente en las versiones de prueba de Krita.
 
 De igual manera ya tenemos la base de el adaptador de Python, el cual estamos poniendo a prueba, tenemos sin embargo un problema con el mismo, no hemos logrado encontrar la manera de juntar Python con sus módulos para lograr que estos funcionen. Ademas solo se ha logrado incorporar el adaptador en Krita para Linux, pero no así para Windows o OSX. **Si tienes experiencia y te gustaría ayudar con estos problemas, por favor contáctanos, ¡Gracias!**
 
-[![](/images/posts/2017/scripter.png)](https://krita.org/wp-content/uploads/2017/06/scripter.png) The Scripter -- ad-hoc scripting in Krita, created by Eliakin Costa.
+[![](/images/posts/2017/scripter.png)](/images/posts/2017/scripter.png) The Scripter -- ad-hoc scripting in Krita, created by Eliakin Costa.
 
 #### Descargas
 

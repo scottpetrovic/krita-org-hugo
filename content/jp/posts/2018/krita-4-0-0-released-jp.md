@@ -25,15 +25,15 @@ SVGサポート、新しいテキストツール、Pythonスクリプト機能�
 
 - 新しい自動塗り分けマスクツールで簡単に線画の塗り分けが行えます。[詳しくはマニュアルを参照してください](https://docs.krita.org/Colorize_Mask)!
 
-[![](/images/posts/2018/colorize-mask.png)](https://krita.org/wp-content/uploads/2018/02/colorize-mask.png)
+[![](/images/posts/2018/colorize-mask.png)](/images/posts/2018/colorize-mask.png)
 
 - Masked brushes: ブラシ先端にマスクを適用して、より生き生きとした描画効果を得ることができます。これでとてもクールなことができるようになります!
 
-[![](/images/posts/2018/waterpaint.gif)](https://krita.org/wp-content/uploads/2018/02/waterpaint.gif)
+[![](/images/posts/2018/waterpaint.gif)](/images/posts/2018/waterpaint.gif)
 
 - 新しいブラシプリセット!Krita 4ではブラシセット全体を見直しました。また、ブラシプリセットはバンドルとしてパッケージされるようになりました。Krita 3のブラシセットも用意されていますが、デフォルトでは無効になっています。
 
-[![](/images/posts/2018/bundles.png)](https://krita.org/wp-content/uploads/2018/03/bundles.png)
+[![](/images/posts/2018/bundles.png)](/images/posts/2018/bundles.png)
 
 ### 既知の問題
 
@@ -87,4 +87,4 @@ Linux appimageとソースのtarボールは署名されています。パブリ
 
 Kritaは自由なオープンソースのプロジェクトです。[寄付](https://krita.org/jp/support-us-jp/donations-jp/)や[トレーニングビデオやアートブックの購入](https://krita.org/jp/support-us-jp/shop-jp/)で、プロジェクトを支援することを検討してみてください！皆様の支援によって、コアチームがフルタイムでKritaの開発作業を続けることが可能になります。
 
-[![](/images/posts/2018/Krita4_Alegoric_final.png)](https://krita.org/wp-content/uploads/2018/03/Krita4_Alegoric_final.png) Artwork by Ramon Miranda
+[![](/images/posts/2018/Krita4_Alegoric_final.png)](/images/posts/2018/Krita4_Alegoric_final.png) Artwork by Ramon Miranda

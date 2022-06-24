@@ -21,7 +21,7 @@ Krita 4.4.0をリリースしました!
 
 ### パターン塗りつぶしの移動
 
-[![](https://krita.org/wp-content/uploads/2020/09/krita_4_4_texture_example.png)](https://krita.org/wp-content/uploads/2020/09/krita_4_4_texture_example.png)
+[![](/images/posts/2020/krita_4_4_texture_example.png)](/images/posts/2020/krita_4_4_texture_example.png)
 
 様々なパターン移動が可能になりました。
 
@@ -29,19 +29,19 @@ Krita 4.4.0をリリースしました!
 
 ### スクリーントーン
 
-[![](https://krita.org/wp-content/uploads/2020/09/fill_layer_screentone_postprocessing.png)](https://krita.org/wp-content/uploads/2020/09/fill_layer_screentone_postprocessing.png)
+[![](/images/posts/2020/fill_layer_screentone_postprocessing.png)](/images/posts/2020/fill_layer_screentone_postprocessing.png)
 
 画面全体をドット、四角、ライン、波などで埋めることに特化した[新しい塗りつぶしレイヤーオプション](https://docs.krita.org/en/reference_manual/layers_and_masks/fill_layer_generators/screentone.html)です。この塗りつぶしレイヤーではその場でシンプルなパターンを簡単に生成できます。コミックイラストや、グラフィックスタイル作りでとても役立ちます。
 
 ### マルチグリッド
 
-[![](https://krita.org/wp-content/uploads/2020/09/multigrid-color-examples.png)](https://krita.org/wp-content/uploads/2020/09/multigrid-color-examples.png)
+[![](/images/posts/2020/multigrid-color-examples.png)](/images/posts/2020/multigrid-color-examples.png)
 
 [パターンを生成する塗りつぶしレイヤー](https://docs.krita.org/en/reference_manual/layers_and_masks/fill_layer_generators/multigrid.html)です。[ペンローズタイル](https://en.wikipedia.org/wiki/Penrose_tiling)や準結晶構造などのパターン生成します。回転に対してシンメトリーを持つ結果ですが、周期的ではありません。ひし形パターン自身の繰り返しはありません。. このフィルタは次のアイテムからインスパイアされました…
 
 ### SeExpr
 
-[![](https://krita.org/wp-content/uploads/2020/08/1096px-SeExpr_manual_1.jpg)](https://krita.org/wp-content/uploads/2020/08/1096px-SeExpr_manual_1.jpg) SeExpr マニュアル
+[![](/images/posts/2020/1096px-SeExpr_manual_1.jpg)](/images/posts/2020/1096px-SeExpr_manual_1.jpg) SeExpr マニュアル
 
 AmysparkのGoogle Summer of CodeプロジェクトはDisney Animationの[SeExpr](https://docs.krita.org/en/reference_manual/layers_and_masks/fill_layer_generators/seexpr.html)エクスプレッション言語のインテグレーションでした。SeExprはWalt Disney Animation Studiosがアニメーションのためにテクスチャやマテリアルを生成するのに使用している小さなシェーダー言語です。KritaではSeExprで塗りつぶしレイヤーを作れます。また、いい感じのデフォルトサンプルも用意することを試みました。
 
@@ -49,7 +49,7 @@ AmysparkのGoogle Summer of CodeプロジェクトはDisney Animationの[SeExpr]
 
 4.3での明るさモードの追加に加えて、ブラシエンジンに今回も新機能を追加しました。
 
-[![](https://krita.org/wp-content/uploads/2020/09/flowers_gradients_lightness.png)](https://krita.org/wp-content/uploads/2020/09/flowers_gradients_lightness.png)
+[![](/images/posts/2020/flowers_gradients_lightness.png)](/images/posts/2020/flowers_gradients_lightness.png)
 
 トップストローク: 新しい明るさパラメータとミックスパラメータの組み合わせを使います。ボトムストローク: テクスチャ強度パラメータでグラデーションマップのブラシ先端とテクスチャを混ぜ合わせします。
 
@@ -57,11 +57,11 @@ AmysparkのGoogle Summer of CodeプロジェクトはDisney Animationの[SeExpr]
 
 斜めラインでアクティブカラーの_明るさと彩度_を同時に変更することが可能です。
 
-[![MyPaint色選択の斜め選択ライン (Shift+M)](https://krita.org/wp-content/uploads/2020/09/mypaint_selector_diagonal.png)](https://krita.org/wp-content/uploads/2020/09/mypaint_selector_diagonal.png) MyPaint色選択の斜め選択ライン (Shift+M)
+[![MyPaint色選択の斜め選択ライン (Shift+M)](/images/posts/2020/mypaint_selector_diagonal.png)](/images/posts/2020/mypaint_selector_diagonal.png) MyPaint色選択の斜め選択ライン (Shift+M)
 
 ## 現在選択している色を動的にグラデーションで使用するためのサポート
 
-KritaはGIMPグラデーションフォーマットをサポートしていましたが、現在の前景色、背景色による動的な[グラデーション](https://docs.krita.org/en/reference_manual/resource_management/resource_gradients.html)の変更はサポートしていませんでした。レイヤースタイルでも不可能でした。この機能が今回追加されました。同梱のプリセットでも前景色を使用して、簡単に火花、霧といったエフェクトを簡単に生成できるようになりました。[![](https://krita.org/wp-content/uploads/2020/09/fg_changing_gradients_for_sparkles.png)](https://krita.org/wp-content/uploads/2020/09/fg_changing_gradients_for_sparkles.png)GPS glareデフォルトによる火花。 前景色で色が変わります
+KritaはGIMPグラデーションフォーマットをサポートしていましたが、現在の前景色、背景色による動的な[グラデーション](https://docs.krita.org/en/reference_manual/resource_management/resource_gradients.html)の変更はサポートしていませんでした。レイヤースタイルでも不可能でした。この機能が今回追加されました。同梱のプリセットでも前景色を使用して、簡単に火花、霧といったエフェクトを簡単に生成できるようになりました。[![](/images/posts/2020/fg_changing_gradients_for_sparkles.png)](/images/posts/2020/fg_changing_gradients_for_sparkles.png)GPS glareデフォルトによる火花。 前景色で色が変わります
 
 ## ダウンロード
 

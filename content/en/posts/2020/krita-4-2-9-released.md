@@ -9,12 +9,12 @@ Today we're finally releasing Krita 4.2.9! It's been one of the most complicated
 
 Krita 4.2.9 however is really stable after all the testing it had during the beta period. And there are even some new features to enjoy!
 
-- Dmitry improved the brush outline: it no longer flickers when you hover over the canvas: \[video width="960" height="540" mp4="https://krita.org/wp-content/uploads/2020/02/2020-02-11\_comparing-outline.mp4"\]\[/video\]
+- Dmitry improved the brush outline: it no longer flickers when you hover over the canvas: \[video width="960" height="540" mp4="/images/posts/2020/2020-02-11\_comparing-outline.mp4"\]\[/video\]
 - He also added "Airbrush" and "Airbrush Rate" to the Color Smudge brush, and a new Ratio setting, also for the Color Smudge brush, which allows making the shape of the brush flatter using the different sensors. Ramón Miranda has even made a video demonstrating these features: 
     
     <iframe src="https://www.youtube.com/embed/fyc8-qgxAww" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
     
-- New contributor Saurabh Kumar added a "Split Layer into Selection Mask" feature:[![Layer Split Dialog](/images/posts/2020/Screenshot_20200225_140252.png)](https://krita.org/wp-content/uploads/2020/02/Screenshot_20200225_140252.png)
+- New contributor Saurabh Kumar added a "Split Layer into Selection Mask" feature:[![Layer Split Dialog](/images/posts/2020/Screenshot_20200225_140252.png)](/images/posts/2020/Screenshot_20200225_140252.png)
 
 As for the bugfixes... There are a lot of them, and this list isn't even completely complete!
 

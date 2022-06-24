@@ -13,7 +13,7 @@ Two months of bug fixing, feature implementing, Google-Summer-of-Code-sweating, 
 
 As is traditional, in September, we release the first Google Summer of Code results. Wolthera's Tangent Normal Brush engine has already been merged!
 
-[![tangenttiltbrush](/images/posts/2015/tangenttiltbrush.png)](https://krita.org/wp-content/uploads/2015/08/tangenttiltbrush.png)[![phongbum1](/images/posts/2015/phongbum1.png)](https://krita.org/wp-content/uploads/2015/08/phongbum1.png)
+[![tangenttiltbrush](/images/posts/2015/tangenttiltbrush.png)](/images/posts/2015/tangenttiltbrush.png)[![phongbum1](/images/posts/2015/phongbum1.png)](/images/posts/2015/phongbum1.png)
 
 It's a specialized feature, for drawing normal maps, as used in 3d engines and games. Check out the introduction video:
 
@@ -30,11 +30,11 @@ There were four parts to the project:
 
 We've got a whole new, carefully assembled icon set. All icons are tuned so they work equally well with light and dark themes. And it's now also possible to choose the size of the icons in the toolbox.
 
-[![toolbox](/images/posts/2015/toolbox.png)](https://krita.org/wp-content/uploads/2015/08/toolbox.png)
+[![toolbox](/images/posts/2015/toolbox.png)](/images/posts/2015/toolbox.png)
 
 If you've got a high-dpi screen, make them big, if you're on a netbook, make them small! All it takes is a right-click on the toolbox.
 
-[![resize-icons](/images/posts/2015/resize-icons.gif)](https://krita.org/wp-content/uploads/2015/09/resize-icons.gif)
+[![resize-icons](/images/posts/2015/resize-icons.gif)](/images/posts/2015/resize-icons.gif)
 
 And to round out the improvements to the toolbox, the tooltips now show the keyboard shortcuts you can use to activate a tool and you can show and hide the toolbox from the docker menu.
 
@@ -42,13 +42,13 @@ And to round out the improvements to the toolbox, the tooltips now show the keyb
 
 Everyone who does seamless textures loves Krita's unique wraparound mode. And now we've fixed two limitations, and you can not just pick colors from anywhere, not just the original central image, but also fill from anywhere!
 
-[![pickcolorwraparound](/images/posts/2015/pickcolorwraparound.png)](https://krita.org/wp-content/uploads/2015/08/pickcolorwraparound.png)
+[![pickcolorwraparound](/images/posts/2015/pickcolorwraparound.png)](/images/posts/2015/pickcolorwraparound.png)
 
 ### New Color Space Selector
 
 Wolthera also added a new dialog for picking the color profile: The Color Profile browser. if you just want to draw without worries, Krita's default will work for you, of course. But if are curious, or want to go deeper into color management, or have advanced needs then this browser dialog gives you all the details you need to make an informed choice!
 
-[![colorspacebrowser](/images/posts/2015/colorspacebrowser.png)](https://krita.org/wp-content/uploads/2015/08/colorspacebrowser.png) Krita ships with a large set of carefully tuned ICC profiles created by [Elle Stone](http://ninedegreesbelow.com/). Her extensive notes on when one might prefer to use one or the other are included in the new color profile browser.
+[![colorspacebrowser](/images/posts/2015/colorspacebrowser.png)](/images/posts/2015/colorspacebrowser.png) Krita ships with a large set of carefully tuned ICC profiles created by [Elle Stone](http://ninedegreesbelow.com/). Her extensive notes on when one might prefer to use one or the other are included in the new color profile browser.
 
 ### Compatibility with the rest of the world
 
@@ -56,7 +56,7 @@ We improved compatibility with Gimp: Krita can now load group layers, load XCF v
 
 ### Right-click to undo last path point
 
-You can now right-click in the middle of creating a path to undo the last point. [![right-click-delete](/images/posts/2015/right-click-delete.gif)](https://krita.org/wp-content/uploads/2015/09/right-click-delete.gif)
+You can now right-click in the middle of creating a path to undo the last point. [![right-click-delete](/images/posts/2015/right-click-delete.gif)](/images/posts/2015/right-click-delete.gif)
 
 ### More things...
 

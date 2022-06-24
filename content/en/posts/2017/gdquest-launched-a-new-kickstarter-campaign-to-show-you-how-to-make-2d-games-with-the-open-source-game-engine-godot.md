@@ -13,10 +13,10 @@ During the campaign, you get a free game creation tutorial on YouTube, _every da
 
 Please check it out now, and spread the word: [Make Professional 2d Games: Godot Engine Online Course](https://kck.st/2q8BEGb)
 
-[![](/images/posts/2017/Godot-Kickstarter-stretch-goal-level.png)](https://krita.org/wp-content/uploads/2017/05/Godot-Kickstarter-stretch-goal-level.png)
+[![](/images/posts/2017/Godot-Kickstarter-stretch-goal-level.png)](/images/posts/2017/Godot-Kickstarter-stretch-goal-level.png)
 
 GDQuest reached the goal in less than 12 hours. Everything above it means more content for the backers, but also for everyone! GDQuest will also contribute to Godot 3.0's demos and documentation. All the money will go to the course's production and official free educational resources.
 
 Check out the [Free daily tutorials on Youtube!](https://youtube.com/playlist?list=PLhqJJNjsQ7KEr_YlibZ3SBuzfw9xwGduK).
 
-[![](/images/posts/2017/Godot-Kickstarter-promo-banner.jpg)](https://krita.org/wp-content/uploads/2017/05/Godot-Kickstarter-promo-banner.jpg)
+[![](/images/posts/2017/Godot-Kickstarter-promo-banner.jpg)](/images/posts/2017/Godot-Kickstarter-promo-banner.jpg)

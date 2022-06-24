@@ -12,11 +12,11 @@ Kritaの最新バージョンをリリースしました！[2018年の開発資�
 
 Krita 4.1.2はどこに行ってしまったのか気になる人もいるかもしれません…実のところ、4.1.2を準備していたのですが、ビルドインフラの変更によってWindowsのビルドが壊れていました。その修正の間に、Dmitryがいくつか今すぐリリースに含みたいような修正を行いました。例えば、中央揃えの複数行テキストがテキスト編集後に一行になってしまう、といった問題への修正です。 そこで、新しいバージョン、4.1.3を作ることにしました！
 
-[![](/images/posts/2018/text_tool-1024x577.jpg)](https://krita.org/wp-content/uploads/2018/09/text_tool.jpg)
+[![](/images/posts/2018/text_tool-1024x577.jpg)](/images/posts/2018/text_tool.jpg)
 
 Krita 4.1.3はバグ修正リリースなのでバグ修正がメインですが、新機能もいくつか含まれています。まず最初は、Scott Petrovicによる新しいウェルカムスクリーンです。便利なリンク、最近使ったファイルのリスト、新規ファイル作成やファイルオープンの機能に、空のウィンドウに画像をドラッグアンドドロップして開けるというTipがあります。
 
-[![](/images/posts/2018/welcome_page-1024x781.png)](https://krita.org/wp-content/uploads/2018/09/welcome_page.png)
+[![](/images/posts/2018/welcome_page-1024x781.png)](/images/posts/2018/welcome_page.png)
 
 ここ数週間Dmitry Kazakovは猛烈な勢いでバグを修正しKritaを改善しています。その中の一つは高速プレビューモードの改善です。元々は2015年のKickstarterで資金を集めて開発した高速プレビューモードは、画像の縮小版を計算してそれを表示することで高速化を行います。ただ、ブラシの一部で、ストローク後に遅延が起きたり、キャンバスのちらつきが起きていました。[BUG:361448](https://bugs.kde.org/show_bug.cgi?id=361448). これは修正されました。ブラシでのペイントもよりスムーズに感じるようになりました！スムーズさに関しては[Ivan YossiのGoogle Summer of Codeでの開発](https://colorathis.wordpress.com/tag/kde/)もこのリリースに含まれています。
 
@@ -26,11 +26,11 @@ Krita 4.1.3はバグ修正リリースなのでバグ修正がメインですが
 
 ベジェ曲線ツールも改善されました。オートスムーズオプションが追加されました。オートスムーズを選択すると、作成される曲線は直線多角形ではなく、すべてのポイントが「スムーズ」に設定されたスムーズなカーブになります。[BUG:351787](https://bugs.kde.org/show_bug.cgi?id=351787)
 
-[![](/images/posts/2018/bezier_smoothing-1024x726.png)](https://krita.org/wp-content/uploads/2018/09/bezier_smoothing.png)
+[![](/images/posts/2018/bezier_smoothing-1024x726.png)](/images/posts/2018/bezier_smoothing.png)
 
 新機能の最後は矩形ツールです。ピクセルレイヤーでもベクターレイヤーでも角を丸めることができるようになりました。[BUG:335568](https://bugs.kde.org/show_bug.cgi?id=335568). もちろん後から編集して角を丸めることはこれまでも可能でしたが、今の方が簡単です。
 
-[![](/images/posts/2018/rounded_rectangles-1024x726.png)](https://krita.org/wp-content/uploads/2018/09/rounded_rectangles.png)
+[![](/images/posts/2018/rounded_rectangles-1024x726.png)](/images/posts/2018/rounded_rectangles.png)
 
 Wolthera van Hövell tot Westerflierが作成したPythonプラグインのコミックプロジェクトマネージャーも大幅に改善されました。特に標準準拠のepubとacbfファイルの生成が改善されています。関連情報になりますが、[KDEのコミックブックリーダーソフトのPeruse](https://peruse.kde.org/)もチェックしてみてください。改善点の長いリストはこちらです:
 
@@ -53,7 +53,7 @@ Wolthera van Hövell tot Westerflierが作成したPythonプラグインのコ�
 - Epub生成でQDomDocumentを使用、ncx/opfを分割これはよりよい見た目のxmlファイルを得るためにも必要ですそして正しいepub 2/3/3+の生成の余裕を持つためにも必要です
 - ComicBookInfoとComicRackジェネレータの更新
 
-[![](/images/posts/2018/Screenshot_20180828_155852-1024x797.png)](https://krita.org/wp-content/uploads/2018/09/Screenshot_20180828_155852.png)
+[![](/images/posts/2018/Screenshot_20180828_155852-1024x797.png)](/images/posts/2018/Screenshot_20180828_155852.png)
 
 以下がバグ修正の一覧です:
 

@@ -7,7 +7,7 @@ categories:
 
 Officially, on Friday the 2019 Krita Sprint was over. However, most people stayed until Saturday... It's been a huge sprint! Almost a complete convention, a meeting of developers and artists.
 
-[![](/images/posts/2019/IMG_20190806_204743139_HDR-1024x576.jpg)](https://krita.org/wp-content/uploads/2019/08/IMG_20190806_204743139_HDR.jpg) All the sprinters together
+[![](/images/posts/2019/IMG_20190806_204743139_HDR-1024x576.jpg)](/images/posts/2019/IMG_20190806_204743139_HDR.jpg) All the sprinters together
 
 The sprinters, artists, contributors and artists/contributors, all together.
 
@@ -25,15 +25,15 @@ Since we still weren't complete, we postponed the meeting until Thursday, so thi
 
 On Wednesday, we went on an expedition, to the [Openlucht Museum.](https://openluchtmuseum.nl/en) With twenty-three people attending, it was more efficient to actually rent a bus for the lot of us. The idea about the outing was to make sure people who had never been at a sprint and people who had been at sprints before would mingle and get to know each other. That worked fine!
 
-[![](/images/posts/2019/DSC00283-1024x768.jpg)](https://krita.org/wp-content/uploads/2019/08/DSC00283.jpg)
+[![](/images/posts/2019/DSC00283-1024x768.jpg)](/images/posts/2019/DSC00283.jpg)
 
 We had a somewhat disappointing guided tour. I had asked for a solid introduction in the social history of the Netherlands, but the guide still felt he needed to make endless inane and borderline sexist jokes that all fell very flat. Oh well, the buildings were great and the people inside the buildings were giving quite interesting information, with the rosmolen being a high point:
 
-[![From David Revoys sketchbook](/images/posts/2019/04_sketbook-at-krita-sprint-2019_by_david-revoy-768x1024.jpg)](https://krita.org/wp-content/uploads/2019/08/04_sketbook-at-krita-sprint-2019_by_david-revoy.jpg) From David Revoy's sketchbook
+[![From David Revoys sketchbook](/images/posts/2019/04_sketbook-at-krita-sprint-2019_by_david-revoy-768x1024.jpg)](/images/posts/2019/04_sketbook-at-krita-sprint-2019_by_david-revoy.jpg) From David Revoy's sketchbook
 
 And as you can see, it gave the artists and developer/artists amongst us a chance to do some analog painting (althoug at least one sprint attendant tried to paint with Krita on a Surface tablet, unfortunately cut short by battery problems):
 
-[![](/images/posts/2019/mills-1024x631.jpeg)](https://krita.org/wp-content/uploads/2019/08/mills.jpeg)
+[![](/images/posts/2019/mills-1024x631.jpeg)](/images/posts/2019/mills.jpeg)
 
 We followed up with dinner at an Indonesian restaurant, and went home tired but satisfied. There was still hacking and painting going on, though, until midnight.
 
@@ -43,7 +43,7 @@ Today we really had the core of our sprint. Some sprints are for coding, but thi
 
 In 2018/2019 the focus was fully on fixing bugs. There are now two full-time developers working on fixing bugs and improving stability more than this time last year, and both Boudewijn and Dmitry have dedicated all their coding time to fixing bugs as well. Weirdly enough, that doesn't seems to make much of a dent in our number of open bugs:
 
-[![](/images/posts/2019/bugs-2019-08-12.png)](https://krita.org/wp-content/uploads/2019/08/bugs-2019-08-12.png) Bugs, open, new and closed, since April.
+[![](/images/posts/2019/bugs-2019-08-12.png)](/images/posts/2019/bugs-2019-08-12.png) Bugs, open, new and closed, since April.
 
 One reason is that we manage to introduce too many regressions. That's partly explained by our new hackers needing to learn the codebase, partly by an enormous increase in our user base (we're on track to break 2,500,000 downloads a year in 2019), but mostly by our changes not getting enough testing before releasing. So, taking things out of the order we discussed them at the meeting, let's report on our Bugs and Stability discussion first.
 
@@ -175,4 +175,4 @@ To create: a task for rethinking what goes into dockers, and what goes somewhere
 
 Friday was the real hacking day. Some people already started leaving, but many people were staying around and started hacking on the issues identified during the meeting, like the action search widget. Bugs were being fixed, regressions identified and blogs posted. And even later on, on Saturday and Sunday, there was still hacking, like on the detached canvas feature.
 
-[![](/images/posts/2019/DSC00293-e1565439023332-1024x768.jpg)](https://krita.org/wp-content/uploads/2019/08/DSC00293-e1565439023332-1024x768.jpg) All the sprinters together again, photo taken by Krzyś
+[![](/images/posts/2019/DSC00293-e1565439023332-1024x768.jpg)](/images/posts/2019/DSC00293-e1565439023332-1024x768.jpg) All the sprinters together again, photo taken by Krzyś

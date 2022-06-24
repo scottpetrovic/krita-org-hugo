@@ -19,7 +19,7 @@ Following hot on the heels of FreOffice and KOffice on MeeGo, I made it possible
 
 I have a WeTab at home, which is a fun little device. The hardware looks pretty cool, and after a series of updates the software isn't half bad either. It's fun to finger paint, but frankly, without a pressure-sensitive stylus a tablet is never going to be a great platform for art.
 
-![](https://krita.org/wp-content/uploads/2010/12/wetab_krita.jpg)  
+![](/images/posts/2010/wetab_krita.jpg)  
 
 And for keyboard-less tablet usage, Krita's user interface needs a bit of tweaking, to say the least!
 

@@ -17,7 +17,7 @@ With these releases came improved brush outlines while painting, new features fo
 
 ### Bugs
 
-[![](/images/posts/2020/bugs_2020-1024x135.png)](https://krita.org/wp-content/uploads/2020/12/bugs_2020.png)
+[![](/images/posts/2020/bugs_2020-1024x135.png)](/images/posts/2020/bugs_2020.png)
 
 Still, [bugzilla is a disaster area](https://valdyas.org/fading/hacking/krita-hacking/nightmares-and-bugs/). We get too many bug reports that are actually user support requests, but apart from that, it's a never ending stream of things that need to be cleaned up. Check the link if you want to read about the nightmares...
 

@@ -9,7 +9,7 @@ Nuestra rutina diaria es el seguir corrigiendo una gran cantidad de errores de c
 
 Por lo tanto, del siguiente lanzamiento en adelante Krita tendrá una compatibilidad oficial con OSX.
 
-[![krita3osx](/images/posts/2016/krita3osx-1024x793.jpg)](https://krita.org/wp-content/uploads/2016/10/krita3osx.jpg)
+[![krita3osx](/images/posts/2016/krita3osx-1024x793.jpg)](/images/posts/2016/krita3osx.jpg)
 
  
 

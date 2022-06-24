@@ -38,7 +38,7 @@ https://www.youtube.com/watch?v=gWv--Do9L0E
 
 少なくとも、そういう計画です…道のりは遠いですが！
 
-[![](/images/posts/2018/resource_db_explorer-300x145.png)](https://krita.org/wp-content/uploads/2018/09/resource_db_explorer.png)
+[![](/images/posts/2018/resource_db_explorer-300x145.png)](/images/posts/2018/resource_db_explorer.png)
 
 また、サプライズもありました。
 
@@ -46,10 +46,10 @@ https://www.youtube.com/watch?v=gWv--Do9L0E
 
 Anna Medonosovaが素晴らしい新機能のガマットマスクを追加しました。アーティスティック色選択に、マスクの編集と適用機能を追加します。背景情報については[James Gurneyによるブログ記事を参照してください。](https://gurneyjourney.blogspot.com/2008/01/color-wheel-masking-part-1.html)
 
-[![](/images/posts/2018/gamut-300x300.png)](https://krita.org/wp-content/uploads/2018/09/gamut.png)
+[![](/images/posts/2018/gamut-300x300.png)](/images/posts/2018/gamut.png)
 
 また、デバッグログドッキングパネルが追加されたので、Windowsユーザーはdebug viewに苦労することはなくなりました。
 
-[![](/images/posts/2018/log-docker-300x300.png)](https://krita.org/wp-content/uploads/2018/09/log-docker.png)(Artwork by [Iza Ka](http://LifeFinalEdited.pl))
+[![](/images/posts/2018/log-docker-300x300.png)](/images/posts/2018/log-docker.png)(Artwork by [Iza Ka](http://LifeFinalEdited.pl))
 
 他にもいろいろあります！Reptorianは様々な新しいブレンドモードを追加し、新しい選択交差モードも開発しています。 Jouniはリファレンス画像ドッキングパネルの問題を修正していて、[アニメーションのフレームクローン機能](https://phabricator.kde.org/T8764)も実装しました！

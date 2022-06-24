@@ -169,10 +169,9 @@ Please feel free to draw fan arts of Kiki and share with us on social media! Sin
 
 The [Four Seasons of Leon and Kiki](/item/huion-and-krita-competition-winners/) art contest sponsored by Huion also features many lovely Kiki artworks.
 
-[![kiki-banajune](https://cdn.kde.org/krita/marketing/kiki/kiki-banajune-768x1024.png)](https://krita.org/wp-content/uploads/2015/06/kiki-banajune.png) By Banajune
+[![kiki-banajune](https://cdn.kde.org/krita/marketing/kiki/kiki-banajune-768x1024.png)] By Banajune
 
-[![](https://cdn.kde.org/krita/marketing/kiki/photo_20170322_kiki_set01_angle01-1024x681.jpg)](https://krita.org/wp-content/uploads/2017/03/photo_20170322_kiki_set01_angle01.jpg) [Model by Ito Ryou-ichi](/item/interview-with-ito-ryou-ichi/)
-
+![](https://cdn.kde.org/krita/marketing/kiki/photo_20170322_kiki_set01_angle01-1024x681.jpg) [Model by Ito Ryou-ichi](/item/interview-with-ito-ryou-ichi/)
  
 
 ![](https://cdn.kde.org/krita/marketing/kiki/kiki-konqi.jpeg) Kiki and Konqi by goshaag

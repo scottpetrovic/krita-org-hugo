@@ -13,7 +13,7 @@ We already did a ton of work! Wolthera finished up the last few problems in Mich
 
 Jouni got a long way with the implementation of animation clones and cycles: that is, a set of frames can now be "cloned" to appear in several places in your animation:
 
-\[video width="1250" height="774" mp4="https://krita.org/wp-content/uploads/2018/10/demo.mp4"\]\[/video\]
+\[video width="1250" height="774" mp4="/images/posts/2018/demo.mp4"\]\[/video\]
 
 Then we sat down and distributed bugs to the hackers present, and we got rid of a lot of bugs already (total bugs, new reports, closed, balance):
 
@@ -41,4 +41,4 @@ In case you missed it, Wolthera made a cool video showing off gamut masks and th
 
 And it's great to be together, of course! We've got people from the US, from Mexico, Russia, Finland and the Netherlands. For three of us, it's the first Krita sprint they've attended. Here are the early birds who were already happily hacking on Sunday morning, without even waiting until after breakfast!
 
-[![](/images/posts/2018/DSC00220-1024x768.jpg)](https://krita.org/wp-content/uploads/2018/10/DSC00220.jpg)
+[![](/images/posts/2018/DSC00220-1024x768.jpg)](/images/posts/2018/DSC00220.jpg)

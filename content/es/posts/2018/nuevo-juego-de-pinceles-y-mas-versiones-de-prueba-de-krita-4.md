@@ -13,7 +13,7 @@ Uno de los trabajos que se están realizando es la actualización del juego de p
 
 El juego de pinceles previo no tiene problemas, pero ya esta un poco desactualizado, se basa en su mayoría en una versión ya pasada del de [David Revoy](https://www.davidrevoy.com), desde ese tiempo tanto el juego de David como Krita mismo se han actualizado, existen nuevas funciones y parámetros en los motores de pinceles, por lo que varios artistas están colaborando para la creación de un nuevo conjunto, mas especializado y con menos redundancia.
 
-[![](/images/posts/2018/brushj_presets-1024x529.png)](https://krita.org/wp-content/uploads/2018/02/brushj_presets.png)
+[![](/images/posts/2018/brushj_presets-1024x529.png)](/images/posts/2018/brushj_presets.png)
 
 Dado que aun se está trabajando en el juego, se necesita de los comentarios y opiniones de los usuarios para cerciorarse que este grupo de pinceles será del agrado de la mayoría. Por lo que se pide que descarguen la versión de prueba mas reciente, dibujen y pinten y luego llenen el cuestionario que se encuentra en el siguiente enlanze.
 

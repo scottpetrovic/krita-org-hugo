@@ -59,7 +59,7 @@ Cyrille fixed a bug when copying selections, as well as a bug in the smudge tool
 
 **Lukas** added a "default settings" button to the brush settings popup. He expanded the hairy brush to have connected paths between bristles. There was a small issue where you wouldn't get feedback about the brush size when changing the size using the , and . shortcuts (those can be changed by the user, by the way), and Lukas made sure the user gets feedback now. Internally, Krita has two paint surfaces: one that autoextends, and one that is fixed. Lukas fixed a bug when using a fixed paint device as a selection mask. Finally, **Enkithan** created new icons for Lukas' new brush engines, and those were committed as well.  
 
-![](https://krita.org/wp-content/uploads/2010/04/krita-default-preset.png)  
+![](/images/posts/2010/krita-default-preset.png)  
 
 **Sven** fixed a crash and corruption when scaling a bitmap brush, made sure that the settings widgets for brush settings get deleted, fixed the outline of the hairy brush and made sure that if you create a canvas the size of your screen, it's in pixels, not in postscript points. Sven changed the superslider to also update the values when you move the mouse out of the widget: a really nice usability change! The popup palette didn't completely work with tablets yet -- part of it are Qt issues, but another issue, the color selection using the embedded triangle, was fixed by Sven. Finally, Sven fixed the saving of generator layers.
 

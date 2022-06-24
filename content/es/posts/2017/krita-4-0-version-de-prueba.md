@@ -65,7 +65,7 @@ Scott Petrovic ha estado trabajando junto a algunos artista en el diseño del ed
 
 Ésta nueva funcion puede ser controlada y modificada mediante el panel de cuadriculado:
 
-[![](/images/posts/2017/isometric-1024x715.png)](https://krita.org/wp-content/uploads/2017/11/isometric.png)
+[![](/images/posts/2017/isometric-1024x715.png)](/images/posts/2017/isometric.png)
 
 ## Filtros
 

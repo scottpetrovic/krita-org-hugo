@@ -9,7 +9,7 @@ categories:
 
 **El proyecto  de Ivan** se trata de hacer que las brochas actúen con mayor rapidez usando vectores.  Si ésto suena un tanto técnico, ¡Es por que lo es! Básicamente, el CPU es lo suficientemente fuerte para hacer bastantes cálculos al mismo tiempo, siempre y cuando sea el mismo tipo de operación, aun con números diferentes. Se le puede dar mas de 200 cifras al CPU, hacer que las multiplique, y lo hará tan rápido como el multiplicar una sola cifra. Y resulta que el producir el trazo de una brocha usa mas o menos el mismo calculo. Como todo proyecto, éste tiene también sus propias complicaciones y Ivan se ha dedicado a resolver estos problemas usando la misma lógica en brochas de Krita. Aquí mostramos una imagen con la comparación desde su [blog](https://colorathis.wordpress.com/):
 
-[![](/images/posts/2018/avx_cgauss_60.gif)](https://krita.org/wp-content/uploads/2018/09/avx_cgauss_60.gif)
+[![](/images/posts/2018/avx_cgauss_60.gif)](/images/posts/2018/avx_cgauss_60.gif)
 
 Arriba, trazo anterior; abajo, rapidez actual del trazo.
 
@@ -19,14 +19,14 @@ Por lo que cuando Dmitry, trabajo el año pasado en el uso de núcleos múltiple
 
 Así que el proyecto de Andrey es el hacer que la serie de de "tiles" funcionen sin bloqueo. Y tal trabajo ya se ha completado, todavía existen algunos problemas del código ya que esta parte es bastante complicada, por lo que se necesita bastante el poner a prueba estos cambios. Éste trabajo sera incluido en la versión 4.2 de Krita la cual estará lista al final de este año, parte del código ya se ha incluido en 4.1.1, ya que Andrey ha logrado bastantes mejoras con el mismo:
 
-[![](/images/posts/2018/lockless-1024x506.png)](https://krita.org/wp-content/uploads/2018/09/lockless.png)
+[![](/images/posts/2018/lockless-1024x506.png)](/images/posts/2018/lockless.png)
 
 **Michael** ha estado trabajando en algo completamente diferente: La compatibilidad de paletas de color. Las paletas son una serie de colores, los cuales nosotros llamamos recursos. El manipular las paletas era hecho mediante el código proveniente de Calligra en las versiones previas y KOffice en las mas antiguas. El código es complicado y difícil de entender por lo que el primer objetivo de Michael fue el ponerlo en orden, y esta parte ya se ha terminado y es parte de la versión 4.1.1 de Krita.
 
 El siguiente paso de su proyecto fue el trabajar en el panel de paletas, mismo cuyos detalles se encuentran en [ésta sección en Phabricator](https://phabricator.kde.org/D14815). Aun queda trabajo por realizar, sin embargo el trabajo planeado para el Google Summer of Code ya está completo.
 
-[![](/images/posts/2018/listanddocker-1024x512.jpg)](https://krita.org/wp-content/uploads/2018/09/listanddocker.jpg)
+[![](/images/posts/2018/listanddocker-1024x512.jpg)](/images/posts/2018/listanddocker.jpg)
 
 Éste el el dialogo de preferencias:
 
-[![](/images/posts/2018/DlgPaletteEditor-1024x517.png)](https://krita.org/wp-content/uploads/2018/09/DlgPaletteEditor.png)
+[![](/images/posts/2018/DlgPaletteEditor-1024x517.png)](/images/posts/2018/DlgPaletteEditor.png)

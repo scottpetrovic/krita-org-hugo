@@ -9,7 +9,7 @@ Hace un año, mas o menos, creamos el sitio web ask.krita.org. La idea era el te
 
 Posiblemente fue la plataforma usada, posiblemente los usuarios de Krita no están acostumbrados a sitios como stack-exchange, la verdad es que el sitio no funcionó de la manera que deseábamos.
 
-[![](/images/posts/2019/ask.png)](https://krita.org/wp-content/uploads/2019/06/ask.png)
+[![](/images/posts/2019/ask.png)](/images/posts/2019/ask.png)
 
 El hecho que nadie usaba el sistema de búsqueda para verificar si alguien mas ya había reportado el mismo problema, si se había resuelto, hacia que las mismas preguntas continuaran repitiéndose. Ademas no parecía que los usuarios mantenían las conversaciones o simplemente no se ayudaban unos con otros.
 

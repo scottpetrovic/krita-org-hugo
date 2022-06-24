@@ -17,11 +17,11 @@ Y hablando del evento de [**Google Summer of Code**](https://summerofcode.withg
 
 El el 2019 habrá otro evento, no estamos seguros si tendremos participantes, pero independientemente de lo que suceda, hemos creado algunas [ideas](https://community.kde.org/GSoC/2019/Ideas) en la cuales los estudiantes que deseen participar pueden tomar nota. Si eres uno de los interesados, ya es tiempo de que te pongas en contacto con el equipo de Krita. (Inglés es requerido)
 
-[![](/images/posts/2018/2018-fundraiser-hero2.png)](https://krita.org/wp-content/uploads/2018/09/2018-fundraiser-hero2.png)
+[![](/images/posts/2018/2018-fundraiser-hero2.png)](/images/posts/2018/2018-fundraiser-hero2.png)
 
 Ademas tuvimos nuestro evento de **recaudación** [de fondos](https://krita.org/en/fundraising-2018-campaign/), el cual fue todo un éxito. Esta vez no utilizamos Kickstarter, por lo que fue bastante difícil [el promoverlo](https://mail.kde.org/pipermail/kde-community/2018q4/004976.html). Por otro lado, sin tener que pagar por el servicio de Kickstarter, la ganancia neta que tuvimos igualó a la del evento del 2016, lo cual nos ha otorgado alrededor de 7 u 8 meses de trabajo completo.
 
-[![](/images/posts/2018/busy.png)](https://krita.org/wp-content/uploads/2018/12/busy.png)Nuestra comunidad ha crecido, Krita se ha descargado cercas de **dos millones** de veces durante el año, y eso es solo contando nuestra pagina, mas las descargas de la tienda de Windows, la tienda de Steam, y los Flatpacks de la comunidad. Ademas, las descargas de Windows y de las distribuciones de Linux se han puesto mas al día con las ultimas versiones disponibles.
+[![](/images/posts/2018/busy.png)](/images/posts/2018/busy.png)Nuestra comunidad ha crecido, Krita se ha descargado cercas de **dos millones** de veces durante el año, y eso es solo contando nuestra pagina, mas las descargas de la tienda de Windows, la tienda de Steam, y los Flatpacks de la comunidad. Ademas, las descargas de Windows y de las distribuciones de Linux se han puesto mas al día con las ultimas versiones disponibles.
 
 En el equipo de Krita, nos gusta el interactuar mas con los usuarios de nuestro programa, desafortunadamente, la gran cantidad de usuarios es demasiado grande para los pocos miembros que somos (alrededor de seis regulares) y nuestro tiempo lo deseamos poner en el código de Krita. Por lo que hemos decidido el crear un sitio con [preguntas y respuestas](https://ask.krita.org), y aun que todavía no sucede, esperamos que eventualmente se convierta en otra de las comunidades de los usuarios de Krita.
 

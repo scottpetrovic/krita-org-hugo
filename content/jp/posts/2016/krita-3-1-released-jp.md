@@ -11,7 +11,7 @@ tags:
 
 またたくさんの修正及び改良、高速化がなされています。変更の一覧については[Krita 3.1リリースノート（英語）](https://krita.org/en/release-notes-for-krita-3-1/)を御覧ください。
 
-[![krita_animation_3_0_2](/images/posts/2016/krita_animation_3_0_2-1024x826.gif)](https://krita.org/wp-content/uploads/2016/09/krita_animation_3_0_2.gif)
+[![krita_animation_3_0_2](/images/posts/2016/krita_animation_3_0_2-1024x826.gif)](/images/posts/2016/krita_animation_3_0_2.gif)
 
 以下が今回のバージョンでの主な変更点になります：
 
@@ -61,4 +61,4 @@ Ubuntu App Storeのベータチャンネルからスナップイメージが利�
 
 Kritaが実際にどんなことが出来るか見てみたいなら、**[Made with Krita 2016](https://krita.org/jp/item/made-with-krita-2016-the-krita-artbook-jp/)**はどうでしょうか？これはKritaの画集としては最初のものであり、現在事前予約を受付中です！
 
-[![Made with Krita 2016](/images/posts/2016/cover_small-217x300.png)](https://krita.org/wp-content/uploads/2016/12/cover_small.png) Made with Krita 2016
+[![Made with Krita 2016](/images/posts/2016/cover_small-217x300.png)](/images/posts/2016/cover_small.png) Made with Krita 2016

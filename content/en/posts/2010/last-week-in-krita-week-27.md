@@ -7,7 +7,7 @@ Week 27 saw about 40 commits to Krita. Especially Sven Langkamp did a lot of cle
 
 And look what [Ico-dY](http://www.turnangel.com) has made with the trunk version of Krita:  
 
-[![](https://krita.org/wp-content/uploads/2010/07/girl_in_blossom_xkrita.jpg)](http://forum.kde.org/viewtopic.php?f=138&t=88985)  
+[![](/images/posts/2010/girl_in_blossom_xkrita.jpg)](http://forum.kde.org/viewtopic.php?f=138&t=88985)  
 
 ### Code
 

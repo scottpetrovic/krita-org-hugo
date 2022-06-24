@@ -6,7 +6,7 @@ coverImage: "Wyrd-Sisters-z-napisami-Katarzyna-Oleska.jpg"
 
 _We found out that the German [Discworld](https://en.wikipedia.org/wiki/Discworld "Discworld on WIkipedia") covers were made with Krita, and had the privilege to ask the artist to talk about her work!_
 
-(Don't forget to [check out our 2015 Kickstarter](https://www.kickstarter.com/projects/krita/krita-free-paint-app-lets-make-it-faster-than-phot) campaign as well!) [![Color of Magic z napisami Katarzyna Oleska](/images/posts/2015/Color-of-Magic-z-napisami-Katarzyna-Oleska.jpg)](https://krita.org/wp-content/uploads/2015/05/Color-of-Magic-z-napisami-Katarzyna-Oleska.jpg)
+(Don't forget to [check out our 2015 Kickstarter](https://www.kickstarter.com/projects/krita/krita-free-paint-app-lets-make-it-faster-than-phot) campaign as well!) [![Color of Magic z napisami Katarzyna Oleska](/images/posts/2015/Color-of-Magic-z-napisami-Katarzyna-Oleska.jpg)](/images/posts/2015/Color-of-Magic-z-napisami-Katarzyna-Oleska.jpg)
 
 Hi. My name is Katarzyna Oleska and I am an Illustrator working for publishers, magazines and private clients. A couple of months ago, I came across a free program for painters called Krita. My experience of free programs in the past wasn't great, but to my surprise, Krita was different. At first I was overwhelmed with the number of dockers and settings, but soon found that they were there for a reason. I fell in love with Krita so much that I left my old Corel Painter and started using Krita to paint my commissions. Most of my recent Terry Pratchett covers were painted in Krita.
 
@@ -14,7 +14,7 @@ Hi. My name is Katarzyna Oleska and I am an Illustrator working for publishers, 
 
 I started painting covers back in 2003 when I was still studying architecture. I'd always liked to draw and paint and wanted to see my works in print. So one day I took a chance and e-mailed one of the publishers I wanted to work for. I attached a couple of samples of my works and I got my first job straight away. Pretty lucky. Back then I was still working traditionally but as time went by I bought a tablet and started working digitally.
 
-[![Pyramids z napisami Katarzyna Oleska](/images/posts/2015/Pyramids-z-napisami-Katarzyna-Oleska.jpg)](https://krita.org/wp-content/uploads/2015/05/Pyramids-z-napisami-Katarzyna-Oleska.jpg)
+[![Pyramids z napisami Katarzyna Oleska](/images/posts/2015/Pyramids-z-napisami-Katarzyna-Oleska.jpg)](/images/posts/2015/Pyramids-z-napisami-Katarzyna-Oleska.jpg)
 
 ### How do you find jobs?
 
@@ -30,7 +30,7 @@ The best decision of which scene or characters to put on the cover can only be m
 
 When choosing a scene to paint I usually try to analyse where the main focus of the story is. Very often I am tempted to paint a scene that would look amazing on the cover but I catch myself in time and remind myself that this particular scene, though amazing, wouldn't really sell the story. So I choose the one that will do it better and will also resonate with the title. For example with "Guards, Guards" the only reasonable choice was to paint the Guards running away from a dragon they were trying to track down. Nothing else would really fit.
 
-[![Guards Guards z napisami Katarzyna Oleska](/images/posts/2015/Guards-Guards-z-napisami-Katarzyna-Oleska.jpg)](https://krita.org/wp-content/uploads/2015/05/Guards-Guards-z-napisami-Katarzyna-Oleska.jpg)
+[![Guards Guards z napisami Katarzyna Oleska](/images/posts/2015/Guards-Guards-z-napisami-Katarzyna-Oleska.jpg)](/images/posts/2015/Guards-Guards-z-napisami-Katarzyna-Oleska.jpg)
 
 Sometimes, however, it's impossible to read a book because of a tight deadline or the language it was written in. When that happens I try to make sure I find out as much as possible about the book from the publisher.
 
@@ -40,7 +40,7 @@ The first and most obvious thing is that it's free. I love than young artists wi
 
 For me, Krita feels very natural to use. I have worked both in Photoshop and Painter before and although I like them, I've always been hoping to find a program that sits somewhere in between those two. As an illustrator I am mostly interested in paint tools. Photoshop has always seemed too technical and not so intuitive. Painter, while trying to deliver the painterly feel, wasn't really delivering it. With Krita I feel almost like I'm painting. The number of settings for brushes can be overwhelming at first, but it helps to create brushes that are customized specifically for me. I especially like how Krita manages patterns in brushes.
 
-[![Sorcery z napisami Katarzyna Oleska](/images/posts/2015/Sorcery-z-napisami-Katarzyna-Oleska.jpg)](https://krita.org/wp-content/uploads/2015/05/Sorcery-z-napisami-Katarzyna-Oleska.jpg)
+[![Sorcery z napisami Katarzyna Oleska](/images/posts/2015/Sorcery-z-napisami-Katarzyna-Oleska.jpg)](/images/posts/2015/Sorcery-z-napisami-Katarzyna-Oleska.jpg)
 
 ### What does Krita already do better, and what could make it better still?
 

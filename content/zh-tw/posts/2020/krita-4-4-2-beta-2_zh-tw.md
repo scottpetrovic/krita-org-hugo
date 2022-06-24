@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=DLXWynZT\_8s&feature=youtu.be
 
 此版本亦加入了六個由 Ramon Miranda 新設計的筆刷預設：
 
-[![](/images/posts/2020/rgba_brushes.png)](https://krita.org/wp-content/uploads/2020/12/rgba_brushes.png)
+[![](/images/posts/2020/rgba_brushes.png)](/images/posts/2020/rgba_brushes.png)
 
 ## 下載
 

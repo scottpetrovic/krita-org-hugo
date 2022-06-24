@@ -6,7 +6,7 @@ categories:
 coverImage: "duesterwald_800.jpg"
 ---
 
-[![duesterwald_800](/images/posts/2016/duesterwald_800.jpg)](https://krita.org/wp-content/uploads/2016/01/duesterwald_800.jpg)
+[![duesterwald_800](/images/posts/2016/duesterwald_800.jpg)](/images/posts/2016/duesterwald_800.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -54,7 +54,7 @@ That it's specifically geared towards digital painting. It contains a subset of 
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-"Höllentat", which I did recently after it was recommended I give the 16-bit mode a try for better blending. The result looks great, and I think I will use it for future pictures as well. I spent more time on the background details than I usually do. [![hoellentat_800](/images/posts/2016/hoellentat_800.jpg)](https://krita.org/wp-content/uploads/2016/01/hoellentat_800.jpg)
+"Höllentat", which I did recently after it was recommended I give the 16-bit mode a try for better blending. The result looks great, and I think I will use it for future pictures as well. I spent more time on the background details than I usually do. [![hoellentat_800](/images/posts/2016/hoellentat_800.jpg)](/images/posts/2016/hoellentat_800.jpg)
 
 ### What techniques and brushes did you use in it?
 

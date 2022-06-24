@@ -13,11 +13,11 @@ Today, the Krita team has released Krita 4.4.2. With over 300 changes, this is m
 
 Sharaf Zaman's Google Summer of Code project has landed in this release! Compatible with Inkscape, Krita now provides the second independent implementation of SVG Mesh Gradients. Mesh gradients are used on vector objects and can deliver really natural looking results:
 
-[![Mesh Gradients](/images/posts/2021/Handles-meshgradient-1024x554.png)](https://krita.org/wp-content/uploads/2020/12/Handles-meshgradient.png) Mesh Gradients
+[![Mesh Gradients](/images/posts/2021/Handles-meshgradient-1024x554.png)](/images/posts/2020/Handles-meshgradient.png) Mesh Gradients
 
 ### Mesh Transform
 
-[![Image showing how useful mesh transforms can be](/images/posts/2021/krita_4_4_2_mesh_gradients.png)](https://krita.org/wp-content/uploads/2020/12/krita_4_4_2_mesh_gradients.png) Mesh transforms will greatly speed up your concept by allowing complex transformations, such as the half-rounded grate on this window!
+[![Image showing how useful mesh transforms can be](/images/posts/2021/krita_4_4_2_mesh_gradients.png)](/images/posts/2020/krita_4_4_2_mesh_gradients.png) Mesh transforms will greatly speed up your concept by allowing complex transformations, such as the half-rounded grate on this window!
 
 But the gradients are not the only mesh related feature! This release also sees the first iteration of the mesh-transform. Like the gradient mesh, the mesh transform consists of bezier patches that can be individually shaped to create precise transforms, especially useful for rounded objects. Not shown in the above screenshot: you can optionally show the handles of each bezier curve making up the mesh for even more precision and control!
 
@@ -32,7 +32,7 @@ We're still tweaking this one, but currently the shortcuts are the following:
 
 ### Gradient Fill Layer and new Gradient Editor
 
-[![Showing the gradient fill layer and the new gradient editor.](/images/posts/2021/krita_4_4_2_new_gradient_editor_and_fill_layer.png)](https://krita.org/wp-content/uploads/2020/12/krita_4_4_2_new_gradient_editor_and_fill_layer.png) The gradient fill layer and the new gradient editor in action.
+[![Showing the gradient fill layer and the new gradient editor.](/images/posts/2021/krita_4_4_2_new_gradient_editor_and_fill_layer.png)](/images/posts/2020/krita_4_4_2_new_gradient_editor_and_fill_layer.png) The gradient fill layer and the new gradient editor in action.
 
 Deif Lou added a new gradient fill layer type, this one will make it easy to quickly create a variety of gradients non-destructively. With it, he also made an important usability fix: Gradients in Krita could be either segment type, or stop type, with different features each, and different editors each. That could get quite annoying if you were working on a gradient, but you realized you had the wrong type! This is now fixed, as both gradient types can now be edited by the same editor, which also converts between the two.
 
@@ -40,7 +40,7 @@ Deif Lou added a new gradient fill layer type, this one will make it easy to qui
 
 Deif Lou also created a new halftone filter. The old filter was slow and could not be used as a filter mask, and could only show dots.
 
-[![Our splash screen as filtered by the half tone filter](/images/posts/2021/krita_4_4_2_halftone_filter.png)](https://krita.org/wp-content/uploads/2020/12/krita_4_4_2_halftone_filter.png) The new halftone filter can do per-channel filtering, useful for vintag effects and maybe even printing!
+[![Our splash screen as filtered by the half tone filter](/images/posts/2021/krita_4_4_2_halftone_filter.png)](/images/posts/2020/krita_4_4_2_halftone_filter.png) The new halftone filter can do per-channel filtering, useful for vintag effects and maybe even printing!
 
 The new filter can handle being applied as filter layer, per-channel filtering, and the pattern itself can be generated with any of the fill layer options, giving endless combinations.
 
@@ -56,17 +56,17 @@ A small feature that allows you to only paste the style of the copied vector sha
 
 Originally, we had a shortcut, W, that enabled Krita's Wraparound mode, one of the features Adobe copied this year for the next release of Photoshop.
 
-[![](/images/posts/2021/wrap-around-mode.jpg)](https://krita.org/wp-content/uploads/2014/07/wrap-around-mode.jpg)
+[![](/images/posts/2021/wrap-around-mode.jpg)](/images/posts/2014/wrap-around-mode.jpg)
 
 But too many people pressed the shortcut by accident and were then confused and thought Krita had gone crazy... So we removed the shortcut, but now nobody could find it anymore. That's why in this release, we have added a button to the toolbar that activates wraparound:
 
-[![](/images/posts/2021/wraparound_button.png)](https://krita.org/wp-content/uploads/2020/12/wraparound_button.png)Please don't press it by accident!
+[![](/images/posts/2021/wraparound_button.png)](/images/posts/2020/wraparound_button.png)Please don't press it by accident!
 
 ### New brushes
 
 There are also six new brushes by Ramon Miranda, meant to show off the new RGBA brush tip feature:
 
-[![](/images/posts/2021/rgba_brushes.png)](https://krita.org/wp-content/uploads/2020/12/rgba_brushes.png)
+[![](/images/posts/2021/rgba_brushes.png)](/images/posts/2020/rgba_brushes.png)
 
 ### HiDPI Support
 

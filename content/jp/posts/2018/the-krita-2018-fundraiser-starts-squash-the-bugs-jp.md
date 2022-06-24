@@ -29,7 +29,7 @@ Kickstarterをやめたので、最初からクレジットカード、paypal、
 
 50ユーロ以上を支援した人は、Ramon Mirandaさんによる素晴らしい新しいブラシプリセットバンドルのDigital Atelierの無料ダウンロード権利を得ることができます。50以上の高品質の絵画的ブラシプリセット（油彩、パステル、水彩）に加えて2時間を超える制作についての詳細なチュートリアルビデオが含まれています。
 
-[![](/images/posts/2018/Digital-Atelier-Pack-Cover.png)](https://krita.org/wp-content/uploads/2018/09/Digital-Atelier-Pack-Cover.png)
+[![](/images/posts/2018/Digital-Atelier-Pack-Cover.png)](/images/posts/2018/Digital-Atelier-Pack-Cover.png)
 
  
 

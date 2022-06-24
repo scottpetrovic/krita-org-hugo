@@ -23,15 +23,15 @@ Entre los cambios mas destacados se tiene las herramientas de SVG y texto, así 
 
 - Herramienta y capa tipo mascara de coloreado. [Mas información en el manual](https://docs.krita.org/Colorize_Mask), (en ingles)
 
-[![](/images/posts/2018/colorize-mask.png)](https://krita.org/wp-content/uploads/2018/02/colorize-mask.png)
+[![](/images/posts/2018/colorize-mask.png)](/images/posts/2018/colorize-mask.png)
 
 - Mascaras de Pincel: duplica las puntas y algunos de los parámetros de cada pincel para un resultado de efectos mas interesantes.
 
-[![](/images/posts/2018/waterpaint.gif)](https://krita.org/wp-content/uploads/2018/02/waterpaint.gif)
+[![](/images/posts/2018/waterpaint.gif)](/images/posts/2018/waterpaint.gif)
 
 - Nuevo juego de pinceles: Se ha creado un nuevo conjunto de los pinceles originales de Krita, este nuevo juego ahora viene como paquete "bundle", ademas que el juego anterior también esta disponible, solo se requiere que se active en el administrador de recursos.
 
-[![](/images/posts/2018/bundles.png)](https://krita.org/wp-content/uploads/2018/03/bundles.png)
+[![](/images/posts/2018/bundles.png)](/images/posts/2018/bundles.png)
 
 ### Problemas presentes en esta version
 
@@ -93,4 +93,4 @@ Las firmas están [aquí](http://download.kde.org/unstable/krita/3.1.3-beta.1).
 
 Krita es un programa no solo de código libre si no ademas está a disposición de manera gratuita, éste proyecto solo es posible gracias a las donaciones hechas por nuestros usuarios, por favor considera la posibilidad de ayudarnos con una [donación](https://krita.org/en/support-us/donations/) o comprando [videos instructivos o nuestro libro de arte Made With Krita](https://krita.org/es/item/krita-3-2-0/%22https://krita.org/en/support-us/shop), solo con tu ayuda podremos mantener a nuestro pequeño grupo desarrollando Krita en tiempo completo, ¡Gracias!
 
-[![](/images/posts/2018/Krita4_Alegoric_final-1024x507.png)](https://krita.org/wp-content/uploads/2018/03/Krita4_Alegoric_final.png) Por Ramon Miranda
+[![](/images/posts/2018/Krita4_Alegoric_final-1024x507.png)](/images/posts/2018/Krita4_Alegoric_final.png) Por Ramon Miranda

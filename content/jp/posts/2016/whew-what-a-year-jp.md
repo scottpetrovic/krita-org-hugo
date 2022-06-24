@@ -7,7 +7,7 @@ categories:
 
 ここでは2016年に起こった他のことに対して意見を述べるつもりはありませんが、Kritaに関して言えば、2016年はこのプロジェクトにとって一番熾烈な年でした。少し立ち止まって振り返ってみましょう！
 
-[![](/images/posts/2016/krita-3.0-1024x559.png)](https://krita.org/wp-content/uploads/2016/05/krita-3.0.png)
+[![](/images/posts/2016/krita-3.0-1024x559.png)](/images/posts/2016/krita-3.0.png)
 
 Kritaの成長は飛躍的です。これまでになくユーザも貢献者も増えていて、時には重荷を感じます!
 
@@ -28,7 +28,7 @@ Kritaは活発に使用されているだけではなく、非常に活発に開
 
 それでも、私達はほぼボランティアで構成された小さなチームです。楽しんではいますが、時にはユーザのリクエスト、サポート要請、コーディング、ドキュメント作成、コミュニティ管理、バグのトリアージだけで手一杯になってしまいます。Kickstarterに再び成功しましたが、その投資報酬はまだ製作中です。アートブックも製作中です…素晴らしいものになりそうです。[予約を受付中です](https://krita.org/en/support-us/shop/)！
 
-[![](/images/posts/2016/cover_small-217x300.png)](https://krita.org/wp-content/uploads/2016/12/cover_small.png) Made with Krita 2016
+[![](/images/posts/2016/cover_small-217x300.png)](/images/posts/2016/cover_small.png) Made with Krita 2016
 
 とはいえ、すべては1月には発送準備ができるはずです。それはもう来年の話です！2017年はKritaに何をもたらすのでしょうか？それについては[これからについての記事](https://krita.org/jp/item/looking-forward-jp/)を既に書きました。SVGサポート、ベクターツールの改善、テキストツールの改善、Pythonスクリプティングの追加の予定については皆さん知っていることかと思います。それだけではなく、Dmitryはさらに先週アニメーションでの音声データ読み込み機能を追加しました。次のリリース、1月末予定の3.1.2で利用できるようになります。定期的なバグ修正リリースをもちろん行う予定で、2015年の残りと2016年のKickstarterゴールとその他コーディングされた機能を含む大きな機能追加リリースも最低1つは行う予定です。コードだけではありません。2017年にはもう一つ本をリリースしたいと思っています。[Pepper and Carrot](http://peppercarrot.com/) の本です!
 

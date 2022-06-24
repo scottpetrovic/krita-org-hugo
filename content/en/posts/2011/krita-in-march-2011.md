@@ -19,11 +19,11 @@ We had a couple of really nice contributions from newcomers in the past few week
 
 Ryu by David Revoy
 
-![](https://krita.org/wp-content/uploads/2011/03/speedpaint_ryu_deevad_plassy_smudge.jpg)  
+![](/images/posts/2011/speedpaint_ryu_deevad_plassy_smudge.jpg)  
 
 Ganesh by Animtim
 
-![](https://krita.org/wp-content/uploads/2011/03/ganapainti_720.png)  
+![](/images/posts/2011/ganapainti_720.png)  
 
 **Dmitry Kazakov**, again sponsored by Silvio Grosso, has been working on fixing issues with really big images. While not perfect yet, the tile pooler is now useful again, even when using multi-layer images of about 10000x10000 pixels. The pooler mainly improves painting speed when starting a new stroke, and so is extremely important, even if it's a hidden feature.
 

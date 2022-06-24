@@ -51,7 +51,7 @@ As we get ready to gear up for our first release designed to take Krita out into
 
 And this is what Krita currently looks like -- very close, but not quite to the final release:
 
-![](https://krita.org/wp-content/uploads/2010/09/krita_girl_in_blossom_by_enrico_guarniere.png)
+![](/images/posts/2010/krita_girl_in_blossom_by_enrico_guarniere.png)
 
 Image is "Girl in Bloom" By Enrico Guarnieri (Ico-dY), July 10,2010  
 Krita file available from the [Krita.org/showcase](http://Krita.org/showcase "Krita showcase")

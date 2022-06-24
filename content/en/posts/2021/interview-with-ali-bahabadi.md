@@ -68,9 +68,9 @@ Krita is free and easily accessible. This is great. But I think focusing on digi
 
 Maybe this cat.
 
-[![Head and part of the torso of a fluffy white cat](/images/posts/2021/5.jpg)](https://krita.org/wp-content/uploads/2021/09/5.jpg)
+[![Head and part of the torso of a fluffy white cat](/images/posts/2021/5.jpg)](/images/posts/2021/5.jpg)
 
-Two weeks before I drew this cat, I had drawn a cat which I think was awful. The next week I drew another cat and left it half-finished, and I drew another cat and tried to hide its flaws under its fur. But it was not good either. So I decided to draw only cats every day for at least a week. And after a week I drew this and I was almost satisfied with it (please see my progress in drawing this cat in the photos below). [![Progress pictures of cat drawing](/images/posts/2021/improvment-in-a-week.jpg)](https://krita.org/wp-content/uploads/2021/09/improvment-in-a-week.jpg)
+Two weeks before I drew this cat, I had drawn a cat which I think was awful. The next week I drew another cat and left it half-finished, and I drew another cat and tried to hide its flaws under its fur. But it was not good either. So I decided to draw only cats every day for at least a week. And after a week I drew this and I was almost satisfied with it (please see my progress in drawing this cat in the photos below). [![Progress pictures of cat drawing](/images/posts/2021/improvment-in-a-week.jpg)](/images/posts/2021/improvment-in-a-week.jpg)
 
 And here's a timelapse: 
 

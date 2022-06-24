@@ -15,7 +15,7 @@ I've been wanting to sit down and write a little update on Krita all week -- but
 
 Of course, this is not all: in a week, the [Libre Graphics Meeting](http://www.libregraphicsmeeting.org) will be held in Montreal. Lukas Tvrdy will present the latest developments in Krita, Timothy Giet will give a workshop on drawing comics with Krita and Boudewijn will be around to give a personal introduction to Krita to any artist willing to listen and play -- and he will be giving a presentation on Krita to graphics professionals at the Saturday event. 
 
-[![](https://krita.org/wp-content/uploads/2011/04/160x600.jpg)](http://libregraphicsmeeting.org)  
+[![](/images/posts/2011/160x600.jpg)](http://libregraphicsmeeting.org)  
 
 And one week after the Libre Graphics Meeting, Krita developers and users from all over the world will get together in Amsterdam, where the [Blender Institute](http://www.blender.org/blender-institute/) has graciously made available a room for us to gather and discuss the next stage in Krita's development. We already have had some preliminary discussions with artists David Revoy and Timothy Giet which pointed us in one very clear direction: polish, _polish_, **_polish_**!
 
@@ -49,4 +49,4 @@ So now we have a new button in the layerbox that allow you to chose the blending
 
 See you soon! Give Krita a try and join the growing band of master users of Krita master! Let's end with a nice bit of art by André Vaz:
 
-![](https://krita.org/wp-content/uploads/2011/04/agent-adam_p16_hr_inks.jpg)
+![](/images/posts/2011/agent-adam_p16_hr_inks.jpg)

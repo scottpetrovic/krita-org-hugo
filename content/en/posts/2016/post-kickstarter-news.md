@@ -40,21 +40,21 @@ Here's the full vote breakdown:
 
 With Python clearly in the lead, we already started on implementing a Python scripting plugin, in the hope that we can use that to implement some of the remaining 2015 stretch goals, like the improved palette/color swatches docker. It already somewhat works: you can create Krita plugins in Python that add dockers or menu items, and there's a Python plugin that makes it possible to run Python scripts from Krita with access to the Krita Python API. Which is currently limited to counting the number of open windows, but still!
 
-[![scripter](/images/posts/2016/scripter-1024x582.png)](https://krita.org/wp-content/uploads/2016/06/scripter.png)
+[![scripter](/images/posts/2016/scripter-1024x582.png)](/images/posts/2016/scripter.png)
 
 ### Google Summer of Code
 
 It's mid-term time already for our Google Summer of Code students! All of them passed, fortunately, because all of them are doing great work. Wolthera is nearly finished with implementing soft-proofing. She even already wrote a [manual page](https://docs.krita.org/Soft_Proofing) for the feature, and it's currently being tested extensively. If all is fine, and it's looking good, soft-proofing will land in Krita 3.0.1, which would make Krita once again one of the first projects participating in Google Summer of Code to release the results to the world! Soft-proofing includes configurable gamut alarms and white-point adaptation slider that can be used to check the effect of paper on your image. Krita will save the proofing profile with your image, instead of relying on a global setup, which means you can create templates for particular printers, for instance. And you can have a proofed and an unproofed view of your image _at the same time_.
 
-[![gamut_alarms_fast](/images/posts/2016/gamut_alarms_fast-1024x553.png)](https://krita.org/wp-content/uploads/2016/06/gamut_alarms_fast.png)
+[![gamut_alarms_fast](/images/posts/2016/gamut_alarms_fast-1024x553.png)](/images/posts/2016/gamut_alarms_fast.png)
 
 Julian Thijsen is hard at work on fixing the OpenGL QPainter engine. Check out [his series of blog posts,](http://kritadev.blogspot.nl/) detailing the paths his adventure takes him on. There's a lot of work to do here, but progress is brisk! And in the end, his work will be submitted for inclusion in Qt, which means everyone will benefit. Right now, the goal is to fix Qt's OpenGL backend for the QPainter class so it can render all of Krita's tools -- that's things like cursors, or the assistants, or the line that the gradient tool draws.
 
-[![Working_01](/images/posts/2016/Working_01.png)](https://krita.org/wp-content/uploads/2016/06/Working_01.png)
+[![Working_01](/images/posts/2016/Working_01.png)](/images/posts/2016/Working_01.png)
 
 Jouni Pentikainen is busy working on interpolation curves so we can automatically and smoothly animated changes in, for example, opacity. He's also working on making it possible to animate transformation masks between frames -- and that's something that'll give animators enormous freedom! Check out his [blog for more information](http://kritaanimation.blogspot.nl/). This is a mockup, created during the discussions about the flow of interaction and user experience design:
 
-[![interpolation-mockup](/images/posts/2016/interpolation-mockup.png)](https://krita.org/wp-content/uploads/2016/06/interpolation-mockup.png)
+[![interpolation-mockup](/images/posts/2016/interpolation-mockup.png)](/images/posts/2016/interpolation-mockup.png)
 
 ### Releases
 
@@ -62,7 +62,7 @@ We've made a new release schedule: 3.0.1 will be released July 15th. Apart from 
 
 And after the release of Krita 3.0, the animation edition, [Saisho Kazuki](https://twitter.com/motoaki_saisho), a professional Japanese animator adopted Krita as one of his tools. He readily agreed to our request to contribute a template he made for his work to us. His templateis based on true steps of animation which are used in Japanese Anime Studios -- and that will also be in Krita 3.0.1:
 
-[![animation_template](/images/posts/2016/animation_template-1024x577.png)](https://krita.org/wp-content/uploads/2016/06/animation_template.png)
+[![animation_template](/images/posts/2016/animation_template-1024x577.png)](/images/posts/2016/animation_template.png)
 
 For a zero-dot-one release, this is going to be pretty exciting!
 

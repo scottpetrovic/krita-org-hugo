@@ -7,7 +7,7 @@ Today the Krita team releases Krita 3.1.1 ! Krita 3.1 is the first release that 
 
 There are a lot of fixes, improvements, and speedups. Visit the [Krita 3.1 release notes](/release-notes-for-krita-3-1/) for a list of everything that was changed.
 
-[![krita_animation_3_0_2](/images/posts/2016/krita_animation_3_0_2-1024x826.gif)](https://krita.org/wp-content/uploads/2016/09/krita_animation_3_0_2.gif)
+[![krita_animation_3_0_2](/images/posts/2016/krita_animation_3_0_2-1024x826.gif)](/images/posts/2016/krita_animation_3_0_2.gif)
 
 These are the highlights:
 
@@ -67,4 +67,4 @@ The Linux appimage and the source tarbal are signed. You can load the public key
 
 If you want to see what others can do with Krita, get [**Made with Krita 2016**](/item/made-with-krita-2016-the-krita-artbook/), the first Krita artbook, now available for pre-order!
 
-[![Made with Krita 2016](/images/posts/2016/cover_small-217x300.png)](https://krita.org/wp-content/uploads/2016/12/cover_small.png) Made with Krita 2016
+[![Made with Krita 2016](/images/posts/2016/cover_small-217x300.png)](/images/posts/2016/cover_small.png) Made with Krita 2016

@@ -7,7 +7,7 @@ Today is the final day of the Google Summer of Code period. For Krita, this year
 
 Well, with the multi-threaded canvas updating, canvas rotation, next-generation color selector, transformation tool, hatching brush and phong bumpmap filter, we're getting so close! Now it's time for stabilizing, polishing and.... bug fixing! Here's a screenshot of Krita showing off the canvas rotation and canvas border color:
 
-![](https://krita.org/wp-content/uploads/2010/08/krita_rotation.png)  
+![](/images/posts/2010/krita_rotation.png)  
 
 ### Bug Day
 

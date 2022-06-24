@@ -67,7 +67,7 @@ Scott Petrovicは様々なアーティストと共にブラシエディタを作
 
 グリッドに等角オプションが追加されました。グリッドドッキングパネルでコントロールできます:
 
-[![](/images/posts/2017/isometric-1024x715.png)](https://krita.org/wp-content/uploads/2017/11/isometric.png)
+[![](/images/posts/2017/isometric-1024x715.png)](/images/posts/2017/isometric.png)
 
 ## フィルタ
 

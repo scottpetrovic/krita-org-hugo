@@ -11,4 +11,4 @@ Please do report any bugs you find in [bugs.kde.org](http://bugs.kde.org)!
 
 You can download the installer from [www.kogmbh.com/download.html](http://www.kogmbh.com/download.html) -- have fun testing and report back your findings!  
 
-![](https://krita.org/wp-content/uploads/2011/12/krita_windows.png)
+![](/images/posts/2011/krita_windows.png)

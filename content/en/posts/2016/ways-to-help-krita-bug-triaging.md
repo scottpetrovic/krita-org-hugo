@@ -15,7 +15,7 @@ And every report needs to be read, preferably by several people, who can try to 
 
 We're using KDE's bugzilla to track bugs for Krita. Now we admit up-front that bugzilla is an old-fashioned monster of a web application, but it's what we have, and for now we'll have to make it work for us! Here's what you see when you search for open Krita bugs:
 
-[![Spectacle.Lh7342](/images/posts/2016/Spectacle.Lh7342.png)](https://krita.org/wp-content/uploads/2016/03/Spectacle.Lh7342.png)
+[![Spectacle.Lh7342](/images/posts/2016/Spectacle.Lh7342.png)](/images/posts/2016/Spectacle.Lh7342.png)
 
 Whoops, 320 open bugs... Important bits of information are:
 
@@ -32,21 +32,21 @@ As you can see, we really need help! Your friendly author, Boudewijn, is also th
 
 Go to https://bugs.kde.org and select "Create new Account"
 
-### [![Spectacle.nS7342](/images/posts/2016/Spectacle.nS7342-1024x492.png)](https://krita.org/wp-content/uploads/2016/03/Spectacle.nS7342.png)
+### [![Spectacle.nS7342](/images/posts/2016/Spectacle.nS7342-1024x492.png)](/images/posts/2016/Spectacle.nS7342.png)
 
 Complete the registration forms, and click on the confirmation link in the email you get sent (I'm using Alpine for reading email, which is a text-mode client... That's optional!).
 
-[![Spectacle.kn7342](/images/posts/2016/Spectacle.kn7342.png)](https://krita.org/wp-content/uploads/2016/03/Spectacle.kn7342.png)
+[![Spectacle.kn7342](/images/posts/2016/Spectacle.kn7342.png)](/images/posts/2016/Spectacle.kn7342.png)
 
 ### Setup Email Notifications
 
 Log in into bugzilla and click on the Preferences link at the top, then "Email Preferences". Bugzilla can send a lot of email, but fortunately it includes a number of special headers that make it easy to filter bug mail into special mailboxes. There are two steps: first are the general email preferences:
 
-[![Spectacle.Ti7342](/images/posts/2016/Spectacle.Ti7342.png)](https://krita.org/wp-content/uploads/2016/03/Spectacle.Ti7342.png)
+[![Spectacle.Ti7342](/images/posts/2016/Spectacle.Ti7342.png)](/images/posts/2016/Spectacle.Ti7342.png)
 
 And then there's the important bit, that makes sure you get email for all bugs that are about Krita. Add the user "krita-bugs-null@kde.org" to the list of User Watches:
 
-[![Spectacle.wZ7342](/images/posts/2016/Spectacle.wZ7342-1024x452.png)](https://krita.org/wp-content/uploads/2016/03/Spectacle.wZ7342.png)
+[![Spectacle.wZ7342](/images/posts/2016/Spectacle.wZ7342-1024x452.png)](/images/posts/2016/Spectacle.wZ7342.png)
 
 Now you will get mail whenever anything happens to a Krita bug. Using the special bugzilla headers, you can sort all the mail ready for handling:
 

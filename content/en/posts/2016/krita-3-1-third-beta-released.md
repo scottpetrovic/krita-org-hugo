@@ -5,7 +5,7 @@ date: "2016-11-07"
 
 Here is the third Krita 3.1 beta! From the Krita 3.1 on, Krita will officially support OSX. All OSX users are urged to use this version instead of earlier "stable" versions for OSX.
 
-[![krita_animation_3_0_2](/images/posts/2016/krita_animation_3_0_2-1024x826.gif)](https://krita.org/wp-content/uploads/2016/09/krita_animation_3_0_2.gif)
+[![krita_animation_3_0_2](/images/posts/2016/krita_animation_3_0_2-1024x826.gif)](/images/posts/2016/krita_animation_3_0_2.gif)
 
 Note one important change in this beta: saving no longer waits until the image is done rendering. This means that if Krita is still busy and you want to save, you will be warned that the saved file might be incomplete. We're still working on this, so it isn't the final solution for the saving problem, and if you want to to be sure to not lose data, save your work often...
 

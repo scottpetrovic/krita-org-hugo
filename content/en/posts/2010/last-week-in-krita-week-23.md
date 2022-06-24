@@ -13,7 +13,7 @@ Boudewijn did some coding as well: you can now save documents as templates, and 
 
 Sven started getting back into Krita hacking now his new laptop has arrived by fixing a bug that caused Krita to crash when loading brush presets that have a hue setting. And then he continued with something planned for a long time: the reorganization of the brushes and stuff toolbar. We've put the blending mode on top as well as an easy toggle for the eraser:
 
-![](https://krita.org/wp-content/uploads/2010/06/erased_angel.png)
+![](/images/posts/2010/erased_angel.png)
 
 There's more work to be done there in time for 2.3 to make this important part of Krita as smooth and useful as possible, of course.  
 

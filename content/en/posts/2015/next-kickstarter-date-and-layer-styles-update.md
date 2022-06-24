@@ -3,7 +3,7 @@ title: "Next Kickstarter Date and Layer Styles Update"
 date: "2015-04-21"
 ---
 
-[![kickstarter-logo](/images/posts/2015/kickstarter-logo.png)](https://krita.org/wp-content/uploads/2015/02/kickstarter-logo.png)
+[![kickstarter-logo](/images/posts/2015/kickstarter-logo.png)](/images/posts/2015/kickstarter-logo.png)
 
 While we continue to work on bugs for the next release (2.9.3), we have also been planning and working on the next Kickstarter!
 

@@ -9,12 +9,12 @@ Krita 团队为大家带来了新版软件，Krita 4.2.9。题外话，我们在
 
 不过我们克服了这些困难！Krita 4.2.9 在测试期间遇到的所有问题都已解决，软件不但非常稳定，还为大家带来了一些全新功能！
 
-- Dmitry 对笔刷轮廓的显示方式作出了改进，它在画布上悬停时不会再闪烁了： \[video width="960" height="540" mp4="https://krita.org/wp-content/uploads/2020/02/2020-02-11\_comparing-outline.mp4"\]\[/video\]
+- Dmitry 对笔刷轮廓的显示方式作出了改进，它在画布上悬停时不会再闪烁了： \[video width="960" height="540" mp4="/images/posts/2020/2020-02-11\_comparing-outline.mp4"\]\[/video\]
 - Dmitry 还为颜色涂抹笔刷引擎加入了“喷枪”、“频率”和“宽高比”参数，“宽高比”参数可以通过映射到传感器来控制笔尖形状的扁度。Ramón Miranda 专门制作了一个视频进行介绍：
     
     <iframe src="https://www.youtube.com/embed/fyc8-qgxAww" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
     
-- 新加入的开发人员 Saurabh Kumar 为软件添加了 "拆分至本地选区蒙版" 功能：[![Layer Split Dialog](/images/posts/2020/Screenshot_20200225_140252.png)](https://krita.org/wp-content/uploads/2020/02/Screenshot_20200225_140252.png)
+- 新加入的开发人员 Saurabh Kumar 为软件添加了 "拆分至本地选区蒙版" 功能：[![Layer Split Dialog](/images/posts/2020/Screenshot_20200225_140252.png)](/images/posts/2020/Screenshot_20200225_140252.png)
 
 我们在本版软件中修复了大量问题……下面列出了其中一部分：
 

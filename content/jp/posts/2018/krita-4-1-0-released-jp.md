@@ -25,7 +25,7 @@ https://youtu.be/N6oHLuICrHM
 
 そして数多くのバグ修正がもちろん含まれ、レンダリングパフォーマンス改善と他にも新機能を含んでいます。**Krita 4.1の新機能についての [完全なリリースノートはこちら](https://krita.org/en/krita-4-1-release-notes/) です！**
 
-[![](/images/posts/2018/krita_41-1024x1024.png)](https://krita.org/wp-content/uploads/2018/06/krita_41.png) Image by RJ Quiralta
+[![](/images/posts/2018/krita_41-1024x1024.png)](/images/posts/2018/krita_41.png) Image by RJ Quiralta
 
 ## ダウンロード
 

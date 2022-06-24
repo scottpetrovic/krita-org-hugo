@@ -6,7 +6,7 @@ categories:
 coverImage: "Bruno-Fernandez-Campo-de-Rosas-800.jpg"
 ---
 
-### [![](/images/posts/2015/Bruno-Fernandez-3-800.jpg)](https://krita.org/wp-content/uploads/2015/11/Bruno-Fernandez-3.jpg)
+### [![](/images/posts/2015/Bruno-Fernandez-3-800.jpg)](/images/posts/2015/Bruno-Fernandez-3.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -30,7 +30,7 @@ However, I like many artists like Carlos Alonso, Edvard Munch, Klimt, Egon Schie
 
 All in all, I cannot forget my children: their freshness and flow without conditioning. They always remind me the child I used to be and the future I imagined.
 
-[![Bruno Fernandez 1](/images/posts/2015/Bruno-Fernandez-1-800.jpg)](https://krita.org/wp-content/uploads/2015/11/Bruno-Fernandez-1.jpg)
+[![Bruno Fernandez 1](/images/posts/2015/Bruno-Fernandez-1-800.jpg)](/images/posts/2015/Bruno-Fernandez-1.jpg)
 
 ### How and when did you get to try digital painting for the first time?
 
@@ -40,7 +40,7 @@ My first time was frustrating. I remembered I tried to do something with Gimp, o
 
 I wanted to find applications that fulfilled the same expectations I had with physical tools. Thus, Mypaint was the first application I tried.
 
-[![Bruno Fernandez 2](/images/posts/2015/Bruno-Fernandez-2-800.png)](https://krita.org/wp-content/uploads/2015/11/Bruno-Fernandez-2.png)
+[![Bruno Fernandez 2](/images/posts/2015/Bruno-Fernandez-2-800.png)](/images/posts/2015/Bruno-Fernandez-2.png)
 
 ### How did you find out about Krita? What do you love about  Krita?
 
@@ -52,7 +52,7 @@ All in all, Krita is my favourite application because of its potential and resou
 
 I am always excited when I finish a picture. In my last work, I try to see my own transition to observe the aspects I overcame. I think "Campo de rosas" represents the state of my art at the moment. As regards resources, it is important to mention paintbrushes by Pablo Cazorla and David Revoy.
 
-[![Bruno Fernandez Campo de Rosas](/images/posts/2015/Bruno-Fernandez-Campo-de-Rosas-800.jpg)](https://krita.org/wp-content/uploads/2015/11/Bruno-Fernandez-Campo-de-Rosas-.jpg)
+[![Bruno Fernandez Campo de Rosas](/images/posts/2015/Bruno-Fernandez-Campo-de-Rosas-800.jpg)](/images/posts/2015/Bruno-Fernandez-Campo-de-Rosas-.jpg)
 
 ### Where can people see more of your work?
 

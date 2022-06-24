@@ -15,19 +15,19 @@ Originally, we would mention in the Store listing that people could also get Kri
 
  
 
-[![](/images/posts/2018/store_listing-1024x980.png)](https://krita.org/wp-content/uploads/2018/07/store_listing.png)
+[![](/images/posts/2018/store_listing-1024x980.png)](/images/posts/2018/store_listing.png)
 
 This, Microsoft contends falls foul of its [policy](https://docs.microsoft.com/en-us/legal/windows/agreements/store-policies#108-financial-transactions) 10.8.5:
 
-[![](/images/posts/2018/Screenshot_20180730_151859.png)](https://krita.org/wp-content/uploads/2018/07/Screenshot_20180730_151859.png)
+[![](/images/posts/2018/Screenshot_20180730_151859.png)](/images/posts/2018/Screenshot_20180730_151859.png)
 
 However, this is part of Policy 10.8:
 
-[![](/images/posts/2018/Screenshot_20180730_151934-1024x138.png)](https://krita.org/wp-content/uploads/2018/07/Screenshot_20180730_151934.png)
+[![](/images/posts/2018/Screenshot_20180730_151934-1024x138.png)](/images/posts/2018/Screenshot_20180730_151934.png)
 
 Sounds clear, right? If your app includes those things, 10.8.5 applies. So, if your app doesn't do that, it shouldn't apply. At least, that was our naive interpretation. However, Microsoft disagrees. In a mail to the Krita maintainer they say:
 
-[![](/images/posts/2018/mail_microsoft-1024x443.png)](https://krita.org/wp-content/uploads/2018/07/mail_microsoft.png)
+[![](/images/posts/2018/mail_microsoft-1024x443.png)](/images/posts/2018/mail_microsoft.png)
 
 And, of course, apart from 10.8 not being the case, so the "if" clause doesn't apply, it's not the Krita application that "promotes or distributes software" outside the Microsoft Store but the Store listing, and 10.8.5 doesn't say anything about _that_.
 

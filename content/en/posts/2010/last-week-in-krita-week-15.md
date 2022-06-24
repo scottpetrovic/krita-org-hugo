@@ -17,7 +17,7 @@ As we near the 2.2 release, the developers are getting tired with running. Or so
 
 **Lukáš Tvrdý** was on a bit of a roll with his brush engines. The hairy brush gained anti-aliases strokes and some optimizations, as well as a way to use blending modes for brush hairs. Ink depletion is now optional, and off by default. Enable it for the authentic sumi-e effect! The hairy brush now can also use the rotation and opacity sensors. Spacing for the soft brush was changed, which makes the brush engine more useful, and, even more fun, the softness curve can be controlled using the pressure of your tablet. [Look at Lukas having fun with the hairy brush:](http://forum.kde.org/viewtopic.php?f=138&t=87358)  
 
-![](https://krita.org/wp-content/uploads/2010/04/chumac_thumb.jpg)  
+![](/images/posts/2010/chumac_thumb.jpg)  
 
 **Sven Langkamp** fixed the loading of generator layers. Generators are a kind of filters that don't take input; one could create flame, dust, fog, clouds, fractal generator layers -- but right now, we've only implemented the solid color generator layer. And finally, Sven removed the non-working preset button on the toolbar (it is supposed to show a preview of the preset, but we disabled that during the sprint) with an ordinary button.
 

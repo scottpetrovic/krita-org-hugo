@@ -66,7 +66,7 @@ Scott Petrovic has been working with a number of artists to rework the brush edi
 
 The grid now has a new Isometric option. This can be controlled and modified through the grid docker:
 
-[![](/images/posts/2017/isometric-1024x715.png)](https://krita.org/wp-content/uploads/2017/11/isometric.png)
+[![](/images/posts/2017/isometric-1024x715.png)](/images/posts/2017/isometric.png)
 
 ## Filters
 

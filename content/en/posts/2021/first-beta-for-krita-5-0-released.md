@@ -43,7 +43,7 @@ Now, what's in it? [The answer is a lot](/krita-5-0-release-notes/)! Check out t
 
 And a host of smaller improvements, smaller features and lots of performance improvements!
 
-[![Krita in the old oxygen style](/images/posts/2021/krita-style-change-1024x533.png)](https://krita.org/wp-content/uploads/2021/08/krita-style-change.png)
+[![Krita in the old oxygen style](/images/posts/2021/krita-style-change-1024x533.png)](/images/posts/2021/krita-style-change.png)
 
 We intend to release the final version in September, but that is _not_ a hard promise! We will continue fixing issues that come in from testing the beta and the nightly builds so we can release a solid Krita 5. Please consider supporting Krita's development through the [development fund](https://fund.krita.org/):
 

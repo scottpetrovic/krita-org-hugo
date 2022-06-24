@@ -7,7 +7,7 @@ categories:
 
 Solo queda poco mas de un mes antes de que se finalice el tiempo de aceptación de las entradas para el libro de arte Krita 2016. ya hemos recibido bastantes trabajos muy buenos, pero aun hay tiempo por si deseas participar y ser parte del primer libro de arte de Krita. Este libro se enviara a las setenta personas que en la campaña del Kickstarter donaron a Krita y optaron por el libro como un regalo de gratitud, ademas de que estará disponible al publico mediante nuestra tienda.
 
-[![kiki_artbook_small](/images/posts/2016/kiki_artbook_small.png)](https://krita.org/wp-content/uploads/2016/06/kiki_artbook_small.png)
+[![kiki_artbook_small](/images/posts/2016/kiki_artbook_small.png)](/images/posts/2016/kiki_artbook_small.png)
 
 Éstas son las reglas y puntos a tomar en cuenta:
 
@@ -24,7 +24,7 @@ Solo queda poco mas de un mes antes de que se finalice el tiempo de aceptación 
 
 Ésta es la forma en la que se verá:
 
-[![spread](/images/posts/2016/spread-1024x718.png)](https://krita.org/wp-content/uploads/2016/06/spread.png)
+[![spread](/images/posts/2016/spread-1024x718.png)](/images/posts/2016/spread.png)
 
 Si te gustaría participar, manda tu entrada a foundation@krita.org. con lo siguiente:
 

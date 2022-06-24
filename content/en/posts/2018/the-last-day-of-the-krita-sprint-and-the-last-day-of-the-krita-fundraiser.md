@@ -9,15 +9,15 @@ categories:
 
 We fully intended to make a post every day to keep everyone posted on what's happening here in sunny Deventer, the Netherlands.
 
-[![](/images/posts/2018/IMG_8849-200x300.jpg)](https://krita.org/wp-content/uploads/2018/10/IMG_8849.jpg)
+[![](/images/posts/2018/IMG_8849-200x300.jpg)](/images/posts/2018/IMG_8849.jpg)
 
 And that failed because we were just too busy! I'm triaging bugs even as I'm working on this post, too! We are on track to have fixed about a hundred bugs during this sprint. On the other hand, the act of fixing bugs seems to invite people to test, and then to report bugs, so in the past ten days, there were fifty new reports. That all makes for a very hectic sprint indeed!
 
-[![](/images/posts/2018/bugs_fixed-1.png)](https://krita.org/wp-content/uploads/2018/10/bugs_fixed-1.png)
+[![](/images/posts/2018/bugs_fixed-1.png)](/images/posts/2018/bugs_fixed-1.png)
 
 All through the week, we all touched many different parts of Krita, sharing knowledge and making everyone of us more all-round when it comes to Krita's codebase. Remember, [people have been working on this code since 1999](https://phabricator.kde.org/R37:547279396fd1e263242d8f56263ab05aa32ec1ac). Nobody back then expected we'd have millions of users one day!
 
-[![](/images/posts/2018/team.png)](https://krita.org/wp-content/uploads/2018/10/team.png)
+[![](/images/posts/2018/team.png)](/images/posts/2018/team.png)
 
 At the Krita headquarters, one usually cooks for two or three, cooking for eight was a bit of a challenge, but cook we did, for Wolthera, Irina, Boudewijn, Dmitry, Ivan, Jouni, Emmet and Eoin. Let's go through the days, menu and bugs!
 
@@ -67,7 +67,7 @@ And it's not just people at the sprint who are busy! Mehmet Salih Çalışkan su
 
 In the afternoon, we went out for a walk and met the Deventer sheep herd, as well as the shepherd.
 
-[![](/images/posts/2018/IMG_8914.jpg)](https://krita.org/wp-content/uploads/2018/10/IMG_8914.jpg)
+[![](/images/posts/2018/IMG_8914.jpg)](/images/posts/2018/IMG_8914.jpg)
 
 That evening, none of us cooked, we went out to Da Mario instead to have dinner together with one of the more local supporters of Krita.
 

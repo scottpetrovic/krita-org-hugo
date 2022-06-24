@@ -9,7 +9,7 @@ La segunda parte de el curso de arte para video juegos con Krita denominado "Mak
 
  
 
-[![](/images/posts/2017/krita-course-cel-shading.jpg)](https://krita.org/wp-content/uploads/2017/05/krita-course-cel-shading.jpg)
+[![](/images/posts/2017/krita-course-cel-shading.jpg)](/images/posts/2017/krita-course-cel-shading.jpg)
 
 Ésta parte del curso está basada en el webcomic de David Revoy, Pepper and Carrot, el cual es elaborado completamente en Krita, lo cual hace que su uso sea el ejemplo perfecto para las lecciones presentadas. David usa la licencia CC-By 4.0 en su webcomic, permitiendo su uso con la mención apropiada.
 
@@ -17,4 +17,4 @@ Para mas información, visita la pagina del curso.
 
 [https://gumroad.com/l/cartoon-game-art-krita-course](https://gumroad.com/l/cartoon-game-art-krita-course)
 
-[![](/images/posts/2017/banner_gumroad.jpg)](https://krita.org/wp-content/uploads/2017/05/banner_gumroad.jpg)
+[![](/images/posts/2017/banner_gumroad.jpg)](/images/posts/2017/banner_gumroad.jpg)

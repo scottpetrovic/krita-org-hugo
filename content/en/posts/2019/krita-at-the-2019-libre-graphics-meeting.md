@@ -7,7 +7,7 @@ categories:
 
 Every year, many people working on free or open source graphics applications and projects, as well as people using those applications, come together for the [Libre Graphics Meeting](https://libregraphicsmeeting.org/2019/). Originally started with the GIMP team getting together, these meetings have grown into an institution. This year's edition was in sunny Saarbrücken.
 
-[![](/images/posts/2019/IMG_20190527_084130-e1559899353888-225x300.jpg)](https://krita.org/wp-content/uploads/2019/06/IMG_20190527_084130-e1559899379237.jpg)
+[![](/images/posts/2019/IMG_20190527_084130-e1559899353888-225x300.jpg)](/images/posts/2019/IMG_20190527_084130-e1559899379237.jpg)
 
 This year, 2019, three people from the Krita team attended: Boudewijn, Wolthera and Agata. As with most of these conferences, what's happening outside the presentation track is the most interesting thing, though this year many of the presentations were uncommonly interesting as well.
 

@@ -3,7 +3,7 @@ title: "Game Art Quest 150% funded"
 date: "2015-12-10"
 ---
 
-Here's Nathan with a new update:[![gameartquest150-funded](/images/posts/2015/gameartquest150-funded.png)](https://krita.org/wp-content/uploads/2015/12/gameartquest150-funded.png)
+Here's Nathan with a new update:[![gameartquest150-funded](/images/posts/2015/gameartquest150-funded.png)](/images/posts/2015/gameartquest150-funded.png)
 
 I’m back with a new batch of tutorials for you! As promised, here are the overviews of the Beta instant preview and animation toolset in Krita.
 

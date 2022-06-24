@@ -9,7 +9,7 @@ tags:
 
 Krita 3.1第3ベータ版がリリースされました。Krita 3.1より、Kritaは正式にOSXに対応します。OSXユーザーの皆さんには以前の「安定版」のOSX版の代わりにぜひこのバージョンを使うことを強くおすすめします。
 
-[![krita_animation_3_0_2](/images/posts/2016/krita_animation_3_0_2-1024x826.gif)](https://krita.org/wp-content/uploads/2016/09/krita_animation_3_0_2.gif)
+[![krita_animation_3_0_2](/images/posts/2016/krita_animation_3_0_2-1024x826.gif)](/images/posts/2016/krita_animation_3_0_2.gif)
 
 このベータ版での特筆すべき重要な変更点は保存が画像の出力を待たなくなったことです。つまり、Kritaが何かの作業で手一杯の時に保存を行おうとした場合、保存したファイルが壊れているという警告が出る可能性があるということです。現在もこれに関する開発は続行中で、この解決策が保存に関する問題の最終結果になるわけではありません。もしデータを失いたくない場合は、こまめに保存するようにしましょう…
 

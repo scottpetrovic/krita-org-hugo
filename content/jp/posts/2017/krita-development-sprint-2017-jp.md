@@ -13,7 +13,7 @@ categories:
 
 これがその証拠です:
 
-[![](/images/posts/2017/bugs_november_sprint-874x1024.png)](https://krita.org/wp-content/uploads/2017/11/bugs_november_sprint.png)では他の[議論された](https://docs.google.com/document/d/1TnrwAqLPfjPO-0VES2FaJQTgxgQNYSX4UiPPNjAE0aE/edit#heading=h.qum3twq1ypdv)トピックに移ります...
+[![](/images/posts/2017/bugs_november_sprint-874x1024.png)](/images/posts/2017/bugs_november_sprint.png)では他の[議論された](https://docs.google.com/document/d/1TnrwAqLPfjPO-0VES2FaJQTgxgQNYSX4UiPPNjAE0aE/edit#heading=h.qum3twq1ypdv)トピックに移ります...
 
 ### Krita 4.0
 

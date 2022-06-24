@@ -25,7 +25,7 @@ https://youtu.be/gWv--Do9L0E
 
 **Estando al** **día** Por lo pronto solo en Linux, ya que aun estamos trabajando en el uso de ciertas partes del softaware para los otros sistemas. Al iniciar Krita ahora posee una vista de bienvenida en la cual ademas de abrir nuevos documentos o los últimos ya usados, también se pueden ver las noticias mas recientes directamente desde nuestra pagina. Por defecto la función esta desactivada para evitar que Krita se quiera conectar a nuestra pagina por el Internet cuando éste no está disponible, y solo se muestra un marco con la opción de activación justo arriba del mismo.
 
-[![](/images/posts/2018/news_widget-1024x566.png)](https://krita.org/wp-content/uploads/2018/10/news_widget.png)
+[![](/images/posts/2018/news_widget-1024x566.png)](/images/posts/2018/news_widget.png)
 
 **Asistentes de dibujo con colores** Es posible el cambiar colores en los los asistentes de dibujo, los colores seleccionados son guardados con cada documento lo que permite mayor control por documento.
 
@@ -35,7 +35,7 @@ https://youtu.be/gWv--Do9L0E
 
 **Una mejor vista** Krita 4.2 tendrá muchas composturas las cuales mejoran el proceso de pintado, tales como la posibilidad de cambiar el tamaño de las vistas previas en el panel de capas, una mejor interacción con las paletas de color, hacer posible el traducir los controladores de Python, etc. Ademas hay nuevos modos de mezclado disponibles y mas por ser agregados. El controlador de G'MIC se ha actualizado a la ultima versión disponible.
 
-\[video width="344" height="502" mp4="https://krita.org/wp-content/uploads/2018/08/resize-thumbnail.mp4"\]\[/video\]
+\[video width="344" height="502" mp4="/images/posts/2018/resize-thumbnail.mp4"\]\[/video\]
 
 **Bastantes composturas de errores** Ya casi estamos a las 200 composturas de errores de código incorporadas en lo que sera 2.4, y el numero sigue creciendo.
 

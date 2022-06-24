@@ -11,7 +11,7 @@ Krita 公开测试第 2 版与第 1 版一样存在[一些需要旧版用户注�
 
 公开测试第 2 版在第 1 版的基础上修复了超过 700 项程序缺陷。现在我们至少还需要解决[这些程序缺陷](https://bugs.kde.org/buglist.cgi?bug_severity=critical&bug_severity=grave&bug_severity=major&bug_severity=crash&bug_severity=normal&bug_severity=minor&bug_status=UNCONFIRMED&bug_status=CONFIRMED&bug_status=ASSIGNED&bug_status=REOPENED&keywords=regression%2C%20release_blocker%2C%20&keywords_type=anywords&list_id=1918546&product=krita&query_format=advanced)后才能正式发布 Krita 5.0。此版软件还包含了重构的 GPU 加速画布程序，大幅改善了在 HiDPI 和 macOS 环境下的性能。
 
-[![](/images/posts/2021/electrichearts_20201224A_kiki_c1_1080P-1024x512.png)](https://krita.org/wp-content/uploads/2021/08/electrichearts_20201224A_kiki_c1_1080P.png) Tyson Tan (钛山) 绘制的新版启动图
+[![](/images/posts/2021/electrichearts_20201224A_kiki_c1_1080P-1024x512.png)](/images/posts/2021/electrichearts_20201224A_kiki_c1_1080P.png) Tyson Tan (钛山) 绘制的新版启动图
 
 下面是自公开测试第 1 版以来的比较值得一提的更新：
 

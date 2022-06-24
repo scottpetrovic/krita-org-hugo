@@ -13,7 +13,7 @@ A éste punto ya hemos realizado bastante trabajo, Wolthera resolvió los proble
 
 Jouni ha avanzado bastante con el clonado y con los ciclos en las animaciones. El clonado te permite copiar "clonar" varios fotogramas para que estos aparezcan repetidos en diferentes partes del metraje.:
 
-\[video width="1250" height="774" mp4="https://krita.org/wp-content/uploads/2018/10/demo.mp4"\]\[/video\]
+\[video width="1250" height="774" mp4="/images/posts/2018/demo.mp4"\]\[/video\]
 
 También hicimos la distribución de reportes de errores entre todos los miembros presentes para poder avanzar de manera rápida en su compostura, logrando así eliminar un gran numero de "bichos" (errores/reportes):
 
@@ -41,4 +41,4 @@ https://www.youtube.com/watch?v=d3\_HL9OoHs4
 
 ¡Es siempre un placer el estar juntos entre los miembros de nuestro equipo! Con personas de US, México, Rusia, Finlandia y Holanda. Tres de los cuales es la primera reunión de Krita a la que asisten. Abajo se muestra a los madrugadores quienes llegaron primero y los cuales ya se encontraban desarrollando el domingo por la mañana, sin siquiera esperar por el desayuno.
 
-[![](/images/posts/2018/DSC00220-1024x768.jpg)](https://krita.org/wp-content/uploads/2018/10/DSC00220.jpg)
+[![](/images/posts/2018/DSC00220-1024x768.jpg)](/images/posts/2018/DSC00220.jpg)

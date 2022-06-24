@@ -13,9 +13,9 @@ And, of course, a lot is happening in [Krita's repository](https://invent.kde.or
 
 So we merged... But we all knew that the branch wasn't ready yet. There are bugs, there are things lacking, but it was time to take this step -- now more people can look into the resource handling changes. Of course, this gave an immediate spike in the number of open bugs:
 
-[![](/images/posts/2020/Screenshot_20200402_105349.png)](https://krita.org/wp-content/uploads/2020/04/Screenshot_20200402_105349.png)In general, we're not exactly close to zero bugs... Even though we close more bugs year over year than there are reported, the number keeps climbing. There must be something wrong with my maths...
+[![](/images/posts/2020/Screenshot_20200402_105349.png)](/images/posts/2020/Screenshot_20200402_105349.png)In general, we're not exactly close to zero bugs... Even though we close more bugs year over year than there are reported, the number keeps climbing. There must be something wrong with my maths...
 
-[![](/images/posts/2020/Screenshot_20200402_105503.png)](https://krita.org/wp-content/uploads/2020/04/Screenshot_20200402_105503.png) Open, new and closed bugs in the past year.
+[![](/images/posts/2020/Screenshot_20200402_105503.png)](/images/posts/2020/Screenshot_20200402_105503.png) Open, new and closed bugs in the past year.
 
 This week we also discussed our roadmap: 4.2.9 will be the last 4.2 release. We'll release 4.3.0 in about two months, but it won't be the release with all the resource work done. What's currently master will be 5.0, and it will be the release where the old text tool will be finally gone. It will have the resource rework, and probably also lots of new features and summer of code work.
 

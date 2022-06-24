@@ -11,7 +11,7 @@ We've had a really busy week. We already gave you an idea of our latest test-bui
 
 So what is exactly new in this build? Especially interesting are all the improvements to PSD import/export support. Yesterday [we learned that Katarzyna uses PSD as her working format when working with Krita](/posts/krita-comes-to-discworld/) \-- we still don't recommend that, but it's easier now!
 
-[![Check the pass-through switch in the group layer entry in the layerbox!](/images/posts/2015/passthtrough.png)](https://krita.org/wp-content/uploads/2015/05/passthtrough.png) Check the pass-through switch in the group layer entry in the layerbox!
+[![Check the pass-through switch in the group layer entry in the layerbox!](/images/posts/2015/passthtrough.png)](/images/posts/2015/passthtrough.png) Check the pass-through switch in the group layer entry in the layerbox!
 
 - Dmitry implemented Pass-Through mode for group layers. Note: filter, transform and transparency masks and pass-through mode don't work together yet, but loading and saving groups from and to PSD now does! Pass-through is _not_ a fake blending mode as in Photoshop: it is a switch on the group layer. See the screenshot!
 - We now can load and save layerstyles, with patterns from PSD files! Get out your dusty PSDs for testing!

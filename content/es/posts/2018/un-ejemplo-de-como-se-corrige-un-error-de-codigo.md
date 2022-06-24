@@ -9,7 +9,7 @@ categories:
 
 De hecho  Dmitry y yo (Boudewijn) nos pusimos a revisar el mismo problema al mismo tiempo, el cual está relacionado con el uso de atajos de teclado, el cual se se usa para el cierre de ventanas, pero que al usarlo, una ventana se abre diciendo que el atajo es ambiguo y por lo tanto no se ejecuta ninguna acción.
 
-[![](/images/posts/2018/ambiguous.png)](https://krita.org/wp-content/uploads/2018/09/ambiguous.png)
+[![](/images/posts/2018/ambiguous.png)](/images/posts/2018/ambiguous.png)
 
 El dialogo no menciona cual es la otra acción que produce la ambigüedad, solo que existe, todo lo que produce un evento en Krita que se puede usar con un atajo del teclado es referido como una, [_acción_](http://doc.qt.io/qt-5/qaction.html). Y muy al fondo del código, Qt mantiene la lista de todos los atajos, Qt es una base externa  (creado por otra organización) que usamos pero que nosotros no modificamos directamente.
 

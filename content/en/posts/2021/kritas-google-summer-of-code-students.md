@@ -13,4 +13,4 @@ Congratulations on getting selected, all of you!
 
 Part of the work our sponsored developers do is mentoring our students. Google's mentor stipend goes to [KDE](https://www.kde.org), not to the mentors, so this is another reason to join our development fund!
 
-[![](https://krita.org/wp-content/uploads/2021/05/landing-page-banner.png)](https://fund.krita.org)
+[![](/images/posts/2021/landing-page-banner.png)](https://fund.krita.org)

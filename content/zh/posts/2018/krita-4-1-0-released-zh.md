@@ -26,7 +26,7 @@ https://youtu.be/N6oHLuICrHM
 
 另外还有大量的问题已被修正，渲染性能的改进以及其他改进。**请阅读[完整的更新日志](https://krita.org/en/krita-4-1-release-notes/)以发现 Krita 4.1 的全部改进！**
 
-[![](/images/posts/2018/krita_41-1024x1024.png)](https://krita.org/wp-content/uploads/2018/06/krita_41.png)图像作者：RJ Quiralta
+[![](/images/posts/2018/krita_41-1024x1024.png)](/images/posts/2018/krita_41.png)图像作者：RJ Quiralta
 
 ## 下载
 

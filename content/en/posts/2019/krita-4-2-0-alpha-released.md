@@ -9,7 +9,7 @@ categories:
 
 We're on track to release Krita 4.2.0  this month, and today we're releasing the alpha! That means that we're still fixing bugs like crazy -- just check what we've been doing this month:
 
-[![](/images/posts/2019/bugs_april_may.png)](https://krita.org/wp-content/uploads/2019/05/bugs_april_may.png)
+[![](/images/posts/2019/bugs_april_may.png)](/images/posts/2019/bugs_april_may.png)
 
 But of course there's much more. We've been working on this release for a long time now, since June last year when Krita 4.1 was released. We have fixed about 1500 bugs in that period, and implemented a host of new features, workflow improvements and little bits of spit and polish.
 

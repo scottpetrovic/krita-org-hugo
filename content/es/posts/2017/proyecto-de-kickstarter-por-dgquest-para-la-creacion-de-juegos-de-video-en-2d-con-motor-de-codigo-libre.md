@@ -15,10 +15,10 @@ Durante la campaña de Kickstarter, con tu aportación podrás ver un video in
 
 Visita la pagina y ayuda a correr la voz: [Make Professional 2d Games: Godot Engine Online Course](https://kck.st/2q8BEGb)
 
-[![](/images/posts/2017/Godot-Kickstarter-stretch-goal-level.png)](https://krita.org/wp-content/uploads/2017/05/Godot-Kickstarter-stretch-goal-level.png)
+[![](/images/posts/2017/Godot-Kickstarter-stretch-goal-level.png)](/images/posts/2017/Godot-Kickstarter-stretch-goal-level.png)
 
 GDQuest logró la meta de Kickstarter en menos de 12 horas. Toda la ganancia extra se usa para mas contenido no solo para los que contribuyen, ¡Si no también para todos! GDQuest contribuirá ademas con demostraciones y documentación para Godot 3.0. Todo el dinero será usado en la producción del curso así como en los recursos educativos dispuestos gratuitamente.
 
 **¡Visitanos!  ¡[Free daily tutorials on Youtube!](https://youtube.com/playlist?list=PLhqJJNjsQ7KEr_YlibZ3SBuzfw9xwGduK).**
 
-[![](/images/posts/2017/Godot-Kickstarter-promo-banner.jpg)](https://krita.org/wp-content/uploads/2017/05/Godot-Kickstarter-promo-banner.jpg)
+[![](/images/posts/2017/Godot-Kickstarter-promo-banner.jpg)](/images/posts/2017/Godot-Kickstarter-promo-banner.jpg)

@@ -13,7 +13,7 @@ categories:
 
 ### 加入步骤
 
-### [![](/images/posts/2021/krita_fund.png)](https://krita.org/wp-content/uploads/2021/05/krita_fund.png)
+### [![](/images/posts/2021/krita_fund.png)](/images/posts/2021/krita_fund.png)
 
 1. 在上图表格中点击一行，选择捐款级别。此金额为每月定期捐款。Gold (黄金) 级别以上的捐款者将被列出在网站底部 (也可以选择不显示)。
 2. 点击后网页会跳转到 MyKDE 登录页面。如果你从未使用过 KDE 网络服务，请先点击“Register”按钮注册。已注册 KDE Identity 的成员可以直接登录授权。

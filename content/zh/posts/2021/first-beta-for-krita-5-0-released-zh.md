@@ -8,7 +8,7 @@ categories:
 
 今天 Krita 开发团队为大家带来了 Krita 5.0 的公开测试第 1 版。Krita 5.0 是一次重大更新版本，它包含了大量新功能和程序功能的变更。
 
-[![](/images/posts/2021/electrichearts_20201224A_kiki_c1_1080P-1024x512.png)](https://krita.org/wp-content/uploads/2021/08/electrichearts_20201224A_kiki_c1_1080P.png) Krita 5.0 新版启动图，由 Tyson Tan (钛山) 绘制
+[![](/images/posts/2021/electrichearts_20201224A_kiki_c1_1080P-1024x512.png)](/images/posts/2021/electrichearts_20201224A_kiki_c1_1080P.png) Krita 5.0 新版启动图，由 Tyson Tan (钛山) 绘制
 
 ### Krita 5.0 使用前注意事项
 
@@ -58,7 +58,7 @@ Krita 5.0 带来了众多新功能，详情请查看[完整发行日志](https:/
 
 除此之外，Krita 5.0 还包括了许多功能和性能方面的小幅改进。在此不再赘述。
 
-[![Krita in the old oxygen style](/images/posts/2021/krita-style-change-1024x533.png)](https://krita.org/wp-content/uploads/2021/08/krita-style-change.png)
+[![Krita in the old oxygen style](/images/posts/2021/krita-style-change-1024x533.png)](/images/posts/2021/krita-style-change.png)
 
 我们希望能在今年 9 月份发布 Krita 5.0 的正式版本，但我们无法确保能按期发布。我们接下来将要继续修复在测试版中发现的问题，尽可能保证 Krita 5.0 正式发布时的可靠性。为了支持 Krita 的开发工作，请在条件允许时考虑向 [Krita 发展基金](https://fund.krita.org/)捐款：
 

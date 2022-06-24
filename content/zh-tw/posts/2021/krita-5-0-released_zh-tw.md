@@ -20,7 +20,7 @@ Krita 5.0 終於正式發佈了！
 
 除此之外，還有很多其他改進！如欲了解更多，可閱讀[發佈通告](https://krita.org/zh-tw/krita-5-0-release-notes_zh-tw/)，裡面含有更全面的介紹。
 
-\[video width="1920" height="1080" mp4="https://krita.org/wp-content/uploads/2021/12/Video-for-store\_final-30fps.mp4"\]\[/video\]
+\[video width="1920" height="1080" mp4="/images/posts/2021/Video-for-store\_final-30fps.mp4"\]\[/video\]
 
 影片音樂由 [Irene Fariña](https://www.instagram.com/irerakmusic/) 提供。
 

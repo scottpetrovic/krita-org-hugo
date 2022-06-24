@@ -17,7 +17,7 @@ Fill layers can now make use of multi-threading. This means that if your compute
 
 ### Transformations for the pattern fill
 
-[![](/images/pages/krita_4_4_texture_example.png)](https://krita.org/wp-content/uploads/2020/09/krita_4_4_texture_example.png)
+[![](/images/pages/krita_4_4_texture_example.png)](/images/posts/2020/krita_4_4_texture_example.png)
 
 The different pattern transforms possible now.
 
@@ -25,13 +25,13 @@ The [patterns of fill layers](https://docs.krita.org/en/reference_manual/layers_
 
 ### Screentone
 
-[![](/images/pages/fill_layer_screentone_postprocessing.png)](https://krita.org/wp-content/uploads/2020/09/fill_layer_screentone_postprocessing.png)
+[![](/images/pages/fill_layer_screentone_postprocessing.png)](/images/posts/2020/fill_layer_screentone_postprocessing.png)
 
 [A new fill layer option](https://docs.krita.org/en/reference_manual/layers_and_masks/fill_layer_generators/screentone.html) specialized in filling the whole screen with dots, squares, lines, waves or more. This fill layer allows you to quickly generate the simple pattern you need on the fly, which is very useful for those doing comic book illustration or similar highly graphics styles.
 
 ### Multigrid
 
-[![](/images/pages/multigrid-color-examples.png)](https://krita.org/wp-content/uploads/2020/09/multigrid-color-examples.png)
+[![](/images/pages/multigrid-color-examples.png)](/images/posts/2020/multigrid-color-examples.png)
 
 [A fill layer that generates](https://docs.krita.org/en/reference_manual/layers_and_masks/fill_layer_generators/multigrid.html), among others, [Penrose tilings](https://en.wikipedia.org/wiki/Penrose_tiling), as well as Quasicrystal structures. The results are rotationally symmetric, but aperiodic, meaning these rhomb patterns don't repeat themselves.
 
@@ -39,7 +39,7 @@ This filter was inspired by the next item on the list...
 
 ### SeExpr
 
-[![](/images/pages/1096px-SeExpr_manual_1.jpg)](https://krita.org/wp-content/uploads/2020/08/1096px-SeExpr_manual_1.jpg)
+[![](/images/pages/1096px-SeExpr_manual_1.jpg)](/images/posts/2020/1096px-SeExpr_manual_1.jpg)
 
 SeExpr Manual
 
@@ -49,7 +49,7 @@ Amyspark's Google Summer of Code project, the integration of Disney Animation's 
 
 Following the addition of the lightness mode in 4.3, this release sees another round of features for the brush engines.
 
-[![](/images/pages/flowers_gradients_lightness.png)](https://krita.org/wp-content/uploads/2020/09/flowers_gradients_lightness.png)
+[![](/images/pages/flowers_gradients_lightness.png)](/images/posts/2020/flowers_gradients_lightness.png)
 
 Top stroke: using a combination of the new lightness parameter with the mix parameter. Bottom stroke: using the texture strength parameter to mix gradient mapped brush tips and textures.
 
@@ -65,7 +65,7 @@ Brushes now have the ability to use [lightness and the gradients for textures](h
 
 Diagonal lines allow modifying _lightness and saturation_ of the currently active color at the same time.
 
-[![Diagonal lines in MyPaint Color Selector (Shift+M)](/images/pages/mypaint_selector_diagonal.png)](https://krita.org/wp-content/uploads/2020/09/mypaint_selector_diagonal.png)
+[![Diagonal lines in MyPaint Color Selector (Shift+M)](/images/pages/mypaint_selector_diagonal.png)](/images/posts/2020/mypaint_selector_diagonal.png)
 
 Diagonal lines in MyPaint Color Selector (Shift+M)
 
@@ -73,7 +73,7 @@ Diagonal lines in MyPaint Color Selector (Shift+M)
 
 While Krita had support for the GIMP Gradient format, we never supported the dynamic changing of [gradients](https://docs.krita.org/en/reference_manual/resource_management/resource_gradients.html) based on the current fore and background colors. Nor did we do so for the layer styles. This has now been added. Several of the bundled presets use the foreground color to easily create sparks, haze and other effects.
 
-[![](/images/pages/fg_changing_gradients_for_sparkles.png)](https://krita.org/wp-content/uploads/2020/09/fg_changing_gradients_for_sparkles.png)
+[![](/images/pages/fg_changing_gradients_for_sparkles.png)](/images/posts/2020/fg_changing_gradients_for_sparkles.png)
 
  
 

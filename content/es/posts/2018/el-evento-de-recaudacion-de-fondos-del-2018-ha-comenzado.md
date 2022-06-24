@@ -29,7 +29,7 @@ Así que prácticamente, le dimos una patada al Kickstarter, lo que significa qu
 
 Ademas, todos los que donen 50 euros o mas, recibirán como regalo de gratitud la descarga del paquete de Ramón Miranda llamado Atelier, con mas de cincuenta pinceles de calidad estilo tradicional (oleos, pastel, acuarela) así como dos horas de video totalmente detallado donde puedes aprender como crear pinceles.
 
-[![](/images/posts/2018/Digital-Atelier-Pack-Cover.png)](https://krita.org/wp-content/uploads/2018/09/Digital-Atelier-Pack-Cover.png)
+[![](/images/posts/2018/Digital-Atelier-Pack-Cover.png)](/images/posts/2018/Digital-Atelier-Pack-Cover.png)
 
  
 

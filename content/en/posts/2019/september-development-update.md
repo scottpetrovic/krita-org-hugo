@@ -7,13 +7,13 @@ categories:
 
 We're about to do another bug-fix release of Krita: that'll be 4.2.7. We're seeing that the number of new bug reports is dropping a bit, week over week: even though most bug reports can be closed instantly as duplicates or not bugs at all, that's probably a sign that our stable releases are getting more and more stable. (See **[here](https://docs.krita.org/en/untranslatable_pages/reporting_bugs.html)** to learn how to make good bug reports.) Though the total number of open bugs remains high, we worked really hard all September to make Krita better:
 
-[![](/images/posts/2019/bugs_september.png)](https://krita.org/wp-content/uploads/2019/09/bugs_september.png)
+[![](/images/posts/2019/bugs_september.png)](/images/posts/2019/bugs_september.png)
 
 We also managed make 538 changes to the code in September with 23 developers -- and that excludes translations, since those aren't in our code repository.
 
 We also went back to the [Coverity Static Code analyzer](https://scan.coverity.com/projects/krita?tab=overview) and started analyzing Krita again. That was good for at least a hundred potential bug fixes, and it's something that's ongoing. We hadn't done that for quite some time! There is still plenty to do, but the average defect density for projects the size of Krita is 0.7, so we're not _that_ bad.
 
-[![](/images/posts/2019/Screenshot_20190930_154506.png)](https://krita.org/wp-content/uploads/2019/09/Screenshot_20190930_154506.png)
+[![](/images/posts/2019/Screenshot_20190930_154506.png)](/images/posts/2019/Screenshot_20190930_154506.png)
 
 Of course, focus on fixing bugs means that there's less time for cool new features, or extending existing features. We did merge Sharaf Zaman's Android port, though, which means that pretty soon we should have signed nightly Android APK's!
 

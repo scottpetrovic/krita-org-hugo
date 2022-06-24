@@ -7,7 +7,7 @@ categories:
 
 We're still on track to release Krita 4.2.0 this month! Compared to the [alpha release](/item/krita-4-2-0-alpha-released/), we fixed over thirty issues. This release also has a fresh splash screen by Tyson Tan and restores Python support to the Linux AppImage. The Linux AppImage does not have support for sound, the macOS build does not have support for G'Mic.
 
-[![](/images/posts/2019/electrichearts_20190316_kiki_a_sm-1.png)](https://krita.org/wp-content/uploads/2019/05/electrichearts_20190316_kiki_a_sm-1.png)
+[![](/images/posts/2019/electrichearts_20190316_kiki_a_sm-1.png)](/images/posts/2019/electrichearts_20190316_kiki_a_sm-1.png)
 
 **Warning**: Linux users should be careful with distribution packages. We have a [host of patches for Qt queued up](https://phabricator.kde.org/T10838), some of which are important for distributions to carry until the patches are merged and released in a new version of Qt.
 

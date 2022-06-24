@@ -6,7 +6,7 @@ categories:
 coverImage: "scifi-girl.jpg"
 ---
 
-[![scifi-girl-800](/images/posts/2015/scifi-girl-800.jpg)](https://krita.org/wp-content/uploads/2015/03/scifi-girl.jpg)
+[![scifi-girl-800](/images/posts/2015/scifi-girl-800.jpg)](/images/posts/2015/scifi-girl.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -36,7 +36,7 @@ Speed and no material restrictions would be the obvious answer for me. I have wo
 
 You don't need to "wait for the paint to dry", and you can explore your designs, colour combinations and even different versions of your painting for ever. Plus, computers are like a big melting pot where you can throw paintings, drawings, photographs... anything you like to enhance your image. However, more often than not I find myself working traditionally up to a certain point and then finishing the image digitally. Each medium has its strengths and weaknesses, but in the end they are just tools.
 
-### [![PHOOW-Rome](/images/posts/2015/PHOOW-Rome-8001.jpg)](https://krita.org/wp-content/uploads/2015/03/PHOOW-Rome-pt1.jpg)
+### [![PHOOW-Rome](/images/posts/2015/PHOOW-Rome-8001.jpg)](/images/posts/2015/PHOOW-Rome-pt1.jpg)
 
 ### How did you find out about Krita?
 

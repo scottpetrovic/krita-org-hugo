@@ -60,7 +60,7 @@ Clone tool has change now makes it possible to clone from one layer to a differe
 
 Following [Photoshop default shortcuts for blending modes](http://helpx.adobe.com/en/photoshop/using/default-keyboard-shortcuts.html#keys_for_blending_modes) developers added the same shortcuts to Krita for painting blending modes. this is awesome as there is no loose in focus during painting sessions just to change brush blending mode.
 
-To promote the use of the new added shortcuts here is a list for you. [![Painting blending mode shortcuts](/images/posts/2014/w23-blend-short-med_web.jpg)](https://krita.org/wp-content/uploads/2014/06/w23-blending-shortcuts_768.jpg)
+To promote the use of the new added shortcuts here is a list for you. [![Painting blending mode shortcuts](/images/posts/2014/w23-blend-short-med_web.jpg)](/images/posts/2014/w23-blending-shortcuts_768.jpg)
 
 ### File dialogs
 

@@ -7,7 +7,7 @@ tags:
   - "japanese"
 ---
 
-[![screencast_azaleas](/images/posts/2015/screencast_azaleas.png)](https://krita.org/wp-content/uploads/2015/05/screencast_azaleas.png)
+[![screencast_azaleas](/images/posts/2015/screencast_azaleas.png)](/images/posts/2015/screencast_azaleas.png)
 
  
 
@@ -31,7 +31,7 @@ Wikipediaからリファレンス画像を入手しました。パブリック�
 
 それから、描画キャンバスがなければ作成します。A5サイズ、300dpiのキャンバスをここでは作成しました。それほどサイズは大きくないですが、練習用です。背景の色を黄みがかった灰色(#CAC5B3)にしました。紙を思い起こさせるのと、白だと画面が明るいと目の負担になってペイント時に明度と色に集中するのが難しくなるからです。また、目に優しいので、落ち着いて作業ができます。他のアーティストは#cococoや別の色を選ぶこともあります。
 
-**ウィンドウ>タイル表示**で、リファレンス画像と作業キャンバスを横に並べられます。(訳注：複数ドキュメントを並べて表示するには、Kritaの設定で、マルチドキュメントモードを「タブ」ではなく「サブウィンドウ」に設定する必要があります) 参照画像ドッキングパネルの代わりにサブウィンドウモードを使っているのは、後で編集するわけでもないWikipedia画像を保存してから開くのが手間だと思ったからです。 [![azelea_01_trunk](/images/posts/2015/azelea_01_trunk-1024x587.png)](https://krita.org/wp-content/uploads/2015/05/azelea_01_trunk.png)
+**ウィンドウ>タイル表示**で、リファレンス画像と作業キャンバスを横に並べられます。(訳注：複数ドキュメントを並べて表示するには、Kritaの設定で、マルチドキュメントモードを「タブ」ではなく「サブウィンドウ」に設定する必要があります) 参照画像ドッキングパネルの代わりにサブウィンドウモードを使っているのは、後で編集するわけでもないWikipedia画像を保存してから開くのが手間だと思ったからです。 [![azelea_01_trunk](/images/posts/2015/azelea_01_trunk-1024x587.png)](/images/posts/2015/azelea_01_trunk.png)
 
 ## 絵を描きはじめましょう!
 
@@ -39,27 +39,27 @@ Wikipediaからリファレンス画像を入手しました。パブリック�
 
 まず枝を描きます。まずいつもより少し暗めの色を選びました。後でもう少し明るい色で塗り直すつもりだからです。リファレンス画像から枝の構造を参考にします。
 
-[![azelea_02_drawing flowers](/images/posts/2015/azelea_02_drawing-flowers-1024x585.png)](https://krita.org/wp-content/uploads/2015/05/azelea_02_drawing-flowers.png)
+[![azelea_02_drawing flowers](/images/posts/2015/azelea_02_drawing-flowers-1024x585.png)](/images/posts/2015/azelea_02_drawing-flowers.png)
 
 それから、花1つにつき1つのレイヤーを作ります。数個の花を作ります。それぞれ別のレイヤーです。 ここでは画像から赤色をピックすることはせずに、色を自分で推測しています。これはいい練習になります。色の分析を学ぶだけではなく、カラーセレクタの使い方を学ぶ練習になります。色をピックすることだけをしていると、色の関係を理解するのは難しくなってしまうので、目を使って色をマッチさせようとしてみるのは大事です。
 
  
 
-[![azelea_03_filling flowers](/images/posts/2015/azelea_03_filling-flowers.png)](https://krita.org/wp-content/uploads/2015/05/azelea_03_filling-flowers.png)
+[![azelea_03_filling flowers](/images/posts/2015/azelea_03_filling-flowers.png)](/images/posts/2015/azelea_03_filling-flowers.png)
 
 裏透かし(behind)モードでペイントして花を手早く不透明にしました。このモードでは、Kritaは既にあるピクセルの裏側からペイントします。線画を塗りつぶすのにとても有効です。終わったら忘れずに通常モードに戻しましょう。
 
-[![azelea_04_finished setup](/images/posts/2015/azelea_04_finished-setup-1024x585.png)](https://krita.org/wp-content/uploads/2015/05/azelea_04_finished-setup.png)
+[![azelea_04_finished setup](/images/posts/2015/azelea_04_finished-setup-1024x585.png)](/images/posts/2015/azelea_04_finished-setup.png)
 
 ここでは、花を左上部分に置きました。グループレイヤーを作って、花のレイヤーをCtrl＋クリックで複数選択してからグループレイヤーの下にドラッグしてまとめます。 左上の部分に置いたのは、これからこの花を何度も選択することになるからです。キャンバス上でR+クリックで花のレイヤーを即座に選択できます。Rキーを押したままレイヤーの一部のピクセルをクリックすると、Kritaはレイヤードッキングパネルでそのレイヤーを選択します。
 
-[![azelea_05_clonelayer](/images/posts/2015/azelea_05_clonelayer.png)](https://krita.org/wp-content/uploads/2015/05/azelea_05_clonelayer.png)
+[![azelea_05_clonelayer](/images/posts/2015/azelea_05_clonelayer.png)](/images/posts/2015/azelea_05_clonelayer.png)
 
 ## クローンレイヤー
 
 花をかたまりにしていきましょう。 花のレイヤーを選択して、新しいクローンレイヤーを作成します。クローンレイヤーは文字通り、オリジナルのクローンコピーです。クローンレイヤー自体の編集はできませんが、オリジナルのレイヤーを編集すると、その内容がクローンにも反映されます。クローンレイヤーとファイルレイヤーは、トランスフォームマスクの親友になります。理由はこれからわかるはずです。
 
-[![azelea_06_transformmask](/images/posts/2015/azelea_06_transformmask.png)](https://krita.org/wp-content/uploads/2015/05/azelea_06_transformmask.png)
+[![azelea_06_transformmask](/images/posts/2015/azelea_06_transformmask.png)](/images/posts/2015/azelea_06_transformmask.png)
 
 配置してみると、今の花ではかたまりを作るのに十分でないことがわかるでしょう。例えばもっと横向きの角度が必要です。変形させる手段があれば…といってもクローンレイヤー自体ではできません。どうすればいいでしょうか？
 
@@ -81,7 +81,7 @@ Wikipediaからリファレンス画像を入手しました。パブリック�
 
  
 
-[![azelea_07_clusters](/images/posts/2015/azelea_07_clusters.png)](https://krita.org/wp-content/uploads/2015/05/azelea_07_clusters.png)
+[![azelea_07_clusters](/images/posts/2015/azelea_07_clusters.png)](/images/posts/2015/azelea_07_clusters.png)
 
 このチュートリアルではアフィン変換のみ(通常の変形とパース変形)を使っていますが、トランスフォームマスクではワープ、ケージ、塗り(歪み)変形も使うことができます。ただし、アフィン変換以外では更新に遅れ(3秒)があります。これは複雑な変形処理でコンピュータに負荷がかかりすぎるのを防ぎ、ペイントを続けられるようにするためです。
 
@@ -89,11 +89,11 @@ Wikipediaからリファレンス画像を入手しました。パブリック�
 
  
 
-[![azelea_08_leaves](/images/posts/2015/azelea_08_leaves.png)](https://krita.org/wp-content/uploads/2015/05/azelea_08_leaves.png)
+[![azelea_08_leaves](/images/posts/2015/azelea_08_leaves.png)](/images/posts/2015/azelea_08_leaves.png)
 
 それから葉についても同様にします。
 
-[![azelea_09_paintingoriginals](/images/posts/2015/azelea_09_paintingoriginals.png)](https://krita.org/wp-content/uploads/2015/05/azelea_09_paintingoriginals.png)
+[![azelea_09_paintingoriginals](/images/posts/2015/azelea_09_paintingoriginals.png)](/images/posts/2015/azelea_09_paintingoriginals.png)
 
 それから、元々の花のペイントレイヤーを選択してペイントすると、すべてのクローンレイヤーが即座に更新されます。
 
@@ -101,7 +101,7 @@ Wikipediaからリファレンス画像を入手しました。パブリック�
 
 では、元の花と葉のペイントを続けてから、影を足してより生き生きとした絵にしましょう！
 
-[![azelea_10_alphainheritance_1](/images/posts/2015/azelea_10_alphainheritance_1.png)](https://krita.org/wp-content/uploads/2015/05/azelea_10_alphainheritance_1.png)
+[![azelea_10_alphainheritance_1](/images/posts/2015/azelea_10_alphainheritance_1.png)](/images/posts/2015/azelea_10_alphainheritance_1.png)
 
 ## アルファ相続
 
@@ -111,23 +111,23 @@ Wikipediaからリファレンス画像を入手しました。パブリック�
 
 しかし、ここではアルファ相続は役立ちます。花のかたまりのグループレイヤーに含まれたクローンレイヤーすべてに対して、変形の有無にかかわらず、クリッピングができるからです。では、花のかたまりのグループレイヤーの一番上にレイヤーを追加して明るい青の四角を描きます。
 
-[![azelea_11_alphainheritance_2](/images/posts/2015/azelea_11_alphainheritance_2.png)](https://krita.org/wp-content/uploads/2015/05/azelea_11_alphainheritance_2.png)
+[![azelea_11_alphainheritance_2](/images/posts/2015/azelea_11_alphainheritance_2.png)](/images/posts/2015/azelea_11_alphainheritance_2.png)
 
 それから、レイヤードッキングパネルのレイヤーでアルファ相続のボタン(アルファ)を押して、アルファ相続をオンにします。
 
-[![azelea_12_alphainheritance_3](/images/posts/2015/azelea_12_alphainheritance_3.png)](https://krita.org/wp-content/uploads/2015/05/azelea_12_alphainheritance_3.png)
+[![azelea_12_alphainheritance_3](/images/posts/2015/azelea_12_alphainheritance_3.png)](/images/posts/2015/azelea_12_alphainheritance_3.png)
 
 レイヤーを乗算に変更すると、すべてが少し青味かかった暗い色に見えます。
 
-[![azelea_13_alphainheritance_4](/images/posts/2015/azelea_13_alphainheritance_4.png)](https://krita.org/wp-content/uploads/2015/05/azelea_13_alphainheritance_4.png)
+[![azelea_13_alphainheritance_4](/images/posts/2015/azelea_13_alphainheritance_4.png)](/images/posts/2015/azelea_13_alphainheritance_4.png)
 
 それから、乗算とアルファ相続両方がオンの状態で、消しゴムで影ではない部分を消していきます。
 
-[![azelea_14_alphainheritance_5](/images/posts/2015/azelea_14_alphainheritance_5.png)](https://krita.org/wp-content/uploads/2015/05/azelea_14_alphainheritance_5.png)
+[![azelea_14_alphainheritance_5](/images/posts/2015/azelea_14_alphainheritance_5.png)](/images/posts/2015/azelea_14_alphainheritance_5.png)
 
 ハイライトにも同じ手法を使います。同じ色で、ただ、レイヤーのブレンドモードを「除算(Divide)」に設定します。(ブレンドモードの算術的カテゴリーにあります)同じ色を使った除算は乗算の正反対の効果になります。そのおかげで、影とハイライトにハーモニーのとれた補色関係を簡単に作り出すことができます。
 
-[![azelea_15_alphainheritance_6](/images/posts/2015/azelea_15_alphainheritance_6.png)](https://krita.org/wp-content/uploads/2015/05/azelea_15_alphainheritance_6.png)
+[![azelea_15_alphainheritance_6](/images/posts/2015/azelea_15_alphainheritance_6.png)](/images/posts/2015/azelea_15_alphainheritance_6.png)
 
 すべての花のかたまりと、葉に同様にしてから、植物全体にも手を入れて(塗りつぶし背景の影響を受けないようにするためにグループレイヤーに移す必要があります)、それで完成です！
 

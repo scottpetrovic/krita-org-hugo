@@ -11,7 +11,7 @@ categories:
 
 これは2.9から3.0へのバージョンアップより大きな変化とまではいかずとも、同等程度には大きなバージョンアップです。いえ、KritaのQt6への移植はまだですよｗ ですが、Kritaのベクターシステムは完全に入れ替えられました。今まで使っていた[Open Document Graphics](https://docs.oasis-open.org/office/v1.2/OpenDocument-v1.2.html)標準の代わりに、このバージョンからKritaはベクター情報を収納するのに[SVG](https://www.w3.org/TR/SVG/)標準を使用するようになりました。これにより[inkscape](https://inkscape.org)などの他ソフトとの互換性が高まりました。KritaはODGベクターレイヤーを持つ既存のKritaドキュメントの読み込みがまだ可能ですが、SVGベクターレイヤーのみが保存可能となります。**一度Krita 4.0プレアルファ版で保存してしまったファイルに関しては、バージョン3台ではベクターレイヤーの読み込みが出来なくなることにご注意ください。**
 
-[![](/images/posts/2017/vector-934x1024.png)](https://krita.org/wp-content/uploads/2017/06/vector.png)
+[![](/images/posts/2017/vector-934x1024.png)](/images/posts/2017/vector.png)
 
 またベクターレイヤーでの作業をより簡単に、生産的にするべく、ベクター図形の取扱についても多くの部分を書き換えました。そしてそれらの改良に対する皆さんのフィードバックも同様に歓迎です。
 
@@ -25,15 +25,15 @@ https://youtu.be/jI87VzDtkPY
 
 画像の保存に関しても今までのものよりもっと安全な新機構を実装しました。この新機構ではデータの一部が失われるフォーマットについては事前に警告を行うようになっています。
 
-[![](/images/posts/2017/warnings.png)](https://krita.org/wp-content/uploads/2017/06/warnings.png)
+[![](/images/posts/2017/warnings.png)](/images/posts/2017/warnings.png)
 
 パレットドッキングパネルについてもWolthera van Hövell tot Westerflierにより大きく改良がなされました。これによってパレットの色をグループ化したり（訳注：実装が不完全なため現時点では使用不能）色をドラッグ&ドロップで並び替えたり、色をダブルクリックして編集したりできます。
 
-[![](/images/posts/2017/palette_dnd.png)](https://krita.org/wp-content/uploads/2017/06/palette_dnd.png)
+[![](/images/posts/2017/palette_dnd.png)](/images/posts/2017/palette_dnd.png)
 
 新たにSVGシンボルを読み込み、画像上にベクター図形としてドラッグ&ドロップできるドッキングパネルを追加しました。吹き出しにもってこいの機能で、手始めとしてDavid RevoyのPepper and Carrot吹き出しライブラリが既に追加されています！
 
-[![](/images/posts/2017/symbol.png)](https://krita.org/wp-content/uploads/2017/06/symbol.png)
+[![](/images/posts/2017/symbol.png)](/images/posts/2017/symbol.png)
 
 さらにもっとたくさんの変更があります。ぜひ探し出して試してみてください！
 
@@ -41,7 +41,7 @@ https://youtu.be/jI87VzDtkPY
 
 Pythonプラグインは既にマージされ、いつでもテストに入れる状態にあります、しかし、これについては別の問題にぶち当たりました：Kritaのスクリプトに必要なPythonとPythonモジュールをどうやってバンドルするのか未だに解明できていないのです。対応しているLinuxシステムからKritaをビルドした時は上手くいくのですが、Windows及びOSXではまだ全くビルドが出来ていません。**これについてもし何か心当たりがあれば、ぜひ我々に連絡をお願いします！**
 
-[![](/images/posts/2017/scripter.png)](https://krita.org/wp-content/uploads/2017/06/scripter.png) Scripter―Eliakin Costaによって開発されたKrita付属の簡易スクリプタ
+[![](/images/posts/2017/scripter.png)](/images/posts/2017/scripter.png) Scripter―Eliakin Costaによって開発されたKrita付属の簡易スクリプタ
 
 #### ダウンロード
 

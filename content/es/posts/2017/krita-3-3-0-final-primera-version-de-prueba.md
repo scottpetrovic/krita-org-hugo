@@ -11,7 +11,7 @@ Alvin Wong ha implementado la compatibilidad con los eventos del API de Windows 
 
  
 
-[![](/images/posts/2017/tablet_support-300x278.png)](https://krita.org/wp-content/uploads/2017/08/tablet_support.png)
+[![](/images/posts/2017/tablet_support-300x278.png)](/images/posts/2017/tablet_support.png)
 
 Además Alvin W. también reconstruyó la funcionalidad de Krita que depende de la aceleración por hardware, lo que permite de manera opcional usar Angle en Windows en vez de OpenGL. Ésto significa que que los problemas con las tarjetas de gráficos Intel y sus controladores se podrán hacer de lado ya que Krita usará indirectamente Direct3D.
 

@@ -7,7 +7,7 @@ categories:
 
 Two weeks ago we had a very nice and motivating sprint in Deventer, where many members of the Krita team gathered in one place and met each other. Boud has already written a [good post](/item/krita-2018-sprint-report) about it, so I will try to avoid repetitions and only tell a saga of my main goal for this sprint... fix OSX tablet problems!
 
-[![](/images/posts/2018/krita_jagged_lines_on_osx.png)](https://krita.org/wp-content/uploads/2018/06/krita_jagged_lines_on_osx.png) Jagged lines caused by OSX input events compression: main symptom – they disappear as soon as one disables openGL
+[![](/images/posts/2018/krita_jagged_lines_on_osx.png)](/images/posts/2018/krita_jagged_lines_on_osx.png) Jagged lines caused by OSX input events compression: main symptom – they disappear as soon as one disables openGL
 
 ### Tablet events compression
 

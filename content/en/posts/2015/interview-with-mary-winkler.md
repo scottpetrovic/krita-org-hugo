@@ -6,7 +6,7 @@ categories:
 coverImage: "tart.webp"
 ---
 
-### [![tart800](/images/posts/2015/tart800.jpeg)](https://krita.org/wp-content/uploads/2015/05/tart.webp) Could you tell us something about yourself?
+### [![tart800](/images/posts/2015/tart800.jpeg)](/images/posts/2015/tart.webp) Could you tell us something about yourself?
 
 My name is Mary Winkler and I work under the brand Acrylicana. I love coffee, cats, pastels, neons, sunshine, and sparkles.
 

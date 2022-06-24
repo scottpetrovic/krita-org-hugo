@@ -7,7 +7,7 @@ categories:
 
 Hier, l'éditeur français D-Booker a sorti la troisième édition du livre "Dessin et peinture numérique avec Krita" par Timothée Giet.
 
-[![Picture of first and third edition](../images/IMG_20220311_112344-1024x768.jpg)](https://krita.org/wp-content/uploads/2022/03/IMG_20220311_112344-scaled.jpg)
+[![Picture of first and third edition](../images/IMG_20220311_112344-1024x768.jpg)](/images/posts/2022/IMG_20220311_112344-scaled.jpg)
 
 La première édition du livre fût écrite pour Krita 2.9.11 en 2016. Pour cette troisième édition, Timothée a mis à jour tout le texte et les captures d'écran pour l'interface de Krita 5.0, et certaines parties ont été entièrement réécrites pour tirer parti de nouvelles fonctionnalités de Krita 5.
 

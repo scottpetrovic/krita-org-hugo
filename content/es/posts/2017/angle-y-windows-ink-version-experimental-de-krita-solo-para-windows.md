@@ -26,7 +26,7 @@ Hemos creado una versión especial de Krita 4.0 pre-alfa para que los usuarios d
 - Abre el segundo archivo zip en Windows Explorer y arrastra los archivos bin, lib y las carpetas compartidas adentro de la carpeta krita\_4.0-prealpha\_angle\_ink-1-x64 que ya habías movido a tu escritorio.
 - Con Windows Explorer, entra a la carpeta de krita\_4.0-prealpha\_angle\_ink-1-x64 mencionada.
 - Abre Krita dándole un doble clic en el enlace de Krita o directamente al archivo bin\\krita.exe.
-- Se te presentará la siguiente opción:[![](/images/posts/2017/angle_question.png)](https://krita.org/wp-content/uploads/2017/08/angle_question.png)
+- Se te presentará la siguiente opción:[![](/images/posts/2017/angle_question.png)](/images/posts/2017/angle_question.png)
 - Te pedimos que uses primeramente la prueba de Test Desktop OpenGL. Produce una nueva imagen y trata de dibujar por un tiempo, completa la encuesta con los resultados, ya sea que el programa se haya cerrado inesperadamente o si funciona adecuadamente.
 - Ahora puedes reiniciar Krita y elegir Test ANGLE. Produce una nueva imagen y trata de dibujar una ves mas por un tiempo. De igual manera te pedimos que completes la encuesta con los resultados.
 
@@ -45,7 +45,7 @@ Hemos creado una versión especial de Krita 4.0 pre-alfa para que los usuarios d
 - Con Windows Explorer, entra a la carpeta de krita\_4.0-prealpha\_angle\_ink-1-x64 mencionada.
 - Abre Krita dándole un doble clic en el enlace de Krita o directamente al archivo bin\\krita.exe.
 - Elige cualquiera de las dos opciones: Test Desktop OpenGL ó Test ANGLE, en éste caso no hay diferencia.
-- Abre los diálogos de Preferencias>Configurar Krita>Tableta (Settings/Configure Krita/Tablet) y activa la opción experimental señalada en la imagen del _pointer api/windows ink_:[![](/images/posts/2017/tablet_support.png)](https://krita.org/wp-content/uploads/2017/08/tablet_support.png)
+- Abre los diálogos de Preferencias>Configurar Krita>Tableta (Settings/Configure Krita/Tablet) y activa la opción experimental señalada en la imagen del _pointer api/windows ink_:[![](/images/posts/2017/tablet_support.png)](/images/posts/2017/tablet_support.png)
 - Reinicia Krita.
 - Produce un nuevo documento, dibuja con la herramienta principal de pincel, revisa si la variación de presión en la pluma digital cambia el tamaño y la opacidad de el trazo, por favor responde tus resultados en la siguiente encuesta (en inglés): [https://goo.gl/forms/5TSCWNZvvjN5SVoq1](https://goo.gl/forms/5TSCWNZvvjN5SVoq1)
 

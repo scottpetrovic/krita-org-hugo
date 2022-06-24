@@ -7,7 +7,7 @@ categories:
 
 El pasado fin de semana, Los desarrolladores de Krita así como artistas de diferentes partes del mundo se reunieron en el apacible pueblo de Deventer, con la finalidad de comprar queso..., corrección, con la finalidad de discutir todo lo relacionado con Krita así como el hacer un maratón de programación intensivo. Por cierto, [la mejor tienda de queso](http://www.kaashandel-debrink.nl/) de Holanda se encuentra en Deventer, así como la fundación de Krita. Comenzamos el pasado jueves (mayo 17) y hoy (mayo 22) se despiden los últimos en partir.
 
-[![](/images/posts/2018/2018-05_Krita-sprint_Deventer-1024x345.jpg)](https://krita.org/wp-content/uploads/2018/05/2018-05_Krita-sprint_Deventer.jpg) Imagen de David Revoy
+[![](/images/posts/2018/2018-05_Krita-sprint_Deventer-1024x345.jpg)](/images/posts/2018/2018-05_Krita-sprint_Deventer.jpg) Imagen de David Revoy
 
 Eventos como estos son muy importantes, ya que reúnen a las personas no solo para el desarrollo y un dialogo serio en cuanto a nuestro proyecto, sino ademas para convivir a un nivel mas personal, mediante comidas y caminadas, lo que facilita nuestra comunicación a través del Internet. Éste evento anual, no fue efectuado en el 2017 dadas las condiciones de la fundación, la ultima reunión fue en el [2016](https://krita.org/es/item/la-reunion-krita-2016-dia-primero/).
 
@@ -42,6 +42,6 @@ En ésta ocasión tuvimos la parecencia de tres personas nuevas en esta reunión
 
 Y por supuesto no podría faltar, durante las caminatas, ir a comer a nuestro lugar favorito [De Rode Kater](http://www.derodekater.nu/), comprar queso, y éste pasado domingo, hasta el sol salio relumbrante, y nosotros por lo pronto, ¡de regreso al código!
 
-[![](/images/posts/2018/rode_kater-1024x529.jpg)](https://krita.org/wp-content/uploads/2018/05/rode_kater.jpg) Imagen de David Revoy.
+[![](/images/posts/2018/rode_kater-1024x529.jpg)](/images/posts/2018/rode_kater.jpg) Imagen de David Revoy.
 
 Éste evento fue patrocinado por KDE e.V. (viajes) y por la Fundación Krita (hospedaje y comida).

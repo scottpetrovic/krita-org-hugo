@@ -47,7 +47,7 @@ As such, we'd like to thank everybody who has taken time to file detailed bug re
 
 - Ramon Miranda created a new set of watercolor effect brush presets.
 
-\[video width="816" height="736" webm="https://krita.org/wp-content/uploads/2020/04/crocus\_water\_colorpreview.webm"\]\[/video\]
+\[video width="816" height="736" webm="/images/posts/2020/crocus\_water\_colorpreview.webm"\]\[/video\]
 
 - Bundles now properly handle timezones and show dates in the user's preferred format.
 - There are a couple of new patterns by David Gowers that are good for usage with the new Palettize filter.
@@ -60,19 +60,19 @@ For the pixelart afficionado, there are two filter changes this release, both im
 
 The first is the Color Mode in the [Gradient Map filter](https://docs.krita.org/en/reference_manual/filters/map.html#gradient-map). This allows setting the intermediate colors to use a dithering pattern or to restrict the colors to the nearest stop color.
 
-[![Image showing the new gradient map filter options in action](/images/pages/krita_43_dither_gradient_map-1024x497.png)](https://krita.org/wp-content/uploads/2020/04/krita_43_dither_gradient_map.png)
+[![Image showing the new gradient map filter options in action](/images/pages/krita_43_dither_gradient_map-1024x497.png)](/images/posts/2020/krita_43_dither_gradient_map.png)
 
 ### Palettize Filter
 
 The second feature Carl Olsson created is the new [Palettize filter](https://docs.krita.org/en/reference_manual/filters/map.html#palettize) which works similar to the Gradient Map filter, but uses a palette to determine the colors. The Palettize filter also supports dithering:
 
-[![Image showing the palettize filter in action](/images/pages/krita_4_3_paletize_filter-1024x506.png)](https://krita.org/wp-content/uploads/2020/04/krita_4_3_paletize_filter.png)
+[![Image showing the palettize filter in action](/images/pages/krita_4_3_paletize_filter-1024x506.png)](/images/posts/2020/krita_4_3_paletize_filter.png)
 
 ### High Pass Filter
 
 The [high pass filter](https://docs.krita.org/en/reference_manual/filters/edge_detection.html#gaussian-high-pass), contributed by Miguel Lopez is, among other things, good for making images sharper. It is best applied as a filter layer set to overlay. This filter is especially useful as a final step for images uploaded to social media; the extra sharpness offsets the terrible scaling algorithms used by image hosting sites that make images blurry.
 
-[![Image demonstrating the use of highpass to sharpen the image.](/images/pages/highpass_filter_sharpen.png)](https://krita.org/wp-content/uploads/2020/04/highpass_filter_sharpen.png) Top left: original, top right: high pass, bottom left sharpening with high pass by using the overlay filter, bottom right: a subtler sharpening.
+[![Image demonstrating the use of highpass to sharpen the image.](/images/pages/highpass_filter_sharpen.png)](/images/posts/2020/highpass_filter_sharpen.png) Top left: original, top right: high pass, bottom left sharpening with high pass by using the overlay filter, bottom right: a subtler sharpening.
 
 ### Other Filter Improvements
 
@@ -109,13 +109,13 @@ The [high pass filter](https://docs.krita.org/en/reference_manual/filters/edge_d
 
 The [GIMP  image hose format (gih)](https://docs.krita.org/en/general_concepts/file_formats/file_gih.html) supports multiple dimensions, so one can have several rows of brushes that can be set to randomness horizontally, and maybe increment vertically. And now Krita's exporter supports this too, thanks to the work by Ivan Yossi!
 
-[![](/images/pages/gih.png)](https://krita.org/wp-content/uploads/2019/06/gih.png) Image showing a multidimension image hose brush. The stamped image alternated between left and right hand, and rotates according to angle.
+[![](/images/pages/gih.png)](/images/posts/2019/gih.png) Image showing a multidimension image hose brush. The stamped image alternated between left and right hand, and rotates according to angle.
 
 ## Window Handling
 
 It's now possible to take the central canvas area out of the window and put it in its own window: the detached canvas mode is handy when you, for instance, have a big and a small screen, you can then put the image on the big screen and all the tools and dockers on the small screen.
 
-[![](/images/pages/separate_view-1024x288.png)](https://krita.org/wp-content/uploads/2020/05/separate_view.png)
+[![](/images/pages/separate_view-1024x288.png)](/images/posts/2020/separate_view.png)
 
 ## Color Handling
 
@@ -125,13 +125,13 @@ It's now possible to take the central canvas area out of the window and put it i
 - Palettes with more than 4096 columns are now loaded and shown correctly.
 - The color selectors not only perform much better but are also more correct and easier to use thanks to Mattias Wein's work:
 
-[![](/images/pages/2020-05-14_two-panels-HSV-RGB_selector43.gif)](https://krita.org/wp-content/uploads/2020/05/2020-05-14_two-panels-HSV-RGB_selector43.gif)
+[![](/images/pages/2020-05-14_two-panels-HSV-RGB_selector43.gif)](/images/posts/2020/2020-05-14_two-panels-HSV-RGB_selector43.gif)
 
 ## Snapshot docker
 
 Part of Tusooa's work rewriting Krita's undo system, the [snap shot docker](https://docs.krita.org/en/reference_manual/dockers/snapshot_docker.html) allows you to save certain states of progress into this docker and toggle between them.
 
-[![Animation showing the snapshot docker in action.](/images/pages/krita_4_3_snapshot_docker.gif)](https://krita.org/wp-content/uploads/2020/04/krita_4_3_snapshot_docker.gif) The snapshot docker in action, switching between the different stages of a drawing.
+[![Animation showing the snapshot docker in action.](/images/pages/krita_4_3_snapshot_docker.gif)](/images/posts/2020/krita_4_3_snapshot_docker.gif) The snapshot docker in action, switching between the different stages of a drawing.
 
 ## Tools
 
@@ -141,21 +141,21 @@ Part of Tusooa's work rewriting Krita's undo system, the [snap shot docker](http
 
 Kuntal Majumder's GSoC for 2019, the [Magnetic Selection Tool](https://docs.krita.org/en/reference_manual/tools/magnetic_select.html), makes a free hand selection, but with a twist: it tries to align the selection to the edges it can find inside the image, simplifying the process tremendously.
 
-[![Animation showing the mixed mode of the magnetic selection tool](/images/pages/magnetic_selection_mode_mixed.gif)](https://krita.org/wp-content/uploads/2020/04/magnetic_selection_mode_mixed.gif)
+[![Animation showing the mixed mode of the magnetic selection tool](/images/pages/magnetic_selection_mode_mixed.gif)](/images/posts/2020/magnetic_selection_mode_mixed.gif)
 
 ### New Modes for the Gradient Tool
 
 Spiral, Reverse Spiral and Bilinear mode have been added by Miguel Lopez.
 
-[![Several spirals made with the spiral gradient option.](/images/pages/krita_4_3_spiralgradients.png)](https://krita.org/wp-content/uploads/2020/04/krita_4_3_spiralgradients.png)
+[![Several spirals made with the spiral gradient option.](/images/pages/krita_4_3_spiralgradients.png)](/images/posts/2020/krita_4_3_spiralgradients.png)
 
 ### Fill Tool and Contiguous Selection Tool ("Magic Wand")
 
 The [Fill Tool](https://docs.krita.org/en/reference_manual/tools/fill.html) and [Contiguous Selection Tool ("magic wand")](https://docs.krita.org/en/reference_manual/tools/contiguous_select.html) have been extended: you can choose between _All Layers_, _Current Layer_ and _Color Labeled Layers_ to indicate what area the tool needs to fill or select. This is particularly useful with complex multi-layer line art.
 
-[![Fill Tool Color Labeled Layers feature showcase.](/images/pages/Fill_Tool_Labeled_Layers.png)](https://krita.org/wp-content/uploads/2020/05/Fill_Tool_Labeled_Layers.png)
+[![Fill Tool Color Labeled Layers feature showcase.](/images/pages/Fill_Tool_Labeled_Layers.png)](/images/posts/2020/Fill_Tool_Labeled_Layers.png)
 
-[![Contiguous Selection Tool Color Labeled Layers feature showcase.](/images/pages/Magic_Wand_Labeled_Layers.png)](https://krita.org/wp-content/uploads/2020/05/Magic_Wand_Labeled_Layers.png)
+[![Contiguous Selection Tool Color Labeled Layers feature showcase.](/images/pages/Magic_Wand_Labeled_Layers.png)](/images/posts/2020/Magic_Wand_Labeled_Layers.png)
 
 ## Other
 

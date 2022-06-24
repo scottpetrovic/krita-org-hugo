@@ -6,7 +6,7 @@ categories:
 coverImage: "wolthera-header.jpg"
 ---
 
-[![firebird800](/images/posts/2015/firebird800.png)](https://krita.org/wp-content/uploads/2015/04/firebird.png)
+[![firebird800](/images/posts/2015/firebird800.png)](/images/posts/2015/firebird.png)
 
 ### Could you tell us something about yourself?
 

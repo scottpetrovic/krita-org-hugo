@@ -6,7 +6,7 @@ categories:
 coverImage: "Mountain-Goat-Creature.png"
 ---
 
-[![Grinspitter Portrait](/images/posts/2015/Grinspitter-Portrait.png)](https://krita.org/wp-content/uploads/2015/11/Grinspitter-Portrait.png)
+[![Grinspitter Portrait](/images/posts/2015/Grinspitter-Portrait.png)](/images/posts/2015/Grinspitter-Portrait.png)
 
 ### Could you tell us something about yourself?
 
@@ -14,7 +14,7 @@ Hi! My name is Crystal Snyder, but most people call me Jack. I'm 22 years old, I
 
 ### Do you paint professionally, as a hobby artist, or both?
 
-Right now I'm just a hobby artist though I would like to work professionally one day. [![Dragon Character Design](/images/posts/2015/Dragon-Character-Design.png)](https://krita.org/wp-content/uploads/2015/11/Dragon-Character-Design.png)
+Right now I'm just a hobby artist though I would like to work professionally one day. [![Dragon Character Design](/images/posts/2015/Dragon-Character-Design.png)](/images/posts/2015/Dragon-Character-Design.png)
 
 ### What genre(s) do you work in?
 
@@ -22,7 +22,7 @@ I'm kind of all over the place. Lately I've been drawing a lot of fanart. I know
 
 ### Whose work inspires you most -- who are your role models as an artist?
 
-Chris Sanders and Nico Marlet come to mind immediately. Chris Sanders has a beautiful and distinct drawing style, and I adore his story telling. Nico Marlet's character and creature designs, particularly his work on movies like How to Train Your Dragon and Kung Fu Panda, have been a huge influence on me. They are beautiful to look and and very detailed while remaining very sketchy. I like art where I can see the artist's process and lines rather than super polished. David Revoy has been a huge influence and help in the open source painting world. He's a phenomenal artist and I am definitely a fan of his Pepper and Carrot comic! [![Jack The Vulture](/images/posts/2015/Jack-The-Vulture.png)](https://krita.org/wp-content/uploads/2015/11/Jack-The-Vulture.png)
+Chris Sanders and Nico Marlet come to mind immediately. Chris Sanders has a beautiful and distinct drawing style, and I adore his story telling. Nico Marlet's character and creature designs, particularly his work on movies like How to Train Your Dragon and Kung Fu Panda, have been a huge influence on me. They are beautiful to look and and very detailed while remaining very sketchy. I like art where I can see the artist's process and lines rather than super polished. David Revoy has been a huge influence and help in the open source painting world. He's a phenomenal artist and I am definitely a fan of his Pepper and Carrot comic! [![Jack The Vulture](/images/posts/2015/Jack-The-Vulture.png)](/images/posts/2015/Jack-The-Vulture.png)
 
 ### How and when did you get to try digital painting for the first time?
 
@@ -42,7 +42,7 @@ I wasn't extremely impressed, having been taught only Photoshop and really not k
 
 ### What do you love about Krita?
 
-So much. I don't only use this program because its free, that's for sure. I bought Photoshop in college and all but abandoned it for Krita as my main painting application. The navigation is one of my favorite things. How easy it is to move around the canvas, rotate, scale my brush, open my favorite brushes with just a click of my pen, and continue painting without having to take my hands off my tablet and hit extra keys makes almost every other program I've used feel clunky by comparison. The program is also very customizable, there are so many brush engines to play with, and new features are being worked on all the time. It develops very fast, there's always something to look forward to. The developers actually care about what the community wants, and its focused on a great painting experience. I love that. I love that our opinions as users are so valued, I love how dedicated the developers are to making Krita a wonderful professional experience. [![Mountain Goat Creature](/images/posts/2015/Mountain-Goat-Creature.png)](https://krita.org/wp-content/uploads/2015/11/Mountain-Goat-Creature.png)
+So much. I don't only use this program because its free, that's for sure. I bought Photoshop in college and all but abandoned it for Krita as my main painting application. The navigation is one of my favorite things. How easy it is to move around the canvas, rotate, scale my brush, open my favorite brushes with just a click of my pen, and continue painting without having to take my hands off my tablet and hit extra keys makes almost every other program I've used feel clunky by comparison. The program is also very customizable, there are so many brush engines to play with, and new features are being worked on all the time. It develops very fast, there's always something to look forward to. The developers actually care about what the community wants, and its focused on a great painting experience. I love that. I love that our opinions as users are so valued, I love how dedicated the developers are to making Krita a wonderful professional experience. [![Mountain Goat Creature](/images/posts/2015/Mountain-Goat-Creature.png)](/images/posts/2015/Mountain-Goat-Creature.png)
 
 ### What do you think needs improvement in Krita? Is there anything that really annoys you?
 

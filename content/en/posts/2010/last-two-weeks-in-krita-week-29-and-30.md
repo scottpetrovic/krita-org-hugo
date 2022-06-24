@@ -45,4 +45,4 @@ Hold Meta key and move the mouse to apply a 3D rotation to the selection + a per
 
 He also added some gui polish (**testing needed!**), progress information... And then begon to work on the warp mode. This is so cool, so much fun to play with:
 
-![](https://krita.org/wp-content/uploads/2010/08/krita_warp.png)
+![](/images/posts/2010/krita_warp.png)

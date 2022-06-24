@@ -24,15 +24,15 @@ We already mentioned SVG support, a new text tool and Python scripting, so here 
 
 - Easy coloring of line-art with the new Colorize Mask Tool. [Read the manual for more detail](https://docs.krita.org/en/reference_manual/tools/colorize_mask.html)!
 
-[![](/images/posts/2018/colorize-mask.png)](https://krita.org/wp-content/uploads/2018/02/colorize-mask.png)
+[![](/images/posts/2018/colorize-mask.png)](/images/posts/2018/colorize-mask.png)
 
 - Masked brushes: add a mask to your brush tip for a more lively effect. This opens up some really cool possibilities!
 
-[![](/images/posts/2018/waterpaint.gif)](https://krita.org/wp-content/uploads/2018/02/waterpaint.gif)
+[![](/images/posts/2018/waterpaint.gif)](/images/posts/2018/waterpaint.gif)
 
 - New brush presets! We overhauled the entire brush set for Krita 4. Brush presets are now packaged as a bundle, too. And Krita 3's brush set is available as well, it's just disabled by default.
 
-[![](/images/posts/2018/bundles.png)](https://krita.org/wp-content/uploads/2018/03/bundles.png)
+[![](/images/posts/2018/bundles.png)](/images/posts/2018/bundles.png)
 
 ### Known issues
 
@@ -92,4 +92,4 @@ The Linux appimage and the source tarball are signed. You can retrieve the publi
 
 Krita is a free and open source project. Please consider supporting the project with [donations](/support-us/donations/) or by [buying training videos or the artbook!](/support-us/shop) With your support, we can keep the core team working on Krita full-time.
 
-[![](/images/posts/2018/Krita4_Alegoric_final-1024x507.png)](https://krita.org/wp-content/uploads/2018/03/Krita4_Alegoric_final.png) Artwork by Ramon Miranda
+[![](/images/posts/2018/Krita4_Alegoric_final-1024x507.png)](/images/posts/2018/Krita4_Alegoric_final.png) Artwork by Ramon Miranda

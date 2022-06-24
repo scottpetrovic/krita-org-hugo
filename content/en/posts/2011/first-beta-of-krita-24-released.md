@@ -83,7 +83,7 @@ Of course there are many, many more features. Krita 2.4 has new brush engines, a
 
 Phew! Time for a screenshot:
 
-![](https://krita.org/wp-content/uploads/2011/09/coolscreen24.png)  
+![](/images/posts/2011/coolscreen24.png)  
 
 ### Splash screen!  
 

@@ -7,7 +7,7 @@ date: "2011-01-10"
 
 Here's the result of ace tester and champion bug reporter Sinozukke's experiments with the sketch brush:  
 
-![](https://krita.org/wp-content/uploads/2011/01/sketch-experiment.jpg)  
+![](/images/posts/2011/sketch-experiment.jpg)  
 
 Going over my old Last Week in Krita posts, I'm myself amazed at how much has actually happened in 2010 -- apart from two major releases, 2.2 and 2.3! And the growth of the team is stunning as well. We're planning a 2011 sprint, but we won't fit in my house anymore!
 
@@ -23,7 +23,7 @@ Together with [MyPaint](http://mypaint.intilinux.com/) maintainer **Martin Reyno
 
 **Geoffry Song** and **Cyrille Berger** have improved the assistant feature that has been a promise for so long and made it usable. With assistants you can construct your image using ellipses, boxes, splines and lines. Then you can paint, and if you come near one of the lines, your brush will be magnetically attracted (and the strength is a setting) but you're still painting. You can modify, move and delete the assistants on the canvas and even load and save a construction of assitants for reuse in another painting.
 
-![](https://krita.org/wp-content/uploads/2011/01/krita-guides.jpg)  
+![](/images/posts/2011/krita-guides.jpg)  
 
 **Silvio Heinrich** worked on improvements of the usability of the present management.
 
@@ -33,7 +33,7 @@ Together with [MyPaint](http://mypaint.intilinux.com/) maintainer **Martin Reyno
 
 **Lukas Tvrdy** created a new brush engine inspired by alchemy and made mirroring work -- not the canvas mirroring one uses to check the painting now and then, but painting and seeing the mirror half appear. As demonstrated by Animtim:
 
-![](https://krita.org/wp-content/uploads/2011/01/mirrortux.png)  
+![](/images/posts/2011/mirrortux.png)  
 
 And there's much more coming: everyone is full of plans for cool stuff -- and we're not forgetting to keep the bugs down either.
 

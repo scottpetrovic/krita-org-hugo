@@ -7,7 +7,7 @@ date: "2017-03-31"
 
 Krita 3.1.3 is mainly a bug fix release with some new features. Every user is strongly recommended to update.
 
-[![Transform around Pivot](/images/pages/pivot-1024x527.png)](https://krita.org/wp-content/uploads/2017/05/pivot.png) Transform around Pivot (Image by [David Revoy](https://peppercarrot.com)
+[![Transform around Pivot](/images/pages/pivot-1024x527.png)](/images/posts/2017/pivot.png) Transform around Pivot (Image by [David Revoy](https://peppercarrot.com)
 
 ### New Features
 

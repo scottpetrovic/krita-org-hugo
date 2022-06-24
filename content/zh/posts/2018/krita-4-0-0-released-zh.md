@@ -24,15 +24,15 @@ Krita 4.0 的全新启动画面由谭代山 (Tyson Tan/钛山)绘制，主题是
 
 - 使用着色蒙版给线稿轻松上色。[阅读使用手册以了解详情](https://docs.krita.org/en/reference_manual/tools/colorize_mask.html)！
 
-[![](/images/posts/2018/colorize-mask.png)](https://krita.org/wp-content/uploads/2018/02/colorize-mask.png)
+[![](/images/posts/2018/colorize-mask.png)](/images/posts/2018/colorize-mask.png)
 
 - 蒙版笔刷：将蒙版添加到笔尖来制造更为生动的效果。这将为作者提供更多的可能性！
 
-[![](/images/posts/2018/waterpaint.gif)](https://krita.org/wp-content/uploads/2018/02/waterpaint.gif)
+[![](/images/posts/2018/waterpaint.gif)](/images/posts/2018/waterpaint.gif)
 
 - 全新的笔刷预设！我们对整个笔刷预设库进行了彻底的修订。还将它们制作成了资源包形式。Krita 3.x 的笔刷预设也已内置，只是默认设为禁用状态。
 
-[![](/images/posts/2018/bundles.png)](https://krita.org/wp-content/uploads/2018/03/bundles.png)
+[![](/images/posts/2018/bundles.png)](/images/posts/2018/bundles.png)
 
 ## 已知问题
 
@@ -92,4 +92,4 @@ Linux 的 AppImage 软件包和源代码 Tar 压缩包都已签名。你可以�
 
 Krita 是一个自由、免费、开源的软件项目。请通过[捐款](https://krita.org/en/support-us/donations/)、[购买教学材料和画册](https://krita.org/en/support-us/shop)等方式资助我们。有了你的资助，我们才能保持核心开发团队为项目全职工作。
 
-[![](/images/posts/2018/Krita4_Alegoric_final-1024x507.png)](https://krita.org/wp-content/uploads/2018/03/Krita4_Alegoric_final.png)作者 Ramon Miranda
+[![](/images/posts/2018/Krita4_Alegoric_final-1024x507.png)](/images/posts/2018/Krita4_Alegoric_final.png)作者 Ramon Miranda

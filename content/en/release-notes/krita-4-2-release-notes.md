@@ -110,7 +110,7 @@ Easily move, rotate, or transform the selection by itself. You can even edit the
 
 ## Resize layer thumbnails
 
-\[video width="344" height="502" mp4="https://krita.org/wp-content/uploads/2018/08/resize-thumbnail.mp4"\]\[/video\]
+\[video width="344" height="502" mp4="/images/posts/2018/resize-thumbnail.mp4"\]\[/video\]
 
 There is a new slider on the layers docker that allows you to resize the layer thumbnails to see them larger. The size is saved for when you return back to Krita the next time.
 
@@ -122,13 +122,13 @@ There is also a new "Copy Translate" mode. This allows you to specify multiple c
 
 ## Painting mask performance improvement
 
-\[video width="1378" height="825" webm="https://krita.org/wp-content/uploads/2019/05/painting\_selection\_mask.webm"\]\[/video\]
+\[video width="1378" height="825" webm="/images/posts/2019/painting\_selection\_mask.webm"\]\[/video\]
 
 You can create a selection with your normal brushes using the Global Selection option. This has previously been a slow area until now. They are now significantly faster. A small workflow change was made as well. If you show the Global Selection mask with no selection, everything will be selected by default.
 
 ## Improvement to Select Opaque
 
-\[video width="1378" height="825" webm="https://krita.org/wp-content/uploads/2019/05/select\_opque\_improvements.webm"\]\[/video\]
+\[video width="1378" height="825" webm="/images/posts/2019/select\_opque\_improvements.webm"\]\[/video\]
 
 Ctrl + clicking a layer's thumbnail in the layer docker makes a selection of the layers content. This is the same as the right click option Select Opaque. There are also new methods for making layer selections. "Select Opaque" has been renamed to "Select Opaque (replace)" now to account for the new functions.
 
@@ -139,31 +139,31 @@ Ctrl + clicking a layer's thumbnail in the layer docker makes a selection of the
 
 ## Sharpness Changes
 
-[![](/images/pages/sharpness_in_motion.gif)](https://krita.org/wp-content/uploads/2019/05/sharpness_in_motion.gif)
+[![](/images/pages/sharpness_in_motion.gif)](/images/posts/2019/sharpness_in_motion.gif)
 
 The sharpness option, which sets a threshold filter on the current brushtip now allows controlling this threshold with pressure, making it easy to create bristle like brushes from any with the pixel brush.
 
 ## Flow/Opacity Changes
 
-[![](/images/pages/flow_opacity_adapt_flow_preset.gif)](https://krita.org/wp-content/uploads/2019/05/flow_opacity_adapt_flow_preset.gif)
+[![](/images/pages/flow_opacity_adapt_flow_preset.gif)](/images/posts/2019/flow_opacity_adapt_flow_preset.gif)
 
 Flow and Opacity now interact more like in other programs. The above gif shows how to adapt a brush which uses the new behaviour to go back to the old behaviour. The new behaviour should make it a lot easier to make delicate strokes. For now you can still go back to using the old behaviour globally by going to Configure Krita → General → Tools → Flow Mode
 
 ## Clone Brush - Reset Origin
 
-\[video width="1000" height="640" webm="https://krita.org/wp-content/uploads/2019/05/clone\_brush-v2.webm"\]\[/video\]
+\[video width="1000" height="640" webm="/images/posts/2019/clone\_brush-v2.webm"\]\[/video\]
 
 A new option was added to the clone brush that allows you to reset the origin after every brush stroke.
 
 ## Simplex Noise Generator
 
-\[video width="1000" height="640" webm="https://krita.org/wp-content/uploads/2019/05/fill\_simplex\_noise.webm"\]\[/video\]
+\[video width="1000" height="640" webm="/images/posts/2019/fill\_simplex\_noise.webm"\]\[/video\]
 
 Add ability to dynamically add noise to your document. There are also options to make the noise tileable.
 
 ## New Blend modes
 
-\[video width="480" height="720" webm="https://krita.org/wp-content/uploads/2019/05/blend\_modes.webm"\]\[/video\]
+\[video width="480" height="720" webm="/images/posts/2019/blend\_modes.webm"\]\[/video\]
 
 New categories of the blend modes were added to create interesting effects.
 

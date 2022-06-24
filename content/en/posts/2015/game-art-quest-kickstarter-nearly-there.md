@@ -15,11 +15,11 @@ Over the next few weeks, you will get free tutorials on both Tuesdays and Thursd
 
 Talking about that, there is excellent news! [The Kickstarter has almost reached its goal!](https://www.kickstarter.com/projects/gdquest/game-art-quest-make-professional-2d-art-with-krita) As I write these lines, it is 98% funded, and there are 22 days to go. It’s time to shift our focus to the first stretch goal. If we reach €8000, all of the backers will get a 2nd training series for their pledge. In other words, if we double the funding, you get double the content.
 
-[![98_percent](/images/posts/2015/98_percent.jpg)](https://krita.org/wp-content/uploads/2015/12/98_percent.jpg)
+[![98_percent](/images/posts/2015/98_percent.jpg)](/images/posts/2015/98_percent.jpg)
 
 But to get there, I need your help. So many people don’t know that the campaign even exists! Please spread the word! Share the campaign on social networks, on your favorite game related forum or group… together, we can reach the first stretch goal!
 
-[![Game-Art-Quest-Facebook-Group-Gdquest](/images/posts/2015/Game-Art-Quest-Facebook-Group-Gdquest.jpg)](https://krita.org/wp-content/uploads/2015/12/Game-Art-Quest-Facebook-Group-Gdquest.jpg)
+[![Game-Art-Quest-Facebook-Group-Gdquest](/images/posts/2015/Game-Art-Quest-Facebook-Group-Gdquest.jpg)](/images/posts/2015/Game-Art-Quest-Facebook-Group-Gdquest.jpg)
 
 Do you want to improve your game art skills? I launched [a Facebook group for game artists 2 weeks ago](https://www.facebook.com/groups/GameArtQuest/). It is (also) called Game Art Quest. The goal is to become better artists together. Every week, you get a new game art assignment. You can submit your work in progress to the group and both give and get constructive feedback on your art.
 

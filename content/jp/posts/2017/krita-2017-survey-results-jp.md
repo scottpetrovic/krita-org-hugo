@@ -9,7 +9,7 @@ categories:
 
 - - 調査に参加してくれた方の55%がWindows、40%がLinux、10%がMacOSユーザーでした。ちなみに公式サイトへのウェブトラフィックの分析結果では75%がWindowsです。
 
-[![](/images/posts/2017/os.png)](https://krita.org/wp-content/uploads/2017/04/os.png)
+[![](/images/posts/2017/os.png)](/images/posts/2017/os.png)
 
 - - 調査に参加した方の半分がNVidiaのグラフィックカードを使っていました。AMDを使っている方は25%、残りがIntelです。
     - 最も一般的なRAMの容量は8GBでした
@@ -18,6 +18,6 @@ categories:
     - 最も一般的な画像サイズは1920x1080、ついで300dpiのA4サイズ、すなわち2480x3508でした
     - そして最後に、Kritaの改善点として一番あがったのはもっと動作を高速にして欲しいでした―我々にとっての永遠の課題です！
 
-[![](/images/posts/2017/gripes.png)](https://krita.org/wp-content/uploads/2017/04/gripes.png)
+[![](/images/posts/2017/gripes.png)](/images/posts/2017/gripes.png)
 
 そしてもう一つわかったことは（まるでわかってなかったような口ぶりですが）Kritaユーザーは素晴らしい人たちということです。詳細書き込みの欄に素晴らしいメッセージをたくさんもらいました！

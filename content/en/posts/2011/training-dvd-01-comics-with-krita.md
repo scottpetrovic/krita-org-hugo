@@ -22,7 +22,7 @@ All video and tutorials, show a workflow being used for real production work wit
 
 ### "Wasted Mutants / Wisdom Mountain" Comic Book
 
-[![WM01-EN](/images/posts/2011/WM01-EN.jpeg)](https://krita.org/wp-content/uploads/2011/11/WM01-EN.jpeg)
+[![WM01-EN](/images/posts/2011/WM01-EN.jpeg)](/images/posts/2011/WM01-EN.jpeg)
 
 A printed (yes, actual paper!) 20 page comic-book, featuring two short comics in both black & white and full color, all made in Krita:
 

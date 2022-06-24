@@ -11,7 +11,7 @@ Still, we're getting close to about a hundred commits a week so the pace is pret
 
 Another thing is user documentation. I'm still working on the updated manual, but I've also created something new: a Krita image that will show on the very first run and has a numbe rof layer groups, with every group explaining something cool about Krita. Unfortunately, this is only in English and I haven't found a good way to make translated versions. Especially since the file is rather big. We might end up only loading it when Krita run in an English locale.
 
-![](https://krita.org/wp-content/uploads/2010/09/first_run.png)  
+![](/images/posts/2010/first_run.png)  
 
 Erm... We might want to go into the look of this a bit with some qualified artist...
 
@@ -25,7 +25,7 @@ Everyone is really busy fixing bugs, so there are no exciting new features to re
 
 **Cyrille Berger** sneaked off to present his wife to his family in Normandy -- all the while thinking hard on a rounding problem in Krita's integer maths. He also fixed the display of the rotation feature in the pixel brush. And he painted a tree in Krita:
 
-![](https://krita.org/wp-content/uploads/2010/09/datree.png)  
+![](/images/posts/2010/datree.png)  
 
 **Dmitry Kazakov** in his first month of sponsored part-time development (thanks to **Silvio Grosso**!) moved the pan and color picking feature of the freehand tool down the tool hierarchy: all tools support pan on middle-click now, and all painting tools can also pick a color from the canvas. He fixed the brush outline updating on the QPainter-based canvas and made sure the tool decorations are also shown on the canvas outside the image boundaries. Finally, he fixed the application of masks and filters when there is a selection.
 

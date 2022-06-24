@@ -17,7 +17,7 @@ https://youtu.be/VTlh2KhkOM4
 
 ### 程序缺陷修复状况
 
-[![](/images/posts/2021/bugs_2020-1024x135.png)](https://krita.org/wp-content/uploads/2020/12/bugs_2020.png)
+[![](/images/posts/2021/bugs_2020-1024x135.png)](/images/posts/2020/bugs_2020.png)
 
 2020 年的 Krita 的程序缺陷报告平台依然“[风起云涌](https://valdyas.org/fading/hacking/krita-hacking/nightmares-and-bugs/)”。许多报告实际上不是程序缺陷而是新功能请求，程序缺陷的鉴别和清理工作就像一场没完没了的噩梦，就像是在前面这个链接里 Boud 讲述的故事一样。
 

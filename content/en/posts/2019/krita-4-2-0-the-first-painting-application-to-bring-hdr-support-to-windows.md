@@ -21,7 +21,7 @@ This is not that! Tone-mapping is old-hat. These days, manufacturers are bringin
 
 And it's not just brightness, these days most normal monitors are manufactured to display the [sRGB](https://en.wikipedia.org/wiki/SRGB) gamut. This is fairly limited, and lacks quite a bit of greens (some profession monitors have a wider gamut, of course). HDR monitors use a far wider gamut, with the [Rec. 2020](https://en.wikipedia.org/wiki/Rec._2020) colorspace. And instead of using traditional exponential gamma correction, they use [Perceptual Quantizer (PQ)](https://en.wikipedia.org/wiki/High-dynamic-range_video#Perceptual_Quantizer), which not just extends the dynamic range to sun-bright values, but also allows to encode very dark areas, not available in usual sRGB.
 
-[![](/images/posts/2019/image3.png)](https://krita.org/wp-content/uploads/2019/03/image3.png)
+[![](/images/posts/2019/image3.png)](/images/posts/2019/image3.png)
 
 And finally, many laptop panels only support 6 bits per channel; most monitors only 8 bits, monitors for graphics professionals 10 bits per channel -- but HDR monitors support from 10 to 16 bits per channel. This means much nicer gradations.
 
@@ -47,11 +47,11 @@ Assuming you have a HDR capable monitor, a DisplayPort 1.4 or HDMI 2.0**a** (the
 
 You have to [switch the display to HDR mode manually, in the Windows settings utility](https://support.microsoft.com/en-us/help/4040263/windows-10-hdr-advanced-color-settings). Now Windows will start talking to the display in p2020-pq mode. To make sure that you don't freak out because everything looks weird, you'll have to select a default SDR brightness level.
 
-[![](/images/posts/2019/hdr_settings.png)](https://krita.org/wp-content/uploads/2019/03/hdr_settings.png)
+[![](/images/posts/2019/hdr_settings.png)](/images/posts/2019/hdr_settings.png)
 
 You have to configure Krita to support HDR. In the _Settings → Configure Krita → Display_ settings panel you need to select your preferred surface. You'll also want to select the HDR-capable **small color selector** from the _Settings → Dockers_ menu.
 
-[![](/images/posts/2019/hdr_krita_settings.png)](https://krita.org/wp-content/uploads/2019/03/hdr_krita_settings.png)
+[![](/images/posts/2019/hdr_krita_settings.png)](/images/posts/2019/hdr_krita_settings.png)
 
 To create a proper HDR image, you will need to make a canvas using a profile with the rec 2020 gamut and a linear tone-response-curve: "Rec2020-elle-V4-g10.icc" is the profile you need to choose. HDR images are standardized to use the Rec2020 gamut, and the PQ trc. However, a linear TRC is easier to edit images in, so we don't convert to PQ until we're satisfied with our image.
 

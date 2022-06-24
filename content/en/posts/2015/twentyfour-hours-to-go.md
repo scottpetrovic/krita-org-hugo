@@ -11,4 +11,4 @@ Big thanks to everyone who has joined to help make Krita better and better!
 
 [In any case, time for a last sprint! This time tomorrow morning, the campaign is over](https://www.kickstarter.com/projects/krita/krita-free-paint-app-lets-make-it-faster-than-phot)!
 
-[![kickstarter-end](/images/posts/2015/kickstarter-end.jpg)](https://krita.org/wp-content/uploads/2015/06/kickstarter-end.jpg)
+[![kickstarter-end](/images/posts/2015/kickstarter-end.jpg)](/images/posts/2015/kickstarter-end.jpg)

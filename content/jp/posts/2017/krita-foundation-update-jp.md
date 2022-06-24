@@ -9,7 +9,7 @@ categories:
 
 それだけではありません。[Private Internet Access](https://www.privateinternetaccess.com)のチームからアプローチを受けてびっくりしました！20000ユーロでKritaを助けスポンサーになりたいと知らせてきました！ Private Internet Accessは世界中に高速で数ギガビットのVPNトンネルゲートウェイを提供しています。既に[数多くの素晴らしい団体を支援しているのですが](https://www.privateinternetaccess.com/pages/companies-we-sponsor) 、そこにKritaも加わります!
 
-[![](/images/posts/2017/PIAlogoupdated_final.png)](https://krita.org/wp-content/uploads/2017/08/PIAlogoupdated_final.png)
+[![](/images/posts/2017/PIAlogoupdated_final.png)](/images/posts/2017/PIAlogoupdated_final.png)
 
 もちろん、これで我々の仕事はとてもやりやすくなります。税を払えるか心配する必要はなくなり、Dmitryに送金を再開できます！Kritaに寄付するかどうか(またはショップから何かを買うか)を悩んでいる人も、是非お願いします！我々の計画は以下です:
 

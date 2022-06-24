@@ -7,7 +7,7 @@ Sixty-eight commits last week -- and thanks to the untiring work of the latest t
 
 This is [Animtim's first result in Krita](http://forum.kde.org/viewtopic.php?f=138&t=89173):  
 
-![](https://krita.org/wp-content/uploads/2010/07/character_design_with_krita_by_animtim.png)  
+![](/images/posts/2010/character_design_with_krita_by_animtim.png)  
 
 ### Google Summer of Code
 

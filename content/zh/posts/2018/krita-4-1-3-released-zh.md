@@ -12,13 +12,13 @@ categories:
 
 你可能会觉得奇怪——Krita 4.1.2 去哪儿了？事情是这样的：我们原本已经准备好了 Krita 4.1.2，但是我们的编译系统出了一些问题，导致编译出来的 Windows 版本程序出错。在我们调试编译系统的时候，Dmitry 又着手修正了更多的问题，包括一个多行文本编辑后会变成一行的问题。我们决定创建一个更新的 4.1.3 版本，将这些全新的改进包含进去。
 
-[![](/images/posts/2018/text_tool-1024x577.jpg)](https://krita.org/wp-content/uploads/2018/09/text_tool.jpg)
+[![](/images/posts/2018/text_tool-1024x577.jpg)](/images/posts/2018/text_tool.jpg)
 
 Krita 4.1.3 主要是一个问题修复版本，但它也包含了一些新功能。
 
 首先是新的欢迎屏幕，由 Scott Petrovic 打造。它提供了一组用于快速创建新文件和打开已有文件的链接，一个近期文件列表和其他一些有用的网页链接。你还可以将文件拖到欢迎屏幕区域直接打开已有文件。
 
-[![](/images/posts/2018/welcome_page-1024x781.png)](https://krita.org/wp-content/uploads/2018/09/welcome_page.png)
+[![](/images/posts/2018/welcome_page-1024x781.png)](/images/posts/2018/welcome_page.png)
 
 Dmitry Kazakov 开足了马力对 Krita 进行各种改进。其中一项成果是对即时预览模式的改进。即时预览模式是我们在 2015 年 Kickstarter 众筹活动中得到赞助开发的一项功能，它把用户绘制的笔画先用低分辨率临时绘制到画布上进行显示，同时在后台继续演算实际的高分辨率笔画。在低配置的机器上使用大型笔刷时即时预览模式能够相当可观地提高 Krita 画布的绘图性能。但在使用某些笔刷时笔画的末尾会发生一点延迟，有时画布也会发生闪烁：[BUG:361448](https://bugs.kde.org/show_bug.cgi?id=361448) 。这个问题已经得到修复，绘画的感觉将更加平顺。与此同时 [Ivan Yossi 的Google Summer of Code 工作成果](https://colorathis.wordpress.com/tag/kde/)的绝大部分也已经被整合到这一版本中，它也将改进绘画的流畅程度。
 
@@ -28,11 +28,11 @@ Dmitry Kazakov 开足了马力对 Krita 进行各种改进。其中一项成果�
 
 贝塞尔曲线工具也得到了改进，新增了自动平滑选项。选中自动平滑时绘制的曲线将不是多边形，而是一条每个点都设为“平滑”的曲线。参见：[BUG:351787](https://bugs.kde.org/show_bug.cgi?id=351787)。
 
-[![](/images/posts/2018/bezier_smoothing-1024x726.png)](https://krita.org/wp-content/uploads/2018/09/bezier_smoothing.png)
+[![](/images/posts/2018/bezier_smoothing-1024x726.png)](/images/posts/2018/bezier_smoothing.png)
 
 最后一个新功能是矩形工具的圆角功能。无论是在像素还是矢量图层上，你都可以为绘制的矩形指定圆角：[BUG:335568](https://bugs.kde.org/show_bug.cgi?id=335568)。
 
-[![](/images/posts/2018/rounded_rectangles-1024x726.png)](https://krita.org/wp-content/uploads/2018/09/rounded_rectangles.png)
+[![](/images/posts/2018/rounded_rectangles-1024x726.png)](/images/posts/2018/rounded_rectangles.png)
 
 漫画项目管理器，一个由 Wolthera van Hövell tot Westerflier 打造的 Python 插件得到了大量改进，尤其是生成符合行业规范的 epub 和 acbf 文件方面。与此有关的软件项目是 KDE 漫画书阅读器 [Peruse](https://peruse.kde.org/)。具体的改进如下：
 
@@ -55,7 +55,7 @@ Dmitry Kazakov 开足了马力对 Krita 进行各种改进。其中一项成果�
 - 让 epub 使用 QDomDocument 生成文件，将 ncx/opf 分离出去，这让 xml 文件更加有条理，并留出更多空间来生成 epub 2/3/3+
 - 更新 ComicBookInfo 和 ComicRack 生成器
 
-[![](/images/posts/2018/Screenshot_20180828_155852-1024x797.png)](https://krita.org/wp-content/uploads/2018/09/Screenshot_20180828_155852.png)
+[![](/images/posts/2018/Screenshot_20180828_155852-1024x797.png)](/images/posts/2018/Screenshot_20180828_155852.png)
 
 下面是一个完整的更新列表：
 

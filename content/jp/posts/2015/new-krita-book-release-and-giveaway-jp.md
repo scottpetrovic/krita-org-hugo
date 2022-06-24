@@ -15,7 +15,7 @@ Kritaの貢献者の一人、Scott Petrovicさんによる新しい本、_Digita
 
 ScottさんはKritaコミュニティに長く関わっています。彼はこの公式ウェブサイトの管理をしています。それだけではなく、本を書き、さらに開発も行ってきました。Scottさんは新しいアニメーションシステムやKrita3.1に含まれる予定の新しいレイヤードッキングパネルといった、ユーザインタラクションデザインを行っています。詳しくは下の短いインタビューを読んでください！
 
-[目次と最初の2章のサンプルはこちら](https://krita.org/wp-content/uploads/2015/10/Digital-Painting-with-krita-2.9-chapters1-2.pdf).
+[目次と最初の2章のサンプルはこちら](/images/posts/2015/Digital-Painting-with-krita-2.9-chapters1-2.pdf).
 
 AmazonやBarnes & Nobleといった書店で販売中です。(訳注：日本では11/2時点でAmazon.co.jpでKindleタイトルとして購入が可能です)
 

@@ -9,7 +9,7 @@ tags:
 
 デーフェンテルで行われたKrita Sprintは火曜日に終わる予定で、参加したアーティストや開発者、ウェブサイト管理者たちは次々と帰宅の途についています。何人かはもう少しデーフェンテルにとどまる予定ですが、日曜日には既に帰っていた人もいました。
 
-[![DSCF5848](/images/posts/2016/DSCF5848-1024x768.jpg)](https://krita.org/wp-content/uploads/2016/08/DSCF5848.jpg)
+[![DSCF5848](/images/posts/2016/DSCF5848-1024x768.jpg)](/images/posts/2016/DSCF5848.jpg)
 
 このような実際に会っての会合は疲れますがワクワクするものです！たくさんの議題が議論されました。
 
@@ -17,13 +17,13 @@ tags:
 - OSXの正式サポートに向け、たくさんの作業がなされました―[OpenGLに関するパッチ](https://codereview.qt-project.org/#/c/166202)は遂にQt本体への統合が視野に入ってきました！またペンタブの操作についてもいくつかの修正が加えられました。
 - KritaからGoogle Summer of Codeに参加した生徒三人全員が今回のスプリントに参加しました！Woltheraは彼女の担当したプロジェクトの2番目(1番目は3.0.1に実装予定の[ソフトプルーフ](http://wolthera.info/?p=802)です)となるKritaの内部色選択の完全な色管理への移行を完了させました。Jouniは開発中のアニメーション機能をプレゼンし、JulianはQtのOpenGL QPainterエンジンに関する彼の成果をプレゼンしました。
 
-[![index](/images/posts/2016/index-1024x584.png)](https://krita.org/wp-content/uploads/2016/08/index.png)
+[![index](/images/posts/2016/index-1024x584.png)](/images/posts/2016/index.png)
 
  
 
 - 我々はKrita財団から[Pepper＆Carrot](http://www.peppercarrot.com/)の本を出版する計画についてその作者であるDavid Revoyと議論を行いました。
 
-[![Pepper loves Kiki!](/images/posts/2016/PepperLovesKiki_001-1024x724.png)](https://krita.org/wp-content/uploads/2016/08/PepperLovesKiki_001.png)
+[![Pepper loves Kiki!](/images/posts/2016/PepperLovesKiki_001-1024x724.png)](/images/posts/2016/PepperLovesKiki_001.png)
 
 PepperはKikiが大好きです！
 
@@ -34,7 +34,7 @@ PepperはKikiが大好きです！
 - Dmitryは非常に大きな直径でも問題なく動作する―2500ピクセルも不可能ではありません―新しいブラシエンジン(油性ペン)を披露しました
 - バグの修正に次ぐ修正を行いました…
 
-[![Kiki_Angel &Demon](/images/posts/2016/Kiki_Angel-Demon-1-1024x724.png)](https://krita.org/wp-content/uploads/2016/08/Kiki_Angel-Demon-1.png)
+[![Kiki_Angel &Demon](/images/posts/2016/Kiki_Angel-Demon-1-1024x724.png)](/images/posts/2016/Kiki_Angel-Demon-1.png)
 
 - そして最後に、我々は素晴らしい時間を過ごせました。Kritaへの熱心な貢献者の多くは今まで実際に互いの顔を見たことはありませんでした、これからはIRCのニックネームたちやコミットメッセージ、Eメールアドレスにちゃんと顔と声がイメージできるようになるのです！
 

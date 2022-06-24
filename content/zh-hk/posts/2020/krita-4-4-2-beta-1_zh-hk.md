@@ -16,11 +16,11 @@ Krita 開發團隊推出咗 Krita 4.4.2 嘅首個測試版本。依個版本包�
 
 依項由 Sharaf Zaman 喺 Google Summer of Code 展開嘅計畫喺依個發佈版本正式成為 Krita 嘅新功能！依個係繼 Inkscape 之後另一個獨立嘅 SVG 網狀漸變 (Mesh Gradient) 實作，並且同 Inkscape 兼容。網狀漸變係用喺向量圖形。佢可以產生出非常自然嘅效果：
 
-[![網狀漸變](/images/posts/2020/Handles-meshgradient-1024x554.png "網狀漸變")](https://krita.org/wp-content/uploads/2020/12/Handles-meshgradient.png) 網狀漸變
+[![網狀漸變](/images/posts/2020/Handles-meshgradient-1024x554.png "網狀漸變")](/images/posts/2020/Handles-meshgradient.png) 網狀漸變
 
 ### 網狀變形
 
-[![網狀變形嘅用法](/images/posts/2020/krita_4_4_2_mesh_gradients.png "網狀變形嘅用法")](https://krita.org/wp-content/uploads/2020/12/krita_4_4_2_mesh_gradients.png) 網狀變形容許作出複雜嘅曲線變形效果，例如係圖中半圓凸出嚟嘅窗框。依項功能可以大幅提升製作概念藝術嘅效率。
+[![網狀變形嘅用法](/images/posts/2020/krita_4_4_2_mesh_gradients.png "網狀變形嘅用法")](/images/posts/2020/krita_4_4_2_mesh_gradients.png) 網狀變形容許作出複雜嘅曲線變形效果，例如係圖中半圓凸出嚟嘅窗框。依項功能可以大幅提升製作概念藝術嘅效率。
 
 網狀變形係依個版本加入嘅另一項新功能。同網狀漸變相似，依項功能同樣係使用貝茲曲線形成嘅網格。依啲網格可以分別控制以產生準確嘅變形效果，尤其係對繪畫曲面物件非常有幫助。你仲可以選擇顯示貝茲曲線嘅控制點，俾你做出更加精密嘅變形控制！
 
@@ -35,7 +35,7 @@ Krita 開發團隊推出咗 Krita 4.4.2 嘅首個測試版本。依個版本包�
 
 ### 漸變填充圖層同新版漸變編輯工具
 
-[![漸變填充圖層同新版漸變編輯工具](/images/posts/2020/krita_4_4_2_new_gradient_editor_and_fill_layer.png "漸變填充圖層同新版漸變編輯工具")](https://krita.org/wp-content/uploads/2020/12/krita_4_4_2_new_gradient_editor_and_fill_layer.png) 正在使用漸變填充圖層同新版漸變編輯工具。
+[![漸變填充圖層同新版漸變編輯工具](/images/posts/2020/krita_4_4_2_new_gradient_editor_and_fill_layer.png "漸變填充圖層同新版漸變編輯工具")](/images/posts/2020/krita_4_4_2_new_gradient_editor_and_fill_layer.png) 正在使用漸變填充圖層同新版漸變編輯工具。
 
 依項由 Deif Lou 加入嘅漸變填充圖層俾你可以非常簡單方便咁以非破壞性方式建立各種漸變效果。依項新功能同時亦帶嚟咗一項易用性改進：Krita 入面嘅漸變分為「停駐點漸變」同埋「分段漸變」兩種，過往各自有唔同功能同編輯介面，依家兩者都可以喺同一個介面入面編輯，而且兩者可以互相轉換。
 
@@ -43,7 +43,7 @@ Krita 開發團隊推出咗 Krita 4.4.2 嘅首個測試版本。依個版本包�
 
 Deif Lou 亦重寫咗半調濾鏡。舊版嘅半調濾鏡運算速度緩慢，又唔可以用嚟做濾鏡遮罩，仲只係提供圓點狀網點。
 
-[![經半調濾鏡處理嘅 Krita 啟動畫面](/images/posts/2020/krita_4_4_2_halftone_filter.png "經半調濾鏡處理嘅 Krita 啟動畫面")](https://krita.org/wp-content/uploads/2020/12/krita_4_4_2_halftone_filter.png) 新的半調濾鏡可以分別處理獨立色彩通道，可以用嚟產生懷舊效果，甚至係用於印刷。
+[![經半調濾鏡處理嘅 Krita 啟動畫面](/images/posts/2020/krita_4_4_2_halftone_filter.png "經半調濾鏡處理嘅 Krita 啟動畫面")](/images/posts/2020/krita_4_4_2_halftone_filter.png) 新的半調濾鏡可以分別處理獨立色彩通道，可以用嚟產生懷舊效果，甚至係用於印刷。
 
 新嘅半調濾鏡可以用喺濾鏡遮罩圖層，支援獨立色彩通道，而半調網點圖案亦可以經由填充圖層產生，為創作帶嚟咗無限可能。
 
@@ -59,11 +59,11 @@ Amyspark 為 Krita 嘅 QuickLook 外掛程式加入咗預覽縮圖功能（需�
 
 Krita 曾經設定咗一個鍵盤快捷鍵「W」嚟用作切換「環繞模式」──今年 Adobe Photoshop 亦曾經宣佈喺下個版本加入咗相類似嘅功能。
 
-[![](/images/posts/2020/wrap-around-mode.jpg)](https://krita.org/wp-content/uploads/2014/07/wrap-around-mode.jpg)
+[![](/images/posts/2020/wrap-around-mode.jpg)](/images/posts/2014/wrap-around-mode.jpg)
 
 不過，由於好多使用者因為唔小心㩒咗依個快捷鍵而被混淆咗，誤以為 Krita 出現咗 bug，因此我哋喺預設快捷鍵入面移除咗依個快捷鍵。但係這樣反而令環繞模式變得隱蔽起嚟。有見及此，我哋喺依個版本入面加入咗一個功具列圖示按鈕用嚟切換「環繞模式」：
 
-[![](/images/posts/2020/wraparound_button.png)](https://krita.org/wp-content/uploads/2020/12/wraparound_button.png) 唔好再㩒錯喇，好唔好？
+[![](/images/posts/2020/wraparound_button.png)](/images/posts/2020/wraparound_button.png) 唔好再㩒錯喇，好唔好？
 
 ### 改進高解像度縮放 (HiDPI) 嘅支援
 

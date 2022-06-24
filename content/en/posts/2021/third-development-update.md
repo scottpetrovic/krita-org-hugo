@@ -15,7 +15,7 @@ Ramon discusses the new resource system this time. It's not a terribly glitterin
 
 Now for what we've been doing in the past week. This weeks super exciting development is by sponsored developer Agata. She is working on something we're calling "local assistants" now.  Until now, an assistant would cover the whole Krita image. With this change, you can limit an assistant to any rectangle. The feature should land soon enough to be in Krita 5. Here's a video made by David Revoy to show off:
 
-{{< video-player src="https://krita.org/wp-content/uploads/2021/05/local_assistants.mp4" type="video/mp4" >}}
+{{< video-player src="/images/posts/2021/local_assistants.mp4" type="video/mp4" >}}
 
 
 Now, let's go for the rest...

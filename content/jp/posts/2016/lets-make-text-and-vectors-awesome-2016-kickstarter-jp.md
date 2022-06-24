@@ -19,11 +19,11 @@ KritaのテキストツールはKOffice、現在のCalligraスイートの他の
 
 今こそ我々と共にKritaに素晴らしいテキストツールを実装すべき時です。それはKritaに求めるテキスト機能を十分に満たすものが予定されています。つまり真の組版制御、世界中の様々な言語と文字及びその翻訳へのサポートです。テキストツールは一つに統合され、使いやすくかつユーザーが制御できるものとなり、これからの拡張性も十分に考慮されたものとなります。
 
-[![texteditor-mock](/images/posts/2016/texteditor-mock-1024x777.jpg)](https://krita.org/wp-content/uploads/2016/05/texteditor-mock.jpg)
+[![texteditor-mock](/images/posts/2016/texteditor-mock-1024x777.jpg)](/images/posts/2016/texteditor-mock.jpg)
 
 二つ目の開発目標はベクターグラフィックスです。テキストツールもベクターレイヤーでの機能だったため、二つは関連し合った開発目標と言えます。KritaのベクターグラフィックスはOpenDocument Graphicsフォーマットで定義されています。これはオフィススイートには十分ですが、作品を作るには不十分です。既にSVG規格への対応を開始していますが、今こそその仕事を完了させるべき時です！SVGをKritaのコアに導入した後には、ベクターツールそれ自体の使いやすさの改良に着手します。ベクターツールもまたワードプロセッサーやスプレッドシート、プレゼンテーションソフトでの使用を前提として作られており、Kritaで使うには必然的に苦痛を伴う作業を体験する必要がありました。しかしKritaはもはやオフィススイートのアプリケーションではありません。遂に全てのツールをアーティストの必要に合わせて開発できるようになったのです。Kritaでのベクターグラフィックスでの製作を素晴らしいものにしましょう！
 
-[![FlyingKonqui-animtim](/images/posts/2016/FlyingKonqui-animtim-1024x682.png)](https://krita.org/wp-content/uploads/2016/05/FlyingKonqui-animtim.png)
+[![FlyingKonqui-animtim](/images/posts/2016/FlyingKonqui-animtim-1024x682.png)](/images/posts/2016/FlyingKonqui-animtim.png)
 
 そしてもちろん、今回も小さいものから非常に大きな「Pythonスクリプト機能実装」まで多数の追加目標が用意されています。一覧についてはKickstarterのページをご覧ください！
 

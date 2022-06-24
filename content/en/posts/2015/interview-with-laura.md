@@ -6,7 +6,7 @@ categories:
 coverImage: "Spirit-of-Natureresized.jpg"
 ---
 
-### [![Monkey Girl v2(resized)](/images/posts/2015/Monkey-Girl-v2resized.jpg)](https://krita.org/wp-content/uploads/2015/10/Monkey-Girl-v2resized.jpg)
+### [![Monkey Girl v2(resized)](/images/posts/2015/Monkey-Girl-v2resized.jpg)](/images/posts/2015/Monkey-Girl-v2resized.jpg)
 
 ### Could you tell us something about yourself?
 
@@ -58,7 +58,7 @@ One word: free. It's a free software (and I couldn't be more grateful for that),
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-I tend to pick my latest works as my favorites, since I feel that each new piece is an improvement from older ones. I think Spirit of Nature is probably my favorite. I've spent the most time on this piece and attempted to produce something of higher quality. I learned a lot of new things while painting this piece – new painting techniques and how to use different brushes, including custom made ones. It goes without saying there's a lot to improve on, but being my biggest work I'd like to think of it as a new milestone to beat with my next piece of work. [![Spirit of Nature(resized)](/images/posts/2015/Spirit-of-Natureresized.jpg)](https://krita.org/wp-content/uploads/2015/10/Spirit-of-Natureresized.jpg)
+I tend to pick my latest works as my favorites, since I feel that each new piece is an improvement from older ones. I think Spirit of Nature is probably my favorite. I've spent the most time on this piece and attempted to produce something of higher quality. I learned a lot of new things while painting this piece – new painting techniques and how to use different brushes, including custom made ones. It goes without saying there's a lot to improve on, but being my biggest work I'd like to think of it as a new milestone to beat with my next piece of work. [![Spirit of Nature(resized)](/images/posts/2015/Spirit-of-Natureresized.jpg)](/images/posts/2015/Spirit-of-Natureresized.jpg)
 
 ### What techniques and brushes did you use in it?
 

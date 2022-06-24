@@ -9,7 +9,7 @@ tags:
 
 Krita財団は、Kritaで製作された作品をあつめたアートブックを発行する予定です。この本はKickstarterでアートブックをリワードとして選択した出資者に送られると共に、Kritaショップからも注文できるようになります。またオンラインの本屋からも注文できるよう努力するつもりです!Krita財団が本を出版するのははじめてで、とてもワクワクしています。
 
-[![kiki_artbook_small](/images/posts/2016/kiki_artbook_small.png)](https://krita.org/wp-content/uploads/2016/06/kiki_artbook_small.png)
+[![kiki_artbook_small](/images/posts/2016/kiki_artbook_small.png)](/images/posts/2016/kiki_artbook_small.png)
 
 あなたもワクワクしているのではないかと思います。初のKritaのアートブックというこの歴史的な瞬間に、参加してみたいと思いませんか？残念ながら紙面には限りがあるので、Kritaの熟練アーティストを集めた審査団を作り、すべての応募から最終的な選考を行うつもりです。
 
@@ -19,7 +19,7 @@ Krita財団は、Kritaで製作された作品をあつめたアートブック�
 
 モックアップは以下になります:
 
-[![spread](/images/posts/2016/spread-1024x718.png)](https://krita.org/wp-content/uploads/2016/06/spread.png)
+[![spread](/images/posts/2016/spread-1024x718.png)](/images/posts/2016/spread.png)
 
 参加したい人は、foundation@krita.orgに作品を応募してください。以下のものが必要になります:
 

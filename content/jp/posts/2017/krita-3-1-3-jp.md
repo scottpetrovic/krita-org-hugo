@@ -7,7 +7,7 @@ categories:
 
 本日Krita 3.1.3正式版を皆さんに自信を持ってお届けします！今回のリリースには大量のバグ修正のみならず、いくつかの新機能も含まれています。DmitryとBoudはKrita 3.1.3を可能な限り安定にするため、Kickstarterによる機能の実装を数か月中断しています。アルファ版・ベータ版・リリース候補版をテストして下さったすべての皆さんに感謝申し上げます！翻訳作業を行ってくれた皆さん及びUbuntu Lime PPAのメンテナンスを買って出てくれたAlexey Samoilovにも感謝申し上げます。
 
-[![Transform around Pivot](/images/posts/2017/pivot-1024x527.png)](https://krita.org/wp-content/uploads/2017/05/pivot.png)
+[![Transform around Pivot](/images/posts/2017/pivot-1024x527.png)](/images/posts/2017/pivot.png)
 
 ピボット中心の変形（画像は[David Revoy](https://peppercarrot.com)氏より）
 

@@ -29,7 +29,7 @@ In short, 2019 was a year when Krita saw a huge growth, almost scarily so!
 
 If you want to play with what will become Krita 4.3.0, check out the nightly builds! ([Windows](https://binary-factory.kde.org/job/Krita_Nightly_Windows_Build/), [Linux](https://binary-factory.kde.org/job/Krita_Nightly_Appimage_Build/), [macOS](https://binary-factory.kde.org/job/Krita_Nightly_MacOS_Build/))
 
-[![](/images/posts/2020/electrichearts_20190316_kiki_a_sm-2-1024x508.png)](https://krita.org/wp-content/uploads/2019/05/electrichearts_20190316_kiki_a_sm-2.png)
+[![](/images/posts/2020/electrichearts_20190316_kiki_a_sm-2-1024x508.png)](/images/posts/2019/electrichearts_20190316_kiki_a_sm-2.png)
 
 ## 2020
 

@@ -44,21 +44,21 @@ Kickstarterキャンペーンの季節は終わり、我々はゆっくりと回
 
 Pythonスクリプトが明らかにリードしていますが、我々はPythonスクリプトを2015年度分の残りのKickstarter追加目標、例えばパレット・色見本ドッキングパネル等の実装に使えるのではないかと考え、既にその開発を開始しています。Pythonスクリプトは既にある程度動作しています；ドッキングパネルやメニューの中身を追加できるKritaのプラグインをPythonで作れるようになっており、そしてこれがKrita Python APIが利用可能なKritaからPythonスクリプトを走らせることを可能にするPythonプラグインです。これは現在のところ開いているウィンドウの数を数えるだけの機能しかありませんが、まだまだこれからです！
 
-[![scripter](/images/posts/2016/scripter-1024x582.png)](https://krita.org/wp-content/uploads/2016/06/scripter.png)
+[![scripter](/images/posts/2016/scripter-1024x582.png)](/images/posts/2016/scripter.png)
 
 ### Google Summer of Code
 
 Google Summer of Codeの学生に中間審査がありました!幸運にも全員がパスすることができました。全員がすばらしい成果をあげています。Woltheraはソフトプルーフの実装をほぼ完了しました。既に[マニュアルページ](https://docs.krita.org/Soft_Proofing) も書き上げて、現在広範囲のテストを行っています。テストで問題がなく良い感じなら、ソフトプルーフ機能はKrita 3.0.1に追加されます。再び、KritaはGoogle Summer of Codeで一番最初に成果をリリースするプロジェクトになります!ソフトプルーフには、編集可能な色域(gamut)警告、ホワイトポイント調整スライダが含まれて、画像に対する紙の影響をチェックすることができます。Kritaはプルーフプロファイルをグローバル設定ではなく画像に保存するので、特定のプリンタ向けのテンプレートファイルを作成するといったことも可能になります。また、プルーフ前とプルーフ後の画像を同時に表示することもできます。
 
-[![gamut_alarms_fast](/images/posts/2016/gamut_alarms_fast-1024x553.png)](https://krita.org/wp-content/uploads/2016/06/gamut_alarms_fast.png)
+[![gamut_alarms_fast](/images/posts/2016/gamut_alarms_fast-1024x553.png)](/images/posts/2016/gamut_alarms_fast.png)
 
 Julian ThijsenはOpenGL QPainterの修正に熱心に取り組んでいます。 [彼のブログの記事](http://kritadev.blogspot.nl/)には、どのような道筋で挑戦しているのかの詳細があります。まだやるべきことは多く残っていますが、作業は活発です。彼の成果はQtに提出されQtの一部となることになり、みんながその恩恵をうけられるようになります。現在の目標はQtのQPainterクラスに対するOpenGL backendを修正し、カーソル、補助線、グラデーションツールの線といった Kritaのすべてのツールが描画できるようにすることです。
 
-[![Working_01](/images/posts/2016/Working_01.png)](https://krita.org/wp-content/uploads/2016/06/Working_01.png)
+[![Working_01](/images/posts/2016/Working_01.png)](/images/posts/2016/Working_01.png)
 
 Jouni Pentikainenは補間カーブの作業を行っています。透明度といった変化を自動的に、スムーズにアニメーションできるようにするためのものです。また、変形マスクをフレーム間でアニメーションできるようにする開発も行っています。アニメーターにさらなる自由を与えます！詳細については彼の[blog](http://kritaanimation.blogspot.nl/)を参照してください。以下は、インタラクションやユーザ体験デザインを議論する際に作成したモックアップです:
 
-[![interpolation-mockup](/images/posts/2016/interpolation-mockup.png)](https://krita.org/wp-content/uploads/2016/06/interpolation-mockup.png)
+[![interpolation-mockup](/images/posts/2016/interpolation-mockup.png)](/images/posts/2016/interpolation-mockup.png)
 
 ### リリース
 
@@ -66,7 +66,7 @@ Jouni Pentikainenは補間カーブの作業を行っています。透明度と
 
 そしてKrita 3.0のリリース後、日本のプロアニメーター[税所一輝](https://twitter.com/motoaki_saisho)氏がKritaを自分の使用ツールの一つに採用してくれました。作品制作のために彼が作成したテンプレートファイルをKritaのアニメテンプレートとしてぜひいただきたいという我々の要望を、彼は快く承諾してくれました。彼のテンプレートは日本のアニメスタジオで使われている実際のアニメ製作工程に基づいています―このテンプレートもKrita 3.0.1で実装されます：
 
-[![animation_template](/images/posts/2016/animation_template-1024x577.png)](https://krita.org/wp-content/uploads/2016/06/animation_template.png)
+[![animation_template](/images/posts/2016/animation_template-1024x577.png)](/images/posts/2016/animation_template.png)
 
 3.0.1リリースは非常にエキサイティングなものになるでしょう！
 

@@ -14,11 +14,11 @@ It's a beta, so there are bugs. One of them is that the size and flow sliders ar
 - Krita 3.2 will use the gmic-qt plugin created and maintained by the [authors of G'Mic](http://gmic.eu/) We're still working with them to create binary builds that can run on Windows, OSX and most versions of Linux. This plugin replaces completely the older gmic plugin.
 - We added Radian's brush set to Krita's default brushes.
 
-[![](/images/posts/2017/new_brushes-478x1024.jpg)](https://krita.org/wp-content/uploads/2017/07/new_brushes.jpg)
+[![](/images/posts/2017/new_brushes-478x1024.jpg)](/images/posts/2017/new_brushes.jpg)
 
 These brushes are good for create a strong painterly look:
 
-[![](/images/posts/2017/kiki_with_new_brushes_by_rad.jpg)](https://krita.org/wp-content/uploads/2017/07/kiki_with_new_brushes_by_rad.jpg)
+[![](/images/posts/2017/kiki_with_new_brushes_by_rad.jpg)](/images/posts/2017/kiki_with_new_brushes_by_rad.jpg)
 
 - There are now shortcuts for changing layer states like visibility and lock.
 - There have been many fixes to the clone brush

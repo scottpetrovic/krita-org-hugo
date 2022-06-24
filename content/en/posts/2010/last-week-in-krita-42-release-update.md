@@ -25,7 +25,7 @@ Sven Langkamp [discussed his attempt](http://slangkamp.wordpress.com/2010/10/25/
 
 And Cyrille Berger [presented his rendition](http://forum.kde.org/viewtopic.php?f=138&t=91068&p=174772#p174772g) of the [Övertorneå Kyrka](http://www.overtorneaforsamling.se/index.php?option=com_content&view=article&id=48&Itemid=64):
 
-![](https://krita.org/wp-content/uploads/2010/10/overtorneakyrka_700.png)  
+![](/images/posts/2010/overtorneakyrka_700.png)  
 
   
 

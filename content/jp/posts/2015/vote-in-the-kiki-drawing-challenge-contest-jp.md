@@ -13,7 +13,7 @@ tags:
 
 ティーザーとして、コンテストの競争には参加していない名誉エントリーのTyson Tanの参考作品を紹介します:
 
-[![mascot_20150905_kiki_splash_720](/images/posts/2015/mascot_20150905_kiki_splash_720.png)](https://krita.org/wp-content/uploads/2015/09/mascot_20150905_kiki_splash_720.png)
+[![mascot_20150905_kiki_splash_720](/images/posts/2015/mascot_20150905_kiki_splash_720.png)](/images/posts/2015/mascot_20150905_kiki_splash_720.png)
 
 (なお、この絵が、Kritaの次のリリースのスプラッシュ画像になる予定です)
 
