@@ -8,12 +8,18 @@
 	<!-- KDE site translations should work by appending language code to URL -->
 	<a href="https://userbase.kde.org/What_is_KDE/{{.Site.Language.Lang}}">What is KDE</a>
 
-	<a href="{{ .Site.BaseURL }}privacy-statement">Privacy Statement</a>
-
 	
 
 	{{ if eq .Site.Language.Lang "en" }}
 	<a href="{{ .Site.BaseURL }}website">Website Licenses</a>
+
+
+	<a href="{{ .Site.BaseURL }}privacy-statement">Privacy Statement</a>	
+	<a href="{{ .Site.BaseURL }}release-history">Release History</a>	
+	<a href="{{ .Site.BaseURL }}report-a-bug">Report a Bug</a>	
+	<a href="{{ .Site.BaseURL }}roadmap">Roadmap</a>
+	<a href="{{ .Site.BaseURL }}contact">Contact</a>
+
 	<a href="https://docs.krita.org/KritaFAQ.html">FAQ</a>
 	{{ end }}
 	
@@ -21,6 +27,13 @@
 	<!-- we need to make sure the language codes we use for krita.org is the same as docs.krita.org so they can transfer -->
 	{{ if ne .Site.Language.Lang "en" }}
 	<a href="{{ .Site.BaseURL }}{{.Site.Language.Lang}}/website">Website Licenses</a>
+
+	<a href="{{ .Site.BaseURL }}{{.Site.Language.Lang}}/privacy-statement">Privacy Statement</a>	
+	<a href="{{ .Site.BaseURL }}{{.Site.Language.Lang}}/release-history">Release History</a>	
+	<a href="{{ .Site.BaseURL }}{{.Site.Language.Lang}}/report-a-bug">Report a Bug</a>	
+	<a href="{{ .Site.BaseURL }}{{.Site.Language.Lang}}/roadmap">Roadmap</a>
+	<a href="{{ .Site.BaseURL }}{{.Site.Language.Lang}}/contact">Contact</a>
+
 	<a href="https://docs.krita.org/{{.Site.Language.Lang}}/KritaFAQ.html">FAQ</a>
 	{{ end }}
 
