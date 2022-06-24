@@ -3,10 +3,10 @@ title: "Interview with Andreas Antoniadis"
 date: "2015-01-19"
 categories: 
   - "artist-interview"
-coverImage: "Andysdrawing-small.jpeg"
+coverImage: "Andysdrawing-small.jpg"
 ---
 
-### [![Andysdrawing-small](/images/posts/2015/Andysdrawing-small.jpeg)](https://krita.org/wp-content/uploads/2015/01/Andyspartinart-conceptdrawing333.jpeg) Would you like to tell us something about yourself?
+### [![Andysdrawing-small](/images/posts/2015/Andysdrawing-small.jpg)](/images/posts/2015/Andysdrawing-small.jpg) Would you like to tell us something about yourself?
 
 I've been working as an illustrator for over eighteen years, ten years in-house and eight years as a freelancer. Because of the crisis in Greece you can't make a good living as an illustrator, that's why I started six years ago to sail in the summer. But in the winter I still work as an illustrator.
 
