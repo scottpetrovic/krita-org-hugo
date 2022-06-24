@@ -2,23 +2,40 @@
 
 <img src="{{ .Site.BaseURL }}/images/hero-image-50.png" />
 
+<div class="container-padding">
 
-<h2>{{ i18n "home.news" }}</h2>
+    <h2 class="inline" style="margin-top: 0">{{ i18n "home.news" }}</h2>
+    <a href="{{.Permalink}}/posts/">See All</a>
+    
+    
+    
+        <div class="row">
+        {{ range  ( where .Site.RegularPages "Type" "posts" ) | first 4 }}
+        <section class="news col-md-3 col-sm-12">
+            <a href="{{.Permalink}}">
+                <div class="title">{{ .Title }}</div>
+                <div>
+                    <em>  {{ .Date.Format "January 2, 2006" }} </em>
+                </div>
+    
+                <div>
+                    {{ .Summary }}
+                </div>
+            </a>
+        </section>
+    
+        {{ end }}
+        </div>
+    
+    
+    {{/* This ugly piece of code looks to see if there are 0 posts for the language */}}
+    {{ if eq  (len (where .Site.RegularPages "Type" "posts"))  0 }}
+    {{ i18n "home.no-news" }}
+    {{ end }}
+    
+    {{ .Content }}
+</div>
 
-<a href="{{.Permalink}}/posts/">See All</a>
-
-
-{{ range  ( where .Site.RegularPages "Type" "posts" ) | first 5 }}
-    <a href="{{.Permalink}}" style="display: block">{{ .Title }}</a>
-{{ end }}
-
-
-{{/* This ugly piece of code looks to see if there are 0 posts for the language */}}
-{{ if eq  (len (where .Site.RegularPages "Type" "posts"))  0 }}
-{{ i18n "home.no-news" }}
-{{ end }}
-
-{{ .Content }}
 
 
 {{ partial "footer.html" . }}
