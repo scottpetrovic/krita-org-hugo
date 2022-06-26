@@ -1,6 +1,7 @@
 ---
 title: "Post-Download Page"
 date: "2018-06-02"
+type: "simple-page"
 ---
 
 ### Connect with the Community

@@ -143,6 +143,12 @@ nav.site-nav a {
   margin-bottom: 2rem;
 }
 
+.content .simple-page {
+  margin: 0 auto;
+  max-width: 900px;
+  padding: 3rem;
+}
+
 .container-padding {
   padding: 2rem;
 }

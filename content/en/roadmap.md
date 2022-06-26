@@ -1,6 +1,7 @@
 ---
 title: "Roadmap"
 date: "2018-05-24"
+type: "simple-page"
 ---
 
 Krita has come a long way since it was started -- as KImageShop, the KDE Linux Desktop answer to Photoshop, or GIMP, depending on who you ask. Until [2010,](https://dot.kde.org/2010/03/15/second-krita-sprint-ends-tea) Krita's development roadmap was basically, "do whatever Photoshop does, do whatever Gimp does, don't neglect what Cinepaint offers." Well, that's an exaggeration, of course. In 2010, the Krita community sat down together and defined its vision: Krita was going to be _the_ application for people who wanted to create images from scratch. Photo bashing was banished to the side-lines, only important when it comes to matte painting.

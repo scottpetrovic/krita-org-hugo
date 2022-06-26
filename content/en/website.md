@@ -1,8 +1,7 @@
 ---
 title: "Website Information"
 date: "2014-07-16"
-type: 'simple-page'
-
+type: "simple-page"
 ---
 
 ## Marketing Site (krita.org)

@@ -1,6 +1,7 @@
 ---
 title: "Sponsors"
 date: "2018-05-17"
+type: "simple-page"
 ---
 
 ## Sponsorship

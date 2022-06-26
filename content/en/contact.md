@@ -1,6 +1,7 @@
 ---
 title: "Contact"
 date: "2018-05-12"
+type: "simple-page"
 ---
 
 For bugs, suggestions, or ideas that need a lot of eyes on them. You can ask questions, show off your artwork, or just see what people are talking about. A free account is required for posting.

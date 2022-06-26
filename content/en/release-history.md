@@ -1,6 +1,7 @@
 ---
 title: "Release History"
 date: "2018-03-01"
+type: "simple-page"
 ---
 
 This is a timeline of Krita's history. The project, starting out as a patch to Gimp, continued as KImageShop, never released as Krayon, ending up as Krita, Krita's history goes back to 1998.

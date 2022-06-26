@@ -1,6 +1,7 @@
 ---
 title: "Report a Bug"
 date: "2018-05-13"
+type: "simple-page"
 ---
 
 The developers do their best to bring you a stable program. However, with many interacting features and several platforms to support, it's easy to overlook the occasional issue. And, of course, something might be wrong with your system, too. To make sure your bug report is accurate, please follow the steps below:

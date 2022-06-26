@@ -1,6 +1,6 @@
 ---
-title: 'Shop'
-type: 'simple-page'
+title: "Shop"
+type: "simple-page"
 ---
 
 
