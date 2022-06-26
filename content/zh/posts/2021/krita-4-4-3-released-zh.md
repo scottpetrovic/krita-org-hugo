@@ -22,7 +22,7 @@ categories:
 - 为 pathPattern 提供宿主以改善效率
 - 修复拾色器会覆盖整个屏幕 ([BUG:432459](https://bugs.kde.org/show_bug.cgi?id=432459))
 - 修复配置文件在重新启动程序后不被加载 ([BUG:432433](https://bugs.kde.org/show_bug.cgi?id=432433))
-- 添加 key 函数到 psd\_layer\_effects\_shadow\_base ([BUG:432904](https://bugs.kde.org/show_bug.cgi?id=432904))
+- 添加 key 函数到 psd_layer_effects_shadow_base ([BUG:432904](https://bugs.kde.org/show_bug.cgi?id=432904))
 - 修复从用户导入的资源包重新加载预设 ([BUG:432488](https://bugs.kde.org/show_bug.cgi?id=432488))
 
 ### 崩溃
@@ -47,7 +47,7 @@ categories:
 - 修复增量备份的保存 ([BUG:432701](https://bugs.kde.org/show_bug.cgi?id=432701))
 - 修复 F5 面板绘图区可能无响应的问题 ([BUG:431708](https://bugs.kde.org/show_bug.cgi?id=431708))
 - 修复自定义笔尖和剪贴板笔尖的颜色作为透明度和保持透明度功能 ([BUG:432274](https://bugs.kde.org/show_bug.cgi?id=432274))
-- 修复 RGBA\_brushes 资源包，使 Krita 不再启动过程中尝试重新创建它 [(BUG:431832](https://bugs.kde.org/show_bug.cgi?id=431832))
+- 修复 RGBA_brushes 资源包，使 Krita 不再启动过程中尝试重新创建它 [(BUG:431832](https://bugs.kde.org/show_bug.cgi?id=431832))
 - 修复在数值框必须扁平显示时对 KisAngleSelector 的风格处理，并在所有相关部件中启用新型角度选择器
 
 ## 下载

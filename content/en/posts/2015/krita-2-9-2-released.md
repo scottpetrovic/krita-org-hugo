@@ -57,12 +57,12 @@ If you've got experience cross-compiling from Linux to Windows and want to help 
     - Distributions are expected to create packages for their bleeding edge repositories.
     - Ubuntu and derivatives can use Krita Lime, as usual: [https://launchpad.net/~dimula73/+archive/ubuntu/krita](https://launchpad.net/%7Edimula73/+archive/ubuntu/krita).
     - OpenSUSE users can the KDE:Extra repo: [http://download.opensuse.org/repositories/KDE:/Extra/](http://download.opensuse.org/repositories/KDE:/Extra/) or Leinir's OBS repositories which have Krita built with support for Vc (which makes painting faster):
-        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE\_13.1/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.1/)
-        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE\_13.2/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.2/)
-        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE\_Factory/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_Factory/)
+        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.1/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.1/)
+        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.2/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.2/)
+        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_Factory/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_Factory/)
 - Windows. From Vista and up, Windows 7 and up is recommended. There is **no** Windows XP build. If you have a 64 bits version of Windows, don’t use the 32 bits build! The zip files do not need installing, just unpacking, but do not come with the Visual Studio C runtime that is included in the msi installer.
-    - 32 bits Windows: [http://files.kde.org/krita/windows/krita\_x86\_2.9.2.0.msi](http://files.kde.org/krita/windows/krita_x86_2.9.2.0.msi) or [http://files.kde.org/krita/windows/krita\_x86\_2.9.2.0.zip](http://files.kde.org/krita/windows/krita_x86_2.9.2.0.zip) (This version does not include a working G’Mic.)
-    - 64 bits Windows: [http://files.kde.org/krita/windows/krita\_x64\_2.9.2.0.msi](http://files.kde.org/krita/windows/krita_x64_2.9.2.0.msi) or [http://files.kde.org/krita/windows/krita\_x64\_2.9.2.0.zip](http://files.kde.org/krita/windows/krita_x64_2.9.2.0.zip)
+    - 32 bits Windows: [http://files.kde.org/krita/windows/krita_x86_2.9.2.0.msi](http://files.kde.org/krita/windows/krita_x86_2.9.2.0.msi) or [http://files.kde.org/krita/windows/krita_x86_2.9.2.0.zip](http://files.kde.org/krita/windows/krita_x86_2.9.2.0.zip) (This version does not include a working G’Mic.)
+    - 64 bits Windows: [http://files.kde.org/krita/windows/krita_x64_2.9.2.0.msi](http://files.kde.org/krita/windows/krita_x64_2.9.2.0.msi) or [http://files.kde.org/krita/windows/krita_x64_2.9.2.0.zip](http://files.kde.org/krita/windows/krita_x64_2.9.2.0.zip)
 
 OSX:
 

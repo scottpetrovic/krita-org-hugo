@@ -62,7 +62,7 @@ Let me stretch this a little bit. Imagine a world where almost more than half of
 
 ### If you had to pick one favourite of all your work done in Krita so far, what would it be, and why?
 
-![](/images/posts/2017/fig.-catman.png) "Catman" (face closeup). Because I did it all with only one brush, and only kept using two features: the X key to switch fore to background brush color and the hold Ctrl + click to sample colors, witch makes the Block\_brush preset kick ass.
+![](/images/posts/2017/fig.-catman.png) "Catman" (face closeup). Because I did it all with only one brush, and only kept using two features: the X key to switch fore to background brush color and the hold Ctrl + click to sample colors, witch makes the Block_brush preset kick ass.
 
 ### Where can people see more of your work?
 

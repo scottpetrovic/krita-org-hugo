@@ -20,7 +20,7 @@ Krita 5.0 終於正式發佈了！
 
 除此之外，還有很多其他改進！如欲了解更多，可閱讀[發佈通告](https://krita.org/zh-tw/krita-5-0-release-notes_zh-tw/)，裡面含有更全面的介紹。
 
-\[video width="1920" height="1080" mp4="/images/posts/2021/Video-for-store\_final-30fps.mp4"\]\[/video\]
+\[video width="1920" height="1080" mp4="/images/posts/2021/Video-for-store\final-30fps.mp4"\]\[/video\]
 
 影片音樂由 [Irene Fariña](https://www.instagram.com/irerakmusic/) 提供。
 
@@ -44,7 +44,7 @@ Krita 5.0 終於正式發佈了！
 
 ### Linux
 
-- 64 位元 Linux AppImage：[krita-5.0.0-x86\_64.appimage](https://download.kde.org/stable/krita/5.0.0/krita-5.0.0-x86_64.appimage)
+- 64 位元 Linux AppImage：[krita-5.0.0-x86_64.appimage](https://download.kde.org/stable/krita/5.0.0/krita-5.0.0-x86_64.appimage)
 
 Linux 版本現不再需要另行下載 G'Mic-Qt 外掛程式 AppImage。
 

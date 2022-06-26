@@ -28,7 +28,7 @@ Mainly illustrations and comics with fantasy and folklore themes.
 
 First some of my favorite old master painters: Caravaggio, Michelangelo, Leonardo da Vinci, Rembrandt, John William Waterhouse, Alphonse Mucha.
 
-Some of my favorite modern day artists: Xavier Houssin, Kevinhogart, Fatemeh Haghnejad, Anninosart, Domnamanolarou, Nefeli\_ekati, Kienan Lafferty, Samuelyouart, Ahmed Aldoori, Wlop and David Revoy.
+Some of my favorite modern day artists: Xavier Houssin, Kevinhogart, Fatemeh Haghnejad, Anninosart, Domnamanolarou, Nefeli_ekati, Kienan Lafferty, Samuelyouart, Ahmed Aldoori, Wlop and David Revoy.
 
 My role models huh? I never thought about it... I admire a lot of people and their ideals, as well as philosophers, but I don't think that I have a role model...
 

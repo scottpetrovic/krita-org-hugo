@@ -7,7 +7,7 @@ categories:
 
 ようやくKrita 4.2.9をリリースしました！これまでで最も複雑なリリースの一つになりました。Kritaに埋め込まれているPythonバージョンを更新したら、Windowsでのスクリプト機能が壊れました。AppleがNotarizationプロトコルを更新したら、MacOSでのビルドが壊れました。Kritaで使っているライブラリをいくつか更新したら、いろいろなものが壊れました。そしてKritaをWindows Store向けにパッケージする新しい方法を探す必要もありました。いい感じのアイコンは残念なことに壊れてしまいました…それでもベータ期間中のテストのおかげでKrita 4.2.9は非常に安定しています。それに新機能もあります！
 
-- Dmitryがブラシアウトラインを改善しました。キャンバス上をホバーしても点滅しません。\[video width="960" height="540" mp4="/images/posts/2020/2020-02-11\_comparing-outline.mp4"\]\[/video\]
+- Dmitryがブラシアウトラインを改善しました。キャンバス上をホバーしても点滅しません。\[video width="960" height="540" mp4="/images/posts/2020/2020-02-11_comparing-outline.mp4"\]\[/video\]
 - また、カラースマッジブラシに「Airbrush」「Airbrush Rate」と、様々なセンサ入力でブラシの形をフラットに変化させることを可能にする新しいRatio設定が追加されました。 Ramón Mirandaがこの機能のデモビデオも作成しています。 
     
     <iframe src="https://www.youtube.com/embed/fyc8-qgxAww" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
@@ -103,7 +103,7 @@ categories:
 
 ### Linux
 
-- 64 bits Linux: [krita-4.2.9-x86\_64.appimage](https://download.kde.org/stable/krita/4.2.9/krita-4.2.9-x86_64.appimage)
+- 64 bits Linux: [krita-4.2.9-x86_64.appimage](https://download.kde.org/stable/krita/4.2.9/krita-4.2.9-x86_64.appimage)
 - 64 bits Linux [G'Mic-Qt plugin appimage](https://download.kde.org/stable/krita/4.2.9/gmic_krita_qt-x86_64.appimage)
 
 (なぜかFirefoxはテキストとして読み込もうとするようです。ダウンロードするにはリンクの右クリックから保存してください)

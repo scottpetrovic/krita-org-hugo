@@ -28,7 +28,7 @@ Here are links to our website, the specific project pages, and one of our wall a
 
 You can follow us on:
 
-Instagram: [@dreamripple](https://www.instagram.com/dreamripple/) Facebook: [@dreamripple](https://www.facebook.com/dreamripple) Pinterest: [@dreamripple](https://www.pinterest.com/dreamripple/) Twitter: [@dreamripple\_](https://www.twitter.com/dreamripple_)
+Instagram: [@dreamripple](https://www.instagram.com/dreamripple/) Facebook: [@dreamripple](https://www.facebook.com/dreamripple) Pinterest: [@dreamripple](https://www.pinterest.com/dreamripple/) Twitter: [@dreamripple_](https://www.twitter.com/dreamripple_)
 
 Thanks for reading!
 

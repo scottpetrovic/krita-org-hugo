@@ -52,7 +52,7 @@ categories:
 
 ### Linux 版本
 
-- 64 位 AppImage 包：[krita-4.2.1-x86\_64.appimage](https://download.kde.org/stable/krita/4.2.1/krita-4.2.1-x86_64.appimage)
+- 64 位 AppImage 包：[krita-4.2.1-x86_64.appimage](https://download.kde.org/stable/krita/4.2.1/krita-4.2.1-x86_64.appimage)
 - 64 位 G'Mic AppImage 包：[G'Mic-Qt 插件包](https://download.kde.org/stable/krita/4.2.1/gmic_krita_qt-x86_64.appimage)
 
 注意：如果 Firefox 将软件包作为文本打开，请在链接上点击右键，选择“另存为”。

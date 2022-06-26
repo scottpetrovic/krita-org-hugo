@@ -36,7 +36,7 @@ Krita 的 .kra 文件实际上是一个简单 zip 压缩文件。简单 zip 文�
 
 ### Linux
 
-- 64 位 Linux AppImage：[krita-4.2.0-preview2-x86\_64.appimage](https://download.kde.org/unstable/krita/4.2.0-preview2/krita-4.2.0-preview2.appimage)
+- 64 位 Linux AppImage：[krita-4.2.0-preview2-x86_64.appimage](https://download.kde.org/unstable/krita/4.2.0-preview2/krita-4.2.0-preview2.appimage)
 
 （如果 Firefox 将此作为文本打开，请点击鼠标右键——另存为）
 

@@ -64,7 +64,7 @@ Windowsユーザーの皆さんへ：もしクラッシュする事案に遭遇�
 
 #### Linux
 
-- - 64ビットLinux用AppImage版: [krita-3.2.0-beta.1-x86\_64.appimage](https://download.kde.org/unstable/krita/3.2.0-beta.1/krita-3.2.0-beta.1-x86_64.appimage)
+- - 64ビットLinux用AppImage版: [krita-3.2.0-beta.1-x86_64.appimage](https://download.kde.org/unstable/krita/3.2.0-beta.1/krita-3.2.0-beta.1-x86_64.appimage)
 
  
 

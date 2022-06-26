@@ -9,7 +9,7 @@ Check out his other cool work at [DeviantArt](http://abnormalwit.deviantart.com/
 
 {source}  
 
-<embed src="http://blip.tv/play/AYK\_8FUA" type="application/x-shockwave-flash" width="700" height="410" wmode="transparent" allowscriptaccess="always" allowfullscreen="true" \></embed\>  
+<embed src="http://blip.tv/play/AYK_8FUA" type="application/x-shockwave-flash" width="700" height="410" wmode="transparent" allowscriptaccess="always" allowfullscreen="true" \></embed\>  
 {/source}
 
 We're now at €291,41 or 15% -- after Paypal's cut -- for [Animtim's Training DVD project](http://krita.org/component/content/article/10-news/81-become-part-of-kritas-first-training-dvd)!  

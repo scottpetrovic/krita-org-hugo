@@ -31,10 +31,10 @@ Windowsユーザーの皆さんへ：もしクラッシュする事案に遭遇�
 
 #### Linux
 
-Linuxっではgmix-qtは別のappimageとしてダウンロードする必要があります。Kritaの設定でgmic-qtの場所を指定します。Kritaを使うには"XDG\_DATA\_DIRS"環境変数の設定が必須です。大部分のディストリビューションでは設定済みですが、もし設定がされていない場合は、回避策として "XDG\_DATA\_DIRS"を"/usr/local/share/:/usr/share/"に設定してください。次のビルドではKritaはこれを自動的に行います。
+Linuxっではgmix-qtは別のappimageとしてダウンロードする必要があります。Kritaの設定でgmic-qtの場所を指定します。Kritaを使うには"XDG_DATA_DIRS"環境変数の設定が必須です。大部分のディストリビューションでは設定済みですが、もし設定がされていない場合は、回避策として "XDG_DATA_DIRS"を"/usr/local/share/:/usr/share/"に設定してください。次のビルドではKritaはこれを自動的に行います。
 
-- 64ビットLinux用AppImage版: [krita-4.0.0-beta1-b322ae6-x86\_64.appimage](https://download.kde.org/unstable/krita/4.0.0.52/krita-4.0.0-beta1-b322ae6-x86_64.appimage)
-- AppImage: [gmic\_krita\_qt-x86\_64-2.2.0.appimage](https://download.kde.org/unstable/krita/4.0.0.52/gmic_krita_qt-x86_64-2.2.0.appimage)
+- 64ビットLinux用AppImage版: [krita-4.0.0-beta1-b322ae6-x86_64.appimage](https://download.kde.org/unstable/krita/4.0.0.52/krita-4.0.0-beta1-b322ae6-x86_64.appimage)
+- AppImage: [gmic_krita_qt-x86_64-2.2.0.appimage](https://download.kde.org/unstable/krita/4.0.0.52/gmic_krita_qt-x86_64-2.2.0.appimage)
 
 (なぜかFirefoxはテキストとして読み込もうとするようです。ダウンロードするにはリンクの右クリックから保存してください)
 

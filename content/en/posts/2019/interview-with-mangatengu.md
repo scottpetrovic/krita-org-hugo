@@ -94,7 +94,7 @@ That drawing of the Chinese lady in the woods. I feel this is when I stopped foc
 
 ### What techniques and brushes did you use in it?
 
-All my brushes are modifications of brushes bundled with Krita: g)\_dry\_bristles i)\_wet\_bristles\_rough b)\_basic-2\_opacity
+All my brushes are modifications of brushes bundled with Krita: g)_dry_bristles i)_wet_bristles_rough b)_basic-2_opacity
 
 ### Where can people see more of your work?
 

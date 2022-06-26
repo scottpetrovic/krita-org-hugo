@@ -60,8 +60,8 @@ Important changes since the first beta, released in December are:
 
 For Windows, there are new builds:
 
-- [http://heap.kogmbh.net/downloads/krita\_x86\_2.7.9.5.msi](http://heap.kogmbh.net/downloads/krita_x86_2.7.9.5.msi)
-- [http://heap.kogmbh.net/downloads/krita\_x64\_2.7.9.5.msi](http://heap.kogmbh.net/downloads/krita_x64_2.7.9.5.msi)
+- [http://heap.kogmbh.net/downloads/krita_x86_2.7.9.5.msi](http://heap.kogmbh.net/downloads/krita_x86_2.7.9.5.msi)
+- [http://heap.kogmbh.net/downloads/krita_x64_2.7.9.5.msi](http://heap.kogmbh.net/downloads/krita_x64_2.7.9.5.msi)
 
 A build for Windows XP will follow.
 

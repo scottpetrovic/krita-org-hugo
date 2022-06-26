@@ -32,7 +32,7 @@ Branches work is not included automatically into the main development branch. Be
 
 ### Implement support for more palette types
 
-We now support RIFF\_PAL palettes, paintshop pro palettes and Photoshop ACO palettes.
+We now support RIFF_PAL palettes, paintshop pro palettes and Photoshop ACO palettes.
 
 ACO (Adobe Color Palette) is the native Format of Photoshop which support rgb, cmyk, hsv, lab and gray, at 16 bits/channel. A nice addition to default gimp palettes, indeed!
 
@@ -85,6 +85,6 @@ Advancement in layer handling for animation data and fixes to interface loading 
 
 Exciting work from Dmitry in this branch. Color rendering massive improvements and standarization across all Krita components, fixing bugs in color selection, popup palette colors, specific color selector and adding support in palette docker for color managed rendering.
 
-### calligra-resource\_md5-rempt
+### calligra-resource_md5-rempt
 
 Boudewijn is preparing the tag system for growing and extending. The current code, now in master, makes the system more robust and versatile allowing the resources to be recognized even if they change location.

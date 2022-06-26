@@ -28,7 +28,7 @@ Windows版KritaはWindows 7、8、10でテストされています。現在は64
 
 Linuxについてはあらゆる最近のLinuxディストリビューションで動作するはずの[AppImage](http://appimage.org/)版を提供します。AppImageをダウンロードして、実行可能にして起動してください。インストールは必要ありません。現時点では64ビット版のみです。このappimageは実験的なデスクトップ統合を含んでいます。
 
-- [krita-3.0.1-Alpha2-d33dbe0-x86\_64.appimage](http://files.kde.org/krita/3/linux/devbuilds/krita-3.0.1-Alpha2-d33dbe0-x86_64.appimage) (f61f8991a517a7835ceebf7159288d8e)
+- [krita-3.0.1-Alpha2-d33dbe0-x86_64.appimage](http://files.kde.org/krita/3/linux/devbuilds/krita-3.0.1-Alpha2-d33dbe0-x86_64.appimage) (f61f8991a517a7835ceebf7159288d8e)
 
 #### OSXおよびMacOS
 

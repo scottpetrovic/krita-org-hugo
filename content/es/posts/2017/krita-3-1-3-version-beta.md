@@ -41,7 +41,7 @@ En Windows, si se encuentran con cierres del programa inesperados, favor de segu
 
 #### Linux
 
-- 64 bits Linux: [krita-3.1.3-beta.1-x86\_64.appimage](http://download.kde.org/unstable/krita/3.1.3-beta.1/krita-3.1.3-beta.1-x86_64.appimage)
+- 64 bits Linux: [krita-3.1.3-beta.1-x86_64.appimage](http://download.kde.org/unstable/krita/3.1.3-beta.1/krita-3.1.3-beta.1-x86_64.appimage)
 
 En Ubuntu puedes instalar el "snap" de ésta versión. Ademas puedes usar el repositorio [Krita Lime PPA](https://launchpad.net/%7Ekritalime/+archive/ubuntu/ppa) en Ubuntu y sus derivados.
 

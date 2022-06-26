@@ -49,7 +49,7 @@ Note for Windows users: if you encounter crashes, please follow [these instructi
 
 ### Linux
 
-- 64 bits Linux: [krita-4.1.0-x86\_64.appimage](https://download.kde.org/stable/krita/4.1.0/krita-4.1.0-x86_64.appimage)
+- 64 bits Linux: [krita-4.1.0-x86_64.appimage](https://download.kde.org/stable/krita/4.1.0/krita-4.1.0-x86_64.appimage)
 - 64 bits Linux [G'Mic-Qt plugin appimage](https://download.kde.org/stable/krita/4.1.0/gmic_krita_qt-x86_64.appimage).
 
 (If, for some reason, Firefox thinks it needs to load this as text: to download, right-click on the link.)

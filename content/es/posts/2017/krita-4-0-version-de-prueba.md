@@ -126,7 +126,7 @@ No hay paquetes de 32 bits en Windows, tampoco un instalador.
 
 #### Linux
 
-- 64 bits Linux: [krita-4.0.0-pre-alpha-x86\_64.appimage](https://download.kde.org/unstable/krita/4.0.0-prealpha.2/krita-4.0.0-pre-alpha-x86_64.appimage)
+- 64 bits Linux: [krita-4.0.0-pre-alpha-x86_64.appimage](https://download.kde.org/unstable/krita/4.0.0-prealpha.2/krita-4.0.0-pre-alpha-x86_64.appimage)
 
 (En ocasiones Firefox trata el enlace como texto, para descargar el paquete simplemente has un clic a la derecha en el mismo enlace.)
 

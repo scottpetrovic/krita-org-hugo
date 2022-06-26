@@ -20,11 +20,11 @@ Hemos creado una versión especial de Krita 4.0 pre-alfa para que los usuarios d
 
 - Abre la página de la encuesta en tu navegador: [https://goo.gl/forms/vYxPMbqGyVhPCc2q2](https://goo.gl/forms/vYxPMbqGyVhPCc2q2)
 - Descarga el programa y los símbolos de depuración:
-    - [https://files.kde.org/krita/4/windows/krita\_4.0-prealpha\_angle\_ink-1-x64.zip](https://files.kde.org/krita/4/windows/krita_4.0-prealpha_angle_ink-1-x64.zip)
-    - [https://files.kde.org/krita/4/windows/krita\_4.0-prealpha\_angle\_ink-1-x64-dbg.zip](https://files.kde.org/krita/4/windows/krita_4.0-prealpha_angle_ink-1-x64-dbg.zip)
-- Abre el primer archivo zip en Windows Explorer, y arrastra la carpeta de krita\_4.0-prealpha\_angle\_ink-1-x64 a tu pantalla de escritorio.
-- Abre el segundo archivo zip en Windows Explorer y arrastra los archivos bin, lib y las carpetas compartidas adentro de la carpeta krita\_4.0-prealpha\_angle\_ink-1-x64 que ya habías movido a tu escritorio.
-- Con Windows Explorer, entra a la carpeta de krita\_4.0-prealpha\_angle\_ink-1-x64 mencionada.
+    - [https://files.kde.org/krita/4/windows/krita_4.0-prealpha_angle_ink-1-x64.zip](https://files.kde.org/krita/4/windows/krita_4.0-prealpha_angle_ink-1-x64.zip)
+    - [https://files.kde.org/krita/4/windows/krita_4.0-prealpha_angle_ink-1-x64-dbg.zip](https://files.kde.org/krita/4/windows/krita_4.0-prealpha_angle_ink-1-x64-dbg.zip)
+- Abre el primer archivo zip en Windows Explorer, y arrastra la carpeta de krita_4.0-prealpha_angle_ink-1-x64 a tu pantalla de escritorio.
+- Abre el segundo archivo zip en Windows Explorer y arrastra los archivos bin, lib y las carpetas compartidas adentro de la carpeta krita_4.0-prealpha_angle_ink-1-x64 que ya habías movido a tu escritorio.
+- Con Windows Explorer, entra a la carpeta de krita_4.0-prealpha_angle_ink-1-x64 mencionada.
 - Abre Krita dándole un doble clic en el enlace de Krita o directamente al archivo bin\\krita.exe.
 - Se te presentará la siguiente opción:[![](/images/posts/2017/angle_question.png)](/images/posts/2017/angle_question.png)
 - Te pedimos que uses primeramente la prueba de Test Desktop OpenGL. Produce una nueva imagen y trata de dibujar por un tiempo, completa la encuesta con los resultados, ya sea que el programa se haya cerrado inesperadamente o si funciona adecuadamente.
@@ -38,11 +38,11 @@ Hemos creado una versión especial de Krita 4.0 pre-alfa para que los usuarios d
 
 - Abre la encuesta en tu navegador: [https://goo.gl/forms/N5Exyx8aKSOeAUmu2](https://goo.gl/forms/5TSCWNZvvjN5SVoq1)
 - Si no lo has hecho aun con las instrucciones previas, descarga los siguientes paquetes.
-    - [https://files.kde.org/krita/4/windows/krita\_4.0-prealpha\_angle\_ink-1-x64.zip](https://files.kde.org/krita/4/windows/krita_4.0-prealpha_angle_ink-1-x64.zip)
-    - [https://files.kde.org/krita/4/windows/krita\_4.0-prealpha\_angle\_ink-1-x64-dbg.zip](https://files.kde.org/krita/4/windows/krita_4.0-prealpha_angle_ink-1-x64-dbg.zip)
-- Abre el primer archivo zip en Windows Explorer, y arrastra la carpeta de krita\_4.0-prealpha\_angle\_ink-1-x64 a tu pantalla de escritorio.
-- Abre el segundo archivo zip en Windows Explorer y arrastra los archivos bin, lib y las carpetas compartidas adentro de la carpeta krita\_4.0-prealpha\_angle\_ink-1-x64 que ya habías movido a tu escritorio.
-- Con Windows Explorer, entra a la carpeta de krita\_4.0-prealpha\_angle\_ink-1-x64 mencionada.
+    - [https://files.kde.org/krita/4/windows/krita_4.0-prealpha_angle_ink-1-x64.zip](https://files.kde.org/krita/4/windows/krita_4.0-prealpha_angle_ink-1-x64.zip)
+    - [https://files.kde.org/krita/4/windows/krita_4.0-prealpha_angle_ink-1-x64-dbg.zip](https://files.kde.org/krita/4/windows/krita_4.0-prealpha_angle_ink-1-x64-dbg.zip)
+- Abre el primer archivo zip en Windows Explorer, y arrastra la carpeta de krita_4.0-prealpha_angle_ink-1-x64 a tu pantalla de escritorio.
+- Abre el segundo archivo zip en Windows Explorer y arrastra los archivos bin, lib y las carpetas compartidas adentro de la carpeta krita_4.0-prealpha_angle_ink-1-x64 que ya habías movido a tu escritorio.
+- Con Windows Explorer, entra a la carpeta de krita_4.0-prealpha_angle_ink-1-x64 mencionada.
 - Abre Krita dándole un doble clic en el enlace de Krita o directamente al archivo bin\\krita.exe.
 - Elige cualquiera de las dos opciones: Test Desktop OpenGL ó Test ANGLE, en éste caso no hay diferencia.
 - Abre los diálogos de Preferencias>Configurar Krita>Tableta (Settings/Configure Krita/Tablet) y activa la opción experimental señalada en la imagen del _pointer api/windows ink_:[![](/images/posts/2017/tablet_support.png)](/images/posts/2017/tablet_support.png)

@@ -27,7 +27,7 @@ What a concept, eh? But here's the rub: our grassroots development model means, 
 
  
 
-\[video width="1920" height="1080" mp4="/images/pages/Video-for-store\_final-30fps.mp4"\]\[/video\]
+\[video width="1920" height="1080" mp4="/images/pages/Video-for-store_final-30fps.mp4"\]\[/video\]
 
 Music provided to us by [Irene Fariña](https://www.instagram.com/irerakmusic/).
 
@@ -128,13 +128,13 @@ Like the Timeline Docker, [Krita's Curves Docker](https://docs.krita.org/en/refe
 
 Krita 5 now supports Clone Frames, a much requested feature that allows animators to reuse the exact same key frame at multiple times throughout their animation. Clone frames are great for building looping animations and finding clever other ways to save yourself time while animating. Just remember that editing one clone edits them all!
 
-\[video width="1920" height="1028" webm="/images/posts/2021/krita\_anim-clones-direct.webm"\]\[/video\]
+\[video width="1920" height="1028" webm="/images/posts/2021/krita_anim-clones-direct.webm"\]\[/video\]
 
 #### Transform Mask Animation ([MR 493](https://invent.kde.org/graphics/krita/-/merge_requests/493))
 
 What good is a shiny Curves Docker without some new things to animate? Along with layer opacity, Krita 5 also brings the ability to animate the position, rotation, scale and shear of any layer through animated Transform Masks. Sometimes referred to as "tweening" in other software, this feature should help with animations that are difficult or inconvenient to do through drawing alone. With animated transform masks, moving a walking figure as shown in the video will be a piece of cake.
 
-\[video width="1920" height="1028" webm="/images/posts/2021/krita\_anim-tform-direct.webm"\]\[/video\]
+\[video width="1920" height="1028" webm="/images/posts/2021/krita_anim-tform-direct.webm"\]\[/video\]
 
 #### Import Videos as Animations ([MR 778](https://invent.kde.org/graphics/krita/-/merge_requests/778))
 
@@ -440,7 +440,7 @@ Krita is a community project, with people all over the world working on Krita, a
 
 #### Wolthera van Hövell tot Westerflier
 
-(irc: wolthera\_laptop) As the Manual Maintainer, Wolthera has been typing her fingers raw for this release (and these release notes, hi!). In addition to this, she did a lot of work on the resource management, as well as handling color management topics all over Krita. Avif and Heif's many color spaces as well as color spaces in video formats have become near invisible to the user thanks to her work, as well as the writing and parsing of SVG 1.1 icc colors.
+(irc: wolthera_laptop) As the Manual Maintainer, Wolthera has been typing her fingers raw for this release (and these release notes, hi!). In addition to this, she did a lot of work on the resource management, as well as handling color management topics all over Krita. Avif and Heif's many color spaces as well as color spaces in video formats have become near invisible to the user thanks to her work, as well as the writing and parsing of SVG 1.1 icc colors.
 
 #### Ivan Yossi
 
@@ -516,7 +516,7 @@ Added new cropping options.
 
 #### Sharaf Zaman
 
-(irc: sha\_zam) Our Android man, Sharaf has not just been working continuously on improving Krita on Android, but also has been tackling many obscure bugs throughout the year.
+(irc: sha_zam) Our Android man, Sharaf has not just been working continuously on improving Krita on Android, but also has been tackling many obscure bugs throughout the year.
 
 #### Timothée Giet
 
@@ -536,7 +536,7 @@ Added new cropping options.
 
 #### Tyson Tan
 
-(irc: tyson\_tan) Blessed us with yet another splash screen, and improved a lot of the translatable strings.
+(irc: tyson_tan) Blessed us with yet another splash screen, and improved a lot of the translatable strings.
 
 #### David Revoy
 
@@ -544,7 +544,7 @@ Added new cropping options.
 
 #### Deif Lou
 
-(irc: Deif\_Lou) Contributed many improvements to the filter and fill layers, as well as the gradients, on top of introducing the modes for the texture option in the brush tips.
+(irc: Deif_Lou) Contributed many improvements to the filter and fill layers, as well as the gradients, on top of introducing the modes for the texture option in the brush tips.
 
 #### Peter Schatz
 

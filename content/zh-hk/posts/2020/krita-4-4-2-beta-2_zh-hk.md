@@ -7,7 +7,7 @@ categories:
 
 Krita 開發團隊依家推出咗 Krita 4.4.2 嘅第二個測試版本。Ramon Miranda 啱啱亦都發佈咗一段介紹依個版本嘅新功能⸺網狀變形⸺嘅影片（只提供英文）：
 
-https://www.youtube.com/watch?v=DLXWynZT\_8s&feature=youtu.be
+https://www.youtube.com/watch?v=DLXWynZT_8s&feature=youtu.be
 
 同[第一個測試版本](https://krita.org/zh-hk/item/krita-4-4-2-beta-1_zh-hk/)相比，依個版本修正咗以下嘅 bug：
 
@@ -46,7 +46,7 @@ https://www.youtube.com/watch?v=DLXWynZT\_8s&feature=youtu.be
 
 ### Linux
 
-- 64 位元 Linux AppImage：[krita-4.4.2-beta2-x86\_64.appimage](https://download.kde.org/unstable/krita/4.4.2-beta2/krita-4.4.2-beta2-x86_64.appimage)
+- 64 位元 Linux AppImage：[krita-4.4.2-beta2-x86_64.appimage](https://download.kde.org/unstable/krita/4.4.2-beta2/krita-4.4.2-beta2-x86_64.appimage)
 - 64 位元 Linux [G'Mic-Qt 外掛程式 AppImage](https://download.kde.org/unstable/krita/4.4.2-beta2/gmic_krita_qt-x86_64.appimage)
 
 ### macOS

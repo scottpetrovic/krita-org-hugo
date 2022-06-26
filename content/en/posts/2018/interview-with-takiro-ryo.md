@@ -86,7 +86,7 @@ First I did a rough sketch with the "Charcoal Rock Soft" brush, slowly working o
 
 ### Where can people see more of your work?
 
-I have a [website](http://gelbfuchs.com) but it's pretty much a work in progress and just a pet project I rarely find time for, but I plan to make it fully functional in the future. I also have other galleries, for example on [FurAffinity,](https://www.furaffinity.net/gallery/takiro/) which unfortunately does not allow high resolution uploads - and on [InkBunny](https://inkbunny.net/gallery/Takiro). I only post my finished works to my galleries. For sketches, WIPs and other stuff I use my twitter [@Takiro\_Ryo](https://twitter.com/Takiro_Ryo). On my [YouTube channel](https://www.youtube.com/user/TakiroRyo) I upload timelapsed recordings of my paintings, and some day maybe tutorials but I haven't decided yet.
+I have a [website](http://gelbfuchs.com) but it's pretty much a work in progress and just a pet project I rarely find time for, but I plan to make it fully functional in the future. I also have other galleries, for example on [FurAffinity,](https://www.furaffinity.net/gallery/takiro/) which unfortunately does not allow high resolution uploads - and on [InkBunny](https://inkbunny.net/gallery/Takiro). I only post my finished works to my galleries. For sketches, WIPs and other stuff I use my twitter [@Takiro_Ryo](https://twitter.com/Takiro_Ryo). On my [YouTube channel](https://www.youtube.com/user/TakiroRyo) I upload timelapsed recordings of my paintings, and some day maybe tutorials but I haven't decided yet.
 
 ### Anything else you'd like to share?
 

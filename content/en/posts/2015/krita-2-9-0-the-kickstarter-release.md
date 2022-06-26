@@ -23,13 +23,13 @@ Enjoy!
     - Distributions are expected to create packages for their bleeding edge repositories
     - Ubuntu and derivatives can use Krita Lime, as usual: [https://launchpad.net/~dimula73/+archive/ubuntu/krita](https://launchpad.net/~dimula73/+archive/ubuntu/krita)
     - OpenSUSE users can use the new OBS repositories:
-        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE\_13.1/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.1/)
-        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE\_13.2/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.2/)
-        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE\_Factory/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_Factory/)
+        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.1/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.1/)
+        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.2/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.2/)
+        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_Factory/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_Factory/)
 - Windows. From Vista and up, Windows 7 and up is recommended. Some parts of G'Mic are still unstable on Windows, for instance interactive colorize because we ship the current 1.6.0.0 beta of G'Mic. There is **no** Windows XP build. If you have a 64 bits version of Windows, don't use the 32 bits build! The zip files do not need installing, just unpacking, but do not come with the Visual Studio C runtime that is included in the msi installer.
-    - 32 bits Windows: [http://download.kde.org/stable/krita/krita\_x86\_2.9.0.1.msi](http://download.kde.org/stable/krita/krita_x86_2.9.0.1.msi) or [http://download.kde.org/stable/krita/krita\_x86\_2.9.0.1.zip](http://download.kde.org/stable/krita/krita_x86_2.9.0.1.zip) (This version does not include G'Mic.)
-    - 64 bits Windows: [http://download.kde.org/stable/krita/krita\_x64\_2.9.0.1.msi](http://download.kde.org/stable/krita/krita_x64_2.9.0.1.msi) or [http://download.kde.org/stable/krita/krita\_x64\_2.9.0.1.zip](http://download.kde.org/stable/krita/krita_x64_2.9.0.1.zip)
-OSX:- http://download.kde.org/stable/krita/krita\_x64\_2.9.0.1.zip
+    - 32 bits Windows: [http://download.kde.org/stable/krita/krita_x86_2.9.0.1.msi](http://download.kde.org/stable/krita/krita_x86_2.9.0.1.msi) or [http://download.kde.org/stable/krita/krita_x86_2.9.0.1.zip](http://download.kde.org/stable/krita/krita_x86_2.9.0.1.zip) (This version does not include G'Mic.)
+    - 64 bits Windows: [http://download.kde.org/stable/krita/krita_x64_2.9.0.1.msi](http://download.kde.org/stable/krita/krita_x64_2.9.0.1.msi) or [http://download.kde.org/stable/krita/krita_x64_2.9.0.1.zip](http://download.kde.org/stable/krita/krita_x64_2.9.0.1.zip)
+OSX:- http://download.kde.org/stable/krita/krita_x64_2.9.0.1.zip
 
 - [http://download.kde.org/stable/krita/krita-2.9.0.0.dmg](http://download.kde.org/stable/krita/krita-2.9.0.0.dmg)
 

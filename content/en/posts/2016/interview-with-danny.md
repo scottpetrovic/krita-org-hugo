@@ -48,7 +48,7 @@ It's useful and open, has lots of export options, and the developers are always 
 
 ### Where can people see more of your work?
 
-DeviantArt: [http://inkesarts.deviantart.com/](http://inkesarts.deviantart.com/) You can find some of my old art on Youtube: [https://www.youtube.com/channel/UCA2aYnBSuYrem2hg7\_QiNFA](https://www.youtube.com/channel/UCA2aYnBSuYrem2hg7_QiNFA) Twitter: [https://twitter.com/artfanrj8](https://twitter.com/artfanrj8) Facebook: [https://www.facebook.com/public/Danny-Painter](https://www.facebook.com/public/Danny-Painter)
+DeviantArt: [http://inkesarts.deviantart.com/](http://inkesarts.deviantart.com/) You can find some of my old art on Youtube: [https://www.youtube.com/channel/UCA2aYnBSuYrem2hg7_QiNFA](https://www.youtube.com/channel/UCA2aYnBSuYrem2hg7_QiNFA) Twitter: [https://twitter.com/artfanrj8](https://twitter.com/artfanrj8) Facebook: [https://www.facebook.com/public/Danny-Painter](https://www.facebook.com/public/Danny-Painter)
 
 I'm also making a website, coming soon.
 

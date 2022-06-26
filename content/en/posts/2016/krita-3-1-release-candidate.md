@@ -26,16 +26,16 @@ You can find out more about what is going to be new in Krita 3.1 in the [release
 Note for Windows users: if you encounter crashes, please follow [these instructions](https://docs.krita.org/Dr._Mingw_debugger) to use the debug symbols so we can figure out where Krita crashes.
 
 - 32 bits Windows: [krita-3.0.94-x86-setup.exe](http://download.kde.org/unstable/krita/3.0.94/krita-3.0.94-x86-setup.exe) (MD5 Hash: 1fa424258d455f92aac071c47d820095)
-- Portable 32 bits Windows: [krita\_3.0.94-x86.zip](http://download.kde.org/unstable/krita/3.0.94/krita_3.0.94-x86.zip) (MD5 Hash: fa00cc3575a56083916885626ff97d88)
+- Portable 32 bits Windows: [krita_3.0.94-x86.zip](http://download.kde.org/unstable/krita/3.0.94/krita_3.0.94-x86.zip) (MD5 Hash: fa00cc3575a56083916885626ff97d88)
 - [Debug symbols. (Unpack in the Krita installation folder)](http://download.kde.org/unstable/krita/3.0.94/krita-3.0.94-x86-dbg.zip) (MD5 Hash: 538fefc19ca79cec36346a2b2564162e)
 
 - 64 bits Windows: [krita-3.0.94-x64-setup.exe](http://download.kde.org/unstable/krita/3.0.94/krita-3.0.94-x64-setup.exe) (MD5 Hash: 908f52aee5deee6971783ce3c019e93e)
-- Portable 64 bits Windows: [krita\_3.0.94-x64.zip](http://download.kde.org/unstable/krita/3.0.94/krita_3.0.94-x64.zip) (MD5 Hash: 4af2829289476d172032a68d26e55789)
+- Portable 64 bits Windows: [krita_3.0.94-x64.zip](http://download.kde.org/unstable/krita/3.0.94/krita_3.0.94-x64.zip) (MD5 Hash: 4af2829289476d172032a68d26e55789)
 - [Debug symbols. (Unpack in the Krita installation folder)](http://download.kde.org/unstable/krita/3.0.94/krita_3.0.94-x64-dbg.zip) (MD5 Hash: ee90e2c3e679a74d9fe77eec305f84f4)
 
 ### Linux
 
-- 64 bits Linux: [krita-3.0.94-x86\_64.appimage](http://download.kde.org/unstable/krita/3.0.94/krita-3.0.94-x86_64.appimage) (MD5 Hash: e48aa1a805fbb631ab7d908d41c3ab84)
+- 64 bits Linux: [krita-3.0.94-x86_64.appimage](http://download.kde.org/unstable/krita/3.0.94/krita-3.0.94-x86_64.appimage) (MD5 Hash: e48aa1a805fbb631ab7d908d41c3ab84)
 
 A snap image for the Ubuntu App Store is available in the beta channel.
 

@@ -95,7 +95,7 @@ En Windows, si se encuentran el cerrado del programa inesperadamente, favor de s
 
 ### Linux
 
-- 64 bits Linux: [krita-4.0.2-x86\_64.appimage](https://download.kde.org/stable/krita/4.0.2/krita-4.0.2-x86_64.appimage)
+- 64 bits Linux: [krita-4.0.2-x86_64.appimage](https://download.kde.org/stable/krita/4.0.2/krita-4.0.2-x86_64.appimage)
 
 (En ocasiones Firefox trata el enlace como texto, para descargar el paquete simplemente has un clic a la derecha en el mismo enlace.)
 

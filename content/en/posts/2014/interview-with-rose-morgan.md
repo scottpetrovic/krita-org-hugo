@@ -56,7 +56,7 @@ I don't normally draw "humans" (if you'd even call him that) and I usually have 
 
 I also had a blast painting that wall, lol. I love that I can paint stuff like that without textures with the brushes krita has.
 
-I used: block\_mix\_tilt, hairy\_tapered, bristles\_tapered, basic\_circle\_wet, airbrush\_linear, splat\_mix\_cells. Plus a  metric buttload of overlay layers and emboss.
+I used: block_mix_tilt, hairy_tapered, bristles_tapered, basic_circle_wet, airbrush_linear, splat_mix_cells. Plus a  metric buttload of overlay layers and emboss.
 
 ### Would you like to share it with our site visitors?
 

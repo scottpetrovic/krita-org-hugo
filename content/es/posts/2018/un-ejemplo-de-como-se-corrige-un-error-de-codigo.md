@@ -43,15 +43,15 @@ void QMdiSubWindowPrivate::createSystemMenu()
      \* in the window menu. We need to reset the shortcuts for that menu
      \* to nothing, otherwise the shortcuts cannot be made configurable.
      \*
-     \* See: https://bugs.kde.org/show\_bug.cgi?id=352205
-     \*      https://bugs.kde.org/show\_bug.cgi?id=375524
-     \*      https://bugs.kde.org/show\_bug.cgi?id=398729
+     \* See: https://bugs.kde.org/show_bug.cgi?id=352205
+     \*      https://bugs.kde.org/show_bug.cgi?id=375524
+     \*      https://bugs.kde.org/show_bug.cgi?id=398729
      \*/
     QMdiSubWindow \*subWindow = d->mdiArea->currentSubWindow();
     if (subWindow) {
         QMenu \*menu = subWindow->systemMenu();
         if (menu) {
-            Q\_FOREACH (QAction \*action, menu->actions()) {
+            Q_FOREACH (QAction \*action, menu->actions()) {
                 action->setShortcut(QKeySequence());
             }
         }

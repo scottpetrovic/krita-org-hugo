@@ -14,11 +14,11 @@ We've created a special version of Krita 4.0 pre-alpha for Windows users to test
 
 - Open the survey in your browser: [https://goo.gl/forms/vYxPMbqGyVhPCc2q2](https://goo.gl/forms/vYxPMbqGyVhPCc2q2)
 - Download the test build and debug symbols
-    - [https://files.kde.org/krita/4/windows/krita\_4.0-prealpha\_angle\_ink-1-x64.zip](https://files.kde.org/krita/4/windows/krita_4.0-prealpha_angle_ink-1-x64.zip)
-    - [https://files.kde.org/krita/4/windows/krita\_4.0-prealpha\_angle\_ink-1-x64-dbg.zip](https://files.kde.org/krita/4/windows/krita_4.0-prealpha_angle_ink-1-x64-dbg.zip)
-- Open the first zipfile in Windows Explorer, and drag the krita\_4.0-prealpha\_angle\_ink-1-x64 folder to your desktop
-- Open the second zipfile in Windows Explorer and drag the bin, lib and share folders into the krita\_4.0-prealpha\_angle\_ink-1-x64 folder on your desktop.
-- With Windows Explorer, navigate into the krita\_4.0-prealpha\_angle\_ink-1-x64 folder on your desktop
+    - [https://files.kde.org/krita/4/windows/krita_4.0-prealpha_angle_ink-1-x64.zip](https://files.kde.org/krita/4/windows/krita_4.0-prealpha_angle_ink-1-x64.zip)
+    - [https://files.kde.org/krita/4/windows/krita_4.0-prealpha_angle_ink-1-x64-dbg.zip](https://files.kde.org/krita/4/windows/krita_4.0-prealpha_angle_ink-1-x64-dbg.zip)
+- Open the first zipfile in Windows Explorer, and drag the krita_4.0-prealpha_angle_ink-1-x64 folder to your desktop
+- Open the second zipfile in Windows Explorer and drag the bin, lib and share folders into the krita_4.0-prealpha_angle_ink-1-x64 folder on your desktop.
+- With Windows Explorer, navigate into the krita_4.0-prealpha_angle_ink-1-x64 folder on your desktop
 - Start Krita by double-clicking on the krita link or on the bin\\krita.exe file
 - You will now be given a choice:[![](/images/posts/2017/angle_question.png)](/images/posts/2017/angle_question.png)
 - Please first choose Test Desktop OpenGL. Create a new image and try to draw for a bit. Fill in the results in the survey: whether you experienced a crash or not.
@@ -32,11 +32,11 @@ This is only relevant for Windows 8 and 10: Windows 7 does not support this API 
 
 - Open the survey in your browser: [https://goo.gl/forms/N5Exyx8aKSOeAUmu2](https://goo.gl/forms/5TSCWNZvvjN5SVoq1)
 - If you haven't performed the previous test for Angle, download the test build and debug symbols
-    - [https://files.kde.org/krita/4/windows/krita\_4.0-prealpha\_angle\_ink-1-x64.zip](https://files.kde.org/krita/4/windows/krita_4.0-prealpha_angle_ink-1-x64.zip)
-    - [https://files.kde.org/krita/4/windows/krita\_4.0-prealpha\_angle\_ink-1-x64-dbg.zip](https://files.kde.org/krita/4/windows/krita_4.0-prealpha_angle_ink-1-x64-dbg.zip)
-- Open the first zipfile in Windows Explorer, and drag the krita\_4.0-prealpha\_angle\_ink-1-x64 folder to your desktop
-- Open the second zipfile in Windows Explorer and drag the bin, lib and share folders into the krita\_4.0-prealpha\_angle\_ink-1-x64 folder on your desktop.
-- With Windows Explorer, navigate into the krita\_4.0-prealpha\_angle\_ink-1-x64 folder on your desktop
+    - [https://files.kde.org/krita/4/windows/krita_4.0-prealpha_angle_ink-1-x64.zip](https://files.kde.org/krita/4/windows/krita_4.0-prealpha_angle_ink-1-x64.zip)
+    - [https://files.kde.org/krita/4/windows/krita_4.0-prealpha_angle_ink-1-x64-dbg.zip](https://files.kde.org/krita/4/windows/krita_4.0-prealpha_angle_ink-1-x64-dbg.zip)
+- Open the first zipfile in Windows Explorer, and drag the krita_4.0-prealpha_angle_ink-1-x64 folder to your desktop
+- Open the second zipfile in Windows Explorer and drag the bin, lib and share folders into the krita_4.0-prealpha_angle_ink-1-x64 folder on your desktop.
+- With Windows Explorer, navigate into the krita_4.0-prealpha_angle_ink-1-x64 folder on your desktop
 - Start Krita by double-clicking on the krita link or on the bin\\krita.exe file
 - Press either Test Desktop OpenGL or Test ANGLE when you see the dialog discussed above: this does not matter
 - Go to Settings/Configure Krita/Tablet and check the experimental pointer api/windows ink support checkbox:[![](/images/posts/2017/tablet_support.png)](/images/posts/2017/tablet_support.png)

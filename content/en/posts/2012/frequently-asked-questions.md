@@ -140,14 +140,14 @@ https://github.com/DIGImend/huion-driver
 Now you should have a working tablet in Krita and Gimp (sadly, it doesn't work with current mypaint version, probably because of GTK3..)  
 But as by default the whole tablet area is mapped to the whole screen, depending on your screen ratio you may want to adapt the active area of the tablet to have the same proportions.  
   
-For this, first you need to install xinput-calibrator (check in your package manager it may be named a bit differently, with - or \_ in the middle...)  
+For this, first you need to install xinput-calibrator (check in your package manager it may be named a bit differently, with - or _ in the middle...)  
   
 Now, you'll need the name or ID of your device, so list devices with this command line:  
-  xinput\_calibrator --list | grep H610  
+  xinput_calibrator --list | grep H610  
   
 Then I noticed the huion report two different devices with the same name,  just different ID.  
 So to find out which is the one corresponding to the actual stylus tablet area, get devices values with this command line:  
-  xinput\_calibrator --device 10  (adapt id number the the values you found on previous step...)  
+  xinput_calibrator --device 10  (adapt id number the the values you found on previous step...)  
 It will open a sort of calibration window, don't click the crosses, just press any key to abort. Then you can see the default values of the device appeared in the console. One devices has much bigger max values (0 40000 0 25000), this is the one you should get the ID number. (in my case here was ID 10 )  
   
 Then calculate the values to set the active area to the same ratio as screen..  

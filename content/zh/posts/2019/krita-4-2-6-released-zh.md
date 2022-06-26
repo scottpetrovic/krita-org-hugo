@@ -63,7 +63,7 @@ Krita 4.2.6 已经发布。由于在 [beta 测试](https://krita.org/en/item/hel
 
 ### Linux
 
-- 64 位 Linux: [krita-4.2.6-x86\_64.appimage](https://download.kde.org/stable/krita/4.2.6/krita-4.2.6-x86_64.appimage)
+- 64 位 Linux: [krita-4.2.6-x86_64.appimage](https://download.kde.org/stable/krita/4.2.6/krita-4.2.6-x86_64.appimage)
 - 64 位 Linux [G'Mic-Qt plugin appimage](https://download.kde.org/stable/krita/4.2.6/gmic_krita_qt-x86_64.appimage).
 
 (如果 Firefox 把链接作为文本打开，请右键另存为)

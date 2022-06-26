@@ -37,7 +37,7 @@ Note for Windows users: if you encounter crashes, please follow [these instructi
 
 ### Linux
 
-- 64 bits Linux: [krita-4.0.3-x86\_64.appimage](https://download.kde.org/stable/krita/4.0.3/krita-4.0.3-x86_64.appimage)
+- 64 bits Linux: [krita-4.0.3-x86_64.appimage](https://download.kde.org/stable/krita/4.0.3/krita-4.0.3-x86_64.appimage)
 
 (If, for some reason, Firefox thinks it needs to load this as text: to download, right-click on the link.)
 

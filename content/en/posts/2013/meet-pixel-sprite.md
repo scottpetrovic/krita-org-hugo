@@ -58,6 +58,6 @@ That would have to be the picture I did in celebration of Mega Man being announc
 
 ### **What is it that you like about it? What brushes did you use in it?**
 
-I like that it came out as well as it did. It showed me what I could do if I sat down and really put my mind (and time) into a piece. For brushes I mainly used Basic\_paint\_05 and Basic\_paint\_25 set to build up mode along with a thin oval brush that had its rotation set to the drawing angle.
+I like that it came out as well as it did. It showed me what I could do if I sat down and really put my mind (and time) into a piece. For brushes I mainly used Basic_paint_05 and Basic_paint_25 set to build up mode along with a thin oval brush that had its rotation set to the drawing angle.
 
 Thanks to Pixel Sprite and...If you want to know more about him don't forget to visit his [DeviantArt!](http://pixelspriteart.deviantart.com/)

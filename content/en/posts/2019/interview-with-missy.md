@@ -52,7 +52,7 @@ It's open-source. It lets me paint however I want. It's built by a community. It
 
 ### What do you think needs improvement in Krita? Is there anything that really annoys you?
 
-I think a lot of improvements just revolve around fixing bugs. Except text. It's made leaps and bounds but I would love to see continued improvement with that tool. Oh, and recent documents doesn't actually show 'recent', like the last file I opened all the time. But it could also be user error on my part. ¯\\\_(ツ)\_/¯
+I think a lot of improvements just revolve around fixing bugs. Except text. It's made leaps and bounds but I would love to see continued improvement with that tool. Oh, and recent documents doesn't actually show 'recent', like the last file I opened all the time. But it could also be user error on my part. ¯\\_(ツ)_/¯
 
 ### What sets Krita apart from the other tools that you use?
 

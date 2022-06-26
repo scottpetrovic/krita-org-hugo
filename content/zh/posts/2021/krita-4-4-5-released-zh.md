@@ -44,7 +44,7 @@ categories:
 - 修复在命令行模式下 Krita 的导出功能 [相关代码提交](https://invent.kde.org/graphics/krita/-/commit/38b9dfa668494c03a9d11b16e3f619ff3c4f27a8)
 - 修复 OpenColorIO 的 include 目录检测 [相关代码提交](https://invent.kde.org/graphics/krita/-/commit/1c55fefecb85366feee7d101a343f31d3cfb8e5d)
 - 修复 OverviewThumbnailStrokeStrategy 中的参数顺序 (CID 310957)
-- 不要在 psd\_image\_data 中依赖字节顺序 (CID 35080)
+- 不要在 psd_image_data 中依赖字节顺序 (CID 35080)
 - 在进行计算之前拓宽变量 (CID 248925)
 - 用默认值覆盖数值为 0 的 patchWidth 和 patchHeight (CID 248441, CID 248622)
 - 在 ConvertColorSpacePr.Vis 中进行动态投射后检查数值 (CID 304985)
@@ -72,7 +72,7 @@ categories:
 - 修复 KoQuaZipStore 的错误检测 [相关代码提交](https://invent.kde.org/graphics/krita/-/commit/80f43d1ce4bb1305731cffc192c4e9907a88b986)
 - 在语言列表中显示国家/地区以便区分 ([Bug 437994](https://bugs.kde.org/show_bug.cgi?id=437994))
 - 修复在使用变形工具处理矢量图层时的更新失败 ([Bug 437886](https://bugs.kde.org/show_bug.cgi?id=437886))
-- 不为 zh\_CN 和 zh\_TW 区域设置附加国家/地区标识 ([Bug 437994](https://bugs.kde.org/show_bug.cgi?id=437994))
+- 不为 zh_CN 和 zh_TW 区域设置附加国家/地区标识 ([Bug 437994](https://bugs.kde.org/show_bug.cgi?id=437994))
 - 回退“修复 OpenColorIO 的 include 目录检测”
 - 保存为 kra 文件时添加更多检测 [相关代码提交](https://invent.kde.org/graphics/krita/-/commit/d47163e4f7e99d790be7905b79b2ca94ef8ef675)
 - 为浮点数值修复非浮点数值结果 (CID 329390, CID 329448, CID 329482)
@@ -82,7 +82,7 @@ categories:
 - 初始化 KisColorSelector 类成员 (CID 36349, CID 248848, CID 248452, CID 248707)
 - 安卓版本：让退出时保存的操作更加可靠 [相关代码提交](https://invent.kde.org/graphics/krita/-/commit/f248c032199be64e9ac4e172155434d793fdd212)
 - 缺陷修复：在存在不止一个辅助尺时发生显示错误 ([Bug 401940](https://bugs.kde.org/show_bug.cgi?id=401940))
-- 安卓版本：发生 TouchCancel 事件时的 SAFE\_ASSERT [相关代码提交](https://invent.kde.org/graphics/krita/-/commit/adebed6735b94bbcd7945aeace304975f43e5667)
+- 安卓版本：发生 TouchCancel 事件时的 SAFE_ASSERT [相关代码提交](https://invent.kde.org/graphics/krita/-/commit/adebed6735b94bbcd7945aeace304975f43e5667)
 - 安卓版本：图像属性文字框不响应键盘事件
 - 安卓版本：修复旋转时窗口管理器的位置
 - 缺陷修复：描边填充和形状填充效果不一致 ([Bug 399127](https://bugs.kde.org/show_bug.cgi?id=399127), [Bug 422204](https://bugs.kde.org/show_bug.cgi?id=422204), [Bug 434828](https://bugs.kde.org/show_bug.cgi?id=434828))

@@ -27,7 +27,7 @@ One of the cool things coming from this system is that for Krita 3.0 we can have
 
 Download the zip file. [Unzip the zip file where you want to put Krita.](http://windows.microsoft.com/en-us/windows-10/zip-and-unzip-files#v1h=tab02).
 
-Run the vcredist\_x64.exe installer to install Microsoft's Visual Studio runtime.
+Run the vcredist_x64.exe installer to install Microsoft's Visual Studio runtime.
 
 Then double-click the krita link.
 
@@ -49,7 +49,7 @@ Known issues on OSX:
 
 **Linux**
 
-- [krita3-prealpha-f7f43f2-x86\_64.appimage](http://files.kde.org/krita/3/linux/krita3-prealpha-f7f43f2-x86_64.appimage)
+- [krita3-prealpha-f7f43f2-x86_64.appimage](http://files.kde.org/krita/3/linux/krita3-prealpha-f7f43f2-x86_64.appimage)
 
 For the Linux builds we now have Appimages! These are completely distribution-independent. To use the AppImage, download it, and make it an executable in your terminal or using the file properties dialog of your file manager,Another change is that configuration and custom resources are now stored in the .config/krita.org/kritarc and .local/share/krita.org/ folders of the user home folder, instead of .kde or .kde4.
 
@@ -134,7 +134,7 @@ The animation playback buttons become red if the frames are dropped. The tool ti
 - The popup palette now has anti-aliased edges (but it's square on OSX...)
 - simple color selector now has white on top and black on the bottom.
 - updated ICC profiles.
-- Added a Smudge\_water preset to make smudging easier.
+- Added a Smudge_water preset to make smudging easier.
 - Added printing of the current FPS on canvas when the debugging is activated
 
 Because our release is so fresh and fragile, we are, for once not going to ask you to report bugs. Instead, we have a

@@ -52,7 +52,7 @@ tags:
 
 **ソースコード**:
 
-- [krita\_2.99.90](http://download.kde.org/unstable/krita/2.99.90/)
+- [krita_2.99.90](http://download.kde.org/unstable/krita/2.99.90/)
 
 **Gitリポジトリ:**
 

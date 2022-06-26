@@ -6,7 +6,7 @@ date: "2016-02-04"
 Today, we're releasing the eleventh bugfix release for Krita 2.9 and the second development preview release of Krita 3.0! We are not planning more bug fix releases for 2.9, though it is possible that we'll collect enough fixes to warrant one release more, because there are some problems with Windows 10 that we might be able to work around. So, please check closely if you use Krita on Windows 10:
 
 - **You get a black screen**: please go to settings/configure krita/display and disable opengl. It turns out that recent Windows updates install new Intel GPU drivers that do not implement all the functionality Krita need.
-- **Pressure sensitivity stops working**: a recent update of Windows 10 breaks pressure sensitivity for some people. Please check whether reinstalling the tablet drivers fixes the issue. If not, please close Krita, navigate to your user's AppData\\Roaming folder and rename the krita folder to krita\_old. If Krita now shows pressure sensitivity again, please zip up your krita\_old folder and send to foundation@krita.org.
+- **Pressure sensitivity stops working**: a recent update of Windows 10 breaks pressure sensitivity for some people. Please check whether reinstalling the tablet drivers fixes the issue. If not, please close Krita, navigate to your user's AppData\\Roaming folder and rename the krita folder to krita_old. If Krita now shows pressure sensitivity again, please zip up your krita_old folder and send to foundation@krita.org.
 
 And now for the fixes in 2.9.11!
 
@@ -50,7 +50,7 @@ There is still one really big issue that we're working hard on: OSX and the late
 - BUG: 346430: Make sure the crop tool always uses the current image size.
 - BUG:357173 Fix copy constructor of KisSelectionMask
 - BUG:357987 Don't crash on loading the given file
-- Fix starting Krita without XDG\_DATA\_PATH set
+- Fix starting Krita without XDG_DATA_PATH set
 
 **Source**
 
@@ -64,7 +64,7 @@ We recommend building Krita from [git](https://phabricator.kde.org/diffusion/KRI
 
 Download the zip file. [Unzip the zip file where you want to put Krita.](http://windows.microsoft.com/en-us/windows-10/zip-and-unzip-files#v1h=tab02).
 
-Run the vcredist\_x64.exe installer to install Microsoft’s Visual Studio runtime.
+Run the vcredist_x64.exe installer to install Microsoft’s Visual Studio runtime.
 
 Then double-click the krita link.
 
@@ -85,7 +85,7 @@ Known issues on OSX:
 
 **Linux**
 
-- [kkrita3-prealpha2-3c69a59-x86\_64.appimage](http://files.kde.org/krita/3/linux/krita3-prealpha2-3c69a59-x86_64.appimage)
+- [kkrita3-prealpha2-3c69a59-x86_64.appimage](http://files.kde.org/krita/3/linux/krita3-prealpha2-3c69a59-x86_64.appimage)
 
 For the Linux builds we now have AppImages! These are completely distribution-independent. To use the AppImage, download it, and make it an executable in your terminal or using the file properties dialog of your file manager. Another change is that configuration and custom resources are now stored in the .config/krita.org/kritarc and .local/share/krita.org/ folders of the user home folder, instead of .kde or .kde4.
 

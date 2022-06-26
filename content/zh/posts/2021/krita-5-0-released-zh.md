@@ -19,7 +19,7 @@ categories:
 
 Krita 5.0 的全部更新内容还远不止如此，详情请参见 [Krita 5.0 系列版本说明](https://krita.org/zh/krita-5-0-release-notes-zh/)页面。
 
-\[video width="1920" height="1080" mp4="/images/posts/2021/Video-for-store\_final-30fps.mp4"\]\[/video\]
+\[video width="1920" height="1080" mp4="/images/posts/2021/Video-for-store_final-30fps.mp4"\]\[/video\]
 
 Krita 5.0 简介视频，感谢 [Irene Fariña](https://www.instagram.com/irerakmusic/) 提供音乐。
 

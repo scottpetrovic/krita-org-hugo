@@ -190,7 +190,7 @@ Krita 曾經設定咗一個鍵盤快捷鍵「W」嚟用作切換「環繞模式�
 
 ### Linux
 
-- 64 位元 Linux AppImage：[krita-4.4.2-beta1-x86\_64.appimage](https://download.kde.org/unstable/krita/4.4.2-beta1/krita-4.4.2-beta1-x86_64.appimage)
+- 64 位元 Linux AppImage：[krita-4.4.2-beta1-x86_64.appimage](https://download.kde.org/unstable/krita/4.4.2-beta1/krita-4.4.2-beta1-x86_64.appimage)
 - 64 位元 Linux [G'Mic-Qt 外掛程式 AppImage](https://download.kde.org/unstable/krita/4.4.2-beta1/gmic_krita_qt-x86_64.appimage)
 
 ### macOS

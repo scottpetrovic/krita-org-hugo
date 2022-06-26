@@ -68,7 +68,7 @@ Windows 用户请注意：如果你遇到了崩溃，请[按此说明](https://d
 
 ### Linux 版本
 
-- 64 位 AppImage：[krita-4.1.5-x86\_64.appimage](https://download.kde.org/stable/krita/4.1.5/krita-4.1.5-x86_64.appimage)
+- 64 位 AppImage：[krita-4.1.5-x86_64.appimage](https://download.kde.org/stable/krita/4.1.5/krita-4.1.5-x86_64.appimage)
 - 64 位 G’Mic-Qt 插件 AppImage：[G'Mic-Qt plugin appimage](https://download.kde.org/stable/krita/4.1.5/gmic_krita_qt-x86_64.appimage)
 
 （如果 Firefox 将文件当成文本加载，请在链接上点击右键，另存为）

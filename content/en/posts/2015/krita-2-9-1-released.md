@@ -35,8 +35,8 @@ The first bugfix release for Krita 2.9 is out! There are now builds for Windows,
     - Ubuntu and derivatives can use Krita Lime, as usual: [https://launchpad.net/~dimula73/+archive/ubuntu/krita](https://launchpad.net/%7Edimula73/+archive/ubuntu/krita)
     - OpenSUSE users can the KDE:Extra repo: [http://download.opensuse.org/repositories/KDE:/Extra/](http://download.opensuse.org/repositories/KDE:/Extra/)
 - Windows. From Vista and up, Windows 7 and up is recommended. There is **no** Windows XP build. If you have a 64 bits version of Windows, don’t use the 32 bits build! The zip files do not need installing, just unpacking, but do not come with the Visual Studio C runtime that is included in the msi installer.
-    - 32 bits Windows: [http://files.kde.org/krita/windows/krita\_x86\_2.9.1.0.msi](http://files.kde.org/krita/windows/krita_x86_2.9.1.0.msi) or [http://files.kde.org/krita/windows/krita\_x86\_2.9.1.0.zip](http://files.kde.org/krita/windows/krita_x86_2.9.1.0.zip) (This version does not include G’Mic.)
-    - 64 bits Windows: [http://files.kde.org/krita/windows/krita\_x64\_2.9.1.0.msi](http://files.kde.org/krita/windows/krita_x64_2.9.1.0.msi) or [http://files.kde.org/krita/windows/krita\_x64\_2.9.1.0.zip](http://files.kde.org/krita/windows/krita_x64_2.9.1.0.zip)
+    - 32 bits Windows: [http://files.kde.org/krita/windows/krita_x86_2.9.1.0.msi](http://files.kde.org/krita/windows/krita_x86_2.9.1.0.msi) or [http://files.kde.org/krita/windows/krita_x86_2.9.1.0.zip](http://files.kde.org/krita/windows/krita_x86_2.9.1.0.zip) (This version does not include G’Mic.)
+    - 64 bits Windows: [http://files.kde.org/krita/windows/krita_x64_2.9.1.0.msi](http://files.kde.org/krita/windows/krita_x64_2.9.1.0.msi) or [http://files.kde.org/krita/windows/krita_x64_2.9.1.0.zip](http://files.kde.org/krita/windows/krita_x64_2.9.1.0.zip)
 
 OSX:
 

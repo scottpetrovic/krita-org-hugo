@@ -62,7 +62,7 @@ It has so many cool features and tools, so flexible when it comes to brush setti
 
 ### What techniques and brushes did you use in it?
 
-Most of the time for cartoony characters I use basic Krita brushes, just edit settings a bit. Airbrush\_pressure for sketching and shading, Fill\_circle for colouring, ink\_ballpen for lineart, Basic\_wet\_soft for blending.
+Most of the time for cartoony characters I use basic Krita brushes, just edit settings a bit. Airbrush_pressure for sketching and shading, Fill_circle for colouring, ink_ballpen for lineart, Basic_wet_soft for blending.
 
 ### Where can people see more of your work?
 

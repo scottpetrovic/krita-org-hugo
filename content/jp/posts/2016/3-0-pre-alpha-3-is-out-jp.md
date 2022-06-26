@@ -92,7 +92,7 @@ Nathan Lovatoさんによる機能紹介はこちらです:
 
 ZIPファイルがダウンロードされます。[そしてZIPファイルをKritaを置きたいフォルダに展開してください…](http://windows.microsoft.com/en-us/windows-10/zip-and-unzip-files#v1h=tab02)
 
-まずMicrosoft’s Visual Studio runtimeをインストールするためにこのZIPファイルに同封されているvcredist\_x64.exeを動かしてください。（すでにこの操作をやっている人はこの工程を飛ばしてください）
+まずMicrosoft’s Visual Studio runtimeをインストールするためにこのZIPファイルに同封されているvcredist_x64.exeを動かしてください。（すでにこの操作をやっている人はこの工程を飛ばしてください）
 
 そうしたらこれもこのZIPファイルに入っているショートカットKritaをダブルクリックしてください。
 
@@ -114,7 +114,7 @@ OSXでの注意すべき事項：
 
 **Linux**
 
-- [krita3-prealpha3-de0d43d-x86\_64.appimage](http://files.kde.org/krita/3/linux/krita3-prealpha3-de0d43d-x86_64.appimage)
+- [krita3-prealpha3-de0d43d-x86_64.appimage](http://files.kde.org/krita/3/linux/krita3-prealpha3-de0d43d-x86_64.appimage)
 
 Linuxのビルドには今回からAppimagesを使用することとしました！Appimagesは完全に独立したディストリビューションです。AppImageを使用するにはこれをダウンロードして、ターミナルかファイルマネージャのファイルプロパティダイアログを使ってこれを実行可能にしてください。もう一つの変更点として設定とリソースが今回からは.kdeや.kde4ではなくユーザーホームフォルダ（user home folder）内の.config/krita.org/kritarcと.local/share/krita.org/に保存されるようになりました。
 

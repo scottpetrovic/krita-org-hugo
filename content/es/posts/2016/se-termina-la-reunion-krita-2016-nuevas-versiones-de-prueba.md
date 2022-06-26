@@ -57,14 +57,14 @@ En Windows Krita puede usar las tabletas digitales Wacom, Huion y Yiynova, tambi
 
 En windows Krita puede usar las tabletas digitales Wacom, Huion y Yiynova, también las Surface Pro. Se ha probado en Windows7, 8 y 10, solo existen lanzamientos en el formato de 64 bits. Ademas existe la versión que ayuda a rastrear los problemas cuando ocurren, ésta funciona con el programa llamado DrMingw, para mas información [visita ésta página](https://docs.krita.org/KritaFAQ/es#.C2.BFComo_puedo_crear_un_.22backtrace.22_en_Windows.3F). En esta ocasión, Krita puede responder mas lentamente dado a que se ha desactivado la vectorización.
 
-- [krita\_3.0.99.91-x64.zip](http://files.kde.org/krita/3/windows/devbuilds/krita_3.0.99.91-x64.zip)
+- [krita_3.0.99.91-x64.zip](http://files.kde.org/krita/3/windows/devbuilds/krita_3.0.99.91-x64.zip)
 - [krita3-x64-dbg-latest.zip](http://files.kde.org/krita/3/windows/debugbuilds/krita3-x64-dbg-latest.zip)
 
 #### Linux
 
 Al igual que en las ultimas versiones, y para que mas personas puedan probar el programa en desarrollo sin la necesidad de compilarlo o de repositorios no oficiales, se a puesto a disposición la versión mas nueva en un AppImage, solo en el formato de 64 bits. Una ves descargado el paquete, lo haces ejecutable y lo usas directamente en el mismo archivo, recuerda que aun que funciona muy bien, tanto Krita como AppImage son experimentales.
 
-- [krita-3.0.99.91-Beta-x86\_64.appimage](http://files.kde.org/krita/3/linux/devbuilds/krita-3.0.99.91-Beta-x86_64.appimage)
+- [krita-3.0.99.91-Beta-x86_64.appimage](http://files.kde.org/krita/3/linux/devbuilds/krita-3.0.99.91-Beta-x86_64.appimage)
 
 También puedes obtener Krita en [Ubuntu’s App Store en formato "snap"](https://uappexplorer.com/app/krita.krita). Esta versión incluye las traducciones de Krita. Se puede instalar con el siguiente comando:
 

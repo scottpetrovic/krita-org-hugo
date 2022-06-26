@@ -41,7 +41,7 @@ Note for Windows users: if you encounter crashes, please follow [these instructi
 
 ### Linux
 
-- 64 bits Linux: [krita-3.1.1-x86\_64.appimage](http://download.kde.org/stable/krita/3.1.1/krita-3.1.1-x86_64.appimage)
+- 64 bits Linux: [krita-3.1.1-x86_64.appimage](http://download.kde.org/stable/krita/3.1.1/krita-3.1.1-x86_64.appimage)
 
 A snap image for the Ubuntu App Store.
 

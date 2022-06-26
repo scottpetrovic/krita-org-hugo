@@ -5,7 +5,7 @@ date: "2016-08-29"
 
 The artists, developers, website maintainers and documentation writers who were in Deventer for the Krita sprint  since Thursday are now slowly returning home. Some will stay for a bit longer, others had to leave on Sunday already.
 
-[![DSCF5848](/images/posts/2016/DSCF5848-1024x768.jpg)](/images/posts/2016/DSCF5848.jpg)
+[![DSCF5848](/images/posts/2016/DSCF5848-1024x768.jpg)](https://krita.org/wp-content/uploads/2016/08/DSCF5848.jpg)
 
 There is something extremely exhausting and exhilarating about a real-live meeting like this! Lots and lots of topics were discussed:
 
@@ -13,13 +13,13 @@ There is something extremely exhausting and exhilarating about a real-live meeti
 - Lots of work was done to support [OSX properly](https://codereview.qt-project.org/#/c/166202) -- the opengl patch looks ready to land in Qt! There were also some fixes to tablet handling.
 - We had all three Google Summer of Code students present! Wolthera finished the second part of her project (the first was [soft proofing](http://wolthera.info/?p=802) and is in 3.0.1): a new color selector internal to Krita that is fully color managed. Jouni presented his animation work and Julian his work on Qt's OpenGL QPainter engine.
 
-[![index](/images/posts/2016/index-1024x584.png)](/images/posts/2016/index.png)
+[![index](/images/posts/2016/index-1024x584.png)](https://krita.org/wp-content/uploads/2016/08/index.png)
 
  
 
 - We discussed the publication of a [Pepper and Carrot](http://www.peppercarrot.com/) book by the Krita Foundation with David Revoy.
 
-[![Pepper loves Kiki!](/images/posts/2016/PepperLovesKiki_001-1024x724.png)](/images/posts/2016/PepperLovesKiki_001.png) Pepper loves Kiki!
+[![Pepper loves Kiki!](/images/posts/2016/PepperLovesKiki_001-1024x724.png)](https://krita.org/wp-content/uploads/2016/08/PepperLovesKiki_001.png) Pepper loves Kiki!
 
 - We refined the release process and the process by which we take [feature requests](/item/ways-to-help-krita-work-on-feature-requests/) all the way to implemented and released features.
 - Jouni sat together with Steven, the author of this post's sketches and who is also an accomplished animator to go through Krita's animation workflow
@@ -28,13 +28,13 @@ There is something extremely exhausting and exhilarating about a real-live meeti
 - Dmitry showed a new brush engine (alcohol markers) that can handle enormous brush diameters -- 2500 pixels isn't impossible
 - We fixed bugs, bugs and bugs....
 
-[![Kiki_Angel &Demon](/images/posts/2016/Kiki_Angel-Demon-1-1024x724.png)](/images/posts/2016/Kiki_Angel-Demon-1.png)
+[![Kiki_Angel &Demon](/images/posts/2016/Kiki_Angel-Demon-1-1024x724.png)](https://krita.org/wp-content/uploads/2016/08/Kiki_Angel-Demon-1.png)
 
 - And finally, we had a great time. Many dedicated contributors to Krita had never met in person before, and now we've got faces and voices mapped to chat channel nicknames and commit message email addresses!
 
 The 2016 Krita sprint was sponsored by [KDE e.V.](https://www.kde.org/community/donations/) (travel) and the [Krita Foundation](/support-us/donations/) (accomodation and food). Thanks! We also happened to have planned the sprint right for the week the Dutch summer decided to present us with a heatwave. Fortunately we could use [a nice and cool cellar](http://petrusenpaulus.eu/). Add some internet and power strips, and it was a great hack and dinner room!
 
-[![DSCF5836](/images/posts/2016/DSCF5836-1024x768.jpg)](/images/posts/2016/DSCF5836.jpg)
+[![DSCF5836](/images/posts/2016/DSCF5836-1024x768.jpg)](https://krita.org/wp-content/uploads/2016/08/DSCF5836.jpg)
 
 #### Builds
 
@@ -55,14 +55,14 @@ On Windows, Krita supports Wacom, Huion and Yiynova tablets, as well as the Surf
 
 Krita on Windows is tested on Windows 7, Windows 8 and Windows 10. There is only a Windows 64 bits build for now. Also, there is debug build that together with the DrMingw debugger can help with finding the cause of crashes. See the new [FAQ entry](https://docs.krita.org/KritaFAQ#How_can_I_produce_a_backtrace_on_Windows.3F). The Windows builds can be slower than usual because vectorization is disabled.
 
-- [krita\_3.0.99.91-x64.zip](http://files.kde.org/krita/3/windows/devbuilds/krita_3.0.99.91-x64.zip)
+- [krita_3.0.99.91-x64.zip](http://files.kde.org/krita/3/windows/devbuilds/krita_3.0.99.91-x64.zip)
 - [krita3-x64-dbg-latest.zip](http://files.kde.org/krita/3/windows/debugbuilds/krita3-x64-dbg-latest.zip)
 
 #### Linux
 
 For Linux, we offer [AppImages](http://appimage.org/) that should run on any reasonable recent Linux distribution. You can download the appimage, make it executable and run it in place. No installation is needed. At this moment, we only have appimages for 64 bits versions of Linux. This appimage has experimental desktop integration.
 
-- [krita-3.0.99.91-Beta-x86\_64.appimage](http://files.kde.org/krita/3/linux/devbuilds/krita-3.0.99.91-Beta-x86_64.appimage)
+- [krita-3.0.99.91-Beta-x86_64.appimage](http://files.kde.org/krita/3/linux/devbuilds/krita-3.0.99.91-Beta-x86_64.appimage)
 
 You can also get Krita from [Ubuntu’s App Store in snap format](https://uappexplorer.com/app/krita.krita). This version includes the translations for Krita itself. Install with
 

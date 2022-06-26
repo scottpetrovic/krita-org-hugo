@@ -23,7 +23,7 @@ tags:
 
 [踊るブサ男](https://pbs.twimg.com/tweet_video/CUqdKyFUcAAQivB.mp4)/[誰がビットマップアニメーションだと言った](https://pbs.twimg.com/tweet_video/CUqR9ECUAAA7k61.mp4)：SJ Bennet氏。twitterより
 
-[成長する木](https://pbs.twimg.com/tweet_video/CUqUgRhVAAAzxCU.mp4)：雑賀屋鳶氏（@tomB\_saikaya）。twitterより
+[成長する木](https://pbs.twimg.com/tweet_video/CUqUgRhVAAAzxCU.mp4)：雑賀屋鳶氏（@tomB_saikaya）。twitterより
 
 [歩行サイクル](https://pbs.twimg.com/tweet_video/CUr74xeW4AAsQz5.mp4)：JeffersonSN/Llama guy氏。twitterより
 

@@ -36,7 +36,7 @@ Wolthera van Hövell tot Westerflierが作成したPythonプラグインのコ�
 
 - 生成されたepubのナビゲーションの改善追加内容…
     - epubの仕様に従った、パネルと吹き出しの範囲ナビゲーション
-    - acbf\_titleキーワードで生成したnav.xhtmlとncxのTOCを使用するナビゲーション
+    - acbf_titleキーワードで生成したnav.xhtmlとncxのTOCを使用するナビゲーション
     - nav.xhtmlとncxのページリスト
 - 生成したEPUBがバリデーションを通ることの確認zipに最初にmimetypeが追加されることの確認、および著者メタデータとNCXページリストへの修正が含まれます
 - 言語まわりのおかしい部分を修正
@@ -44,7 +44,7 @@ Wolthera van Hövell tot Westerflierが作成したPythonプラグインのコ�
     - refinesを使用するMARC-relatorsの追加
     - acbfとepubのUUID共有を追加
     - 変更日と正しい日付関連のデータを追加
-- epub\_spreadの実装、主要色ahlメタなど。さらに…
+- epub_spreadの実装、主要色ahlメタなど。さらに…
     - 吹き出しローカライゼーションの柔軟性を強化
     - すべての吹き出しをより正確にtext-areaとして命名
     - 著者にシーケンスを設定
@@ -203,7 +203,7 @@ Windowsユーザーの皆さんへ：もしクラッシュする事案に遭遇�
 
 ### Linux
 
-- 64 bits Linux: [krita-4.1.3-x86\_64.appimage](https://download.kde.org/stable/krita/4.1.3/krita-4.1.3-x86_64.appimage)
+- 64 bits Linux: [krita-4.1.3-x86_64.appimage](https://download.kde.org/stable/krita/4.1.3/krita-4.1.3-x86_64.appimage)
 - 64 bits Linux [G'Mic-Qt plugin appimage](https://download.kde.org/stable/krita/4.1.3/gmic_krita_qt-x86_64.appimage)
 
 (なぜかFirefoxはテキストとして読み込もうとするようです。ダウンロードするにはリンクの右クリックから保存してください) 更新がされると、Ubuntuと派生ディストリビューションでは[Krita Lime PPA](https://launchpad.net/%7Ekritalime/+archive/ubuntu/ppa)からもKrita 4.1.3をインストールできるようになります。snapの更新については作業中です。

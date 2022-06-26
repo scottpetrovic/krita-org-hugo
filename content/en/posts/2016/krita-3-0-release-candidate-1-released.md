@@ -40,7 +40,7 @@ Compared to the last beta, we've got the following improvements:
 - Fix a number of crashes
 - Fix the scaling of the toolbox icons
 - Add new icons for the pan and zoom tools
-- Make it possible to enable HiDPI mode by setting the environment variable KRITA\_HIDPI to ON.
+- Make it possible to enable HiDPI mode by setting the environment variable KRITA_HIDPI to ON.
 - Fix the fade, distance and time sensors in the brush editor
 - Make it possible to open color palettes again
 - Add a shortcut for toggling onion skinning
@@ -54,7 +54,7 @@ And a load of smaller things!
 
 **Windows Shell Extension** package by Alvin Wong. Just install it and Windows Explorer will start showing preview and meta information for Krita files. (Disregard any warnings by virus checkers, because this package is built with the NSIS installer maker, some virus checkers always think it’s infected, it’s not.)
 
-- Installation package: [kritashellex\_1.1.0.1\_setup.exe](http://files.kde.org/krita/3/windows/kritashellex_1.1.0.1_setup.exe)
+- Installation package: [kritashellex_1.1.0.1_setup.exe](http://files.kde.org/krita/3/windows/kritashellex_1.1.0.1_setup.exe)
 
 **Windows:** Unzip and run the bin/krita.exe executable! These downloads do not interfere with your existing installation. The configuration file location has been moved from %APPDATA%\\Local\\kritarc to %APPDATA%\\Local\\krita\\kritarc.
 
@@ -67,8 +67,8 @@ And a load of smaller things!
 
 **The Linux appimage:**After downloading, make the appimage executable and run it. No installation is needed. For CentOS 6 and Ubuntu 12.04, a separate appimage is provided with g’mic built without OpenMP (which makes it much slower)
 
-- AppImage [krita-3.0-RC-1-master-6f75b0f-x86\_64.appimage](http://files.kde.org/krita/3/linux/krita-3.0-RC-1-master-6f75b0f-x86_64.appimage) for modern distributions
-- AppImage [krita-3.0-RC-1-master-6f75b0f-no-openmp-x86\_64.appimage](http://files.kde.org/krita/3/linux/krita-3.0-RC-1-master-6f75b0f-no-openmp-x86_64.appimage) for ancient distributions
+- AppImage [krita-3.0-RC-1-master-6f75b0f-x86_64.appimage](http://files.kde.org/krita/3/linux/krita-3.0-RC-1-master-6f75b0f-x86_64.appimage) for modern distributions
+- AppImage [krita-3.0-RC-1-master-6f75b0f-no-openmp-x86_64.appimage](http://files.kde.org/krita/3/linux/krita-3.0-RC-1-master-6f75b0f-no-openmp-x86_64.appimage) for ancient distributions
 
 As usual, you can use these builds without affecting your 2.9 installation.
 

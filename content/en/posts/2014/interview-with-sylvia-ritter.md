@@ -34,7 +34,7 @@ My husband is a musician and programmer. He licensed all his work under creative
 
 ### Have you worked for any FOSS project or contributed in some way?
 
-We, duangle, are currently developing an open source game engine "Liminal" for no-static-assets procedural games, using C and LuaJIT:[https://bitbucket.org/duangle/liminal\_lua/src](https://bitbucket.org/duangle/liminal_lua/src). My husband is doing the programming and I’m an alpha tester. ;-)
+We, duangle, are currently developing an open source game engine "Liminal" for no-static-assets procedural games, using C and LuaJIT:[https://bitbucket.org/duangle/liminal_lua/src](https://bitbucket.org/duangle/liminal_lua/src). My husband is doing the programming and I’m an alpha tester. ;-)
 
 ### How did you find out about Krita?
 
@@ -78,7 +78,7 @@ Animal Illustrations Calendar 2015: [https://www.etsy.com/listing/203986448/anim
 
 Website: [www.sylvia-ritter.com](http://www.sylvia-ritter.com)
 
-Twitter: [https://twitter.com/sylvia\_ritter](https://twitter.com/sylvia_ritter)
+Twitter: [https://twitter.com/sylvia_ritter](https://twitter.com/sylvia_ritter)
 
 Facebook: [https://www.facebook.com/pages/Sylvia-Ritter-Artist/242134975862592](https://www.facebook.com/pages/Sylvia-Ritter-Artist/242134975862592)
 

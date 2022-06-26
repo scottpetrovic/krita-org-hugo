@@ -22,7 +22,7 @@ Krita on Windows is tested on Windows 7, Windows 8 and Windows 10. There is only
 
 For Linux, we offer [AppImages](http://appimage.org/) that should run on any reasonable recent Linux distribution. You can download the appimage, make it executable and run it in place. No installation is needed. At this moment, we only have appimages for 64 bits versions of Linux.
 
-- [krita-3.0.1-Alpha-4c91a18-x86\_64.appimage](http://files.kde.org/krita/3/linux/devbuilds/krita-3.0.1-Alpha-4c91a18-x86_64.appimage) (MD5: 772ca9e719cf00d4de49fe68c226c41f)
+- [krita-3.0.1-Alpha-4c91a18-x86_64.appimage](http://files.kde.org/krita/3/linux/devbuilds/krita-3.0.1-Alpha-4c91a18-x86_64.appimage) (MD5: 772ca9e719cf00d4de49fe68c226c41f)
 
 #### OSX and MacOS
 

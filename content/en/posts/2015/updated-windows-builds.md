@@ -14,5 +14,5 @@ We prepared new Windows builds today. They contain the following updates:
 
 We'll move the new builds to the official download location as soon as possible, but in the meantime, here are the downloads:
 
-- 32 bits Windows: [http://download.kde.org/stable/krita/krita\_x86\_2.9.0.1.msi](http://download.kde.org/stable/krita/krita_x86_2.9.0.1.msi) or [http://download.kde.org/stable/krita/krita\_x86\_2.9.0.1.zip](http://download.kde.org/stable/krita/krita_x86_2.9.0.1.zip)
-- 64 bits Windows: [http://download.kde.org/stable/krita/krita\_x64\_2.9.0.1.msi](http://download.kde.org/stable/krita/krita_x64_2.9.0.1.msi) or [http://download.kde.org/stable/krita/krita\_x64\_2.9.0.1.zip](http://download.kde.org/stable/krita/krita_x64_2.9.0.1.zip)
+- 32 bits Windows: [http://download.kde.org/stable/krita/krita_x86_2.9.0.1.msi](http://download.kde.org/stable/krita/krita_x86_2.9.0.1.msi) or [http://download.kde.org/stable/krita/krita_x86_2.9.0.1.zip](http://download.kde.org/stable/krita/krita_x86_2.9.0.1.zip)
+- 64 bits Windows: [http://download.kde.org/stable/krita/krita_x64_2.9.0.1.msi](http://download.kde.org/stable/krita/krita_x64_2.9.0.1.msi) or [http://download.kde.org/stable/krita/krita_x64_2.9.0.1.zip](http://download.kde.org/stable/krita/krita_x64_2.9.0.1.zip)

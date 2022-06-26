@@ -7,7 +7,7 @@ categories:
 
 Krita 开发团队今天推出了 Krita 4.4.2 的公开测试第 2 版。与此同时，Ramon Miranda 也制作了一段视频，专门介绍 4.4.2 的重要新功能之一——曲线网格渐变 (大陆用户需要科学上网)：
 
-https://www.youtube.com/watch?v=DLXWynZT\_8s&feature=youtu.be
+https://www.youtube.com/watch?v=DLXWynZT_8s&feature=youtu.be
 
 本版软件在 [公开测试第 1 版](https://krita.org/en/item/first-beta-of-krita-4-4-2/) 的基础上又修复了下列程序缺陷：
 

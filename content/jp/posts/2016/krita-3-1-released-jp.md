@@ -45,7 +45,7 @@ Windowsユーザーの皆さんへ：もしクラッシュする事案に遭遇�
 
 ### Linux
 
-- 64ビットLinux用AppImage版：[krita-3.1.0-x86\_64.appimage](http://download.kde.org/stable/krita/3.1.0/krita-3.1.0-x86_64.appimage) (MD5 Hash: 80ecd83f738d7190bae8545981df6044)
+- 64ビットLinux用AppImage版：[krita-3.1.0-x86_64.appimage](http://download.kde.org/stable/krita/3.1.0/krita-3.1.0-x86_64.appimage) (MD5 Hash: 80ecd83f738d7190bae8545981df6044)
 
 Ubuntu App Storeのベータチャンネルからスナップイメージが利用可能です。
 

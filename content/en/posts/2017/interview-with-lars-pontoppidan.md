@@ -94,7 +94,7 @@ The biggest scene I have so far is 10200x4080 pixels - Krita was actually perfor
 
 For cartoon styled work I use a Group layer containing: \* background blend (Transparency Mask) \* shadows (Paint layer) \* outlines (Paint layer) \* textures (Group layer) \* solid base color(s) (Paint layer)
 
-For outlines I use the standard Pixel brush 'Ink\_gpen\_10' - it has a really nice sharp edge at small tip sizes. For texturing I mostly use the 'Splatter\_thin' Pixel brush - with both standard and custom brush tips and settings depending on the project at hand. For shadowing I really like the 'Airbrush\_pressure' and 'Airbrush\_linear\_noisy' Pixel brushes. I use a selection mask based on the solid base color layer (Layer name -> Right mouse click -> Select Opaque) - and start shadowing the object.
+For outlines I use the standard Pixel brush 'Ink_gpen_10' - it has a really nice sharp edge at small tip sizes. For texturing I mostly use the 'Splatter_thin' Pixel brush - with both standard and custom brush tips and settings depending on the project at hand. For shadowing I really like the 'Airbrush_pressure' and 'Airbrush_linear_noisy' Pixel brushes. I use a selection mask based on the solid base color layer (Layer name -> Right mouse click -> Select Opaque) - and start shadowing the object.
 
 ### Where can people see more of your work?
 

@@ -58,7 +58,7 @@ Krita is by far the most complete digital painting tool developed on Linux. It i
 
 ### What techniques and brushes did you use in it?
 
-As i said, I like to have limited presets. In this illustration I mostly used the "pastel\_texture\_thin" brush which is part of the default set of brushes in Krita. I love its texture and the fact that it is pressure sensitive. Also, I applied a global bitmap texture on an overlay layer.
+As i said, I like to have limited presets. In this illustration I mostly used the "pastel_texture_thin" brush which is part of the default set of brushes in Krita. I love its texture and the fact that it is pressure sensitive. Also, I applied a global bitmap texture on an overlay layer.
 
 ### Where can people see more of your work?
 

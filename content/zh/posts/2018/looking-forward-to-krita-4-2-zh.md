@@ -74,7 +74,7 @@ https://youtu.be/pNsifPZJsjw
 
 ### Linux 版本
 
-- 64 位 AppImage：[krita-4.2.0-preview-x86\_64.appimage](https://download.kde.org/unstable/krita/4.2.0-preview/krita-4.2.0-preview-x86_64.appimage)
+- 64 位 AppImage：[krita-4.2.0-preview-x86_64.appimage](https://download.kde.org/unstable/krita/4.2.0-preview/krita-4.2.0-preview-x86_64.appimage)
 - 64 位 G’Mic-Qt 插件 AppImage：[G'Mic-Qt plugin appimage](https://download.kde.org/unstable/krita/4.2.0-preview/gmic_krita_qt-x86_64.appimage).
 
 (如果 Firefox 把下载文件当作文本打开，请在连接上点击右键/另存为)

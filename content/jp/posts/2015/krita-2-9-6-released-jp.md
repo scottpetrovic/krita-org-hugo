@@ -69,7 +69,7 @@ coverImage: "2015-06-26_screenshot_002.png"
 - 絵筆ブラシのPVS警告の修正
 - (gmic) カーソルがビジー状態になる問題への回避策テスト
 - BUG:348750 ドッキングエリア制限を解除
-- BUG:348795 m\_maxPresetsが初期化されていない問題を修正
+- BUG:348795 m_maxPresetsが初期化されていない問題を修正
 - BUG:349346 (gmic) 選択がある場合に、画像サイズとの同期を行わない
 - BUG:348887 塗りつぶしツールでの自動スクロールを禁止
 - BUG:348914 フィルレイヤーの名前変更ができない問題の修正
@@ -82,9 +82,9 @@ coverImage: "2015-06-26_screenshot_002.png"
     - UbuntuとUbuntu派生ディストリビューションでは通常通りKrita Limeを使用できます:[https://launchpad.net/~dimula73/+archive/ubuntu/krita](https://launchpad.net/~dimula73/+archive/ubuntu/krita).
     
     - OpenSUSEユーザはKDE:Extraレポジトリ:[http://download.opensuse.org/repositories/KDE:/Extra/](http://download.opensuse.org/repositories/KDE:/Extra/) もしくはVcサポート付でビルドされたKrita(ペイントが高速化)を含むLeinir’s OBS repositoriesを使用できます:
-        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE\_13.1/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.1/)
-        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE\_13.2/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.2/)
-        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE\_Factory/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_Factory/)
+        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.1/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.1/)
+        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.2/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.2/)
+        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_Factory/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_Factory/)
 - WindowsとOSX
     - 更新された[ダウンロードページ](https://jp.krita.org/download/krita-desktop/ "Krita Desktop")から新しいビルドがダウンロードできます。MSIインストーラを使いたくない場合は、[files.kde.org](http://files.kde.org/krita) からWindows向けKritaのポータブルなzip版をダウンロードできます。
     - [Steam版Krita](http://store.steampowered.com/app/280680)では「Desktop29」オプションをプロパティのベータとして選ぶことで最新バージョンを入手できます！Steamユーザは自動的に更新を入手することができます。

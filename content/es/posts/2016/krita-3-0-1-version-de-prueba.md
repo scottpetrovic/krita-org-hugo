@@ -24,7 +24,7 @@ En Windows, Krita es compatible con las tabletas digitales Wacom, Huion así com
 
 Ofrecemos los _[AppImages](http://appimage.org/)_ que pueden usarse sin la necesidad de instalarse en cualquier sistema nuevo de Linux. Solo se requiere de descargar el archivo, hacerlo ejecutable para que funcione. Por ahora solo tenemos _AppImages_ para la arquitectura de 64bits.
 
-- [krita-3.0.1-Alpha-4c91a18-x86\_64.appimage](http://files.kde.org/krita/3/linux/devbuilds/krita-3.0.1-Alpha-4c91a18-x86_64.appimage) (MD5: 772ca9e719cf00d4de49fe68c226c41f)
+- [krita-3.0.1-Alpha-4c91a18-x86_64.appimage](http://files.kde.org/krita/3/linux/devbuilds/krita-3.0.1-Alpha-4c91a18-x86_64.appimage) (MD5: 772ca9e719cf00d4de49fe68c226c41f)
 
 Krita está disponible en _[Ubuntu App Sotore](https://uappexplorer.com/app/krita.krita)_ en el formato _Snap_, gracias a la colaboración de Michael Hall. Nota: la versión de Krita en _Snap_ no funciona con las tarjetas de video de Nvidia dadas las limitaciones en Ubuntu ademas de no tener traducciones.
 

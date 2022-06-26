@@ -35,7 +35,7 @@ Windows版KritaはWindows 7、Windows 8及びWindows 10の動作が確認され�
 - [krita-3.0-x86.zip](http://files.kde.org/krita/3/windows/krita-3.0-x86.zip) (0cd0ebb41e17163e26928affc9bf4bfbe7b315c0)
 - [krita-3.0-x64-setup.exe](http://files.kde.org/krita/3/windows/krita-3.0-x64-setup.exe) (c47285e1457c1492c7ee184835ea70d9ac26fdc5)
 - [krita-3.0-x86-setup.exe](http://files.kde.org/krita/3/windows/krita-3.0-x86-setup.exe) (82f68755eeeb28dbbaa7f29db15338a98b07f4a6)
-- [kritashellex\_1.1.0.1\_setup.exe](http://files.kde.org/krita/3/windows/kritashellex-1.1.0.2-setup.exe) (4fb24f073b0dfccae79050423bc8596e3218ae7d)
+- [kritashellex_1.1.0.1_setup.exe](http://files.kde.org/krita/3/windows/kritashellex-1.1.0.2-setup.exe) (4fb24f073b0dfccae79050423bc8596e3218ae7d)
 
 #### Linux
 
@@ -43,12 +43,12 @@ Linuxでは最近のあらゆるLinuxディストリビューションで動く[
 
 AppImageをダウンロードしたら、実行可能にしてその場で起動してください。インストールは必要ありません。現在のところ、AppImage版の提供は64ビット版のみです。
 
-- [krita-3.0-x86\_64.appimage](http://files.kde.org/krita/3/linux/krita-3.0-x86_64.appimage)  (cc4d007aff15369d7ae90160649f9594f256ec2c)
-- [krita-3.0-no-openmp-x86\_64.appimage](http://files.kde.org/krita/3/linux/krita-3.0-no-openmp-x86_64.appimage) (39d6d14d0607b7db37ea70b7057ebbaebca19a27)
+- [krita-3.0-x86_64.appimage](http://files.kde.org/krita/3/linux/krita-3.0-x86_64.appimage)  (cc4d007aff15369d7ae90160649f9594f256ec2c)
+- [krita-3.0-no-openmp-x86_64.appimage](http://files.kde.org/krita/3/linux/krita-3.0-no-openmp-x86_64.appimage) (39d6d14d0607b7db37ea70b7057ebbaebca19a27)
 
-Michael HallさんによってUbuntu Snap Image版のKritaが提供されています。Snap Imageを「snap install krita\_3.0-snap7\_amd64.snap」でターミナルからインストールできます。このSnap Image版は型落ちのQt 5.6を使用しているため、ペンタブのサポートは完璧なものではないことに注意してください。
+Michael HallさんによってUbuntu Snap Image版のKritaが提供されています。Snap Imageを「snap install krita_3.0-snap7_amd64.snap」でターミナルからインストールできます。このSnap Image版は型落ちのQt 5.6を使用しているため、ペンタブのサポートは完璧なものではないことに注意してください。
 
-- [krita\_3.0-snap7\_amd64.snap](http://files.kde.org/krita/3/linux/krita_3.0-snap7_amd64.snap) (f80852826e2dd58ca3615744940aa63371078dbf)
+- [krita_3.0-snap7_amd64.snap](http://files.kde.org/krita/3/linux/krita_3.0-snap7_amd64.snap) (f80852826e2dd58ca3615744940aa63371078dbf)
 
 #### OSX
 
@@ -58,6 +58,6 @@ KritaのOSXでのフルサポートはバージョン3.1で実現する予定で
 
 #### ソースコード
 
-Krita 3.0をパッケージしたいディストリビューションの皆さん用にソースアーカイブを用意されています。もし興味があるならソースアーカイブの代わりにgitレポジトリから直接Kritaをビルドしてみることをお勧めします。これによって日々の修正が反映された最新のコードにアクセスできます。David Revoyさんの[初めてKritaをビルドするに当たってのガイド](http://www.davidrevoy.com/article193/guide-building-krita-on-linux-for-cats)もご覧ください。Kritaをソースコードからビルドするにあたって自分の持っているQtのバージョンがQt 5.6.1より古い場合はkrita/3rdparty/ext\_qtにあるパッチを使ってQtもリビルドする必要があります。
+Krita 3.0をパッケージしたいディストリビューションの皆さん用にソースアーカイブを用意されています。もし興味があるならソースアーカイブの代わりにgitレポジトリから直接Kritaをビルドしてみることをお勧めします。これによって日々の修正が反映された最新のコードにアクセスできます。David Revoyさんの[初めてKritaをビルドするに当たってのガイド](http://www.davidrevoy.com/article193/guide-building-krita-on-linux-for-cats)もご覧ください。Kritaをソースコードからビルドするにあたって自分の持っているQtのバージョンがQt 5.6.1より古い場合はkrita/3rdparty/ext_qtにあるパッチを使ってQtもリビルドする必要があります。
 
 - [krita-3.0.tgz](http://download.kde.org/stable/krita/3.0/krita-3.0.tgz.mirrorlist) (6e0f7763e2ed5e266d916e7f76fadbaaf2c84eb5)

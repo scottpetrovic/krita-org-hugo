@@ -45,8 +45,8 @@ So, here are the new builds:
 
 For Windows, I've added a zip file next to the MSI installer. Unzip the zip file anywhere, go into krita/bin, double-click krita.exe and you can test this build without breaking your real installation. Remember -- this build is not ready for daily work, it's _experimental_.
 
-- [http://files.kde.org/krita/windows/krita\_x64\_2.8.79.21.zip](http://files.kde.org/krita/windows/krita_x64_2.8.79.21.zip)
-- [http://files.kde.org/krita/windows/krita\_x64\_2.8.79.21.msi](http://files.kde.org/krita/windows/krita_x64_2.8.79.21.msi)
+- [http://files.kde.org/krita/windows/krita_x64_2.8.79.21.zip](http://files.kde.org/krita/windows/krita_x64_2.8.79.21.zip)
+- [http://files.kde.org/krita/windows/krita_x64_2.8.79.21.msi](http://files.kde.org/krita/windows/krita_x64_2.8.79.21.msi)
 
 For OSX, here's a new DMG. Other than the file dialog fix, there's no new OSX specific fixes in here. We're still mulling over ways to [fund a proper OSX port](https://forum.kde.org/viewtopic.php?f=137&t=123362), among other things.
 

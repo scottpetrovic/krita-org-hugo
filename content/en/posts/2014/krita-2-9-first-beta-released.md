@@ -80,14 +80,14 @@ For Linux users, Krita Lime will be updated on Monday. Remember that launchpad i
 
 OpenSUSE users can use the new OBS repositories created by Leinir:
 
-- [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE\_13.1/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.1/)
-- [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE\_13.2/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.2/)
-- [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE\_Factory/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_Factory/)
+- [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.1/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.1/)
+- [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.2/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.2/)
+- [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_Factory/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_Factory/)
 
 Windows users can choose between an installer and the zip file. You can unzip the zip file anywhere and start Krita by executing bin/krita.exe. The Surface Pro 3 tablet offset issue has been fixed! We only have 64 bits Windows builds at the moment, we're working on fixing a problem with the 32 bits build.
 
-- [http://files.kde.org/krita/windows/krita\_x64\_2.8.90.1.zip](http://files.kde.org/krita/windows/krita_x64_2.8.90.1.zip)
-- [http://files.kde.org/krita/windows/krita\_x64\_2.8.90.1.msi](http://files.kde.org/krita/windows/krita_x64_2.8.90.1.msi)
+- [http://files.kde.org/krita/windows/krita_x64_2.8.90.1.zip](http://files.kde.org/krita/windows/krita_x64_2.8.90.1.zip)
+- [http://files.kde.org/krita/windows/krita_x64_2.8.90.1.msi](http://files.kde.org/krita/windows/krita_x64_2.8.90.1.msi)
 
 OSX users can open the dmg and copy krita.app where they want. Note that OSX still is _not_ supported. There are OSX-specific bugs and some features are missing.
 

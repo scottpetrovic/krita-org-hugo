@@ -43,7 +43,7 @@ Windowsユーザーの皆さんへ：もしクラッシュする事案に遭遇�
 
 ### Linux
 
-- 64ビットLinux用AppImage版: [krita-4.1.0-x86\_64.appimage](https://download.kde.org/stable/krita/4.1.0/krita-4.1.0-x86_64.appimage)
+- 64ビットLinux用AppImage版: [krita-4.1.0-x86_64.appimage](https://download.kde.org/stable/krita/4.1.0/krita-4.1.0-x86_64.appimage)
 
 (なぜかFirefoxはテキストとして読み込もうとするようです。ダウンロードするにはリンクの右クリックから保存してください) 更新がされると、Ubuntuと派生ディストリビューションでは[Krita Lime PPA](https://launchpad.net/%7Ekritalime/+archive/ubuntu/ppa)からもKrita 4.1.0をインストールできるようになります。snapの更新については作業中です。
 

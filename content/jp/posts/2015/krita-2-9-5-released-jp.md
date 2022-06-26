@@ -51,7 +51,7 @@ Kickstarterキャンペーンが成功した後も、新しい機能追加とバ
 - ドキュメント解像度の制限を修正 (bug 348339)
 - .kraファイルにレイヤースタイルを持つ複数レイヤーを保存する時の問題を修正 (bug 348178)
 - 16 bitチャンネルRGB画像の表示を修正 (bug 343765)
-- P\_Graphite\_Pencil\_grain.gihペン先ファイルの修正
+- P_Graphite_Pencil_grain.gihペン先ファイルの修正
 - レイヤー削除をUndoした時のプロジェクション更新の問題を修正 (bug 345600)
 - コマンドライン引数の扱いを改善
 - Windows上でのオートセーブ回復ダイアログを修正
@@ -73,8 +73,8 @@ Kickstarterキャンペーンが成功した後も、新しい機能追加とバ
     - 各ディストリビューションは各ディストリビューションでのbleeding edgeレポジトリからパッケージを作成することを期待されています。
     - UbuntuとUbuntu派生ディストリビューションでは通常通りKrita Limeを使用できます: [https://launchpad.net/~dimula73/+archive/ubuntu/krita](https://launchpad.net/~dimula73/+archive/ubuntu/krita).
     - OpenSUSEユーザはKDE:Extraレポジトリ: [http://download.opensuse.org/repositories/KDE:/Extra/](http://download.opensuse.org/repositories/KDE:/Extra/) もしくはVcサポート付でビルドされたKrita(ペイントが高速化)を含むLeinir’s OBS repositoriesを使用できます:
-        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE\_13.1/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.1/)
-        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE\_13.2/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.2/)
-        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE\_Factory/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_Factory/)
+        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.1/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.1/)
+        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.2/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.2/)
+        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_Factory/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_Factory/)
 - WindowsとOSX
     - 更新された[ダウンロードページ](https://jp.krita.org/download/krita-desktop/ "Krita Desktop")から新しいビルドがダウンロードできます。

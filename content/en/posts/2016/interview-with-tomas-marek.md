@@ -76,9 +76,9 @@ For most of my work I'm using my own brush, which is a rectangle brush with pres
 
 I'm frequently posting my work on these sites:
 
-Twitter [https://twitter.com/marts\_art](https://twitter.com/marts_art) Instagram [https://www.instagram.com/marts\_struggle\_with\_drawing/](https://www.instagram.com/marts_struggle_with_drawing/) DeviantArt [http://marts-art.deviantart.com/](http://marts-art.deviantart.com/)
+Twitter [https://twitter.com/marts_art](https://twitter.com/marts_art) Instagram [https://www.instagram.com/marts_struggle_with_drawing/](https://www.instagram.com/marts_struggle_with_drawing/) DeviantArt [http://marts-art.deviantart.com/](http://marts-art.deviantart.com/)
 
-Or on my Youtube channel [https://www.youtube.com/channel/UC0099tv90SxjQJ2PtIh7\_EQ](https://www.youtube.com/channel/UC0099tv90SxjQJ2PtIh7_EQ)
+Or on my Youtube channel [https://www.youtube.com/channel/UC0099tv90SxjQJ2PtIh7_EQ](https://www.youtube.com/channel/UC0099tv90SxjQJ2PtIh7_EQ)
 
 ### Anything else you'd like to share?
 

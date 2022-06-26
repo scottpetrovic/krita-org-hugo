@@ -19,7 +19,7 @@ But here's the animation gallery!
 
 [Dancing Gronky](https://pbs.twimg.com/tweet_video/CUqdKyFUcAAQivB.mp4) and [did anyone say bitmap animation](https://pbs.twimg.com/tweet_video/CUqR9ECUAAA7k61.mp4) by SJ Bennet on twitter
 
-[Growing Tree](https://pbs.twimg.com/tweet_video/CUqUgRhVAAAzxCU.mp4) by 雑賀屋鳶 ‏@tomB\_saikaya on twitter.
+[Growing Tree](https://pbs.twimg.com/tweet_video/CUqUgRhVAAAzxCU.mp4) by 雑賀屋鳶 ‏@tomB_saikaya on twitter.
 
 [walkcycle](https://pbs.twimg.com/tweet_video/CUr74xeW4AAsQz5.mp4) by JeffersonSN/Llama guy on twitter
 

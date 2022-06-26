@@ -44,7 +44,7 @@ Note that we are not making 32 bits Windows builds anymore.
 
 ### Linux
 
-- 64 bits Linux: [krita-5.0.0-x86\_64.appimage](https://download.kde.org/stable/krita/5.0.0/krita-5.0.0-x86_64.appimage)
+- 64 bits Linux: [krita-5.0.0-x86_64.appimage](https://download.kde.org/stable/krita/5.0.0/krita-5.0.0-x86_64.appimage)
 
 The separate gmic-qt appimage is no longer needed.
 

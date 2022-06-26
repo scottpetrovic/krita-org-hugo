@@ -81,7 +81,7 @@ KritaはGIMPグラデーションフォーマットをサポートしていま�
 
 ### Linux
 
-- 64ビットLinux: [krita-4.4.0-x86\_64.appimage](https://download.kde.org/stable/krita/4.4.0/krita-4.4.0-x86_64.appimage)
+- 64ビットLinux: [krita-4.4.0-x86_64.appimage](https://download.kde.org/stable/krita/4.4.0/krita-4.4.0-x86_64.appimage)
 - 64ビットLinux [G'Mic-Qt plugin appimage](https://download.kde.org/stable/krita/4.4.0/gmic_krita_qt-x86_64.appimage)
 
 (なぜかFirefoxはテキストとして読み込もうとするようです。ダウンロードするにはリンクの右クリックから保存してください)

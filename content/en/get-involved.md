@@ -55,7 +55,7 @@ We'd love to see what you are creating with Krita!
 #### How can I help?
 
 1. Post your artwork in the forum and let us know if we can use it for promotional purposes.
-2. Add @krita\_painting to your tweets or add a reference that you made your artwork with Krita
+2. Add @krita_painting to your tweets or add a reference that you made your artwork with Krita
 
 [Visit the forum](https://krita-artists.org/c/artwork/l/top)
 

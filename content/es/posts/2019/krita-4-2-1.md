@@ -52,7 +52,7 @@ En Windows, si se encuentran el cerrado del programa inesperadamente, favor de s
 
 ### Linux
 
-- 64 bits Linux: [krita-4.2.1-x86\_64.appimage](https://download.kde.org/stable/krita/4.2.1/krita-4.2.1-x86_64.appimage)
+- 64 bits Linux: [krita-4.2.1-x86_64.appimage](https://download.kde.org/stable/krita/4.2.1/krita-4.2.1-x86_64.appimage)
 - 64 bits Linux [G'Mic-Qt plugin appimage](https://download.kde.org/stable/krita/4.2.1/gmic_krita_qt-x86_64.appimage).
 
 En ocasiones Firefox trata el enlace como texto, para descargar el paquete simplemente has un clic a la derecha en el mismo enlace.

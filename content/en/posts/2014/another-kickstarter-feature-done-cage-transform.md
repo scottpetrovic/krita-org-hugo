@@ -53,7 +53,7 @@ Here are new builds for you:
 
 Windows build:
 
-- [http://files.kde.org/krita/windows/krita\_x64\_2.8.79.18.msi](http://files.kde.org/krita/windows/krita_x64_2.8.79.18.msi)
+- [http://files.kde.org/krita/windows/krita_x64_2.8.79.18.msi](http://files.kde.org/krita/windows/krita_x64_2.8.79.18.msi)
 
 OSX build (still experimental, no OpenColorIO or OpenEXR):
 

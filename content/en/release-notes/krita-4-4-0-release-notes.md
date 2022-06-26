@@ -130,7 +130,7 @@ To learn about the new scripting APIs, or learn how to script with Krita in gene
 - Fix layer's bounds extending when painting outside the selected area ([Bug 394439](https://bugs.kde.org/show_bug.cgi?id=394439))
 - Disable doing bitBlt outside extent when alpha channel is locked ([Bug 394439](https://bugs.kde.org/show_bug.cgi?id=394439))
 - Fix moving local selection mask created from global selection ([Bug 411802](https://bugs.kde.org/show_bug.cgi?id=411802))
-- Fix the \_other\_ place where the lorem text was used([Bug 421663](https://bugs.kde.org/show_bug.cgi?id=421663))
+- Fix the _other_ place where the lorem text was used([Bug 421663](https://bugs.kde.org/show_bug.cgi?id=421663))
 - Bugfix: Recent documents don't open ([Bug 422412](https://bugs.kde.org/show_bug.cgi?id=422412))
 - Fix resource icon aspect ratio on 1 column display
 - Fix artifacts when moving a layer with layer styles

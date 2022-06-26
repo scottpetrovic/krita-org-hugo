@@ -44,7 +44,7 @@ Windows 用户请注意：如果你遇到了崩溃，请遵循[此处的说明](
 
 ### Linux 版本
 
-- 64 位 AppImage：[krita-4.1.0-x86\_64.appimage](https://download.kde.org/stable/krita/4.1.0/krita-4.1.0-x86_64.appimage)
+- 64 位 AppImage：[krita-4.1.0-x86_64.appimage](https://download.kde.org/stable/krita/4.1.0/krita-4.1.0-x86_64.appimage)
 
 (如果 Firefox 把下载文件当作文本打开，请在连接上点击右键/另存为)
 

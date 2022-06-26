@@ -33,7 +33,7 @@ tags:
 
 ### Linux
 
-- 64ビットLinux版: [krita-3.0.91-x86\_64.appimage](http://download.kde.org/unstable/krita/3.0.91/krita-3.0.91-x86_64.appimage) (MD5 Hash: 4531ee79eb67d4959b7e4ff91db25681)
+- 64ビットLinux版: [krita-3.0.91-x86_64.appimage](http://download.kde.org/unstable/krita/3.0.91/krita-3.0.91-x86_64.appimage) (MD5 Hash: 4531ee79eb67d4959b7e4ff91db25681)
 
 またUbuntu App StoreのベータチャンネルからSnapイメージも利用可能です。
 

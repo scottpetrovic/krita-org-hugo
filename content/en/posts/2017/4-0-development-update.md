@@ -122,7 +122,7 @@ There are no 32 bits Windows builds yet. There is no installer.
 
 #### Linux Download
 
-- 64 bits Linux: [krita-4.0.0-pre-alpha-x86\_64.appimage](https://download.kde.org/unstable/krita/4.0.0-prealpha.2/krita-4.0.0-pre-alpha-x86_64.appimage)
+- 64 bits Linux: [krita-4.0.0-pre-alpha-x86_64.appimage](https://download.kde.org/unstable/krita/4.0.0-prealpha.2/krita-4.0.0-pre-alpha-x86_64.appimage)
 
 (If, for some reason, Firefox thinks it needs to load this as text: to download, right-click on the link.)
 

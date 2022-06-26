@@ -70,7 +70,7 @@ I like using the sketch tools and then going over the sketch with the basic pain
 
 ### Where can people see more of your work?
 
-I’m on twitter: [@moderbjorn\_](https://twitter.com/@moderbjorn_) and I am also on Instagram: [@moderbjorn](https://www.instagram.com/moderbjorn/) I also occasionally draw on Twitch: [ModerBjorn](https://www.twitch.tv/ModerBjorn)
+I’m on twitter: [@moderbjorn_](https://twitter.com/@moderbjorn_) and I am also on Instagram: [@moderbjorn](https://www.instagram.com/moderbjorn/) I also occasionally draw on Twitch: [ModerBjorn](https://www.twitch.tv/ModerBjorn)
 
 ### Anything else you'd like to share?
 

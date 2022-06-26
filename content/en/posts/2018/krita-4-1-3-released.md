@@ -38,7 +38,7 @@ The Comics Project manager, a Python plugin created by Wolthera van Hövell tot 
 
 - Add improved navigation to generated epubs. This adds...
     - Region navigation for panels and balloons, as per epub spec.
-    - Navigation that uses the "acbf\_title" keyword to create a TOC in both nav.xhtml and ncx
+    - Navigation that uses the "acbf_title" keyword to create a TOC in both nav.xhtml and ncx
     - A Pagelist in both nav.xhtml and ncx.
 - Ensure generated EPUBs pass EPUB check validation. This invoved ensuring that the mimetype gets added first to the zip, as well as as some fixes with the author metadata and the NCX pagelist.
 - Fix language nonsense.
@@ -46,7 +46,7 @@ The Comics Project manager, a Python plugin created by Wolthera van Hövell tot 
     - Add MARC-relators for use with the 'refines'.
     - Add UUID sharing between acbf and epub.
     - Add a modiied and proper date stuff.
-- Implement "epub\_spread", the primary color ahl meta and more. This also...
+- Implement "epub_spread", the primary color ahl meta and more. This also...
     - Makes the balloon localisation more robust.
     - Names all balloons text-areas as that is a bit more accurate
     - Set a sequence on author
@@ -205,7 +205,7 @@ Note for Windows users: if you encounter crashes, please follow [these instructi
 
 ### Linux
 
-- 64 bits Linux: [krita-4.1.3-x86\_64.appimage](https://download.kde.org/stable/krita/4.1.3/krita-4.1.3-x86_64.appimage)
+- 64 bits Linux: [krita-4.1.3-x86_64.appimage](https://download.kde.org/stable/krita/4.1.3/krita-4.1.3-x86_64.appimage)
 - 64 bits Linux [G'Mic-Qt plugin appimage](https://download.kde.org/stable/krita/4.1.3/gmic_krita_qt-x86_64.appimage).
 
 (If, for some reason, Firefox thinks it needs to load this as text: to download, right-click on the link.)

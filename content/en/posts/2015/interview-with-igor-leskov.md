@@ -62,7 +62,7 @@ I don't have any favourites yet.
 
 ### What is it that you like about it? What brushes did you use in it?
 
-I like Smooth Zoom Tool, Wrap Around Mode and Mirror View. I use the standard brushes: Ink\_brush\_25, Airbrush\_linear, Block\_tilt, Basic\_circle, Bristles\_hairy, Basic\_mix\_soft. I make animated texture brushes and rotate them during painting manually.
+I like Smooth Zoom Tool, Wrap Around Mode and Mirror View. I use the standard brushes: Ink_brush_25, Airbrush_linear, Block_tilt, Basic_circle, Bristles_hairy, Basic_mix_soft. I make animated texture brushes and rotate them during painting manually.
 
 ### Anything else you'd like to share?
 

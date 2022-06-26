@@ -32,6 +32,6 @@ Hi to all, today we have for you an interview with Nayobe Millis. She is a young
 
 ![__sheep_s_pan_flute___by_nayobe-d6cpppz](http://kritawebshopblog.files.wordpress.com/2013/07/sheep_s_pan_flute___by_nayobe-d6cpppz.png?w=300)
 
-**What is it that you like about it? What brushes did you use in it?** I like how I did the sky, grass, and the sheep itself. Sure it's not perfect, but I like painting messy. I used the default brush to sketch and ink and I used the "Block\_Paint" brush for everything else, as well as using the "Basic\_Airbrush" tool for the highlighting glow.
+**What is it that you like about it? What brushes did you use in it?** I like how I did the sky, grass, and the sheep itself. Sure it's not perfect, but I like painting messy. I used the default brush to sketch and ink and I used the "Block_Paint" brush for everything else, as well as using the "Basic_Airbrush" tool for the highlighting glow.
 
 You can see her DeviantArt [here](http://nayobe.deviantart.com/). Thank you so much Nayobe and thanks for trust in Krita :)

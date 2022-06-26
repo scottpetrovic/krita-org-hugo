@@ -31,10 +31,10 @@ Note for Windows users: if you encounter crashes, please follow [these instructi
 
 #### Linux
 
-On Linux, you need to download the gmic-qt appimage separately. You can configure the location of gmic-qt in Krita's settings. Krita requires the "XDG\_DATA\_DIRS" environment variable to be set. Most distributions do this, but if yours doesn't, set "XDG\_DATA\_DIRS" to "/usr/local/share/:/usr/share/" as a workaround. Next build Krita will do this by itself.
+On Linux, you need to download the gmic-qt appimage separately. You can configure the location of gmic-qt in Krita's settings. Krita requires the "XDG_DATA_DIRS" environment variable to be set. Most distributions do this, but if yours doesn't, set "XDG_DATA_DIRS" to "/usr/local/share/:/usr/share/" as a workaround. Next build Krita will do this by itself.
 
-- 64 bits Linux: [krita-4.0.0-beta1-b322ae6-x86\_64.appimage](https://download.kde.org/unstable/krita/4.0.0.52/krita-4.0.0-beta1-b322ae6-x86_64.appimage)
-- AppImage: [gmic\_krita\_qt-x86\_64-2.2.0.appimage](https://download.kde.org/unstable/krita/4.0.0.52/gmic_krita_qt-x86_64-2.2.0.appimage)
+- 64 bits Linux: [krita-4.0.0-beta1-b322ae6-x86_64.appimage](https://download.kde.org/unstable/krita/4.0.0.52/krita-4.0.0-beta1-b322ae6-x86_64.appimage)
+- AppImage: [gmic_krita_qt-x86_64-2.2.0.appimage](https://download.kde.org/unstable/krita/4.0.0.52/gmic_krita_qt-x86_64-2.2.0.appimage)
 
 (If, for some reason, Firefox thinks it needs to load this as text: to download, right-click on the link.)
 

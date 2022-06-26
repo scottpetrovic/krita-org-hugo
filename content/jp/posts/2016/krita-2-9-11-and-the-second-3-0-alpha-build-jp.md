@@ -10,7 +10,7 @@ tags:
 本日、Krita 2.9の11回目のバグ修正版及びKrita 3.0の2回目の開発版をリリースします！2.9についてはこれが最後のバグ修正版リリースとなる予定ですが、Windows 10上で発生するどうやら回避可能な問題があるためもう一つリリースを行えるだけのバグが集まる可能性もあります。ですのでKritaをWindows 10で使用している場合は注意深く確認をお願いします。
 
 - **ウィンドウが真っ黒になった**：設定＞Kritaを設定＞表示でOpenGLを無効にしてください。これはKritaが必要な全機能を実装していない新しいIntelのGPUドライバが最近のWindows updateでインストールされたことにより発生したものです。
-- **筆圧が働かない**：Windows 10において最近のWindows updateによって筆圧感知が壊れる場合があります。タブレットドライバの再インストールこの問題を修正されるかを確認してください。されない場合はKritaを閉じ、ユーザーフォルダ以下のAppData\\Roamingフォルダに行き、kritaフォルダの名前をkrita\_oldに変えてください。もしそれでKritaの筆圧が戻った場合はそのkrita\_oldフォルダをZIP圧縮してfoundation@krita.orgにメール添付で送ってください。
+- **筆圧が働かない**：Windows 10において最近のWindows updateによって筆圧感知が壊れる場合があります。タブレットドライバの再インストールこの問題を修正されるかを確認してください。されない場合はKritaを閉じ、ユーザーフォルダ以下のAppData\\Roamingフォルダに行き、kritaフォルダの名前をkrita_oldに変えてください。もしそれでKritaの筆圧が戻った場合はそのkrita_oldフォルダをZIP圧縮してfoundation@krita.orgにメール添付で送ってください。
 
 そして以下が2.9.11での修正です！
 
@@ -52,7 +52,7 @@ tags:
 - BUG: 346430: クロップツールが現在の画像サイズを常に参照するように修正
 - BUG:357173 KisSelectionMaskのコピーコンストラクタの修正
 - BUG:357987 特定ファイル読み込み時のクラッシュを修正
-- XDG\_DATA\_PATHが設定されていない時のKritaの起動を修正
+- XDG_DATA_PATHが設定されていない時のKritaの起動を修正
 
 **ソースコード**
 
@@ -66,7 +66,7 @@ tags:
 
 ZIPファイルをダウンロードし、[そのZIPファイルをKritaを置いておきたいところへ解凍してください](http://windows.microsoft.com/en-us/windows-10/zip-and-unzip-files#v1h=tab02)。
 
-まずMicrosoft’s Visual Studio runtimeをインストールするためにこのZIPファイルに入っているvcredist\_x64.exeを動かしてください。
+まずMicrosoft’s Visual Studio runtimeをインストールするためにこのZIPファイルに入っているvcredist_x64.exeを動かしてください。
 
 そうしたらこれもこのZIPファイルに入っているショートカットKritaをダブルクリックしてください。
 
@@ -87,7 +87,7 @@ OSXでの注意すべき事項：
 
 **Linux**
 
-- [krita3-prealpha2-3c69a59-x86\_64.appimage](http://files.kde.org/krita/3/linux/krita3-prealpha2-3c69a59-x86_64.appimage)
+- [krita3-prealpha2-3c69a59-x86_64.appimage](http://files.kde.org/krita/3/linux/krita3-prealpha2-3c69a59-x86_64.appimage)
 
 Linuxのビルドには今回からAppimagesを使用することとしました！Appimagesは完全に独立したディストリビューションです。AppImageを使用するにはこれをダウンロードして、ターミナルかファイルマネージャのファイルプロパティダイアログを使ってこれを実行可能にしてください。もう一つの変更点として設定とリソースが今回からは.kdeや.kde4ではなくユーザーホームフォルダ（user home folder）内の.config/krita.org/kritarcと.local/share/krita.org/に保存されるようになりました。
 

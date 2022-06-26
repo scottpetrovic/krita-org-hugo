@@ -54,9 +54,9 @@ Users of Ubuntu and derivatives can use Krita Lime, as usual:
 
 OpenSUSEユーザはLeinirのOBSレポジトリを利用可能です。VcサポートのKritaのビルド(ペイント処理が高速)が含まれています。
 
-- [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE\_13.1](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.1)/
-- [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE\_13.2](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.1)/
-- [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE\_Factory](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_Factory)/
+- [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.1](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.1)/
+- [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.2](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.1)/
+- [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_Factory](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_Factory)/
 
 UbuntuとUbuntu派生のユーザは通常通りKrita Limeを使うことができます:
 
@@ -68,15 +68,15 @@ Vista以降をサポートし、7以降の環境が推奨されます。XPはサ
 
 32 bits Windows:
 
-- [http://files.kde.org/krita/windows/krita\_x86\_2.9.4.6.msi](http://files.kde.org/krita/windows/krita_x86_2.9.4.6.msi)
-- [http://files.kde.org/krita/windows/krita\_x86\_2.9.4.6.zip](http://files.kde.org/krita/windows/krita_x86_2.9.4.6.zip)
+- [http://files.kde.org/krita/windows/krita_x86_2.9.4.6.msi](http://files.kde.org/krita/windows/krita_x86_2.9.4.6.msi)
+- [http://files.kde.org/krita/windows/krita_x86_2.9.4.6.zip](http://files.kde.org/krita/windows/krita_x86_2.9.4.6.zip)
 
 （このバージョンはG’MICが搭載されていません）
 
 64 bits Windows:
 
-- [http://files.kde.org/krita/windows/krita\_x64\_2.9.4.6.msi](http://files.kde.org/krita/windows/krita_x64_2.9.4.6.msi)
-- [http://files.kde.org/krita/windows/krita\_x64\_2.9.4.6.zip](http://files.kde.org/krita/windows/krita_x64_2.9.4.6.zip)
+- [http://files.kde.org/krita/windows/krita_x64_2.9.4.6.msi](http://files.kde.org/krita/windows/krita_x64_2.9.4.6.msi)
+- [http://files.kde.org/krita/windows/krita_x64_2.9.4.6.zip](http://files.kde.org/krita/windows/krita_x64_2.9.4.6.zip)
 
 (G’MICフィルターがうまく働かない場合があり、それによってKritaがクラッシュする場合もあります）
 

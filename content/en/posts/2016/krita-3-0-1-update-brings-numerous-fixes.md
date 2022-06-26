@@ -89,7 +89,7 @@ We moved the Histogram area from the layers menu into its own [Histogram docker]
 - Fix some part of the application not changing to the appropriate language
 - Fix crash when editing a macro that contains a filter layer
 - Fix memory issue when closing and opening new images
-- 3\_texture brush tip has been fixed to use alpha
+- 3_texture brush tip has been fixed to use alpha
 - Fix assistants so previews can be hidden and shown
 - When using the deform transform tool, moving now takes the rotation of the canvas into account
 - Fix saving templates
@@ -121,7 +121,7 @@ Visit the [Download page](/download/krita-desktop/) to grab the new builds. Wh
 
  
 
-https://twitter.com/\_Achille\_/status/747493119243980802
+https://twitter.com/_Achille_/status/747493119243980802
 
 #### Windows
 
@@ -140,7 +140,7 @@ Krita on Windows is tested on Windows 7, Windows 8 and Windows 10. The x86 Windo
 
 For Linux, we offer [AppImages](http://appimage.org/) that should run on any reasonable recent Linux distribution. You can download the appimage, make it executable and run it in place. No installation is needed. At this moment, we only have appimages for 64 bits versions of Linux. This appimage has experimental desktop integration.
 
-- [krita-3.0.1-x86\_64.appimage](http://files.kde.org/krita/3/linux/krita-3.0.1-x86_64.appimage)
+- [krita-3.0.1-x86_64.appimage](http://files.kde.org/krita/3/linux/krita-3.0.1-x86_64.appimage)
 
 You can also get Krita from [Ubuntu’s App Store in snap format](https://uappexplorer.com/app/krita.krita). This version includes the translations for Krita itself. Install with
 

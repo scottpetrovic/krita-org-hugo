@@ -5,8 +5,8 @@ date: "2014-02-27"
 
 Still labelled as 2.8 beta3, the 2.7.9.12 is pretty close that what we hope to release next Wednesday. Compared to the .11 build, there are the following improvements:  
   
-[http://heap.kogmbh.net/downloads/krita\_x64\_2.7.9.12.msi](http://heap.kogmbh.net/downloads/krita_x64_2.7.9.12.msi)  
-[http://heap.kogmbh.net/downloads/krita\_x86\_2.7.9.12.msi](http://heap.kogmbh.net/downloads/krita_x86_2.7.9.12.msi)  
+[http://heap.kogmbh.net/downloads/krita_x64_2.7.9.12.msi](http://heap.kogmbh.net/downloads/krita_x64_2.7.9.12.msi)  
+[http://heap.kogmbh.net/downloads/krita_x86_2.7.9.12.msi](http://heap.kogmbh.net/downloads/krita_x86_2.7.9.12.msi)  
   
 The XP package is being built and will be available later on.
 

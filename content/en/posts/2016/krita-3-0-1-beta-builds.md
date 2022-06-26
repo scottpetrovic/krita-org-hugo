@@ -7,7 +7,7 @@ We've made a new set of development builds in the road to Krita 3.0.1. Here are 
 
 - Saving and exporting is much more robust (but make sure your temp folder has space)
 - Using the threshold filter as a mask and the threshold filter preview for colorspaces other than 8 bits RGBA have been fixed.
-- The 3\_texture brush tip has been fixed
+- The 3_texture brush tip has been fixed
 - Saving templates works again
 - The color labels in the layer box look better
 - The layout of the grids and guides docker is fixed

@@ -45,7 +45,7 @@ There's also a handful of issues that are kept open for now, but after release o
 - [**Bug 322918**](https://bugs.kde.org/show_bug.cgi?id=322918) - Problem with calibrating wacom cintiq 13HD (should be fixed in git/3.1.0)
 - [**Bug 327952**](https://bugs.kde.org/show_bug.cgi?id=327952) - wacom module is not working for calibrating a Cintiq 21ux (should be fixed in git/3.1.0)
 - [**Bug 364043**](https://bugs.kde.org/show_bug.cgi?id=364043) - Intuos Pro cannot generate settings profiles, cannot configure buttons.
-- [**Bug 343666**](https://bugs.kde.org/show_bug.cgi?id=343666) - Device 'Wacom Bamboo One M Pen' is not in wacom\_devicelist, not able to configure using tablet configuration (should be fixed in git/3.1.0)
+- [**Bug 343666**](https://bugs.kde.org/show_bug.cgi?id=343666) - Device 'Wacom Bamboo One M Pen' is not in wacom_devicelist, not able to configure using tablet configuration (should be fixed in git/3.1.0)
 - [**Bug 339138**](https://bugs.kde.org/show_bug.cgi?id=339138) - Tablet screen mapping resets after KDE restart
 - [**Bug 325520**](https://bugs.kde.org/show_bug.cgi?id=325520) - Dell latitude xt2: touchscreen inverted when rotate to portrait (should be fixed in git/3.1.0)
 

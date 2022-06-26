@@ -29,7 +29,7 @@ https://youtu.be/VTlh2KhkOM4
 
 ### Linux
 
-- 64 bits Linux: [krita-4.3.0-x86\_64.appimage](https://download.kde.org/stable/krita/4.3.0/krita-4.3.0-x86_64.appimage)
+- 64 bits Linux: [krita-4.3.0-x86_64.appimage](https://download.kde.org/stable/krita/4.3.0/krita-4.3.0-x86_64.appimage)
 - 64 bits Linux [G'Mic-Qt plugin appimage](https://download.kde.org/stable/krita/4.3.0/gmic_krita_qt-x86_64.appimage)
 
 (なぜかFirefoxはテキストとして読み込もうとするようです。ダウンロードするにはリンクの右クリックから保存してください)

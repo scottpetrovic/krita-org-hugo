@@ -41,7 +41,7 @@ After a hiatus -- Siggraph 2014 first, then two weeks of vacation, We've got new
 
 Windows build:
 
-- [http://files.kde.org/krita/windows/krita\_x64\_2.8.79.17.msi](http://files.kde.org/krita/windows/krita_x64_2.8.79.17.msi)
+- [http://files.kde.org/krita/windows/krita_x64_2.8.79.17.msi](http://files.kde.org/krita/windows/krita_x64_2.8.79.17.msi)
 
 OSX build (still experimental, no OpenColorIO or OpenEXR):
 

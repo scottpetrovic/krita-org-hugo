@@ -5,10 +5,10 @@ date: "2013-12-15"
 
 The Krita Team is working really hard on what promises to become a really exciting release of Krita: 2.8. We're not adding any new features anymore, just fixing bugs and then fixing more bugs! Here's a short list of what we've done over the past week. These fixes are available for Windows users in updated 2.8 beta 1 builds:
 
-[http://heap.kogmbh.net/downloads/krita\_x86\_2.7.9.1.msi](http://heap.kogmbh.net/downloads/krita_x86_2.7.9.1.msi)  
-[http://heap.kogmbh.net/downloads/krita\_x64\_2.7.9.1.msi](http://heap.kogmbh.net/downloads/krita_x64_2.7.9.1.msi)  
-[http://heap.kogmbh.net/downloads/kritagemini\_x86\_2.7.9.1.msi](http://heap.kogmbh.net/downloads/kritagemini_x86_2.7.9.1.msi)  
-[http://heap.kogmbh.net/downloads/kritagemini\_x64\_2.7.9.1.msi](http://heap.kogmbh.net/downloads/kritagemini_x64_2.7.9.1.msi)
+[http://heap.kogmbh.net/downloads/krita_x86_2.7.9.1.msi](http://heap.kogmbh.net/downloads/krita_x86_2.7.9.1.msi)  
+[http://heap.kogmbh.net/downloads/krita_x64_2.7.9.1.msi](http://heap.kogmbh.net/downloads/krita_x64_2.7.9.1.msi)  
+[http://heap.kogmbh.net/downloads/kritagemini_x86_2.7.9.1.msi](http://heap.kogmbh.net/downloads/kritagemini_x86_2.7.9.1.msi)  
+[http://heap.kogmbh.net/downloads/kritagemini_x64_2.7.9.1.msi](http://heap.kogmbh.net/downloads/kritagemini_x64_2.7.9.1.msi)
 
 And for \*buntu users, in the Krita Lime repository.
 

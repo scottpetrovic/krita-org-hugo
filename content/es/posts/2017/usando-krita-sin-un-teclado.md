@@ -9,7 +9,7 @@ En las ultimas versiones de krita, hemos incluido un documento de configuración
 
 [![](/images/posts/2017/tabletpro-300x169.png)](/images/posts/2017/tabletpro.png)
 
-Para poder acceder estas funciones Tablet Pro a creado "Artist Pad" la cual funciona directamente con los atajos de teclado de Krita. Hemos, por nuestro lado creado un perfil especifico de atajos para ésta aplicación, el cual puedes descargar en el siguiente enlace. (https://drive.google.com/open?id=0Bz0s\_tG9uKY3SGJ1V0NoTHZKRWs)
+Para poder acceder estas funciones Tablet Pro a creado "Artist Pad" la cual funciona directamente con los atajos de teclado de Krita. Hemos, por nuestro lado creado un perfil especifico de atajos para ésta aplicación, el cual puedes descargar en el siguiente enlace. (https://drive.google.com/open?id=0Bz0s_tG9uKY3SGJ1V0NoTHZKRWs)
 
 Tablet Pro ofrece 14 días de uso gratuito (lo cual te permite comprobar que funcione con tu tableta antes de comprar), the Artist Pad cuesta $9.99. Justice ha estado usando ésta aplicación y está a disposición para ayudar por si tienes alguna duda. Su email es justice@tabletpro.net
 

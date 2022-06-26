@@ -73,7 +73,7 @@ Grumpy cat
 
 What is it that you like about it? What brushes did you use in it?
 
-I made it long ago when grumpy cat wasn't really famous. I used a brush named "Texture\_hair".
+I made it long ago when grumpy cat wasn't really famous. I used a brush named "Texture_hair".
 
 You can find the illustration here at my website[http://peileppe.com/search/grumpy](http://peileppe.com/search/grumpy) . Thank you for this interview.
 

@@ -62,7 +62,7 @@ La capacidad de voltear e inclinar el lienzo, la aceleración con el GPU y la co
 
 ### ¿Qué técnicas y brochas utilizaste en ésta pieza?
 
-Coloree usando una capa con un azul medio gris, con un efecto de _evasión de color_, ésta capa la coloqué encima de una imagen en "gris en escala". La mayoría fue pintado con una brocha llamada _Bristles\_hairy_, una de mis favoritas definitivamente.
+Coloree usando una capa con un azul medio gris, con un efecto de _evasión de color_, ésta capa la coloqué encima de una imagen en "gris en escala". La mayoría fue pintado con una brocha llamada _Bristles_hairy_, una de mis favoritas definitivamente.
 
 ### ¿Donde pueden los lectores aprender mas de tu arte?
 

@@ -71,7 +71,7 @@ I try to be simple. I use some layers, but not many and sometimes I use photobas
 
 ### Where can people see more of your work?
 
-Twitter: [@jeff\_lhama](https://twitter.com/jeff_lhama) Instagram: [@jeff\_lhama](https://www.instagram.com/jeff_lhama/) Vimeo: [jeffanimation](https://vimeo.com/jeffanimation) Behance: [jeffsn](https://www.behance.net/jeffsn)
+Twitter: [@jeff_lhama](https://twitter.com/jeff_lhama) Instagram: [@jeff_lhama](https://www.instagram.com/jeff_lhama/) Vimeo: [jeffanimation](https://vimeo.com/jeffanimation) Behance: [jeffsn](https://www.behance.net/jeffsn)
 
 ### Anything else you'd like to share?
 

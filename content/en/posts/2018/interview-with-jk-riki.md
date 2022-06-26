@@ -71,7 +71,7 @@ It may not be the most finished or technically impressive art I've ever done, bu
 
 ### What techniques and brushes did you use in it?
 
-My most-used brushes are Ink\_tilt\_10 and Ink\_tilt\_20 (as seen in this screen capture!) ![](/images/posts/2018/JK_favbrushes.png)
+My most-used brushes are Ink_tilt_10 and Ink_tilt_20 (as seen in this screen capture!) ![](/images/posts/2018/JK_favbrushes.png)
 
 These days I use many more brushes and techniques, but that whole image was done with just those two, and different levels of flow and opacity. I didn't even know about the Alpha Lock on the layers panel for this, which I use now in almost every digital painting.
 
@@ -79,7 +79,7 @@ These days I use many more brushes and techniques, but that whole image was done
 
 People can PLAY some of my work in the mobile game The Death of Mr. Fishy! All the art assets for that game were done in Krita. I'm doing more art for our next game right now as well. The latest details will always be posted at [WeekendPanda.com](https://weekendpanda.com).
 
-I also share my practice art and work-in-progress on my personal Twitter account which is [@JK\_Riki](https://twitter.com/JK_Riki).
+I also share my practice art and work-in-progress on my personal Twitter account which is [@JK_Riki](https://twitter.com/JK_Riki).
 
 ### Anything else you'd like to share?
 

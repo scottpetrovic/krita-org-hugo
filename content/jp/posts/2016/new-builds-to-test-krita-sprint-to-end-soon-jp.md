@@ -61,14 +61,14 @@ WindowsではKritaはWacom、Huion、Yiynovaのタブレット及びSurface Pro�
 
 Windows版KritaはWindows 7、8、10でテストされています。現在は64ビット版のみです。DrMingwデバッガと一緒に使うことでクラッシュの原因を見つけられるデバッグビルドも用意されています。くわしくは[よくある質問の当該項（※英語）](https://docs.krita.org/KritaFAQ#How_can_I_produce_a_backtrace_on_Windows.3F)をご覧ください。このビルドにはベクトル化による最適化が適用されていないため、通常のビルドより低速である恐れがあります。
 
-- [krita\_3.0.99.91-x64.zip](http://files.kde.org/krita/3/windows/devbuilds/krita_3.0.99.91-x64.zip)
+- [krita_3.0.99.91-x64.zip](http://files.kde.org/krita/3/windows/devbuilds/krita_3.0.99.91-x64.zip)
 - [krita3-x64-dbg-latest.zip](http://files.kde.org/krita/3/windows/debugbuilds/krita3-x64-dbg-latest.zip)
 
 #### Linux
 
 Linuxについてはあらゆる最近のLinuxディストリビューションで動作するはずの[AppImage](http://appimage.org/)版を提供します。AppImageをダウンロードして、実行可能にして起動してください。インストールは必要ありません。現時点では64ビット版のみです。このappimageは実験的なデスクトップ統合を含んでいます。
 
-- [krita-3.0.99.91-Beta-x86\_64.appimage](http://files.kde.org/krita/3/linux/devbuilds/krita-3.0.99.91-Beta-x86_64.appimage)
+- [krita-3.0.99.91-Beta-x86_64.appimage](http://files.kde.org/krita/3/linux/devbuilds/krita-3.0.99.91-Beta-x86_64.appimage)
 
 また [UbuntuのApp Storeからsnap format](https://uappexplorer.com/app/krita.krita)でKritaを手に入れることもできます。このバージョンにはKrita自体への翻訳も含まれています。インストールは以下で行ってください
 

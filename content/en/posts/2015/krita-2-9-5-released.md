@@ -47,7 +47,7 @@ The Kickstarter was a success, but that didn't keep us from adding new features 
 - Fix the limits for document resolution (bug 348339)
 - Fix saving multiple layers with layer styles to .kra files (bug 348178)
 - Fix display of 16 bit/channel RGB images (bug 343765)
-- Fix the P\_Graphite\_Pencil\_grain.gih brush tip file
+- Fix the P_Graphite_Pencil_grain.gih brush tip file
 - Fix updating the projection when undoing removing a layer (bug 345600)
 - Improve handling of command-line arguments
 - Fix the autosave recovery dialog on Windows
@@ -69,8 +69,8 @@ The Kickstarter was a success, but that didn't keep us from adding new features 
     - Distributions are expected to create packages for their bleeding edge repositories.
     - Ubuntu and derivatives can use Krita Lime, as usual: [https://launchpad.net/~dimula73/+archive/ubuntu/krita](https://launchpad.net/%7Edimula73/+archive/ubuntu/krita).
     - OpenSUSE users can the KDE:Extra repo: [http://download.opensuse.org/repositories/KDE:/Extra/](http://download.opensuse.org/repositories/KDE:/Extra/) or Leinir's OBS repositories which have Krita built with support for Vc (which makes painting faster):
-        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE\_13.1/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.1/)
-        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE\_13.2/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.2/)
-        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE\_Factory/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_Factory/)
+        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.1/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.1/)
+        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.2/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.2/)
+        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_Factory/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_Factory/)
 - Windows and OSX
     - The [download page](https://krita.org/download/krita-desktop/ "Krita Desktop") has been updated, so check out the new builds.

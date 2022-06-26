@@ -69,7 +69,7 @@ Windowsユーザーの皆さんへ：もしクラッシュする事案に遭遇�
 
 #### Linux
 
-- 64ビットLinux用AppImage版: [krita-4.0.0-beta.1-x86\_64.appimage](https://download.kde.org/unstable/krita/4.0.0.51/krita-4.0.0-beta1.1-x86_64.appimage)
+- 64ビットLinux用AppImage版: [krita-4.0.0-beta.1-x86_64.appimage](https://download.kde.org/unstable/krita/4.0.0.51/krita-4.0.0-beta1.1-x86_64.appimage)
 
 (なぜかFirefoxはテキストとして読み込もうとするようです。ダウンロードするにはリンクの右クリックから保存してください)
 

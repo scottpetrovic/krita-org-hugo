@@ -17,7 +17,7 @@ Krita 3.0 is getting stabler all the time; a new beta will be released next week
 
 Windows Shell Extension package by Alvin Wong. Just install it and Windows Explorer will start showing preview and meta information for Krita files. (Disregard any warnings by virus checkers, because this package is built with the NSIS installer maker, some virus checkers always think it's infected, it's not.)
 
-- Installation package: [kritashellex\_1.1.0.1\_setup.exe](http://files.kde.org/krita/3/windows/kritashellex_1.1.0.1_setup.exe)
+- Installation package: [kritashellex_1.1.0.1_setup.exe](http://files.kde.org/krita/3/windows/kritashellex_1.1.0.1_setup.exe)
 
 **Windows:** Unzip and run the bin/krita.exe executable!
 
@@ -30,8 +30,8 @@ Windows Shell Extension package by Alvin Wong. Just install it and Windows Explo
 
 **The Linux appimage:**After downloading, make the appimage executable and run it. No installation is needed. For CentOS 6 and Ubuntu 12.04, a separate appimage is provided with g'mic built without OpenMP (which makes it much slower)
 
-- AppImage [krita-3.0-Beta-master-562442e-x86\_64.appimage](http://files.kde.org/krita/3/linux/devbuilds/krita-3.0-Beta-master-562442e-x86_64.appimage) for modern distributions
-- AppImage [krita-3.0-Beta-master-562442e-no-openmp-x86\_64.appimage](http://files.kde.org/krita/3/linux/devbuilds/krita-3.0-Beta-master-562442e-no-openmp-x86_64.appimage) for ancient distributions
+- AppImage [krita-3.0-Beta-master-562442e-x86_64.appimage](http://files.kde.org/krita/3/linux/devbuilds/krita-3.0-Beta-master-562442e-x86_64.appimage) for modern distributions
+- AppImage [krita-3.0-Beta-master-562442e-no-openmp-x86_64.appimage](http://files.kde.org/krita/3/linux/devbuilds/krita-3.0-Beta-master-562442e-no-openmp-x86_64.appimage) for ancient distributions
 
 (As usual, you can use these builds without affecting your 2.9 installation.)
 

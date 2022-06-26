@@ -33,7 +33,7 @@ Está nueva versión es mucho mas estable que la anterior "3.0.1.90", y nos gust
 
 ### Linux
 
-- 64 bits Linux: [krita-3.0.91-x86\_64.appimage](http://download.kde.org/unstable/krita/3.0.91/krita-3.0.91-x86_64.appimage) (MD5 Hash: 4531ee79eb67d4959b7e4ff91db25681)
+- 64 bits Linux: [krita-3.0.91-x86_64.appimage](http://download.kde.org/unstable/krita/3.0.91/krita-3.0.91-x86_64.appimage) (MD5 Hash: 4531ee79eb67d4959b7e4ff91db25681)
 
 También tenemos una versión _snap_ en Ubuntu App Store, en el canal beta.
 

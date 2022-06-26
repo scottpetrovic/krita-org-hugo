@@ -31,7 +31,7 @@ Qt5への移植はKritaのタブレット及び表示に関するコードが完
 
 ZIPファイルをダウンロードし、そのZIPファイルをKritaを置いておきたいところへ解凍してください。
 
-まずMicrosoft’s Visual Studio runtimeをインストールするためにこのZIPファイルに入っているvcredist\_x64.exeを動かしてください。
+まずMicrosoft’s Visual Studio runtimeをインストールするためにこのZIPファイルに入っているvcredist_x64.exeを動かしてください。
 
 そうしたらこれもこのZIPファイルに入っているショートカットKritaをダブルクリックしてください。
 
@@ -53,7 +53,7 @@ OSXでの注意すべき事項：
 
 **Linux**
 
-- [krita3-prealpha-f7f43f2-x86\_64.appimage](http://files.kde.org/krita/3/linux/krita3-prealpha-f7f43f2-x86_64.appimage)
+- [krita3-prealpha-f7f43f2-x86_64.appimage](http://files.kde.org/krita/3/linux/krita3-prealpha-f7f43f2-x86_64.appimage)
 
 Linuxのビルドには今回からAppimagesを使用することとしました！Appimagesは完全に独立したディストリビューションです。AppImageを使用するにはこれをダウンロードして、ターミナルかファイルマネージャのファイルプロパティダイアログを使ってこれを実行可能にしてください。もう一つの変更点として設定とリソースが今回からは.kdeや.kde4ではなくユーザーホームフォルダ（user home folder）内の.config/krita.org/kritarcと.local/share/krita.org/に保存されるようになりました。
 
@@ -138,7 +138,7 @@ Linuxでの既知の事項：
 - ポップアップパレットの縁にアンチエイリアスがかかるようになりました（ですがOSXでは四角です…）
 - 小型色選択は上は白く、下は黒くなるようになりました。
 - ICCプロファイルをアップデートしました。
-- ぼかしをより簡単にできるようにするためSmudge\_waterプリセットを追加。
+- ぼかしをより簡単にできるようにするためSmudge_waterプリセットを追加。
 - デバッグが有効になっている時キャンバスでの現在のFPSの印刷を追加
 
 今回のリリースは非常に未熟かつ脆弱であるため、今回は皆さんに対してバグを報告してくださいとは言いません。代わりに我々はサーベイモンキーを用いて

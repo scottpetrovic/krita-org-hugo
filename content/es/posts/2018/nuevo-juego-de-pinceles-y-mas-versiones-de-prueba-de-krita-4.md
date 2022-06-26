@@ -35,10 +35,10 @@ En Windows, si se encuentran el cerrado del programa inesperadamente, favor de s
 
 #### Linux
 
-En Linux, el controlador Gmic-qt se necesita descargar de forma separada, una ves instalado se puede establecer en donde se localiza mediante la ventana de configuraciones de Krita. Krita requiere que la variable "XDG\_DATA\_DIRS" esté designada, la mayoría de las distribuciones de Linux lo hacen, pero en caso de que no lo sea, se puede enlazar de la siguiente forma, designa "XDG\_DATA\_DIRS" en "/usr/local/share/:/usr/share/". La siguiente versión disponible de Krita lo hará automáticamente.
+En Linux, el controlador Gmic-qt se necesita descargar de forma separada, una ves instalado se puede establecer en donde se localiza mediante la ventana de configuraciones de Krita. Krita requiere que la variable "XDG_DATA_DIRS" esté designada, la mayoría de las distribuciones de Linux lo hacen, pero en caso de que no lo sea, se puede enlazar de la siguiente forma, designa "XDG_DATA_DIRS" en "/usr/local/share/:/usr/share/". La siguiente versión disponible de Krita lo hará automáticamente.
 
-- 64 bits Linux: [krita-4.0.0-beta1-b322ae6-x86\_64.appimage](https://download.kde.org/unstable/krita/4.0.0.52/krita-4.0.0-beta1-b322ae6-x86_64.appimage)
-- AppImage: [gmic\_krita\_qt-x86\_64-2.2.0.appimage](https://download.kde.org/unstable/krita/4.0.0.52/gmic_krita_qt-x86_64-2.2.0.appimage)
+- 64 bits Linux: [krita-4.0.0-beta1-b322ae6-x86_64.appimage](https://download.kde.org/unstable/krita/4.0.0.52/krita-4.0.0-beta1-b322ae6-x86_64.appimage)
+- AppImage: [gmic_krita_qt-x86_64-2.2.0.appimage](https://download.kde.org/unstable/krita/4.0.0.52/gmic_krita_qt-x86_64-2.2.0.appimage)
 
 (En ocasiones Firefox trata el enlace como texto, para descargar el paquete simplemente has un clic a la derecha en el mismo enlace.)
 

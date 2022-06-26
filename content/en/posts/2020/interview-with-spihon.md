@@ -23,7 +23,7 @@ Well to be honest I would love to draw professionally and making it a living, so
 
 ### What genre(s) do you work in?
 
-O\_O…^^;
+O_O…^^;
 
 Boy that’s a broad section to cover, but I think I can narrow it down to sci-fi and fantasy with a bit of abstract surrealism (I honestly need to try that in Krita later). Anyway those are some of the things I feel comfortable working in.
 

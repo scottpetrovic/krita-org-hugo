@@ -43,7 +43,7 @@ Nota: para los usuarios de Windows, si has encontrado problemas con el programa 
 
 ### Linux
 
-- 64 bits Linux: [krita-3.1.1-x86\_64.appimage](http://download.kde.org/stable/krita/3.1.1/krita-3.1.1-x86_64.appimage)
+- 64 bits Linux: [krita-3.1.1-x86_64.appimage](http://download.kde.org/stable/krita/3.1.1/krita-3.1.1-x86_64.appimage)
 - En el Ubuntu App Store, en el canal beta también puedes encontrar el appimage.
 
 ### OSX

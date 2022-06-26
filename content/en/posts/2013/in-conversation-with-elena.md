@@ -54,7 +54,7 @@ Hate is such a strong word... Sometimes it's slow with big images and/or big bru
 
 In your opinion, what sets Krita apart from the other tools that you use?
 
-I mainly use Mypaint, I spend a big portion of my free time doodling with the pencil brushes but when I have a specific idea I prefer Krita; I make a lot of errors, making corrections in Krita is faster and for a final touch I love the color smudge brush with the smearing option. \*\_\* I have never seen something similar in others open source programs.
+I mainly use Mypaint, I spend a big portion of my free time doodling with the pencil brushes but when I have a specific idea I prefer Krita; I make a lot of errors, making corrections in Krita is faster and for a final touch I love the color smudge brush with the smearing option. \*_\* I have never seen something similar in others open source programs.
 
 If you had to pick one favorite of all your work done in Krita so far, what would it be? What brushes did you use?  
 

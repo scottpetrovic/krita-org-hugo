@@ -65,4 +65,4 @@ We're fixing bugs like crazy, but there are still a [number of known bugs](https
 
 Since this is the first official 3.0 release, we also have source code!
 
-- [krita\_2.99.89](http://download.kde.org/unstable/krita/2.99.89/)
+- [krita_2.99.89](http://download.kde.org/unstable/krita/2.99.89/)

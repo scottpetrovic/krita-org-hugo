@@ -70,7 +70,7 @@ Krita 的界面要远比 GIMP 现代化，我坚信软件界面决定第一印�
 
 ### 我们可以在哪里看到更多你的作品呢？
 
-YouTube: [https://www.youtube.com/johanjbrits](https://www.youtube.com/johanjbrits) Facebook: [https://www.facebook.com/JohanBritsArt/](https://www.facebook.com/JohanBritsArt/) ArtStation: [https://www.artstation.com/britsie\_1](https://www.artstation.com/britsie_1) Instagram: [https://www.instagram.com/britsie\_1](https://www.instagram.com/britsie_1) DeviantArt: [http://britsie1.deviantart.com/](http://britsie1.deviantart.com/) Twitter: [https://twitter.com/britsie\_1](https://twitter.com/britsie_1)
+YouTube: [https://www.youtube.com/johanjbrits](https://www.youtube.com/johanjbrits) Facebook: [https://www.facebook.com/JohanBritsArt/](https://www.facebook.com/JohanBritsArt/) ArtStation: [https://www.artstation.com/britsie_1](https://www.artstation.com/britsie_1) Instagram: [https://www.instagram.com/britsie_1](https://www.instagram.com/britsie_1) DeviantArt: [http://britsie1.deviantart.com/](http://britsie1.deviantart.com/) Twitter: [https://twitter.com/britsie_1](https://twitter.com/britsie_1)
 
 ### 你还有其他的事情想要分享吗？
 

@@ -27,7 +27,7 @@ Windowsユーザーの皆さんへ：もしクラッシュする事案に遭遇�
 
 #### Linux
 
-- 64ビットLinux用AppImage版: [krita-3.1.3-alpha.2-x86\_64.appimage](http://download.kde.org/unstable/krita/3.1.3-alpha.2/krita-3.1.3-alpha.2-x86_64.appimage)
+- 64ビットLinux用AppImage版: [krita-3.1.3-alpha.2-x86_64.appimage](http://download.kde.org/unstable/krita/3.1.3-alpha.2/krita-3.1.3-alpha.2-x86_64.appimage)
 
 Ubuntu App Store向けのsnapイメージは近日中に利用可能になります。 Ubuntuと派生ディストリビューションでは[Krita Lime PPA](https://launchpad.net/~kritalime/+archive/ubuntu/ppa)を使ってKrita 3.1.3-alpha.2をインストールすることも可能です。
 

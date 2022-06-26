@@ -86,7 +86,7 @@ coverImage: "floatingislands.png"
 
 \- Mastodon: [https://mastodon.art/@razcore](https://mastodon.art/@razcore)
 
-\- Twitter: [https://twitter.com/razcore\_art](https://twitter.com/razcore_art)
+\- Twitter: [https://twitter.com/razcore_art](https://twitter.com/razcore_art)
 
 \- Instagram: [https://www.instagram.com/razcore.art](https://www.instagram.com/razcore.art)
 

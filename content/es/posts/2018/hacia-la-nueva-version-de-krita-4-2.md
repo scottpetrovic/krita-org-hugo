@@ -73,7 +73,7 @@ Otra parte en la que se está trabajando es en el **organizador** **de los recur
 
 ### Linux
 
-- 64 bits Linux: [krita-4.2.0-preview-x86\_64.appimage](https://download.kde.org/unstable/krita/4.2.0-preview/krita-4.2.0-preview-x86_64.appimage)
+- 64 bits Linux: [krita-4.2.0-preview-x86_64.appimage](https://download.kde.org/unstable/krita/4.2.0-preview/krita-4.2.0-preview-x86_64.appimage)
 - 64 bits Linux [G'Mic-Qt plugin appimage](https://download.kde.org/unstable/krita/4.2.0-preview/gmic_krita_qt-x86_64.appimage).
 
 (Si Firefox carga el enlace como texto en ves de descargar, simplemente has un clic a la derecha y usa la función de descargar.)

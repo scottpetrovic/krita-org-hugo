@@ -68,7 +68,7 @@ Bugfixes new to 2.9.6
 - Fix PVS warning in hairy brush
 - (gmic) Try to workaround the problem with busy cursor
 - BUG:348750 Don't limit the allowed dock areas
-- BUG:348795 Fix uninitialized m\_maxPresets
+- BUG:348795 Fix uninitialized m_maxPresets
 - BUG:349346 (gmic) If there is selection, do not synchronize image size
 - BUG:348887 Disable autoscroll for the fill-tool as well.
 - BUG:348914 Rename the fill layers.
@@ -79,9 +79,9 @@ Bugfixes new to 2.9.6
     - Distributions are expected to create packages for their bleeding edge repositories.
     - Ubuntu and derivatives can use Krita Lime, as usual: [https://launchpad.net/~dimula73/+archive/ubuntu/krita](https://launchpad.net/%7Edimula73/+archive/ubuntu/krita).
     - OpenSUSE users can use the KDE:Extra repo: [http://download.opensuse.org/repositories/KDE:/Extra/](http://download.opensuse.org/repositories/KDE:/Extra/) or Leinir's OBS repositories which have Krita built with support for Vc (which makes painting faster):
-        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE\_13.1/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.1/)
-        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE\_13.2/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.2/)
-        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE\_Factory/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_Factory/)
+        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.1/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.1/)
+        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.2/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.2/)
+        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_Factory/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_Factory/)
 - Windows and OSX
     - The [download page](https://krita.org/download/krita-desktop/ "Krita Desktop") has been updated, so check out the new builds. If you don't want to use the MSI installer, go to [files.kde.org](http://files.kde.org/krita) for the portable zip-file based version of Krita for Windows.
     - You can also get the latest version of [Krita on Steam](http://store.steampowered.com/app/280680), using the "Desktop29" option in the Beta channel! Steam users get updates automatically.

@@ -68,7 +68,7 @@ I used a technique that is similar to traditional - one canvas without any layer
 
 ### Where can people see more of your work?
 
-Youtube: [https://www.youtube.com/user/grafikwork](https://www.youtube.com/user/grafikwork) Instagram: [https://www.instagram.com/serg\_grafikwork/](https://www.instagram.com/serg_grafikwork/) Artstation: [https://www.artstation.com/serggrafik](https://www.artstation.com/serggrafik) Twitter: [https://twitter.com/Serg\_Grafik](https://twitter.com/Serg_Grafik) Facebook: [https://www.facebook.com/serg.grafik](https://www.facebook.com/serg.grafik) Deviantart: [https://www.deviantart.com/grafikwork](https://www.deviantart.com/grafikwork)
+Youtube: [https://www.youtube.com/user/grafikwork](https://www.youtube.com/user/grafikwork) Instagram: [https://www.instagram.com/serg_grafikwork/](https://www.instagram.com/serg_grafikwork/) Artstation: [https://www.artstation.com/serggrafik](https://www.artstation.com/serggrafik) Twitter: [https://twitter.com/Serg_Grafik](https://twitter.com/Serg_Grafik) Facebook: [https://www.facebook.com/serg.grafik](https://www.facebook.com/serg.grafik) Deviantart: [https://www.deviantart.com/grafikwork](https://www.deviantart.com/grafikwork)
 
 ### Anything else you'd like to share?
 

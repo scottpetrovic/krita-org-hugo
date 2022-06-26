@@ -10,7 +10,7 @@ David goes over the unique challenges and strengths of using Krita versus other 
 It's an exciting time to follow Krita, and I intend to do a writeup of all developments in git that have happened since the sprint on Saturday.  
 
 {source}  
-<embed src="http://blip.tv/play/AYK\_%2BHgA" type="application/x-shockwave-flash" width="700" height="410" wmode="transparent" allowscriptaccess="always" allowfullscreen="true" \></embed\>  
+<embed src="http://blip.tv/play/AYK_%2BHgA" type="application/x-shockwave-flash" width="700" height="410" wmode="transparent" allowscriptaccess="always" allowfullscreen="true" \></embed\>  
 {/source}
 
 Also today: the videos from Lukas and Animtim's [Libre Graphics Meeting](http://libregraphicsmeeting.org) talk have been published:

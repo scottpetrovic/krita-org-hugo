@@ -18,7 +18,7 @@ Krita 开发团队已经推出了 Krita 4.4.3 公开测试第 1 版。此版软�
 - 为 pathPattern 提供宿主以提高其执行效率
 - 修复拾色器覆盖整个屏幕的问题 ([BUG:432459](https://bugs.kde.org/show_bug.cgi?id=432459))
 - 已保存的配置文件在重启后不被加载 ([BUG:432433](https://bugs.kde.org/show_bug.cgi?id=432433))
-- 添加键函数到 psd\_layer\_effects\_shadow\_base ([BUG:432904](https://bugs.kde.org/show_bug.cgi?id=432904))
+- 添加键函数到 psd_layer_effects_shadow_base ([BUG:432904](https://bugs.kde.org/show_bug.cgi?id=432904))
 - 修复重新加载用户导入的资源包中的预设 ([BUG:432488](https://bugs.kde.org/show_bug.cgi?id=432488))
 
 ### 程序崩溃
@@ -43,7 +43,7 @@ Krita 开发团队已经推出了 Krita 4.4.3 公开测试第 1 版。此版软�
 - 修复增量备份的保存 ([BUG:432701](https://bugs.kde.org/show_bug.cgi?id=432701))
 - 修复 F5 面板绘图区无响应 ([BUG:431708](https://bugs.kde.org/show_bug.cgi?id=431708))
 - 修复自定义笔尖和剪贴板笔尖的颜色作为透明度和保持透明度模式 ([BUG:432274](https://bugs.kde.org/show_bug.cgi?id=432274))
-- 修复 RGBA\_brushes 资源包，让 Krita 在启动时不再尝试重新创建它 [(BUG:431832](https://bugs.kde.org/show_bug.cgi?id=431832))
+- 修复 RGBA_brushes 资源包，让 Krita 在启动时不再尝试重新创建它 [(BUG:431832](https://bugs.kde.org/show_bug.cgi?id=431832))
 - 修复在 KisAngleSelector 中当数字输入框必须扁平显示并在所有位置使用新型角度选择器时的显示风格问题
 
 ## 下载

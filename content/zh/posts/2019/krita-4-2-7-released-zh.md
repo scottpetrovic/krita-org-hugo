@@ -83,7 +83,7 @@ https://www.youtube.com/watch?v=HtBzzXulIr0
 
 ### Linux
 
-- 64 位 Linux: [krita-4.2.7.1b-x86\_64.appimage](https://download.kde.org/stable/krita/4.2.7.1/krita-4.2.7.1-x86_64.appimage)
+- 64 位 Linux: [krita-4.2.7.1b-x86_64.appimage](https://download.kde.org/stable/krita/4.2.7.1/krita-4.2.7.1-x86_64.appimage)
 - 64 位 Linux: [G'Mic-Qt plugin appimage](https://download.kde.org/stable/krita/4.2.7.1/gmic_krita_qt-x86_64.appimage).
 
 (如果 Firefox 把链接作为文本打开，请右键另存为)

@@ -10,7 +10,7 @@ coverImage: "dragon-and-warrior-.jpeg"
 
 ### Could you tell us something about yourself?
 
-I was born and live in Brazil. I have worked as an illustrator and comic book artist since 1979 and a few years ago I started to use only open source software. I published my comics in Brazil, in Europe ([https://www.lambiek.net/artists/c/couto\_mozart.htm](https://www.lambiek.net/artists/c/couto_mozart.htm)) and in the American comics market (Marvel, DC, image, Dark Horse and Valiant) in the late 1990s.
+I was born and live in Brazil. I have worked as an illustrator and comic book artist since 1979 and a few years ago I started to use only open source software. I published my comics in Brazil, in Europe ([https://www.lambiek.net/artists/c/couto_mozart.htm](https://www.lambiek.net/artists/c/couto_mozart.htm)) and in the American comics market (Marvel, DC, image, Dark Horse and Valiant) in the late 1990s.
 
 ### Do you paint professionally, as a hobby artist, or both?
 

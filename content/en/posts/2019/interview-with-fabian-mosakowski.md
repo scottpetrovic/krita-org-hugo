@@ -64,9 +64,9 @@ It would be "Madame de Visembaut, Dead-Blood Duchess". I really enjoyed working 
 
 ### What techniques and brushes did you use in it?
 
-I mainly use two brushes in every painting: Airbrush\_Soft to do colour planes and Blender\_Basic to blend them.
+I mainly use two brushes in every painting: Airbrush_Soft to do colour planes and Blender_Basic to blend them.
 
-The textures and special effects require more specific brushes such as Speedpaint Light Sparks for the candlelights and Blender\_Rake to create the wooden texture of the staircase.
+The textures and special effects require more specific brushes such as Speedpaint Light Sparks for the candlelights and Blender_Rake to create the wooden texture of the staircase.
 
 For the lighting, I also used the Soft Light SVG blending mode which is really useful to make the setting take on the light source colour.
 

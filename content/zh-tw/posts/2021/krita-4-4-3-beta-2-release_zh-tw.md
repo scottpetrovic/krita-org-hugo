@@ -31,7 +31,7 @@ Krita 開發團隊現推出 Krita 4.4.3 的第二個測試版本。此版本修�
 
 ### Linux
 
-- 64 位元 Linux AppImage：[krita-4.4.3-beta2-x86\_64.appimage](https://download.kde.org/unstable/krita/4.4.3-beta2/krita-4.4.3-beta2-x86_64.appimage)
+- 64 位元 Linux AppImage：[krita-4.4.3-beta2-x86_64.appimage](https://download.kde.org/unstable/krita/4.4.3-beta2/krita-4.4.3-beta2-x86_64.appimage)
 - 64 位元 Linux [G'Mic-Qt 外掛程式 AppImage](https://download.kde.org/unstable/krita/4.4.3-beta2/gmic_krita_qt-x86_64.appimage)
 
 ### macOS

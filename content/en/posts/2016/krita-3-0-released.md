@@ -31,7 +31,7 @@ Krita on Windows is tested on Windows 7, Windows 8 and Windows 10.
 - [krita-3.0-x86.zip](http://files.kde.org/krita/3/windows/krita-3.0-x86.zip) (0cd0ebb41e17163e26928affc9bf4bfbe7b315c0)
 - [krita-3.0-x64-setup.exe](http://files.kde.org/krita/3/windows/krita-3.0-x64-setup.exe) (c47285e1457c1492c7ee184835ea70d9ac26fdc5)
 - [krita-3.0-x86-setup.exe](http://files.kde.org/krita/3/windows/krita-3.0-x86-setup.exe) (82f68755eeeb28dbbaa7f29db15338a98b07f4a6)
-- [kritashellex\_1.1.0.1\_setup.exe](http://files.kde.org/krita/3/windows/kritashellex-1.1.0.2-setup.exe) (4fb24f073b0dfccae79050423bc8596e3218ae7d)
+- [kritashellex_1.1.0.1_setup.exe](http://files.kde.org/krita/3/windows/kritashellex-1.1.0.2-setup.exe) (4fb24f073b0dfccae79050423bc8596e3218ae7d)
 
 #### Linux
 
@@ -39,8 +39,8 @@ For Linux, we offer [AppImages](http://appimage.org/) that should run on any rea
 
 You can download the appimage, make it executable and run it in place. No installation is needed. At this moment, we only have appimages for 64 bits versions of Linux.
 
-- [krita-3.0-x86\_64.appimage](http://files.kde.org/krita/3/linux/krita-3.0-x86_64.appimage)  (cc4d007aff15369d7ae90160649f9594f256ec2c)
-- [krita-3.0-no-openmp-x86\_64.appimage](http://files.kde.org/krita/3/linux/krita-3.0-no-openmp-x86_64.appimage) (39d6d14d0607b7db37ea70b7057ebbaebca19a27)
+- [krita-3.0-x86_64.appimage](http://files.kde.org/krita/3/linux/krita-3.0-x86_64.appimage)  (cc4d007aff15369d7ae90160649f9594f256ec2c)
+- [krita-3.0-no-openmp-x86_64.appimage](http://files.kde.org/krita/3/linux/krita-3.0-no-openmp-x86_64.appimage) (39d6d14d0607b7db37ea70b7057ebbaebca19a27)
 
 You can also get Krita from [Ubuntu's App Store in snap format](https://uappexplorer.com/app/krita.krita), thanks to Michael Hall's help. Note that you cannot use the snap version of Krita with the NVidia proprietary driver, due to a limitation in Ubuntu and that there are no translations yet.
 
@@ -52,6 +52,6 @@ Krita on OSX will be fully supported with version 3.1. Krita 3.0 for OSX is stil
 
 #### Source
 
-A source archive is available for distributions wishing to package Krita 3.0. If you're a curious user, it is recommended to build Krita directly from the git repository instead, so you get all fixes daily fresh. See David Revoy's [guide for an introduction to building Krita](http://www.davidrevoy.com/article193/guide-building-krita-on-linux-for-cats). If you build Krita from source and your version of Qt is lower than Qt 5.6.1, it is necessary to also rebuild Qt using the patches in krita/3rdparty/ext\_qt.
+A source archive is available for distributions wishing to package Krita 3.0. If you're a curious user, it is recommended to build Krita directly from the git repository instead, so you get all fixes daily fresh. See David Revoy's [guide for an introduction to building Krita](http://www.davidrevoy.com/article193/guide-building-krita-on-linux-for-cats). If you build Krita from source and your version of Qt is lower than Qt 5.6.1, it is necessary to also rebuild Qt using the patches in krita/3rdparty/ext_qt.
 
 - [krita-3.0.tgz](http://download.kde.org/stable/krita/3.0/krita-3.0.tgz.mirrorlist) (6e0f7763e2ed5e266d916e7f76fadbaaf2c84eb5)

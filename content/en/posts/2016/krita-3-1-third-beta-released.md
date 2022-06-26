@@ -36,7 +36,7 @@ The third beta is also much more stable and usable than the first and second be
 
 ### Linux
 
-- 64 bits Linux: [krita-3.0.92-x86\_64.appimage](http://download.kde.org/unstable/krita/3.0.92/krita-3.0.92-x86_64.appimage) (MD5 Hash: 2437a99ca375fcf79647147680714076)
+- 64 bits Linux: [krita-3.0.92-x86_64.appimage](http://download.kde.org/unstable/krita/3.0.92/krita-3.0.92-x86_64.appimage) (MD5 Hash: 2437a99ca375fcf79647147680714076)
 
 There is also a snap image available in the Ubuntu App Store, in the beta channel.
 

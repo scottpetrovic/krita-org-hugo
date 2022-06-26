@@ -33,9 +33,9 @@ Krita 2.9の8個目のバグ修正リリースです! まだバグ修正と機�
     - ディストリビューションはそれぞれ自分のブリーディングエッジリポジトリにパッケージを出すはずです。
     - Ubuntu及びその系列ディストリビューションではいつも通りKrita Limeが利用可能です：[https://launchpad.net/~dimula73/+archive/ubuntu/krita](https://launchpad.net/~dimula73/+archive/ubuntu/krita)
     - OpenSUSEユーザーはKDE:Extra repo:[http://download.opensuse.org/repositories/KDE:/Extra/](http://download.opensuse.org/repositories/KDE:/Extra/)、あるいはVcをサポートしたKritaのビルドを持つLeinir氏のOBSリポジトリが使用可能です。
-        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE\_13.1/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.1/)
-        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE\_13.2/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.2/)
-        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE\_Factory/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_Factory/)
+        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.1/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.1/)
+        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.2/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.2/)
+        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_Factory/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_Factory/)
 - Windows及びOSX
     - [ダウンロードページ](https://jp.krita.org/download/krita-desktop/ "Krita Desktop")が更新されましたので新ビルドをご確認ください。MSIインストーラを使用したくないという場合は[files.kde.org](http://files.kde.org/krita)からWindows版KritaのZipファイルのポータブル版をダウンロードできます。
     - またベータチャンネルにDesktop29オプションを使用する[Steam版Krita](http://store.steampowered.com/app/280680)の最新バージョンも利用可能になっています。Steam版Kritaのユーザーは自動でアップデートがなされます。

@@ -28,16 +28,16 @@ Krita 3.1の新機能については[リリースノート](https://krita.org/en
 Windowsユーザ向けのお知らせ: クラッシュに遭遇した場合は、[こちらの手順](https://docs.krita.org/Dr._Mingw_debugger) に従ってデバッグシンボルを使い、Kritaがどこでクラッシュしているかを突き止められるようにしてください。
 
 - 32ビットWindows版: [krita-3.0.94-x86-setup.exe](http://download.kde.org/unstable/krita/3.0.94/krita-3.0.94-x86-setup.exe) (MD5 Hash: 1fa424258d455f92aac071c47d820095)
-- 32ビットWindows用ポータブル版: [krita\_3.0.94-x86.zip](http://download.kde.org/unstable/krita/3.0.94/krita_3.0.94-x86.zip) (MD5 Hash: fa00cc3575a56083916885626ff97d88)
+- 32ビットWindows用ポータブル版: [krita_3.0.94-x86.zip](http://download.kde.org/unstable/krita/3.0.94/krita_3.0.94-x86.zip) (MD5 Hash: fa00cc3575a56083916885626ff97d88)
 - [32ビット版向けデバッグシンボル (Kritaをインストールしたフォルダに展開して使用)](http://download.kde.org/unstable/krita/3.0.94/krita-3.0.94-x86-dbg.zip) (MD5 Hash: 538fefc19ca79cec36346a2b2564162e)
 
 - 64ビットWindows版: [krita-3.0.94-x64-setup.exe](http://download.kde.org/unstable/krita/3.0.94/krita-3.0.94-x64-setup.exe) (MD5 Hash: 908f52aee5deee6971783ce3c019e93e)
-- 64ビットWindows用ポータブル版: [krita\_3.0.94-x64.zip](http://download.kde.org/unstable/krita/3.0.94/krita_3.0.94-x64.zip) (MD5 Hash: 4af2829289476d172032a68d26e55789)
+- 64ビットWindows用ポータブル版: [krita_3.0.94-x64.zip](http://download.kde.org/unstable/krita/3.0.94/krita_3.0.94-x64.zip) (MD5 Hash: 4af2829289476d172032a68d26e55789)
 - [64ビット版向けデバッグシンボル (Kritaをインストールしたフォルダに展開して使用)](http://download.kde.org/unstable/krita/3.0.94/krita_3.0.94-x64-dbg.zip) (MD5 Hash: ee90e2c3e679a74d9fe77eec305f84f4)
 
 ### Linux
 
-- 64ビットLinux版: [krita-3.0.94-x86\_64.appimage](http://download.kde.org/unstable/krita/3.0.94/krita-3.0.94-x86_64.appimage) (MD5 Hash: e48aa1a805fbb631ab7d908d41c3ab84)
+- 64ビットLinux版: [krita-3.0.94-x86_64.appimage](http://download.kde.org/unstable/krita/3.0.94/krita-3.0.94-x86_64.appimage) (MD5 Hash: e48aa1a805fbb631ab7d908d41c3ab84)
 
 またUbuntu App Storeのベータチャンネルからsnap imageも利用可能です。
 

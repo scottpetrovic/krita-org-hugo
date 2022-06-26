@@ -43,7 +43,7 @@ Note: the gmic-qt plugin is not available on OSX. Krita now ships with a pre-bui
     
     #### Linux
     
-    - 64 bits Linux: [krita-3.2.0-x86\_64.appimage](https://download.kde.org/stable/krita/3.2.0/krita-3.2.0-x86_64.appimage)
+    - 64 bits Linux: [krita-3.2.0-x86_64.appimage](https://download.kde.org/stable/krita/3.2.0/krita-3.2.0-x86_64.appimage)
     
     (If, for some reason, Firefox thinks it needs to load this as text: to download, right-click on the link.)
     

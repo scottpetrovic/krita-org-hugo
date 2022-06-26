@@ -38,7 +38,7 @@ Recuerde que ya no estamos construyendo la versión de Windows de 32 bits.
 
 ### Linux
 
-- Linux 64 bits: [krita-5.0.0-beta5-x86\_64.appimage](https://download.kde.org/unstable/krita/5.0.0-beta5/krita-5.0.0-beta5-x86_64.appimage)
+- Linux 64 bits: [krita-5.0.0-beta5-x86_64.appimage](https://download.kde.org/unstable/krita/5.0.0-beta5/krita-5.0.0-beta5-x86_64.appimage)
 
 Nota: La AppImage de G'MIC-Qt ya no es necesaria.
 

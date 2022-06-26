@@ -7,7 +7,7 @@ This last two weeks have been very exiting with the kickstarter campaign getting
 
 And now there's also the first public build for OSX:
 
-[http://www.valdyas.org/~boud/krita\_osx\_2.8.79.0.tgz](http://www.valdyas.org/%7Eboud/krita_osx_2.8.79.0.tgz)
+[http://www.valdyas.org/~boud/krita_osx_2.8.79.0.tgz](http://www.valdyas.org/%7Eboud/krita_osx_2.8.79.0.tgz)
 
 ![](/images/posts/2014/kritaosx.jpg)
 

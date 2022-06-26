@@ -59,7 +59,7 @@ Nota: para Windows 7 y 8 se necesita instalar el "Universal C Runtime" de manera
 
 #### Linux
 
-- - 64 bits Linux: [krita-4.0.0-x86\_64.appimage](https://download.kde.org/stable/krita/4.0.0/krita-4.0.0-x86_64.appimage)
+- - 64 bits Linux: [krita-4.0.0-x86_64.appimage](https://download.kde.org/stable/krita/4.0.0/krita-4.0.0-x86_64.appimage)
 
 Por el momento el Appimage no posee traducciones que funcionen.
 

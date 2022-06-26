@@ -27,7 +27,7 @@ Windowsユーザーの皆さんへ：もしクラッシュする事案に遭遇�
 
 ### Linux
 
-- 64ビットLinux用AppImage版: [krita-4.2.0-beta-x86\_64.appimage](https://download.kde.org/unstable/krita/4.2.0-beta2/krita-4.2.0-beta-x86_64.appimage)
+- 64ビットLinux用AppImage版: [krita-4.2.0-beta-x86_64.appimage](https://download.kde.org/unstable/krita/4.2.0-beta2/krita-4.2.0-beta-x86_64.appimage)
 - 64ビットLinux [G'Mic-Qt plugin appimage](https://download.kde.org/unstable/krita/4.2.0-beta2/gmic_krita_qt-x86_64.appimage)
 
 (なぜかFirefoxはテキストとして読み込もうとするようです。ダウンロードするにはリンクの右クリックから保存してください)

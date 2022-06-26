@@ -64,7 +64,7 @@ For the beta, only portable zip files are available. Just open the zip file in E
 
 ### Linux
 
-- 64 bits Linux: [krita-4.2.6-beta1-x86\_64.appimage](https://download.kde.org/unstable/krita/4.2.6-beta1/krita-4.2.6-beta1-x86_64.appimage)
+- 64 bits Linux: [krita-4.2.6-beta1-x86_64.appimage](https://download.kde.org/unstable/krita/4.2.6-beta1/krita-4.2.6-beta1-x86_64.appimage)
 - 64 bits Linux [G'Mic-Qt plugin appimage](https://download.kde.org/unstable/krita/4.2.6-beta1/gmic_krita_qt-x86_64.appimage).
 
 (If, for some reason, Firefox thinks it needs to load this as text: to download, right-click on the link.)

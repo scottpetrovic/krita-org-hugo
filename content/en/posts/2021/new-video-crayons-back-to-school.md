@@ -7,4 +7,4 @@ Ramon has just published this month's new video on the Krita Youtube channel! "B
 
 {{< youtube y3sRrAXm8CI >}}
 
-You can get the extra brush presets and template on [https://files.kde.org/krita/extras/back\_to\_school/!](https://files.kde.org/krita/extras/back_to_school/)
+You can get the extra brush presets and template on [https://files.kde.org/krita/extras/back_to_school/!](https://files.kde.org/krita/extras/back_to_school/)

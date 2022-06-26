@@ -70,7 +70,7 @@ My favorite work so far is probably "Refugees" I learned a lot doing this one, I
 
 I made my own brush with the fantastic brush engine that mimics a kind of knife brush and made the basis for the crowd with very loose brush strokes.
 
-I tested a lot of brushes, and Wet\_Bristle\_Rough was used to refine details of the crowd. I like its oil paint feeling.
+I tested a lot of brushes, and Wet_Bristle_Rough was used to refine details of the crowd. I like its oil paint feeling.
 
 ### Where can people see more of your work?
 

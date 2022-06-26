@@ -59,7 +59,7 @@ categories:
 
 ### Linux
 
-- 64 位 Linux: [krita-4.2.3-x86\_64.appimage](https://download.kde.org/stable/krita/4.2.3/krita-4.2.3-x86_64.appimage)
+- 64 位 Linux: [krita-4.2.3-x86_64.appimage](https://download.kde.org/stable/krita/4.2.3/krita-4.2.3-x86_64.appimage)
 - 64 位 Linux: [G'Mic-Qt plugin appimage](https://download.kde.org/stable/krita/4.2.3/gmic_krita_qt-x86_64.appimage)
 
 (如果 Firefox 把链接作为文本打开，请右键另存为)

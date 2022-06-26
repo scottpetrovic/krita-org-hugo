@@ -88,7 +88,7 @@ The next time we release, we'll call it a Real Alpha Release! We also intend to 
 
 Download the zip file. [Unzip the zip file where you want to put Krita.](http://windows.microsoft.com/en-us/windows-10/zip-and-unzip-files#v1h=tab02).
 
-Run the vcredist\_x64.exe installer to install Microsoft’s Visual Studio runtime. (You only need to do this once.)
+Run the vcredist_x64.exe installer to install Microsoft’s Visual Studio runtime. (You only need to do this once.)
 
 Then double-click the krita link.
 
@@ -110,7 +110,7 @@ Known issues on OSX:
 
 **Linux**
 
-- [krita3-prealpha3-de0d43d-x86\_64.appimage](http://files.kde.org/krita/3/linux/krita3-prealpha3-de0d43d-x86_64.appimage)
+- [krita3-prealpha3-de0d43d-x86_64.appimage](http://files.kde.org/krita/3/linux/krita3-prealpha3-de0d43d-x86_64.appimage)
 
 For the Linux builds we now have AppImages! These are completely distribution-independent. To use the AppImage, download it, and make it an executable in your terminal or using the file properties dialog of your file manager. Another change is that configuration and custom resources are now stored in the .config/krita.org/kritarc and .local/share/krita.org/ folders of the user home folder, instead of .kde or .kde4.
 

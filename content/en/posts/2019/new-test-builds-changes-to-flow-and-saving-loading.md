@@ -38,7 +38,7 @@ So we are now using a new library, [quazip](https://stachenov.github.io/quazip/)
 
 ### Linux
 
-- 64 bits Linux: [krita-4.2.0-preview2-x86\_64.appimage](https://download.kde.org/unstable/krita/4.2.0-preview2/krita-4.2.0-preview2.appimage)
+- 64 bits Linux: [krita-4.2.0-preview2-x86_64.appimage](https://download.kde.org/unstable/krita/4.2.0-preview2/krita-4.2.0-preview2.appimage)
 
 (If, for some reason, Firefox thinks it needs to load this as text: to download, right-click on the link.)
 

@@ -64,7 +64,7 @@ Now you will get mail whenever anything happens to a Krita bug. Using the specia
 - X-Bugzilla-Assigned-To: krita-bugs-null@kde.org
 - X-Bugzilla-Target-Milestone: ---
 - X-Bugzilla-Flags:
-- X-Bugzilla-Changed-Fields: bug\_id short\_desc product version rep\_platform op\_sys bug\_status bug\_severity priority component assigned\_to reporter
+- X-Bugzilla-Changed-Fields: bug_id short_desc product version rep_platform op_sys bug_status bug_severity priority component assigned_to reporter
 
 For instance, I have split my bug mail according to whether it's a new bug, a changed bug, a new wish, a changed wish, or a reply to a needs-info query.
 

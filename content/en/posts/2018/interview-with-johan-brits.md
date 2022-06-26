@@ -70,7 +70,7 @@ Some of the techniques I used is to blur the foreground and background and add a
 
 ### Where can people see more of your work?
 
-YouTube: [https://www.youtube.com/johanjbrits](https://www.youtube.com/johanjbrits) Facebook: [https://www.facebook.com/JohanBritsArt/](https://www.facebook.com/JohanBritsArt/) ArtStation: [https://www.artstation.com/britsie\_1](https://www.artstation.com/britsie_1) Instagram: [https://www.instagram.com/britsie\_1](https://www.instagram.com/britsie_1) DeviantArt: [http://britsie1.deviantart.com/](http://britsie1.deviantart.com/) Twitter: [https://twitter.com/britsie\_1](https://twitter.com/britsie_1)
+YouTube: [https://www.youtube.com/johanjbrits](https://www.youtube.com/johanjbrits) Facebook: [https://www.facebook.com/JohanBritsArt/](https://www.facebook.com/JohanBritsArt/) ArtStation: [https://www.artstation.com/britsie_1](https://www.artstation.com/britsie_1) Instagram: [https://www.instagram.com/britsie_1](https://www.instagram.com/britsie_1) DeviantArt: [http://britsie1.deviantart.com/](http://britsie1.deviantart.com/) Twitter: [https://twitter.com/britsie_1](https://twitter.com/britsie_1)
 
 ### Anything else you'd like to share?
 

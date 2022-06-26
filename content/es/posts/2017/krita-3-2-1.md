@@ -33,7 +33,7 @@ En Windows, si se encuentran con cierres del programa inesperados, favor de segu
 
 #### Linux
 
-- 64 bits Linux: [krita-3.2.1-x86\_64.appimage](https://download.kde.org/stable/krita/3.2.1/krita-3.2.1-x86_64.appimage)
+- 64 bits Linux: [krita-3.2.1-x86_64.appimage](https://download.kde.org/stable/krita/3.2.1/krita-3.2.1-x86_64.appimage)
 
 (En ocasiones Firefox trata el enlace como texto, para descargar el paquete simplemente has un click a la derecha en el mismo enlace.)
 

@@ -56,11 +56,11 @@ Some of Krita's ICC profiles have been changed or removed. This was partially du
 
 New workspaces were added by Timothée Giet:
 
-- "Big\_Paint" is the classic view for painting on big screen resolution (1920x1080)
-- "Big\_Paint\_2" is a variation using wide dockers on both sides
-- "Big\_Vector" is a set of dockers useful for working with vector shapes
-- "Small\_Paint" is a minimal set of dockers for painting on very small screen (this one is used by default at first start)
-- "Small\_Vector" is a minimal set of dockers for working with vector shapes on very small screen
-- "VFX\_Paint" for big screens, and using wide dockers on both sides to have LUT management always visible.
+- "Big_Paint" is the classic view for painting on big screen resolution (1920x1080)
+- "Big_Paint_2" is a variation using wide dockers on both sides
+- "Big_Vector" is a set of dockers useful for working with vector shapes
+- "Small_Paint" is a minimal set of dockers for painting on very small screen (this one is used by default at first start)
+- "Small_Vector" is a minimal set of dockers for working with vector shapes on very small screen
+- "VFX_Paint" for big screens, and using wide dockers on both sides to have LUT management always visible.
 
 If you [follow the git logs](https://projects.kde.org/projects/calligra/activity), you may notice a lot of strange little commits that only change one or two lines: This is clean-up of the Calligra code, including Krita. This allows for making porting to QT5 a lot easier, which is the main goal for Krita 3.0.

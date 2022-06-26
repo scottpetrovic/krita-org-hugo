@@ -40,7 +40,7 @@ Krita 3.1第3ベータ版がリリースされました。Krita 3.1より、Krit
 
 ### Linux
 
-- 64ビットLinux版: [krita-3.0.92-x86\_64.appimage](http://download.kde.org/unstable/krita/3.0.92/krita-3.0.92-x86_64.appimage) (MD5 Hash: 2437a99ca375fcf79647147680714076)
+- 64ビットLinux版: [krita-3.0.92-x86_64.appimage](http://download.kde.org/unstable/krita/3.0.92/krita-3.0.92-x86_64.appimage) (MD5 Hash: 2437a99ca375fcf79647147680714076)
 
 またUbuntu App Storeのベータチャンネルからsnap imageも利用可能です。
 

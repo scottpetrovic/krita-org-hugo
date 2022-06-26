@@ -144,7 +144,7 @@ categories:
 
 ### Linux
 
-- 64 位元 Linux AppImage：[krita-5.0.0-beta3-x86\_64.appimage](https://download.kde.org/unstable/krita/5.0.0-beta3/krita-5.0.0-beta3-x86_64.appimage)
+- 64 位元 Linux AppImage：[krita-5.0.0-beta3-x86_64.appimage](https://download.kde.org/unstable/krita/5.0.0-beta3/krita-5.0.0-beta3-x86_64.appimage)
 
 Linux 版本唔使再另外下載 G'Mic-Qt 外掛程式 AppImage。
 

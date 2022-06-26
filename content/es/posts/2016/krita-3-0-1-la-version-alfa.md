@@ -22,7 +22,7 @@ En windows Krita puede usar las tabletas digitales Wacom, Huion y Yiynova, tambi
 
 Al igual que en las ultimas versiones, y para que mas personas puedan probar el programa en desarrollo sin la necesidad de compilarlo o de repositorios no oficiales, se a puesto a disposición la versión mas nueva en un AppImage, solo en el formato de 64 bits. Una ves descargado el paquete, lo haces ejecutable y lo usas directamente en el mismo archivo, recuerda que aun que funciona muy bien, tanto Krita como AppImage son experimentales.
 
-- [krita-3.0.1-Alpha2-d33dbe0-x86\_64.appimage](http://files.kde.org/krita/3/linux/devbuilds/krita-3.0.1-Alpha2-d33dbe0-x86_64.appimage) (f61f8991a517a7835ceebf7159288d8e)
+- [krita-3.0.1-Alpha2-d33dbe0-x86_64.appimage](http://files.kde.org/krita/3/linux/devbuilds/krita-3.0.1-Alpha2-d33dbe0-x86_64.appimage) (f61f8991a517a7835ceebf7159288d8e)
 
 #### OSX and MacOS
 

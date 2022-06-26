@@ -34,11 +34,11 @@ But it gave the hint we needed. It _is_ a bug in the Wintab driver, and we are g
 
 It turned out that when we added support for the Surface Pro 3, which has an N-Trig pen, we needed a couple of workarounds for its weirder features. We wrote code that would query the wintab dll for the _name_ of the tablet, and if that was an N-Trig, we set the workaround flag:
 
-UINT nameLength = m\_winTab32DLL.wTInfo(WTI\_DEVICES, DVC\_NAME, 0);
+UINT nameLength = m_winTab32DLL.wTInfo(WTI_DEVICES, DVC_NAME, 0);
 TCHAR\* dvcName = new TCHAR\[nameLength + 1\];
-UINT returnLength = m\_winTab32DLL.wTInfo(WTI\_DEVICES, DVC\_NAME, dvcName);
-Q\_ASSERT(nameLength == returnLength);
-QString qDvcName = QString::fromWCharArray((const wchar\_t\*)dvcName);
+UINT returnLength = m_winTab32DLL.wTInfo(WTI_DEVICES, DVC_NAME, dvcName);
+Q_ASSERT(nameLength == returnLength);
+QString qDvcName = QString::fromWCharArray((const wchar_t\*)dvcName);
 // Name changed between older and newer Surface Pro 3 drivers
 if (qDvcName == QString::fromLatin1("N-trig DuoSense device") ||
             qDvcName == QString::fromLatin1("Microsoft device")) {
@@ -48,7 +48,7 @@ delete\[\] dvcName;
 
 Now follow me closely: the first line gets some info (wTInfo) from the wintab driver. It's a call and has three parameters: the first says we want info about devices, the second says we want a name, and third one is **0**. That is, zero. Null.  The second call is exactly the same, but passes something called dvcName, that is a pointer to a bit or memory where the wintab driver will write the name of the device. It's a number, significantly bigger than 0.  The Wintab API says that if you pass 0 (null) as the third parameter, the driver should return the length of what it will return if you would pass it the length. Follow me? If you ask for  the name with 0 for length, it tells you the length; if you ask for the name with the right length, it gives you the name.
 
-See for yourself: [http://www.wacomeng.com/windows/docs/Wintab\_v140.htm#\_Toc275759816](http://www.wacomeng.com/windows/docs/Wintab_v140.htm#_Toc275759816)
+See for yourself: [http://www.wacomeng.com/windows/docs/Wintab_v140.htm#_Toc275759816](http://www.wacomeng.com/windows/docs/Wintab_v140.htm#_Toc275759816)
 
 You have to go through this hoop to set apart a chunk of memory big enough for Wintab to copy the tablet name in. Too short, and you get a crash: that's what happens when you write out of bounds. Too long, and you waste space, and besides, how can you know how long a tablet name could be?
 

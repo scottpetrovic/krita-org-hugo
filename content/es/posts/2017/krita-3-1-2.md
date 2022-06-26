@@ -50,7 +50,7 @@ Si quieres ver lo que otros usuarios han hecho con Krita, obtén el libro [**Ma
 
 #### Linux
 
-- 64 bits Linux: [krita-3.1.2-x86\_64.appimage](http://download.kde.org/stable/krita/3.1.2/krita-3.1.2-x86_64.appimage)
+- 64 bits Linux: [krita-3.1.2-x86_64.appimage](http://download.kde.org/stable/krita/3.1.2/krita-3.1.2-x86_64.appimage)
 
 Pronto estará disponible la version snap para Ubuntu. Ademas el existe el repositorio de [Krita Lime PPA](https://launchpad.net/~kritalime/+archive/ubuntu/ppa) para Ubuntu y sus derivados.
 

@@ -55,7 +55,7 @@ tags:
 - レイヤーまたは選択領域を100%の不透明度で、前景色、背景色、または現在のパターンで塗りつぶすためのショートカットは既にありました。ショートカットに加えてShiftを押すと、現在のペイントで使用している不透明度を使用することができるようになりました。
 - 補助線/定規を改善しました。直線定規のハンドルをShiftキーで水平方向にスナップできるようになりました。同じShiftキーで、楕円の場合もスナップすることができます。
 - 補助線機能のもう一つの機能改善: 補助線へのスナップ挙動を、最初にスナップした補助線のみに限定するためのチェックボックス(snap to single)を追加しました。チェックボックスをオフにすると以前のように複数の補助線に連続してスナップすることができます。
-- いくつかのブラシプリセットを最適化したバージョンに変更しました: Basic\_tip\_default, Basic\_tip\_soft, Basic\_wet, Block\_basic, Block\_bristles, Block\_tilt, Ink\_brush\_25, Ink\_gpen\_10, Ink\_gpen\_25 これらのブラシの反応性がよくなっているはずです。
+- いくつかのブラシプリセットを最適化したバージョンに変更しました: Basic_tip_default, Basic_tip_soft, Basic_wet, Block_basic, Block_bristles, Block_tilt, Ink_brush_25, Ink_gpen_10, Ink_gpen_25 これらのブラシの反応性がよくなっているはずです。
 - 新しく、数学的に頑健なノーマルマップ合成ブレンドモードが追加されました。
 - ランダム化されたブラシでのブラシアウトラインの更新速度を下げました。以前はランダムな回転が設定されたブラシでペイントするときはカーソルがうるさい感じになっていましたが、新しいバージョンではスムーズで目に優しくなっています。
 - どのような選択領域もベクター図形に変換できるようになりました！
@@ -127,9 +127,9 @@ tags:
     - ディストリビューションはそれぞれ自分のブリーディングエッジリポジトリにパッケージを出すはずです。
     - Ubuntu及びその系列ディストリビューションではいつも通りKrita Limeが利用可能です：[https://launchpad.net/~dimula73/+archive/ubuntu/krita](https://launchpad.net/~dimula73/+archive/ubuntu/krita)
     - OpenSUSEユーザーはKDE:Extra repo:[http://download.opensuse.org/repositories/KDE:/Extra/](http://download.opensuse.org/repositories/KDE:/Extra/)、あるいはVcをサポートしたKritaのビルドを持つLeinir氏のOBSリポジトリが使用可能です。
-        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE\_13.1/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.1/)
-        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE\_13.2/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.2/)
-        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE\_Factory/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_Factory/)
+        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.1/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.1/)
+        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.2/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.2/)
+        - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_Factory/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_Factory/)
 - Windows及びOSX
     - [ダウンロードページ](https://jp.krita.org/download/krita-desktop/ "Krita Desktop")が更新されましたので新ビルドをご確認ください。MSIインストーラを使用したくないという場合は[files.kde.org](http://files.kde.org/krita)からWindows版KritaのZipファイルのポータブル版をダウンロードできます。
     - またベータチャンネルにDesktop29オプションを使用する[Steam版Krita](http://store.steampowered.com/app/280680)の最新バージョンも利用可能になっています。Steam版Kritaのユーザーは自動でアップデートがなされます。

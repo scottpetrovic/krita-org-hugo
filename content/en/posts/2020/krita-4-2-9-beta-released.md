@@ -9,7 +9,7 @@ Much later than we wanted to, we've finally gotten the beta ready for Krita 4.2.
 
 On the other hand, we have _also_ worked like crazy to make this the most stable release of Krita ever, with countless bugs fixed -- and there are even some fun new features:
 
-- Dmitry improved the brush outline: it no longer flickers when you hover over the canvas: \[video width="960" height="540" mp4="/images/posts/2020/2020-02-11\_comparing-outline.mp4"\]\[/video\]
+- Dmitry improved the brush outline: it no longer flickers when you hover over the canvas: \[video width="960" height="540" mp4="/images/posts/2020/2020-02-11_comparing-outline.mp4"\]\[/video\]
 - He also added "Airbrush" and "Airbrush Rate" to the Color Smudge brush, and a new Ratio setting, also for the Color Smudge brush, which allows making the shape of the brush flatter using the different sensors. Ramón Miranda has even made a video demonstrating these features: 
     
     <iframe src="https://www.youtube.com/embed/fyc8-qgxAww" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
@@ -107,7 +107,7 @@ For the beta, you should only only use the portable zip files. Just open the zip
 
 ### Linux
 
-- 64 bits Linux: [krita-4.2.9-beta1-x86\_64.appimage](https://download.kde.org/unstable/krita/4.2.9-beta1/krita-4.2.9-beta-x86_64.appimage)
+- 64 bits Linux: [krita-4.2.9-beta1-x86_64.appimage](https://download.kde.org/unstable/krita/4.2.9-beta1/krita-4.2.9-beta-x86_64.appimage)
 - 64 bits Linux [G'Mic-Qt plugin appimage](https://download.kde.org/unstable/krita/4.2.9-beta1/gmic_krita_qt-x86_64.appimage)
 
 (If, for some reason, Firefox thinks it needs to load this as text: to download, right-click on the link.)

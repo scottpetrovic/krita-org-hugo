@@ -64,7 +64,7 @@ I would choose Distant.
 
 ### What techniques and brushes did you use in it?
 
-I like the "Airbrush\_Linear" a lot. I set it to a big size and the opacity to 10 percent, then I use the "Eraser\_Circle" the hard shaped one, to define shapes, also I use a lot the "Smudge\_Soft" I like to play with it taking the paint from one side to another. When I grabbed Krita again it reminded me of my old times drawing with pencil and paper I just loved.
+I like the "Airbrush_Linear" a lot. I set it to a big size and the opacity to 10 percent, then I use the "Eraser_Circle" the hard shaped one, to define shapes, also I use a lot the "Smudge_Soft" I like to play with it taking the paint from one side to another. When I grabbed Krita again it reminded me of my old times drawing with pencil and paper I just loved.
 
 ### Where can people see more of your work?
 

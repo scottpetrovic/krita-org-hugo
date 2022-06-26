@@ -38,11 +38,11 @@ Wintabは化石みたいに古く、16ビットのWindows 3.0からあったも�
 
 これはN-Trigペンを持つSurface Pro 3のサポートを追加した時にわかった問題でした。その変な特徴のため、我々はいくつかの回避策をとる必要がありました。我々はwintab dllにタブレットの名前を呼び出しし、それがN-Trigだった場合には回避フラグを設定するようにコードを書きました：
 
-UINT nameLength = m\_winTab32DLL.wTInfo(WTI\_DEVICES, DVC\_NAME, 0);
+UINT nameLength = m_winTab32DLL.wTInfo(WTI_DEVICES, DVC_NAME, 0);
 TCHAR\* dvcName = new TCHAR\[nameLength + 1\];
-UINT returnLength = m\_winTab32DLL.wTInfo(WTI\_DEVICES, DVC\_NAME, dvcName);
-Q\_ASSERT(nameLength == returnLength);
-QString qDvcName = QString::fromWCharArray((const wchar\_t\*)dvcName);
+UINT returnLength = m_winTab32DLL.wTInfo(WTI_DEVICES, DVC_NAME, dvcName);
+Q_ASSERT(nameLength == returnLength);
+QString qDvcName = QString::fromWCharArray((const wchar_t\*)dvcName);
 // Name changed between older and newer Surface Pro 3 drivers
 if (qDvcName == QString::fromLatin1("N-trig DuoSense device") ||
             qDvcName == QString::fromLatin1("Microsoft device")) {
@@ -52,7 +52,7 @@ delete\[\] dvcName;
 
 ちょっと詳しく解説します。最初の行はWintabドライバから情報(wTInfo)を得ています。このコールは3つのパラメータを持ちます：一つ目はデバイスについての情報が欲しいというもの、二つ目は名前が欲しいというもの、3つ目は**0**です。これはゼロ、Nullを意味しています。二行目のコールも全く同じですが、dvcNameと呼ばれるものを渡します。これはWintabドライバがそのデバイスの名前を書く数ビットのメモリへのポインタです。それは数値であり、0よりかなり大きいです。Wintab APIによれば、三番目のパラメータに0(Null)を返した時、ドライバはドライバにその長さを渡した場合にドライバが返すはずだったものの長さを返すはずです。ここまで分かりましたか？長さに0の名前を尋ねると、ドライバはその長さを返します。正しい長さの名前を尋ねると、ドライバはその名前を返します。
 
-自分で見てみましょう：[http://www.wacomeng.com/windows/docs/Wintab\_v140.htm#\_Toc275759816](http://www.wacomeng.com/windows/docs/Wintab_v140.htm#_Toc275759816)
+自分で見てみましょう：[http://www.wacomeng.com/windows/docs/Wintab_v140.htm#_Toc275759816](http://www.wacomeng.com/windows/docs/Wintab_v140.htm#_Toc275759816)
 
 この処理を完了するにはWintabがタブレットの名前をコピーするのに十分な量のメモリを別個に確保しておく必要があります。短すぎると、クラッシュしてしまいます（これが定められた区域をはみ出して描きこんでしまった際に発生することです）長すぎれば、メモリが無駄になってしまいます。そして、タブレットの名前の長さがどれぐらいになりえるかは…どうやって知ったらいいんでしょう？
 

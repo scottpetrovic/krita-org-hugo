@@ -20,7 +20,7 @@ Now we have the opportunity to work with experienced comic book artist [Animtim]
 Animtim's artwork is impressive, and in the DVD he'll share his experience with Krita as he shows artists everywhere, how to create a comic book, end to end. The DVD will highlight, step-by-step, how to prepare your page, sketch characters, ink with bitmap and vector tools, add color, and export to web or print all with Krita. Finally it will show how to create page layouts and a print-ready PDF with Scribus, making it useful for everyone wanting to create comics in print and on the web. Naturally the rest of us benefit by seeing more great comics, artists in free software and open culture!  
 
 {source}  
-<embed src="http://blip.tv/play/AYK\_lHoA" mce\_src="http://blip.tv/play/AYK\_lHoA" type="application/x-shockwave-flash" wmode="transparent" allowscriptaccess="always" allowfullscreen="true" height="446" width="740"\></p\>  
+<embed src="http://blip.tv/play/AYK_lHoA" mce_src="http://blip.tv/play/AYK_lHoA" type="application/x-shockwave-flash" wmode="transparent" allowscriptaccess="always" allowfullscreen="true" height="446" width="740"\></p\>  
 {/source}  
 
 [Download / View the HTML5 (webm) trailer](http://blip.tv/file/get/Krita-CreatingComicsWithKritaPreTrailer537.webm)

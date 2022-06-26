@@ -12,7 +12,7 @@ This is the first session. On the one hand, it's an instructional recording show
 So enjoy Bugsbane painting bugs!  
 
 {source}  
-<embed src="http://blip.tv/play/AYK\_5xsA" type="application/x-shockwave-flash" width="700" height="410" wmode="transparent" allowscriptaccess="always" allowfullscreen="true" \></embed\>  
+<embed src="http://blip.tv/play/AYK_5xsA" type="application/x-shockwave-flash" width="700" height="410" wmode="transparent" allowscriptaccess="always" allowfullscreen="true" \></embed\>  
 {/source}
 
 And don't forget our DVD [fundraiser](http://krita.org/component/content/article/10-news/81-become-part-of-kritas-first-training-dvd). Help Animtim create some great training material for artists everywhere!

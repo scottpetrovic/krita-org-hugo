@@ -27,8 +27,8 @@ Krita at CES2019
 
 Krita has been able to work with HDR images since 2005, but it's now possible to view your HDR image in HDR, on supported hardware. You can now not only save your HDR image in .kra or OpenEXR files, but also extended PNG. With the right version of FFMPEG you can even create animations in HDR! Having the correct computer setup for this can be rather complicated, so head to the documentation to see what is involved. _HDR display is only available on Windows 10_. If you have HDR enabled, the Small Color Selector Docker has an extra "nits" slider that allows you to change the brightness of a specfic color.
 
-- Feature - [https://docs.krita.org/en/reference\_manual/hdr\_display.html](https://docs.krita.org/en/reference_manual/hdr_display.html)
-- Background Knowledge - [https://docs.krita.org/en/general\_concepts/colors/scene\_linear\_painting.html](https://docs.krita.org/en/general_concepts/colors/scene_linear_painting.html)
+- Feature - [https://docs.krita.org/en/reference_manual/hdr_display.html](https://docs.krita.org/en/reference_manual/hdr_display.html)
+- Background Knowledge - [https://docs.krita.org/en/general_concepts/colors/scene_linear_painting.html](https://docs.krita.org/en/general_concepts/colors/scene_linear_painting.html)
 
 ![](/images/pages/intel-logo.png) This work was possible through cooperating with Intel. The work also involved helping these HDR changes get pushed into the development framework Krita uses, Qt. This can allow other applications to take advantange of these features.
 
@@ -122,13 +122,13 @@ There is also a new "Copy Translate" mode. This allows you to specify multiple c
 
 ## Painting mask performance improvement
 
-\[video width="1378" height="825" webm="/images/posts/2019/painting\_selection\_mask.webm"\]\[/video\]
+\[video width="1378" height="825" webm="/images/posts/2019/painting_selection_mask.webm"\]\[/video\]
 
 You can create a selection with your normal brushes using the Global Selection option. This has previously been a slow area until now. They are now significantly faster. A small workflow change was made as well. If you show the Global Selection mask with no selection, everything will be selected by default.
 
 ## Improvement to Select Opaque
 
-\[video width="1378" height="825" webm="/images/posts/2019/select\_opque\_improvements.webm"\]\[/video\]
+\[video width="1378" height="825" webm="/images/posts/2019/select_opque_improvements.webm"\]\[/video\]
 
 Ctrl + clicking a layer's thumbnail in the layer docker makes a selection of the layers content. This is the same as the right click option Select Opaque. There are also new methods for making layer selections. "Select Opaque" has been renamed to "Select Opaque (replace)" now to account for the new functions.
 
@@ -151,19 +151,19 @@ Flow and Opacity now interact more like in other programs. The above gif shows h
 
 ## Clone Brush - Reset Origin
 
-\[video width="1000" height="640" webm="/images/posts/2019/clone\_brush-v2.webm"\]\[/video\]
+\[video width="1000" height="640" webm="/images/posts/2019/clone_brush-v2.webm"\]\[/video\]
 
 A new option was added to the clone brush that allows you to reset the origin after every brush stroke.
 
 ## Simplex Noise Generator
 
-\[video width="1000" height="640" webm="/images/posts/2019/fill\_simplex\_noise.webm"\]\[/video\]
+\[video width="1000" height="640" webm="/images/posts/2019/fill_simplex_noise.webm"\]\[/video\]
 
 Add ability to dynamically add noise to your document. There are also options to make the noise tileable.
 
 ## New Blend modes
 
-\[video width="480" height="720" webm="/images/posts/2019/blend\_modes.webm"\]\[/video\]
+\[video width="480" height="720" webm="/images/posts/2019/blend_modes.webm"\]\[/video\]
 
 New categories of the blend modes were added to create interesting effects.
 

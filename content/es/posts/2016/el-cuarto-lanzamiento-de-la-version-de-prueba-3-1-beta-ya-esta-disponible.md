@@ -34,7 +34,7 @@ Nota: para los usuarios de Windows, si has encontrado problemas con el programa 
 
 ### Linux
 
-- 64 bits Linux: [krita-3.0.93-x86\_64.appimage](http://download.kde.org/unstable/krita/3.0.93/krita-3.0.93-x86_64.appimage) (MD5 Hash: ff3e3f49fbd095504b7cdb3af5698c96)
+- 64 bits Linux: [krita-3.0.93-x86_64.appimage](http://download.kde.org/unstable/krita/3.0.93/krita-3.0.93-x86_64.appimage) (MD5 Hash: ff3e3f49fbd095504b7cdb3af5698c96)
 
 En el Ubuntu App Store, en el canal beta también puedes encontrar el appimage.
 

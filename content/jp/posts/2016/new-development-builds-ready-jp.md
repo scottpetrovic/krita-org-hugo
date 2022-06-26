@@ -49,5 +49,5 @@ tags:
 
 **The Linux AppImage版:**ダウンロードした後、実行可能にして起動してください。インストールは必要ありません。CentOS 6とUbuntu 12.04には、OpenMPなしでビルドされたG’Mic(これにより動作はかなり遅くなります)が入ったAppImage版を別に配布します。
 
-- AppImage版 [krita-3.0-Beta-master-37389d5-x86\_64.appimage](http://files.kde.org/krita/3/linux/devbuilds/krita-3.0-Beta-master-37389d5-x86_64.appimage) (新しいディストリビューション向け)
-- AppImage版 [krita-3.0-Beta-master-962bfe1-no-openmp-x86\_64.appimage](http://files.kde.org/krita/3/linux/devbuilds/krita-3.0-Beta-master-962bfe1-no-openmp-x86_64.appimage) (古いディストリビューション向け)
+- AppImage版 [krita-3.0-Beta-master-37389d5-x86_64.appimage](http://files.kde.org/krita/3/linux/devbuilds/krita-3.0-Beta-master-37389d5-x86_64.appimage) (新しいディストリビューション向け)
+- AppImage版 [krita-3.0-Beta-master-962bfe1-no-openmp-x86_64.appimage](http://files.kde.org/krita/3/linux/devbuilds/krita-3.0-Beta-master-962bfe1-no-openmp-x86_64.appimage) (古いディストリビューション向け)

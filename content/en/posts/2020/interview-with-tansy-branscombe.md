@@ -69,7 +69,7 @@ I usually use quite a simple set up, with only one or two brushes. My absolute f
 
 I post work mainly on Instagram, but also occasionally on Twitter:
 
-[https://www.instagram.com/tansy\_draws/](https://www.instagram.com/tansy_draws/)
+[https://www.instagram.com/tansy_draws/](https://www.instagram.com/tansy_draws/)
 
 [https://twitter.com/tansybranscombe](https://twitter.com/tansybranscombe)
 

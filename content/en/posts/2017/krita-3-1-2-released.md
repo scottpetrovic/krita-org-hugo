@@ -50,7 +50,7 @@ Note for Windows users: if you encounter crashes, please follow [these instructi
 
 #### Linux
 
-- 64 bits Linux: [krita-3.1.2-x86\_64.appimage](http://download.kde.org/stable/krita/3.1.2/krita-3.1.2-x86_64.appimage)
+- 64 bits Linux: [krita-3.1.2-x86_64.appimage](http://download.kde.org/stable/krita/3.1.2/krita-3.1.2-x86_64.appimage)
 
 A snap image for the Ubuntu App Store will be available soon. You can also use the [Krita Lime PPA](https://launchpad.net/~kritalime/+archive/ubuntu/ppa) to install Krita 3.1.2 on Ubuntu and derivatives.
 

@@ -22,7 +22,7 @@ macOSでの初のユニバーサルバイナリリリースになります。DMG
 - pathPatternが有効になるようにホストを提供
 - 画面全体をカバーする色選択を修正[BUG:432459](https://bugs.kde.org/show_bug.cgi?id=432459))
 - 保存したコンフィグが再起動後に読み込まれない問題 ([BUG:432433](https://bugs.kde.org/show_bug.cgi?id=432433))
-- psd\_layer\_effects\_shadow\_baseにキー関数を追加 ([BUG:432904](https://bugs.kde.org/show_bug.cgi?id=432904))
+- psd_layer_effects_shadow_baseにキー関数を追加 ([BUG:432904](https://bugs.kde.org/show_bug.cgi?id=432904))
 - ユーザーがインポートしたバンドルからのプリセットリロードを修正 ([BUG:432488](https://bugs.kde.org/show_bug.cgi?id=432488))
 
 ### クラッシュ
@@ -47,7 +47,7 @@ macOSでの初のユニバーサルバイナリリリースになります。DMG
 - インクリメンタルバックアップ保存を修正([BUG:432701](https://bugs.kde.org/show_bug.cgi?id=432701))
 - スクラッチパッドが反応しなくなる問題を修正([BUG:431708](https://bugs.kde.org/show_bug.cgi?id=431708))
 - カスタムブラシ、クリップボードブラシでの色をアルファに、アルファ保護を修正([BUG:432274](https://bugs.kde.org/show_bug.cgi?id=432274))
-- RGBA\_brushesバンドルを修正し、Kritaが起動時に再生成を試みることがなくなりました [(BUG:431832](https://bugs.kde.org/show_bug.cgi?id=431832))
+- RGBA_brushesバンドルを修正し、Kritaが起動時に再生成を試みることがなくなりました [(BUG:431832](https://bugs.kde.org/show_bug.cgi?id=431832))
 - KisAngleSelectorのスタイルの扱いを修正。スピンボックスがフラット表示に、新しい角度選択がどこでも使用されるようになりました。
 
 ## ダウンロード
@@ -66,7 +66,7 @@ macOSでの初のユニバーサルバイナリリリースになります。DMG
 
 ### Linux
 
-- 64ビットLinux版: [krita-4.4.3-x86\_64.appimage](https://download.kde.org/stable/krita/4.4.3/krita-4.4.3-x86_64.appimage)
+- 64ビットLinux版: [krita-4.4.3-x86_64.appimage](https://download.kde.org/stable/krita/4.4.3/krita-4.4.3-x86_64.appimage)
 - 64ビットLinux [G'Mic-Qt plugin appimage](https://download.kde.org/stable/krita/4.4.3/gmic_krita_qt-x86_64.appimage)
 
 (もしFirefoがはテキストとして読み込もうとした場合:ダウンロードするにはリンクの右クリックから保存してください)

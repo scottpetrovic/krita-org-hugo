@@ -53,7 +53,7 @@ The lazy/brush colorize mask feature is technically complete, but it's too slow 
 
 ### Other New Features
 
-- Create a stroke around your selection (https://docs.krita.org/Stroke\_Selection)
+- Create a stroke around your selection (https://docs.krita.org/Stroke_Selection)
 - Halftone filter added. Find it in the main menu: Filters > Artistic.
 - add a new Eraser Switch Opacity feature, similar to the Eraser Switch Size one.
 - new layer from visible option in layer menu

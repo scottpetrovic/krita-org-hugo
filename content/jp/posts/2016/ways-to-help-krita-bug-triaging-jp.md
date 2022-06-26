@@ -68,7 +68,7 @@ bugzillaにログインして一番上のPreferencesのリンクをクリック�
 - X-Bugzilla-Assigned-To: krita-bugs-null@kde.org
 - X-Bugzilla-Target-Milestone: —
 - X-Bugzilla-Flags:
-- X-Bugzilla-Changed-Fields: bug\_id short\_desc product version rep\_platform op\_sys bug\_status bug\_severity priority component assigned\_to reporter
+- X-Bugzilla-Changed-Fields: bug_id short_desc product version rep_platform op_sys bug_status bug_severity priority component assigned_to reporter
 
 例えば、私はバグ報告メールを新しいもの、変更されたもの、新しい要望、さらなる情報を求める質問への返事に分けています。
 

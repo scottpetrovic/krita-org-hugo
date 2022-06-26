@@ -60,7 +60,7 @@ Windows 用户请注意：如果你遇到了崩溃，请遵循[此处的说明](
 
 ### Linux 版本
 
-- - 64 位 AppImage：[krita-4.0.0-x86\_64.appimage](https://download.kde.org/stable/krita/4.0.0/krita-4.0.0-x86_64.appimage)
+- - 64 位 AppImage：[krita-4.0.0-x86_64.appimage](https://download.kde.org/stable/krita/4.0.0/krita-4.0.0-x86_64.appimage)
 
 当前 AppImage 版本的 Krita 软件尚未内建多语言翻译。
 

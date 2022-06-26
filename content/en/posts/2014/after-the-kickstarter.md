@@ -11,7 +11,7 @@ Running a kickstarter is very much like, well, running! Running for thirty solid
 
 [Yiynova Europe](http://www.yiynova.eu/) noticed the kickstarter and contacted us -- they loaned us two Yiynova tablet monitors, the [19" MSP19u](http://www.yiynova.eu/msp19u.php) and the the [21,5" MVP22u](http://www.yiynova.eu/mvp22u.php) to test Krita with. We already had a [bug report about multi-monitor setup](https://bugs.kde.org/show_bug.cgi?id=337101) with other tablets than a Cintiq, so this was very welcome! And today there's a new experimental build that works just fine!
 
-- [http://heap.kogmbh.net/downloads/krita\_x64\_2.8.79.13.msi](http://heap.kogmbh.net/downloads/krita_x64_2.8.79.13.msi)
+- [http://heap.kogmbh.net/downloads/krita_x64_2.8.79.13.msi](http://heap.kogmbh.net/downloads/krita_x64_2.8.79.13.msi)
 
 This build also contains Dmitry's new memory pool code. Krita should now be a bit faster and use less memory while painting, and especially, be better behaved with longer painting sessions. Please do test! As developers, long painting sessions isn't something we can regularly indulge in!
 

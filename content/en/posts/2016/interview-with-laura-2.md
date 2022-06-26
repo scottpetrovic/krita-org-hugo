@@ -58,7 +58,7 @@ I feel like I'm always finding new drawing methods that I like better than my ol
 
 ### What techniques and brushes did you use in it?
 
-I believe I used the Ink\_Tilt brushes for sketching and Basic\_Wet brushes for coloring. Those are the ones I use for most of my more "finished" work now, but they're also great for more sketchy drawings like the one I mentioned!
+I believe I used the Ink_Tilt brushes for sketching and Basic_Wet brushes for coloring. Those are the ones I use for most of my more "finished" work now, but they're also great for more sketchy drawings like the one I mentioned!
 
 ### Where can people see more of your work?
 

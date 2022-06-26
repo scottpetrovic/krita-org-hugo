@@ -34,6 +34,6 @@ Today we have for you an interview with Coyau, who is the artist who has collabo
 
 **If you had to pick one favorite of all your work done in Krita so far, what would it be?** I've uploaded to DeviantART my favorites (what I didn't delete so far – I delete a lot).
 
-**What is it that you like about the mouse? What brushes did you use in it?** I've tried to do what I did on paper: kraft paper, "pencil\_HB" (which works well), "Pencil\_2B" (that looks more like black chalk), a little watercolor and white gouache for the highlights (unfortunately, I can't find the watercolor tool, so I've used white "pencil\_HB" instead – go figure). Maybe I should try brush kits…
+**What is it that you like about the mouse? What brushes did you use in it?** I've tried to do what I did on paper: kraft paper, "pencil_HB" (which works well), "Pencil_2B" (that looks more like black chalk), a little watercolor and white gouache for the highlights (unfortunately, I can't find the watercolor tool, so I've used white "pencil_HB" instead – go figure). Maybe I should try brush kits…
 
 Thanks Coyau for this interview! [Here](http://coyau.deviantart.com/) you can see more of his art :)

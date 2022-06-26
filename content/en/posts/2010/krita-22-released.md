@@ -14,7 +14,7 @@ Development continues for Krita 2.3 which will be released near the end of this 
 Please read [the full changelog for an almost exhausting list](http://krita.org/component/content/article/11-changelogs/44-krita-22-changelog) of changes, or read on for more details about what makes Krita 2.2 cool!  
 
 Some Linux distributions have made or will make Krita 2.2 available in special repositories. For Deb ian this is [http://qt-kde.debian.net/](http://qt-kde.debian.net/). For openSUSE  11.2 with KDE 4.4:  
-[http://download.opensuse.org/repositories/KDE:/KDE4:/Playground/openSUSE\_11.2\_KDE4\_Factory\_Desktop](http://download.opensuse.org/repositories/KDE:/KDE4:/Playground/openSUSE_11.2_KDE4_Factory_Desktop/). Note that depending on your distribution, you might have to install additional packages from KOffice. You can also download the [source](http://download.kde.org/download.php?url=unstable/koffice-2.2.0/koffice-2.2.0.tar.bz2) yourself.  
+[http://download.opensuse.org/repositories/KDE:/KDE4:/Playground/openSUSE_11.2_KDE4_Factory_Desktop](http://download.opensuse.org/repositories/KDE:/KDE4:/Playground/openSUSE_11.2_KDE4_Factory_Desktop/). Note that depending on your distribution, you might have to install additional packages from KOffice. You can also download the [source](http://download.kde.org/download.php?url=unstable/koffice-2.2.0/koffice-2.2.0.tar.bz2) yourself.  
 
 ### Brush Engines
 

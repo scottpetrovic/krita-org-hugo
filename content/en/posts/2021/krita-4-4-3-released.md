@@ -22,7 +22,7 @@ This is the first release of Krita with a universal binary for macOS: the DMG co
 - Provide host so pathPattern could be effective
 - Fix color selector covering entire screen ([BUG:432459](https://bugs.kde.org/show_bug.cgi?id=432459))
 - Saved configs aren't loaded after restart ([BUG:432433](https://bugs.kde.org/show_bug.cgi?id=432433))
-- Add key functions to psd\_layer\_effects\_shadow\_base ([BUG:432904](https://bugs.kde.org/show_bug.cgi?id=432904))
+- Add key functions to psd_layer_effects_shadow_base ([BUG:432904](https://bugs.kde.org/show_bug.cgi?id=432904))
 - Fix reloading presets from user-imported bundles ([BUG:432488](https://bugs.kde.org/show_bug.cgi?id=432488))
 
 ### Crashes
@@ -47,7 +47,7 @@ This is the first release of Krita with a universal binary for macOS: the DMG co
 - Fix saving incremental backups ([BUG:432701](https://bugs.kde.org/show_bug.cgi?id=432701))
 - Fix a problem where the scratchpad could be unresponsive ([BUG:431708](https://bugs.kde.org/show_bug.cgi?id=431708))
 - Fix Color as Alpha and Preserve Alpha in Custom and Clipboard brushes ([BUG:432274](https://bugs.kde.org/show_bug.cgi?id=432274))
-- Fix the RGBA\_brushes bundle so Krita doesn't try to recreate it on startup [(BUG:431832](https://bugs.kde.org/show_bug.cgi?id=431832))
+- Fix the RGBA_brushes bundle so Krita doesn't try to recreate it on startup [(BUG:431832](https://bugs.kde.org/show_bug.cgi?id=431832))
 - Fix handling of style in KisAngleSelector when the spin box must be shown flat and use the new angle selector everywhere
 
 ## Download
@@ -66,7 +66,7 @@ If you're using the portable zip files, just open the zip file in Explorer and d
 
 ### Linux
 
-- 64 bits Linux: [krita-4.4.3-x86\_64.appimage](https://download.kde.org/stable/krita/4.4.3/krita-4.4.3-x86_64.appimage)
+- 64 bits Linux: [krita-4.4.3-x86_64.appimage](https://download.kde.org/stable/krita/4.4.3/krita-4.4.3-x86_64.appimage)
 - 64 bits Linux [G'Mic-Qt plugin appimage](https://download.kde.org/stable/krita/4.4.3/gmic_krita_qt-x86_64.appimage)
 
 (If, for some reason, Firefox thinks it needs to load this as text: to download, right-click on the link.)

@@ -9,7 +9,7 @@ tags:
 
 Krita 3.0.1はKrita 3.0リリース後の最初のバージョンとなります。我々は新たに新機能追加期間とバグ修正期間を設定した一定のスケジュールを決め、6週間ごとにリリースを行うようにしました。このリリースにはKickstarterの支援による機能のみならず、今年2016年度のGoogle Summer of Codeプロジェクトの最初の成果が含まれているほか、新たな貢献者であるEugene Ingerman、Nishant Rodrigues、Miroslav Talasek、Laurent Jospinによる開発成果、及びDmitryの指導の下開発に参加してくれた学生であるGrigory Tantsev、Alexey Kapustinによる開発成果も含まれています。
 
-https://www.youtube.com/watch?v=9S\_x6koOVBo
+https://www.youtube.com/watch?v=9S_x6koOVBo
 
 [Nathan Lovato氏による動画](http://gdquest.com/)
 
@@ -94,7 +94,7 @@ https://www.youtube.com/watch?v=9S\_x6koOVBo
 - アプリケーションの一部が適切な言語に切り替わらない問題を修正
 - フィルタレイヤーを含むマクロを編集時にクラッシュする問題を修正
 - 画像を閉じ、新しい画像を開くときに発生するメモリの問題を修正
-- 3\_textureブラシ形状をアルファを使うように修正
+- 3_textureブラシ形状をアルファを使うように修正
 - プレビューが表示および非表示できるように補助線を修正
 - 変形ツールを使用している際に移動はキャンバスの回転を計算に入れるようになりました
 - テンプレートの保存を修正
@@ -148,7 +148,7 @@ Windows版KritaはWindows 7、Windows 8、Windows 10で動作が確認されて�
 
 Linuxについてはあらゆる最近のLinuxディストリビューションで動作するはずの[AppImage](http://appimage.org/)版を提供します。AppImageをダウンロードして、実行可能にして起動してください。インストールは必要ありません。現時点では64ビット版のみです。このappimageは実験的なデスクトップ統合を含んでいます。
 
-- [krita-3.0.1-x86\_64.appimage](http://files.kde.org/krita/3/linux/krita-3.0.1-x86_64.appimage)
+- [krita-3.0.1-x86_64.appimage](http://files.kde.org/krita/3/linux/krita-3.0.1-x86_64.appimage)
 
 また [UbuntuのApp Storeからsnap format](https://uappexplorer.com/app/krita.krita)でKritaを手に入れることもできます。このバージョンにはKrita自体への翻訳も含まれています。インストールは以下で行ってください
 

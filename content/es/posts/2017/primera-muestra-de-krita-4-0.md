@@ -56,7 +56,7 @@ Estas versiones de prueba solo están disponibles en 64 bits, windows portable z
 
 #### Linux
 
-- 64 bits Linux: [krita-4.0.0-prealpha-x86\_64.appimage](https://download.kde.org/unstable/krita/4.0.0-prealpha/krita-4.0.0-pre-alpha-x86_64.appimage)
+- 64 bits Linux: [krita-4.0.0-prealpha-x86_64.appimage](https://download.kde.org/unstable/krita/4.0.0-prealpha/krita-4.0.0-pre-alpha-x86_64.appimage)
 
 #### OSX
 

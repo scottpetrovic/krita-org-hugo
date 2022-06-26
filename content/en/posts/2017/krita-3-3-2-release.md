@@ -19,7 +19,7 @@ Additionally, there are the following fixes and improvements:
 - Performance, Windows: improve the performance when loading icons
 - macOS: render the frames-per-second overlay widget correctly
 - Filters: it's now possible to edit the filter's settings directly in the xml that is used to save filter definitions to .krita files.
-- Filters: a new ASC\_CDL color balance filter was added, with Slope, Offset and Power options.
+- Filters: a new ASC_CDL color balance filter was added, with Slope, Offset and Power options.
 - Crashes: fix a crash that happened when closing a second document with infinite canvas active
 - Layers: Make it possible to copy group layers
 - UI: make it possible to use the scroll-wheel to scroll through patterns when the patterns palette is very narrow.
@@ -45,7 +45,7 @@ Note for Windows users: if you encounter crashes, please follow [these instructi
 
 #### Linux
 
-- 64 bits Linux: [krita-3.3.2-x86\_64.appimage](https://download.kde.org/stable/krita/3.3.2/krita-3.3.2-x86_64.appimage)
+- 64 bits Linux: [krita-3.3.2-x86_64.appimage](https://download.kde.org/stable/krita/3.3.2/krita-3.3.2-x86_64.appimage)
 
 (If, for some reason, Firefox thinks it needs to load this as text: to download, right-click on the link.)
 

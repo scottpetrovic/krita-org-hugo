@@ -35,7 +35,7 @@ Excepto por la administración de color y de los recursos, el resto de la lista 
 
 Por si no lo has visto, Wolthera hizo un video demostrando las mascaras de la gama en el nuevo panel de paletas de colores:
 
-https://www.youtube.com/watch?v=d3\_HL9OoHs4
+https://www.youtube.com/watch?v=d3_HL9OoHs4
 
 ### Y por ultimo...
 

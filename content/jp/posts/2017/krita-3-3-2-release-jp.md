@@ -21,7 +21,7 @@ Krita 3.3.2を今日リリースしました。Krita3.3.0のバグ修正リリ�
 - パフォーマンス, Windows: アイコンロードのパフォーマンスを向上
 - macOS: 1秒のフレーム数のオーバレイウィジェットのレンダリングを修正
 - フィルタ: Krita形式ファイルでフィルタを保存をするために仕様しているXMLの直接編集を可能に
-- フィルタ: ASC\_CDLカラーバランスフィルタの追加。Slope、Offset、Powerオプション付き
+- フィルタ: ASC_CDLカラーバランスフィルタの追加。Slope、Offset、Powerオプション付き
 - クラッシュ: 無限キャンバスをアクティブにしている2つ目のドキュメントを閉じた場合のクラッシュを修正
 - レイヤー: グループレイヤーのコピーを可能に
 - UI: パターンパレットの幅が狭い場合にホイールでスクロールを可能に
@@ -47,7 +47,7 @@ Windowsユーザーの皆さんへ：もしクラッシュする事案に遭遇�
 
 #### Linux
 
-- 64ビットLinux用AppImage版: [krita-3.3.2-x86\_64.appimage](https://download.kde.org/stable/krita/3.3.2/krita-3.3.2-x86_64.appimage)
+- 64ビットLinux用AppImage版: [krita-3.3.2-x86_64.appimage](https://download.kde.org/stable/krita/3.3.2/krita-3.3.2-x86_64.appimage)
 
 (なぜかFirefoxはテキストとして読み込もうとするようです。ダウンロードするにはリンクの右クリックから保存してください)
 

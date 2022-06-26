@@ -9,7 +9,7 @@ categories:
 
 ### Could you tell us something about yourself?
 
-Hey, my name is Natasa, I'm a Greek illustrator from Athens currently living in Portugal. My nick is Anastasia\_Arjuk. I get all of my inspiration from nature, mythology and people.
+Hey, my name is Natasa, I'm a Greek illustrator from Athens currently living in Portugal. My nick is Anastasia_Arjuk. I get all of my inspiration from nature, mythology and people.
 
 ### Do you paint professionally, as a hobby artist, or both?
 
@@ -65,7 +65,7 @@ I just painted it the same way as traditional art, layers of colour on top of ea
 
 ### Where can people see more of your work?
 
-Artstation: [https://www.artstation.com/anastasia\_arjuk](https://www.artstation.com/anastasia_arjuk) Behance: [https://www.behance.net/Anastasia\_Arjuk](https://www.behance.net/Anastasia_Arjuk) Instagram: [https://www.instagram.com/anastasia\_arjuk/](https://www.instagram.com/anastasia_arjuk/) Twitter: [https://twitter.com/Anastasia\_Arjuk](https://twitter.com/Anastasia_Arjuk) Deviant Art: [https://anastasia-arjuk.deviantart.com/](https://anastasia-arjuk.deviantart.com/) YouTube: [https://www.youtube.com/channel/UCAy9Hg8ZaV87wqT6GO4kVnw](https://www.youtube.com/channel/UCAy9Hg8ZaV87wqT6GO4kVnw)
+Artstation: [https://www.artstation.com/anastasia_arjuk](https://www.artstation.com/anastasia_arjuk) Behance: [https://www.behance.net/Anastasia_Arjuk](https://www.behance.net/Anastasia_Arjuk) Instagram: [https://www.instagram.com/anastasia_arjuk/](https://www.instagram.com/anastasia_arjuk/) Twitter: [https://twitter.com/Anastasia_Arjuk](https://twitter.com/Anastasia_Arjuk) Deviant Art: [https://anastasia-arjuk.deviantart.com/](https://anastasia-arjuk.deviantart.com/) YouTube: [https://www.youtube.com/channel/UCAy9Hg8ZaV87wqT6GO4kVnw](https://www.youtube.com/channel/UCAy9Hg8ZaV87wqT6GO4kVnw)
 
 ### Anything else you'd like to share?
 

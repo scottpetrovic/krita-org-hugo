@@ -51,7 +51,7 @@ There are also Windows builds with debug information available, as an experiment
 
 **Source code**:
 
-- [krita\_2.99.90](http://download.kde.org/unstable/krita/2.99.90/)
+- [krita_2.99.90](http://download.kde.org/unstable/krita/2.99.90/)
 
 **Git repository:**
 

@@ -45,7 +45,7 @@ categories:
 - [**Bug 322918**](https://bugs.kde.org/show_bug.cgi?id=322918) - Wacom Cintiq 13HD 的校准问题 (应该已在 git/3.1.0 中得到修复)
 - [**Bug 327952**](https://bugs.kde.org/show_bug.cgi?id=327952) - Wacom 模块在校准 Cintiq 21UX 时不起作用 (应该已在 git/3.1.0 中得到修复)
 - [**Bug 364043**](https://bugs.kde.org/show_bug.cgi?id=364043) - Intuos Pro 无法生成配置方案，也无法配置按钮。
-- [**Bug 343666**](https://bugs.kde.org/show_bug.cgi?id=343666) - Device 'Wacom Bamboo One M Pen' is not in wacom\_devicelist, not able to configure using tablet configuration (应该已在 git/3.1.0 中得到修复)
+- [**Bug 343666**](https://bugs.kde.org/show_bug.cgi?id=343666) - Device 'Wacom Bamboo One M Pen' is not in wacom_devicelist, not able to configure using tablet configuration (应该已在 git/3.1.0 中得到修复)
 - [**Bug 339138**](https://bugs.kde.org/show_bug.cgi?id=339138) - 数位板的屏幕映射在 KDE 重启后会复位
 - [**Bug 325520**](https://bugs.kde.org/show_bug.cgi?id=325520) - Dell Latitude XT2 屏幕旋转时触控设备朝相反方向旋转 (应该已在 git/3.1.0 中得到修复)
 

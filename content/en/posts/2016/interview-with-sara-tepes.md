@@ -56,7 +56,7 @@ Probably "Red Dress". I love the backlighting and the vibrant red highlights. I 
 
 ### What techniques and brushes did you use in it?
 
-Just the color tool and the bristles\_hairy brush.
+Just the color tool and the bristles_hairy brush.
 
 ### Where can people see more of your work?
 

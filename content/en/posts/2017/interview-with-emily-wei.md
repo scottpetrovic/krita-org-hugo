@@ -24,7 +24,7 @@ That's really tough; there are too many! Pretty much everyone I'm following on T
 
 ### How and when did you get to try digital painting for the first time?
 
-I think I was about 9 or 10 when I started? I was a hardcore Neopets user at the time, and at some point, I stumbled upon the art community there. That led to me discovering How to Draw \_\_\_\_ in Photoshop tutorials by an artist I really looked up to (shameless plug: her social media handle name is droidnaut across various platforms! Do check her out ^^)
+I think I was about 9 or 10 when I started? I was a hardcore Neopets user at the time, and at some point, I stumbled upon the art community there. That led to me discovering How to Draw ____ in Photoshop tutorials by an artist I really looked up to (shameless plug: her social media handle name is droidnaut across various platforms! Do check her out ^^)
 
 It really amazed me how versatile digital art was, and I've never stopped since.
 

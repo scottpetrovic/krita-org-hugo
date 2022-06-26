@@ -38,16 +38,16 @@ New builds for Linux are being created at the moment and will be available throu
 
 - Users of Ubuntu and derivatives can use Krita Lime, as usual: [https://launchpad.net/~dimula73/+archive/ubuntu/krita](https://launchpad.net/%7Edimula73/+archive/ubuntu/krita). Currently rebuilding: builds will be ready later today!
 - OpenSUSE users can use Leinir's OBS repositories which have Krita built with support for Vc (which makes painting faster):
-    - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE\_13.1/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.1/)
-    - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE\_13.2/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.2/)
-    - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE\_Factory/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_Factory/)
+    - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.1/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.1/)
+    - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.2/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_13.2/)
+    - [http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_Factory/](http://download.opensuse.org/repositories/home:/leinir:/calligragemini/openSUSE_Factory/)
 
 ### Windows:
 
 From Vista and up, Windows 7 and up is recommended. There is **no** Windows XP build. If you have a 64 bits version of Windows, don’t use the 32 bits build! The zip files do not need installing, just unpacking, but do not come with the Visual Studio C runtime that is included in the msi installer.
 
-- 32 bits Windows: [http://files.kde.org/krita/windows/krita\_x86\_2.9.4.6.msi](http://files.kde.org/krita/windows/krita_x86_2.9.4.6.msi) or [http://files.kde.org/krita/windows/krita\_x86\_2.9.4.6.zip](http://files.kde.org/krita/windows/krita_x86_2.9.4.6.zip) (This version does not include a working G’Mic.)
-- 64 bits Windows: [http://files.kde.org/krita/windows/krita\_x64\_2.9.4.6.msi](http://files.kde.org/krita/windows/krita_x64_2.9.4.6.msi) or [http://files.kde.org/krita/windows/krita\_x64\_2.9.4.6.zip](http://files.kde.org/krita/windows/krita_x64_2.9.4.6.zip) (Not all G'Mic filters work on Windows, some may even crash Krita.)
+- 32 bits Windows: [http://files.kde.org/krita/windows/krita_x86_2.9.4.6.msi](http://files.kde.org/krita/windows/krita_x86_2.9.4.6.msi) or [http://files.kde.org/krita/windows/krita_x86_2.9.4.6.zip](http://files.kde.org/krita/windows/krita_x86_2.9.4.6.zip) (This version does not include a working G’Mic.)
+- 64 bits Windows: [http://files.kde.org/krita/windows/krita_x64_2.9.4.6.msi](http://files.kde.org/krita/windows/krita_x64_2.9.4.6.msi) or [http://files.kde.org/krita/windows/krita_x64_2.9.4.6.zip](http://files.kde.org/krita/windows/krita_x64_2.9.4.6.zip) (Not all G'Mic filters work on Windows, some may even crash Krita.)
 
 ### OSX:
 

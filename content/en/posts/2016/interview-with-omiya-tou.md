@@ -62,7 +62,7 @@ I'd pick this because I like the sense of depth and atmosphere:
 
 ### What techniques and brushes did you use in it?
 
-I colored this by overlaying a solid blue-gray layer which is set to _color dodge_ mode onto a grayscale image. A lot of this is painted using a brush named _Bristles\_hairy_, definitely one of my favorites.
+I colored this by overlaying a solid blue-gray layer which is set to _color dodge_ mode onto a grayscale image. A lot of this is painted using a brush named _Bristles_hairy_, definitely one of my favorites.
 
 ### Where can people see more of your work?
 

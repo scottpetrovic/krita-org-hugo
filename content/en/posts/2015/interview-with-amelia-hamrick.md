@@ -58,7 +58,7 @@ This poster that I drew for a friend of a scene from her Pathfinder character's 
 
 ### What techniques and brushes did you use in it?
 
-I used primarily the ink pen with the tilt function (ink\_tilt\_20) and the hairy brush (bristles\_hairy). I sketched and inked first of course, then painted everything in greyscale on one layer and colored on top of that with an overlay layer! I also used the perspective guides quite liberally (though I hadn't yet figured out how to properly use the ruler assistants, haha)
+I used primarily the ink pen with the tilt function (ink_tilt_20) and the hairy brush (bristles_hairy). I sketched and inked first of course, then painted everything in greyscale on one layer and colored on top of that with an overlay layer! I also used the perspective guides quite liberally (though I hadn't yet figured out how to properly use the ruler assistants, haha)
 
 ### Where can people see more of your work?
 

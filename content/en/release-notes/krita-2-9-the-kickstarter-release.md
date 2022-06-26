@@ -18,7 +18,7 @@ And now, stay with us for a whirlwind tour of Krita 2.9's new major features:
 
 [!["Between Worlds" by Mira-Maia Kyyrö (http://neko-maya.fi/)](/images/pages/betweenworlds_nekomaya-300x190.png)](/images/posts/2015/betweenworlds_nekomaya.png) "Between Worlds" by Mira-Maia Kyyrö (http://neko-maya.fi/)
 
-[!["Fairies" by Elias Silveira (http://www.flickr.com/photos/elias_ilustracao_design)](/images/pages/Krita_Fairy01-300x212.jpeg)](/images/posts/2015/Krita_Fairy01.jpeg) "Fairies" by Elias Silveira (http://www.flickr.com/photos/elias\_ilustracao\_design)
+[!["Fairies" by Elias Silveira (http://www.flickr.com/photos/elias_ilustracao_design)](/images/pages/Krita_Fairy01-300x212.jpeg)](/images/posts/2015/Krita_Fairy01.jpeg) "Fairies" by Elias Silveira (http://www.flickr.com/photos/elias_ilustracao_design)
 
 ### View your images in a new perspective with multiple documents!
 

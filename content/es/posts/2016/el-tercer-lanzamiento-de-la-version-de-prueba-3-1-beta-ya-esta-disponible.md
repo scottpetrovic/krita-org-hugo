@@ -37,7 +37,7 @@ Esta versión es mucho mas estable y productiva que las anteriores betas, nos gu
 
 ### Linux
 
-- 64 bits Linux: [krita-3.0.92-x86\_64.appimage](http://download.kde.org/unstable/krita/3.0.92/krita-3.0.92-x86_64.appimage) (MD5 Hash: 2437a99ca375fcf79647147680714076)
+- 64 bits Linux: [krita-3.0.92-x86_64.appimage](http://download.kde.org/unstable/krita/3.0.92/krita-3.0.92-x86_64.appimage) (MD5 Hash: 2437a99ca375fcf79647147680714076)
 
 En el Ubuntu App Store, en el canal beta también puedes encontrar el appimage.
 

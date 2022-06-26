@@ -48,7 +48,7 @@ categories:
 - Fix export in Krita using CLI [commit](https://invent.kde.org/graphics/krita/-/commit/38b9dfa668494c03a9d11b16e3f619ff3c4f27a8)
 - Fix OpenColorIO include dir detection [commit](https://invent.kde.org/graphics/krita/-/commit/1c55fefecb85366feee7d101a343f31d3cfb8e5d)
 - Fix order of arguments in OverviewThumbnailStrokeStrategy (CID 310957)
-- Do not rely on endianness in psd\_image\_data (CID 35080)
+- Do not rely on endianness in psd_image_data (CID 35080)
 - Widen variables before making calculations (CID 248925)
 - 0verride patchWidth and patchHeight being 0 with defaults (CID 248441, CID 248622)
 - Check value after dynamic cast in ConvertColorSpacePr.Vis. (CID 304985)
@@ -76,7 +76,7 @@ categories:
 - Fix KoQuaZipStore error checking [commit](https://invent.kde.org/graphics/krita/-/commit/80f43d1ce4bb1305731cffc192c4e9907a88b986)
 - Show country in language list for disambiguation ([Bug 437994](https://bugs.kde.org/show_bug.cgi?id=437994))
 - Fix failing update when transforming a shape layer with a Transform Tool ([Bug 437886](https://bugs.kde.org/show_bug.cgi?id=437886))
-- Do not append country name to zh\_CN and zh\_TW ([Bug 437994](https://bugs.kde.org/show_bug.cgi?id=437994))
+- Do not append country name to zh_CN and zh_TW ([Bug 437994](https://bugs.kde.org/show_bug.cgi?id=437994))
 - Revert "Fix OpenColorIO include dir detection"
 - Add more checks on saving to kra [commit](https://invent.kde.org/graphics/krita/-/commit/d47163e4f7e99d790be7905b79b2ca94ef8ef675)
 - Fix non-float results in expressions for float values (CID 329390, CID 329448, CID 329482)
@@ -86,7 +86,7 @@ categories:
 - Initialize members of KisColorSelector classes (CID 36349, CID 248848, CID 248452, CID 248707)
 - Android: Make saving operation on exit more robust [commit](https://invent.kde.org/graphics/krita/-/commit/f248c032199be64e9ac4e172155434d793fdd212)
 - Bugfix: Artifact with more than one active assitant ([Bug 401940](https://bugs.kde.org/show_bug.cgi?id=401940))
-- Android: SAFE\_ASSERT on TouchCancel event [commit](https://invent.kde.org/graphics/krita/-/commit/adebed6735b94bbcd7945aeace304975f43e5667)
+- Android: SAFE_ASSERT on TouchCancel event [commit](https://invent.kde.org/graphics/krita/-/commit/adebed6735b94bbcd7945aeace304975f43e5667)
 - Android: Layer Properties' text field not responding to keyboard events
 - Android: Fix Window Manager position when rotating
 - Bugfix: Inconsistent stroke fill and shape fill ([Bug 399127](https://bugs.kde.org/show_bug.cgi?id=399127), [Bug 422204](https://bugs.kde.org/show_bug.cgi?id=422204), [Bug 434828](https://bugs.kde.org/show_bug.cgi?id=434828))
@@ -107,7 +107,7 @@ categories:
 
 ### Linux
 
-- 64 位元 Linux AppImage：[krita-4.4.5-x86\_64.appimage](https://download.kde.org/stable/krita/4.4.5/krita-4.4.5-x86_64.appimage)
+- 64 位元 Linux AppImage：[krita-4.4.5-x86_64.appimage](https://download.kde.org/stable/krita/4.4.5/krita-4.4.5-x86_64.appimage)
 - 64 位元 Linux [G'Mic-Qt 外掛程式 AppImage](https://download.kde.org/stable/krita/4.4.5/gmic_krita_qt-x86_64.appimage)
 
 ### macOS

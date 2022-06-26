@@ -36,7 +36,7 @@ If you're using the portable zip files, just open the zip file in Explorer and d
 
 ### Linux
 
-- 64 bits Linux: [krita-4.4.1-x86\_64.appimage](https://download.kde.org/stable/krita/4.4.1/krita-4.4.1-x86_64.appimage)
+- 64 bits Linux: [krita-4.4.1-x86_64.appimage](https://download.kde.org/stable/krita/4.4.1/krita-4.4.1-x86_64.appimage)
 - 64 bits Linux [G'Mic-Qt plugin appimage](https://download.kde.org/stable/krita/4.4.1/gmic_krita_qt-x86_64.appimage)
 
 (If, for some reason, Firefox thinks it needs to load this as text: to download, right-click on the link.)

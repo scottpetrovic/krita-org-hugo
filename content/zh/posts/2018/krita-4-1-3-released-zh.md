@@ -38,7 +38,7 @@ Dmitry Kazakov 开足了马力对 Krita 进行各种改进。其中一项成果�
 
 - 改进生成的 epub 文件内导航功能：
     - 单个 epub 文件内的画框和对话框的区域导航
-    - 在 nav.xhtml 和 ncx 中使用“acbf\_title”关键词创建TOC
+    - 在 nav.xhtml 和 ncx 中使用“acbf_title”关键词创建TOC
     - 在 nav.xhtml 和 ncx 中包含页面列表
 - 确保生成的 epub 文件能通过 epub 检查验证。包括确保 mimetype 首先被添加到 zip 文件中，还有一些其他作者元数据和 NCX 页面列表的修正.
 - 修复语言问题
@@ -46,7 +46,7 @@ Dmitry Kazakov 开足了马力对 Krita 进行各种改进。其中一项成果�
     - 为配合'refines'的使用而添加 MARC-relators
     - 为 acbf 和 epub 添加共用的 UUID
     - 添加倍数和正确的日期
-- 实现"epub\_spread"、基本颜色 ahl 元数据和其他特性，此外还有：
+- 实现"epub_spread"、基本颜色 ahl 元数据和其他特性，此外还有：
     - 让对话框的本地化更加可靠
     - 为全部对话框的文字区域命名以提高精确度
     - 设置作者序列
@@ -204,7 +204,7 @@ Windows 用户请注意：如果你遇到了崩溃，请[按此说明](https://d
 
 ### Linux 版本
 
-- 64 位 AppImage：[krita-4.1.3-x86\_64.appimage](https://download.kde.org/stable/krita/4.1.3/krita-4.1.3-x86_64.appimage)
+- 64 位 AppImage：[krita-4.1.3-x86_64.appimage](https://download.kde.org/stable/krita/4.1.3/krita-4.1.3-x86_64.appimage)
 - 64 位 G’Mic-Qt 插件 AppImage：[G'Mic-Qt 插件 appimage](https://download.kde.org/stable/krita/4.1.3/gmic_krita_qt-x86_64.appimage)
 
 (如果 Firefox 把下载文件当作文本打开，请在连接上点击右键/另存为)
