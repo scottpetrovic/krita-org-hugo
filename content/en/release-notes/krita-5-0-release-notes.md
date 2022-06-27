@@ -25,9 +25,7 @@ What a concept, eh? But here's the rub: our grassroots development model means, 
 
 [**Support our mission by joining the Krita Development Fund today!**](https://fund.krita.org/)
 
- 
-
-\[video width="1920" height="1080" mp4="/images/pages/Video-for-store_final-30fps.mp4"\]\[/video\]
+{{< video-player src="/videos/Video-for-store_final-30fps.mp4" type="video/mp4">}}
 
 Music provided to us by [Irene Fariña](https://www.instagram.com/irerakmusic/).
 
@@ -128,13 +126,13 @@ Like the Timeline Docker, [Krita's Curves Docker](https://docs.krita.org/en/refe
 
 Krita 5 now supports Clone Frames, a much requested feature that allows animators to reuse the exact same key frame at multiple times throughout their animation. Clone frames are great for building looping animations and finding clever other ways to save yourself time while animating. Just remember that editing one clone edits them all!
 
-\[video width="1920" height="1028" webm="/images/posts/2021/krita_anim-clones-direct.webm"\]\[/video\]
+{{< video-player src="/videos/krita_anim-clones-direct.webm" type="video/webm" >}}
 
 #### Transform Mask Animation ([MR 493](https://invent.kde.org/graphics/krita/-/merge_requests/493))
 
 What good is a shiny Curves Docker without some new things to animate? Along with layer opacity, Krita 5 also brings the ability to animate the position, rotation, scale and shear of any layer through animated Transform Masks. Sometimes referred to as "tweening" in other software, this feature should help with animations that are difficult or inconvenient to do through drawing alone. With animated transform masks, moving a walking figure as shown in the video will be a piece of cake.
 
-\[video width="1920" height="1028" webm="/images/posts/2021/krita_anim-tform-direct.webm"\]\[/video\]
+{{< video-player src="/images/posts/2021/krita_anim-tform-direct.webm" type="video/webm">}}
 
 #### Import Videos as Animations ([MR 778](https://invent.kde.org/graphics/krita/-/merge_requests/778))
 
@@ -270,7 +268,7 @@ Work by artists using Krita:
 
 Thanks to community contributor **Dmitrii Utkin**, Krita artists can now record a time-lapse video of their creative sessions with the [new Recorder Docker](https://docs.krita.org/en/reference_manual/dockers/recorder_docker.html)! (Also, a quick shout out to another community contributor, **Shi Yan**, for their good work on this feature. Thank you both for your contributions.)
 
-\[video width="1920" height="1080" mp4="/images/posts/2021/local-assistants-50.mp4"\]\[/video\]
+{{< video-player src="/videos/local-assistants-50.mp4" type="video/webm">}}
 
 The two point perspective assistant is a quick and convenient way to set up what before required two vanishing points and a parallel assistant. Combined with the area limiter, this tool should prove very useful for comics and concept art.
 

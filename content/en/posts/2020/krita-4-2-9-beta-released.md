@@ -9,7 +9,12 @@ Much later than we wanted to, we've finally gotten the beta ready for Krita 4.2.
 
 On the other hand, we have _also_ worked like crazy to make this the most stable release of Krita ever, with countless bugs fixed -- and there are even some fun new features:
 
-- Dmitry improved the brush outline: it no longer flickers when you hover over the canvas: \[video width="960" height="540" mp4="/images/posts/2020/2020-02-11_comparing-outline.mp4"\]\[/video\]
+- Dmitry improved the brush outline: it no longer flickers when you hover over the canvas: \
+
+{{< video-player src="https://cdn.kde.org/krita/marketing/videos/2020-02-11_comparing-outline.mp4" type="video/mp4" >}}
+
+
+
 - He also added "Airbrush" and "Airbrush Rate" to the Color Smudge brush, and a new Ratio setting, also for the Color Smudge brush, which allows making the shape of the brush flatter using the different sensors. Ramón Miranda has even made a video demonstrating these features: 
     
     <iframe src="https://www.youtube.com/embed/fyc8-qgxAww" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>

@@ -51,19 +51,14 @@ The files will be generated to the Public folder. You should be able to copy tha
 # TODO items
 0. Make sure language codes mirror docs.krita.org. This makes it easier to bounce to the docs site while retaining the same language
 
-1. Whenever the project gets a bit farther, get a plan on moving images/assets to an external location/server to reduce GIT repo size
-- Ben (KDE sys admin) says we can put heavier files all on cdn.kde.org. It has heavy caching, so be aware of that
-- if we have custom videos (not on YouTube), we can put those on cdn.kde.org too
-
-2. Since this is a static site, it has no logic with when to display a 404 page. That will have to be configured on the server whenever we start testing it out
+1. Since this is a static site, it has no logic with when to display a 404 page. That will have to be configured on the server whenever we start testing it out
 - For testing locally, you should be able to go to your /404.html (mine is http://localhost:1313/404.html)
 
-3. Make a site map page so it is more discoverable for people to see all the cotent that exists for the website
+2. Make a site map page so it is more discoverable for people to see all the cotent that exists for the website
 - This will be useful for testing and cleaning up data/pages
 
-4. How will we manage individual payments with Mollie in the new system?
 
 # Questions before we go live
-1. Not sure how we are going to get Mollie payments to the fund site if we shut down the WordPress site
+1. Not sure how we are going to get Mollie payments to the fund site if we shut down the WordPress site. it sounds like Mollie might not be the best solution for single time payments, so look into alternatives
 
 

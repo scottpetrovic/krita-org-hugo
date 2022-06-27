@@ -35,7 +35,7 @@ https://youtu.be/gWv--Do9L0E
 
 **Una mejor vista** Krita 4.2 tendrá muchas composturas las cuales mejoran el proceso de pintado, tales como la posibilidad de cambiar el tamaño de las vistas previas en el panel de capas, una mejor interacción con las paletas de color, hacer posible el traducir los controladores de Python, etc. Ademas hay nuevos modos de mezclado disponibles y mas por ser agregados. El controlador de G'MIC se ha actualizado a la ultima versión disponible.
 
-\[video width="344" height="502" mp4="/images/posts/2018/resize-thumbnail.mp4"\]\[/video\]
+{{< video-player src="/videos/resize-thumbnail.mp4" type="video/mp4" >}}
 
 **Bastantes composturas de errores** Ya casi estamos a las 200 composturas de errores de código incorporadas en lo que sera 2.4, y el numero sigue creciendo.
 

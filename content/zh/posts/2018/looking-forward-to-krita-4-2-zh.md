@@ -36,7 +36,7 @@ https://youtu.be/gWv--Do9L0E
 
 **用户界面改进。**Krita 将会带来许多与改进工作流程有关的小修正，如实现更改图层工具面板预览图大小、改进的调色板交互方式、实现 Python 插件的翻译等等。除此之外还有一系列全新的混合模式正在陆续被添加进来，G'Mic 插件也被更新到了最新版本。
 
-\[video width="344" height="502" mp4="/images/posts/2018/resize-thumbnail.mp4"\]\[/video\]
+{{< video-player src="/videos/resize-thumbnail.mp4" type="video/mp4" >}}
 
 **大量的问题修复。**目前我们已经为 Krita 4.2 修复了近 200 个问题，这个数字每天都在增长。
 

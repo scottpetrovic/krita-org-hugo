@@ -18,7 +18,10 @@ Este es un lanzamiento gigante, con muchísimas mejoras, una gran cantidad de ca
 
 ¡Y mucho, mucho más! Para una lista completa, lee [las notas de lanzamiento](https://krita.org/es/krita-5-0-notas-de-lanzamiento/).
 
-\[video width="1920" height="1080" mp4="/images/posts/2021/Video-for-store_final-30fps.mp4"\]\[/video\] Música compuesta para nosotros por [Irene Fariña](https://www.instagram.com/irerakmusic/).
+{{< video-player src="/videos/Video-for-store_final-30fps.mp4" type="video/mp4">}}
+
+
+Música compuesta para nosotros por [Irene Fariña](https://www.instagram.com/irerakmusic/).
 
 Si compraste Krita en la tienda de Windows, la tienda de Epic, Steam o en Google Play Store, obtendrás la actualización tan pronto las tiendas hayan procesado nuestra solicitud. Por un mes mantendremos el costo de Krita 5 en tiendas al precio de la versión anterior, ¡aprovecha!
 

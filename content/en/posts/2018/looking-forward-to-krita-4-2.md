@@ -36,7 +36,7 @@ But experiment with it, test it, check it out! There are lots of new things in t
 
 **A smoother UI**: 4.2 will have lots of small fixes to improve your workflow. That ranges from making it possible to resize the thumbnails in the layer docker to improved interaction with color palettes to making it possible to translate plugins written in Python. There are also new blending modes, with more coming, and the G'Mic plugin has been updated to the latest version.
 
-\[video width="344" height="502" mp4="/images/posts/2018/resize-thumbnail.mp4"\]\[/video\]
+{{< video-player src="/videos/resize-thumbnail.mp4" type="video/mp4" >}}
 
 **Lots of bug fixes.** We're already at nearly 200 bug fixes for 4.2, and that number will only increase.
 

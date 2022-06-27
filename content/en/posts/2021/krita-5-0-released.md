@@ -19,7 +19,7 @@ This is a huge release, with a lot of new features and improvements. Some highli
 
 And much, much more! For a complete overview, read the [release notes.](/krita-5-0-release-notes/ )
 
-{{< video-player src="/images/posts/2021/Video-for-store_final-30fps.mp4" type="video/mp4">}}
+{{< video-player src="/videos/Video-for-store_final-30fps.mp4" type="video/mp4">}}
 
 Music provided to us by [Irene Fariña](https://www.instagram.com/irerakmusic/).
 

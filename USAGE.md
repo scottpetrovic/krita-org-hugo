@@ -16,6 +16,17 @@ Images in general are stored in the themes > krita-org-theme > static > images f
 
 To avoid naming conflicts, post images are currently broken apart into years. If you are creating a news story in 2022, you would put the images in the posts > 2022 folder.
 
+# Adding videos locally or to the CDN
+
+If the local video files are relatively small 1-2MB, you can put the videos in the videos folder in the themes > krita-org-theme > static > videos folder. If there is a large video, it is best to put it on the KDE CDN so this GIT repository won't explode in size.
+
+Videos are stored at this location on the KDE CDN:
+https://cdn.kde.org/krita/marketing/videos/
+
+This server needs special permission to access. It is considered the "Deino" server when requesting access. See example here for a local file:
+
+{{< video-player src="/videos/demo.mp4" type="video/mp4" >}}
+
 # Adding YouTube videos and shortcodes
 There are shortcuts (called shortcodes) that allow you to easily add more complex things to your markdown files. Here are few simple examples: 
 

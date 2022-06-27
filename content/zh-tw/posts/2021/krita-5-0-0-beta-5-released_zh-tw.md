@@ -19,7 +19,7 @@ Krita 5.0 終於正式發佈了！
 
 除此之外，還有很多其他改進！如欲了解更多，可閱讀[發佈通告](https://krita.org/zh-tw/krita-5-0-release-notes_zh-tw/)，裡面含有更全面的介紹。
 
-\[video width="1920" height="1080" mp4="/images/posts/2021/Video-for-store_final-30fps.mp4"\]\[/video\]
+{{< video-player src="/videos/Video-for-store_final-30fps.mp4" type="video/mp4">}}
 
 如果您曾在 Microsoft Store、Epic Store、Steam 商店或 Google Play 商店購買 Krita，您將會在稍後時間，待商店系統處理完成後接收到這次更新。在這些商店中，我們會為 Krita 保持舊有的售價直到一月十日。如您希望以目前的價格購買 Krita，請不要錯過這個機會啊！
 

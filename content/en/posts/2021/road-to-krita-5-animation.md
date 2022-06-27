@@ -13,13 +13,13 @@ With the release of Krita 3.0 back in May 2016 came a slew of features and impro
 
 But that was just the first step of our adventure in animation. And so, for the next major version, **Krita 5**, we set out to take Krita's existing animation tools, refine them as much as possible, and build up from there. Let's go over a couple of the changes...
 
-{{< video-player src="/images/posts/2021/krita_anim-clones-direct.webm" type="video/webm">}}
+{{< video-player src="/videos/krita_anim-clones-direct.webm" type="video/webm">}}
 
 At the bottom of our new Animation workspace you'll find the redesigned **Animation Timeline Docker**. This is the central hub for traditional animation in Krita and it's been updated with tons of new features and improvements, as well as all of the controls you need in one place--without becoming too cluttered or overwhelming. Most of the core workflow tools are presented directly on the left side of the title bar, while the set-and-forget style configuration options have been neatly tucked away into a compact menu on the right. On top of that, we've made a bunch of tweaks to each part of the timeline to make navigation, zooming, pinning layers, and manipulating frames look and feel better than before.
 
 This new timeline also has support for **Clone Frames**, a feature that allows you to reuse existing drawings throughout your animation, synchronizing changes across frames or even creating simple cycles. The ability to use the same drawing multiple times throughout a cut is an important part of most animation workflows, so I hope you'll find it useful!
 
-{{< video-player src="/images/posts/2021/krita_anim-tform-direct.webm" type="video/webm">}}
+{{< video-player src="/videos/krita_anim-tform-direct.webm" type="video/webm">}}
 
 On a tab next to the timeline lives the updated **Animation Curves Docker**. Taking a lot of design cues from the timeline, the curves docker is the main hub for animating numbers that control things like layer opacity.
 

@@ -3,8 +3,6 @@ title: "Release Notes for Krita 3.1"
 date: "2016-10-03"
 ---
 
-# Release Notes for Krita 3.1
-
 A quick video overview of all of the major features and fixes that are being shaipped with Krita 3.1.
 
 {{< youtube 0eHNll7lPKk >}}
@@ -17,7 +15,7 @@ Julian Thijssen's Google Summer of code project for 2016 gives us the power to r
 
 ### Render Animation
 
-\[video width="720" height="571" mp4="/images/posts/2016/animation-challenge.mp4"\]\[/video\]
+{{< video-player src="/videos/animation-challenge.mp4" type="video/mp4"  >}}
 
 Finally, you can now export your animations to the following animation formats: animated GIF, MP4, MKV, OGG, giving a range of small sized files for your favourite blogging site to high quality formats to show off on your favourite video sharing site! This requires the ffmpeg library. [See instructions on on how to set this up here](https://docs.krita.org/Render_Animation)!
 

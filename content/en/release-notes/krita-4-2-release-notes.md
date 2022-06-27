@@ -110,7 +110,7 @@ Easily move, rotate, or transform the selection by itself. You can even edit the
 
 ## Resize layer thumbnails
 
-\[video width="344" height="502" mp4="/images/posts/2018/resize-thumbnail.mp4"\]\[/video\]
+{{< video-player src="/videos/resize-thumbnail.mp4" type="video/mp4" >}}
 
 There is a new slider on the layers docker that allows you to resize the layer thumbnails to see them larger. The size is saved for when you return back to Krita the next time.
 
@@ -122,13 +122,14 @@ There is also a new "Copy Translate" mode. This allows you to specify multiple c
 
 ## Painting mask performance improvement
 
-\[video width="1378" height="825" webm="/images/posts/2019/painting_selection_mask.webm"\]\[/video\]
+
+{{< video-player src="/videos/painting_selection_mask.webm" type="video/webm" >}}
 
 You can create a selection with your normal brushes using the Global Selection option. This has previously been a slow area until now. They are now significantly faster. A small workflow change was made as well. If you show the Global Selection mask with no selection, everything will be selected by default.
 
 ## Improvement to Select Opaque
 
-\[video width="1378" height="825" webm="/images/posts/2019/select_opque_improvements.webm"\]\[/video\]
+{{< video-player src="/videos/select_opque_improvements.webm" type="video/webm" >}}
 
 Ctrl + clicking a layer's thumbnail in the layer docker makes a selection of the layers content. This is the same as the right click option Select Opaque. There are also new methods for making layer selections. "Select Opaque" has been renamed to "Select Opaque (replace)" now to account for the new functions.
 
@@ -151,19 +152,19 @@ Flow and Opacity now interact more like in other programs. The above gif shows h
 
 ## Clone Brush - Reset Origin
 
-\[video width="1000" height="640" webm="/images/posts/2019/clone_brush-v2.webm"\]\[/video\]
+{{< video-player src="/videos/clone_brush-v2.webm" type="video/webm"  >}}
 
 A new option was added to the clone brush that allows you to reset the origin after every brush stroke.
 
 ## Simplex Noise Generator
 
-\[video width="1000" height="640" webm="/images/posts/2019/fill_simplex_noise.webm"\]\[/video\]
+{{< video-player src="/videos/fill_simplex_noise.webm" type="video/webm"  >}}
 
 Add ability to dynamically add noise to your document. There are also options to make the noise tileable.
 
 ## New Blend modes
 
-\[video width="480" height="720" webm="/images/posts/2019/blend_modes.webm"\]\[/video\]
+{{< video-player src="/videos/blend_modes.webm" type="video/webm"  >}}
 
 New categories of the blend modes were added to create interesting effects.
 

@@ -9,7 +9,10 @@ Krita 团队为大家带来了新版软件，Krita 4.2.9。题外话，我们在
 
 不过我们克服了这些困难！Krita 4.2.9 在测试期间遇到的所有问题都已解决，软件不但非常稳定，还为大家带来了一些全新功能！
 
-- Dmitry 对笔刷轮廓的显示方式作出了改进，它在画布上悬停时不会再闪烁了： \[video width="960" height="540" mp4="/images/posts/2020/2020-02-11_comparing-outline.mp4"\]\[/video\]
+- Dmitry 对笔刷轮廓的显示方式作出了改进，它在画布上悬停时不会再闪烁了： 
+
+{{< video-player src="https://cdn.kde.org/krita/marketing/videos/2020-02-11_comparing-outline.mp4" type="video/mp4" >}}
+
 - Dmitry 还为颜色涂抹笔刷引擎加入了“喷枪”、“频率”和“宽高比”参数，“宽高比”参数可以通过映射到传感器来控制笔尖形状的扁度。Ramón Miranda 专门制作了一个视频进行介绍：
     
     <iframe src="https://www.youtube.com/embed/fyc8-qgxAww" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>

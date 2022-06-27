@@ -47,7 +47,7 @@ As such, we'd like to thank everybody who has taken time to file detailed bug re
 
 - Ramon Miranda created a new set of watercolor effect brush presets.
 
-\[video width="816" height="736" webm="/images/posts/2020/crocus_water_colorpreview.webm"\]\[/video\]
+{{< video-player src="/videos/crocus_water_colorpreview.webm" type="video/webm"  >}}
 
 - Bundles now properly handle timezones and show dates in the user's preferred format.
 - There are a couple of new patterns by David Gowers that are good for usage with the new Palettize filter.

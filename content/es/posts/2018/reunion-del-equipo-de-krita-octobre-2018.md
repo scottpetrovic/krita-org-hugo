@@ -13,7 +13,7 @@ A éste punto ya hemos realizado bastante trabajo, Wolthera resolvió los proble
 
 Jouni ha avanzado bastante con el clonado y con los ciclos en las animaciones. El clonado te permite copiar "clonar" varios fotogramas para que estos aparezcan repetidos en diferentes partes del metraje.:
 
-\[video width="1250" height="774" mp4="/images/posts/2018/demo.mp4"\]\[/video\]
+{{< video-player src="/videos/demo.mp4" type="video/mp4" >}}
 
 También hicimos la distribución de reportes de errores entre todos los miembros presentes para poder avanzar de manera rápida en su compostura, logrando así eliminar un gran numero de "bichos" (errores/reportes):
 

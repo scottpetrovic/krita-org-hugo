@@ -13,7 +13,7 @@ We already did a ton of work! Wolthera finished up the last few problems in Mich
 
 Jouni got a long way with the implementation of animation clones and cycles: that is, a set of frames can now be "cloned" to appear in several places in your animation:
 
-\[video width="1250" height="774" mp4="/images/posts/2018/demo.mp4"\]\[/video\]
+{{< video-player src="/videos/demo.mp4" type="video/mp4" >}}
 
 Then we sat down and distributed bugs to the hackers present, and we got rid of a lot of bugs already (total bugs, new reports, closed, balance):
 
