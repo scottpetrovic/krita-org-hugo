@@ -2,4 +2,20 @@
 type: 'homepage'
 ---
 
-Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.
+## Tools You Need to Grow as an Artist
+
+[All the features you need](/features/)
+
+[FREE education and resources](https://docs.krita.org/)
+
+[Supportive community. A friendly forum](https://krita-artists.org/)
+
+
+## Get Involved
+
+[Volunteer your skills and help make Krita better for everyone](/get-involved/)
+
+## Give Back
+
+[A little money goes a long way](https://fund.krita.org/)
+

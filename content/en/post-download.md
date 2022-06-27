@@ -1,5 +1,5 @@
 ---
-title: "Post-Download Page"
+title: "Post-Download"
 date: "2018-06-02"
 type: "simple-page"
 ---

@@ -5,7 +5,7 @@ type: 'tabbed-section-about'
 group: 'about'
 ---
 
-## Kiki the Cyber Squirrel
+# Kiki the Mascot
 
 **Kiki the Cyber Squirel**, or just **Kiki,** is Krita's mascot. We chose a squirrel because the word "krita" means "squirrel" in Albanian. Kiki first appeared in 2013 on the cover of the Krita 2.6 tour booklet. She has been featured in Krita's splash picture since version 2.8.
 

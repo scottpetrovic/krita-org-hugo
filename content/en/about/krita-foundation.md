@@ -5,6 +5,8 @@ type: 'tabbed-section-about'
 group: 'about'
 ---
 
+# Krita Foundation
+
 The Krita project was started by the KDE community in 1998. Krita is still part of the KDE community: all Krita contributors are KDE community members! [KDE is an international community working together to create free and open source software for users all over the world.](https://www.kde.org/community/whatiskde/)
 
 To support and further the development and use of Krita in any way imaginable, in 2012 the Krita community created the Krita Foundation. The Krita Foundation is an independent non-profit, public organization with the following goals:
