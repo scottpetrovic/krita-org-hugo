@@ -4,21 +4,6 @@ type: 'features'
 date: '2018-05-12'
 ---
 
-## No trials.
-## No subscriptions.  
-## No limit to your creativity.  
-
-[Art by Albert Weand](https://www.artstation.com/aweand)
-
-## Clean and Flexible Interface
-
-![](/images/pages/krita-ui-40.png) [Art by Galaad G](https://www.behance.net/gallery/75168879/Scales-Scoundrels-Comic)
-
-An intuitive user interface that stays out of your way. The dockers and panels can be moved and customized for your specific workflow. Once you have your setup, you can save it as your own workspace. You can also create your own shortcuts for commonly used tools.
-
-- Customizable Layout
-- Over 30 dockers for additional functionality
-- Dark and light color themes
 
 [Learn the interface](https://docs.krita.org/en/user_manual/getting_started/navigation.html#interface)
 
