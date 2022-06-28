@@ -27,9 +27,9 @@ Released on 27, April, 2022 | [Release Notes](https://krita.org/en/krita-5-0-rel
 
 
 ### Store Version
-[Windows Store](https://www.microsoft.com/en-us/store/p/krita/9n6x57zgrw96)
-[Steam Store](https://store.steampowered.com/app/280680/Krita_Gemini/)
-[Epic Store](https://www.epicgames.com/store/p/krita)
+{{< button url="https://www.microsoft.com/en-us/store/p/krita/9n6x57zgrw96" text="Windows Store" >}}
+{{< button url="https://store.steampowered.com/app/280680/Krita_Gemini/" text="Steam Store" >}}
+{{< button url="https://www.epicgames.com/store/p/krita" text="Epic Store" >}}
 
 Paid versions of Krita on other platforms. You will get automatic updates when new versions of Krita come out. After deduction of the Store fee, the money will support Krita development. For the Windows store version you will need Windows 10.
 
@@ -41,24 +41,28 @@ Test out the latest builds that are created every day.
 
 
 ### Windows Shell Extension
-[Download](https://download.kde.org/stable/krita/KritaShellExtension-v1.2.4b-setup.exe)
+{{< button url="https://download.kde.org/stable/krita/KritaShellExtension-v1.2.4b-setup.exe" text="Download" >}}
+
 The Shell extension is included with the Windows Installer. An optional add-on for Windows that allow KRA thumbnails to appear in your file browser.
 
 
 ### Source Code
-[Tarball](https://download.kde.org/stable/krita/5.0.6/krita-5.0.6.tar.gz)
-[KDE Repository](https://invent.kde.org/graphics/krita)
+{{< button url="https://download.kde.org/stable/krita/5.0.6/krita-5.0.6.tar.gz" text="Tarball" >}}
+{{< button url="https://invent.kde.org/graphics/krita" text="KDE Repository" >}}
+
 Krita is a free and open source application. You are free to study, modify, and distribute Krita under GNU GPL v3 license.
 
 
 ### Download Older Versions
-[Old Version Library](https://download.kde.org/Attic/krita/)
-[Windows 32-bit version](https://download.kde.org/stable/krita/4.4.3/krita-x86-4.4.3-setup.exe)
+{{< button url="https://download.kde.org/Attic/krita/" text="Old Version Library" >}}
+{{< button url="https://download.kde.org/stable/krita/4.4.3/krita-x86-4.4.3-setup.exe" text="Windows 32-bit version" >}}
+
 If the newest version is giving you issues there are older versions available for download. New versions of Krita on Windows do not support 32-bit.
 
 
 ### GPG Signatures
-[Download Signature](https://download.kde.org/stable/krita/5.0.6)
+{{< button url="https://download.kde.org/stable/krita/5.0.6" text="Download Signature" >}}
+
 Used to verify the integrity of your downloads. If you don't know what GPG is you can ignore it.
 
 

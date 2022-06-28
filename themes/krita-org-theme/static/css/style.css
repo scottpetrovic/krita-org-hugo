@@ -303,14 +303,21 @@ section.news div {
 
 
 
-.button {
-  border-radius: 0.5rem;
-  padding: 1rem;
-  background: #b9f2f8;
-  text-align: center;
+/* button style (which is in an anchor tag for a link) */
+a.button {
   text-decoration: none;
-  transition: background 0.1s ease-in;
+  background: -webkit-linear-gradient(top, #39a3f2 1%, #0078f9 100%);
+  background: linear-gradient(to bottom, #39a3f2 1%, #0078f9 100%);
+  text-align: center;
+  display: inline-block;
+  font-size: 1.2rem;
+  padding: 0.6em 1.3em;
+  border-radius: 0.2em;
+  border: 0;
+  color: white;
+  box-shadow: 2px 2px 3px #82aac7;
 }
-.button:hover {
-  background: #aed8dd;
+a.button:hover {
+  background: -webkit-linear-gradient(top, #6bb9f5 1%, #0078f9 100%);
+  background: linear-gradient(to bottom, #6bb9f5 1%, #0078f9 100%);
 }
